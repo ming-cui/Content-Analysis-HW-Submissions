@@ -1,0 +1,2253 @@
+Journal of Applied Psychology
+© 2020 American Psychological Association
+ISSN: 0021-9010
+
+2021, Vol. 106, No. 1, 48 – 61
+https://doi.org/10.1037/apl0000855
+
+Anxiety Responses to the Unfolding COVID-19 Crisis: Patterns of Change
+in the Experience of Prolonged Exposure to Stressors
+Sherry (Qiang) Fu, Lindsey M. Greco, Anna C. Lennard, and Nikolaos Dimotakis
+
+This document is copyrighted by the American Psychological Association or one of its allied publishers.
+This article is intended solely for the personal use of the individual user and is not to be disseminated broadly.
+
+Department of Management, Oklahoma State University
+An immense amount of work has investigated how adverse situations affect anxiety using chronic (i.e.,
+average) or episodic conceptualizations. However, less attention has been paid to circumstances that
+unfold continuously over time, inhibiting theoretical testing and leading to possible erroneous conclusions about how stressors are dynamically appraised across time. Because stressor novelty, predictability,
+and patterns are central components of appraisal theories, we use the COVID-19 crisis as a context to
+illustrate how variation in the phenomenon’s patterns of change (specifically, total cases [average level]
+but also the rate of linear [velocity] and nonlinear growth [acceleration] in cases) influence anxiety. We
+also show the implications of anxiety for next-day functioning at work. These effects are tested in data
+drawn from a sample of employed adults in a daily diary study conducted in four overlapping waves. The
+data span the emergence, exponential rise, and initial tapering of the virus in the United States (February
+10, 2020 to April 28, 2020). Our results show that although the impact of level of COVID-19 cases on
+anxiety decreases over time, the effect of change in cases (velocity and acceleration) increases over time.
+Anxiety is then associated with next-day work functioning (engagement, performance, and emotional
+exhaustion).
+Keywords: transactional model of stress, COVID-19, anxiety, experience sampling, stressors
+Supplemental materials: https://doi.org/10.1037/apl0000855.supp
+
+stances it arises from are ambiguous, ongoing, and have no clear
+way out (Lazarus, 1991a). The COVID-19 pandemic is a grim but
+illustrative anxiety-inducing stressor; an uncertain and ongoing
+threat that cannot be resolved via avoidance or escape. That is,
+whereas individual coping strategies are possible (e.g., social distancing), the spread of the virus at a state level is still beyond any
+given individual’s control, which can inhibit coping and selfregulatory processing (Cheng & McCarthy, 2018).
+However, there are differing perspectives as to what particular
+features of an ongoing stressor might give rise to anxiety, and how
+these effects unfold over time. Situations can evolve temporally in
+complex ways; for example, a situation can be grim but improving, or
+mild but deteriorating. In addition, arguments have been made both
+for individuals feeling less anxious with continued exposure to a
+stressor (Diener & Diener, 1996; Selye, 1976; Suh et al., 1996), as
+well as the opposite (Hobfoll, 1989; McEwen, 1998; also see Ritter et
+al., 2016). A resolution to these conflicting arguments can emerge
+from a more nuanced perspective of how stressors are experienced.
+To date, theoretical insights come mostly from either chronic or
+episodic views of the focal stressor (Sonnentag & Frese, 2012). The
+former discusses the effects of stable features of one’s life (e.g., life
+with chronic pain; employment in a high risk occupation; Craig &
+Jacobsen, 1984; Eckenrode, 1984; Kanner et al., 1981) while the latter
+relates to how particular stressful events might lead to anxiety (e.g.,
+role overload on a given day, a negative interaction with a supervisor;
+Anshel, 2000; Barling, 1990; Restubog et al., 2011). Although providing invaluable insights, the underlying conceptualizations of stressors are, to some extent, deficient.
+
+March 13th, 2020: We’re waiting until an announcement is made
+about coronavirus. Nobody is really working, just mass panicking.
+April 24th, 2020: I am concerned that with the economy opening back
+up so soon that we may see a surge in COVID-19 cases . . . that would
+only set us back in our fight. . . . You would see an increase in
+numbers if it gets out of hand like it did in the beginning stages.
+Numbers are just starting to go down.
+
+A substantial amount of research has investigated how exposure
+to stressors influences affect and, ultimately, attitudes and behaviors (Brief & Weiss, 2002; Lazarus, 1991a; Lazarus & Folkman,
+1984; Weiss & Cropanzano, 1996). Although many negative affective reactions to stressors are possible, exposure to stressors
+characterized by uncertainty and existential threat lead specifically
+to anxiety (Lazarus, 1991a). Anxiety is a pernicious state, as it is
+persistent, irresolvable, and consumes attentional and cognitive
+resources, thus inhibiting individuals’ functioning (Kagan, 1972).
+It is unique in that it is anticipatory (future-looking), and has no
+action tendencies except for avoidance or escape, as the circum-
+
+This article was published Online First December 3, 2020.
+Sherry (Qiang) Fu X https://orcid.org/0000-0001-5975-2184
+We thank our department chair, James Pappas, for his invaluable support
+of this research.
+Correspondence concerning this article should be addressed to Sherry
+(Qiang) Fu, Department of Management, Oklahoma State University, 449
+Business Building, Stillwater, OK 74078, United States. Email: sherry.fu@
+okstate.edu or sherryqfu@gmail.com
+48
+
+This document is copyrighted by the American Psychological Association or one of its allied publishers.
+This article is intended solely for the personal use of the individual user and is not to be disseminated broadly.
+
+ANXIETY AND DYNAMIC STRESSORS
+
+Chronic views fail to consider that situations can vary over time.
+For example, one person with a chronic heavy workload may
+experience days of higher or lower workload whereas another’s
+experience may be more stable. Episodic conceptualizations recognize such variation in events, however, they seldom take into
+account that such events do not occur in a vacuum. Rather,
+experienced events are seen within the lens of past experience,
+something referred to as past as prologue (Rosen et al., 2020).
+Because events can persist, deteriorate, or improve over time, it is
+necessary to assess trajectories—patterns of change over time. For
+example, a person’s experiences with their leader in the workplace
+might involve acts of abuse represented by a few severe episodes
+that wane in frequency and severity over time, while another
+person’s experience might be represented by a steady level of
+infrequent episodes. These two situations represent different temporal contexts and, as a result, they should affect individuals
+differently. However, neither chronic nor episodic conceptualizations would capture and explain them adequately.
+In the COVID-19 pandemic, employees are continuously experiencing a severe stressor, but, importantly, are doing so in different patterns that themselves vary over time. These patterns of
+change can be conceptualized as both velocity (i.e., rate of change,
+positive or negative), and acceleration (i.e., change in velocity—
+whether the rate of change is increasing [positive] or decreasing
+[negative]; Carver & Scheier, 1990). For example, deteriorating
+health, marked by increasing symptoms of illness (positive velocity), may be anxiety-inducing on its own, yet whether this velocity
+is stable (symptoms increasing at a constant rate) or changing
+(increase getting faster or slower) can lead to distinct affective
+reactions (see Figure 1 for an illustration and expanded explanation). The same is true for the COVID-19 crisis; the news is
+full of information about different patterns of change quantified
+by metrics including the total number of confirmed cases, the
+
+49
+
+daily increase in cases, and the degree of exponential growth
+(i.e., growth estimates and trajectory dashboards; calls to “flatten the curve”). These discrete metrics point to distinct ways in
+which things are getting better or worse—an increase of thousands of cases may portend dire outcomes by signifying record
+or exponential growth on a given day, whereas on a later day the
+same increase may be positive development if it signifies a
+flatter curve.
+The effect of COVID-19-related stress on levels of general state
+anxiety over time should thus be conceptualized as a holistic
+pattern of continuing experience, not just chronic (i.e., average) or
+episodic effects. Grasping the various patterns of change across
+anxiety-inducing events can help clarify effects of the pandemic on
+workplace functioning and also help illuminate the potential effect
+of lesser, but more common, stressors that are experienced in a
+similar way. Thus, this can offer important contributions to our
+understanding of responses to stressors that emerge, fluctuate, or
+vary over time (Ganster & Rosen, 2013; McGrath & Beehr, 1990).
+Stressor characteristics such as predictability or novelty are a
+central component of theories focusing on stressor responses
+(Lazarus, 1991a; Lazarus & Folkman, 1984). We specifically rely
+on such a core perspective, the transactional model of stress
+(Lazarus & Folkman, 1984) to discuss how various facets of the
+COVID-19 crisis relate to general state anxiety over time. Importantly, we draw attention to integral but infrequently examined
+parts of the model that address the dynamism of the stressor-strain
+process (Lazarus, 1991a). We then integrate these with ideas of
+stressor change over time derived from cybernetic (Edwards,
+1992) and cognitive and affective processing (Ariely & Carmon,
+2000; Watson, 2000) views. These frameworks suggest that
+change (both velocity and acceleration) have meaningful consequences for state anxiety.
+
+Figure 1
+Exemplar Trajectories Considering Average Cases, Velocity, and Acceleration
+
+Note. These exemplar trajectories show various combinations of average case levels, slopes, and curves. From left to right, they illustrate the following:
+(a) a trajectory in which the confirmed cases range from 0 to 500 (low average cases), increasing at Day 1 (positive velocity), and this increase itself grows
+(positive acceleration); (b) a situation in which the number of cases ranges from 700 to 3,700 (medium average cases), and the trajectory has a positive
+linear change at baseline (positive velocity) but increases at a relatively constant rate over time (no acceleration); (c) a situation in which the number of
+cases ranges from 50,000 to 190,000 (high average cases), and the trajectory is one in which the linear change at baseline is positive (positive velocity),
+but this increase (change) decreases over time (negative acceleration). In other words, these exemplars represent relatively low, medium, and high positive
+velocity coupled with positive, null, and negative acceleration, and low, medium, and high average cases, respectively.
+
+50
+
+FU, GRECO, LENNARD, AND DIMOTAKIS
+
+This document is copyrighted by the American Psychological Association or one of its allied publishers.
+This article is intended solely for the personal use of the individual user and is not to be disseminated broadly.
+
+Anxiety in Response to Stressor Exposure—A
+Transactional Model View
+The transactional model posits that stress responses emerge
+from appraisal processes that begin when individuals experience a
+stressor (Lazarus & Folkman, 1984). During primary appraisal,
+perceptions of elements of the focal stressor are used to determine
+the degree of threat or harm that this stressor represents; during
+secondary appraisal, individuals consider if and how they can
+resolve the underlying stressor (Lazarus & Folkman, 1984; Lyon,
+2000). Stress responses thus emerge only from situations appraised
+as harmful and difficult to resolve; the particular response depends
+on the appraisal (with anxiety, as noted, being a core response to
+stressors characterized by existential threat and uncertainty). In
+this work, we focus on primary appraisal, as resolution of the
+COVID-19 crisis is outside any given individual’s control.
+Importantly, the appraisal process is ongoing, and functioning
+requires people to account for that, as “encounters with the environment are continually changing” (Lazarus, 1991a, p. 134). This
+requires the appraisal processes to follow suit. Moreover, the
+stressor features that are visible and important vary over time
+(Lazarus, 1991a). Features signifying unpredictability, novelty,
+change, or future implications, for example, demand more attention and are more important to appraisal (Lazarus & Folkman,
+1984; Sapolsky, 1999). Integrating a holistic view of the dynamic
+patterns in which a stressor unfolds over time can thus help clarify
+its links to anxiety.
+
+Characteristics of COVID as an Ongoing Stressor
+The most straightforward characteristic of a stressor is its intensity (Bledow et al., 2011). However, in the current pandemic, there
+are several other stressor characteristics including not only total
+cases (intensity), but also dynamic features such as linear and
+nonlinear change— daily increases, degree of exponential growth,
+and so forth. Such stressor aspects have been oft discussed in other
+parts of the literature. For example, cybernetic views (which the
+transactional model is similar to; Edwards, 1992) provide insights
+on how it is not only the level of a disturbance or discrepancy that
+matters, but also its rate of change (velocity; Beck et al., 2017;
+Howe et al., 2013; Johnson et al., 2013). Such views emerged from
+work on how affect results from distance from an end state,
+coupled with rates of movement toward or away from that state
+(velocity), and increases or decreases in the latter (acceleration;
+Carver & Scheier, 1990, 2000).
+While these propositions were introduced primarily to measure
+deviations between experienced and actual goal states, similar
+ideas have emerged in other literatures involving situational judgments. For example, these views are discussed in the gestalt view
+of situational perceptions (Ariely & Carmon, 2000), foundational
+models on emotion emergence (Watson, 2000), as well as perhaps
+more straightforward views in the subjective well-being literature
+on the effects of whether things are getting better or worse (Sapolsky, 1999). They also speak to foundational characteristics of
+the transactional model. Although less attention is paid to the
+dynamic properties of stressors, this is not an omission of the
+model itself: “What is important to remember is that the appraisal
+of a chronic persistent event is not static; threat will fluctuate over
+the course of an event as a function of coping and reappraisal
+
+processes and as a function of changes in the environment”
+(Lazarus & Folkman, 1984, p. 100). Such ideas were more formally encapsulated in discussions of how stressor unpredictability
+and duration affect the appraisal process (Lazarus & Folkman,
+1984). Thus, it is increasingly clear that a fuller understanding of
+the effect of ongoing stressors on anxiety requires a more comprehensive conceptualization of stressors that go beyond simply
+their level and also include ways in which they are growing or
+speeding up over a given time frame. We therefore utilize each of
+these criteria to outline a model of employee anxiety reactivity to
+COVID-19, build theory about how that reactivity changes over
+time, and how anxiety relates to important next-day work outcomes.
+
+Hypothesis Development
+As previously noted, anxiety is a response to experiencing a
+threatening and potentially harmful stimulus that consumes attentional and cognitive resources (Kagan, 1972). Anxiety manifests
+when “the uncertainty about what will happen and when obviates
+any clear idea on the part of the person of what to do to prevent or
+ameliorate it” (Lazarus, 1991a, p. 235). It is also an “anticipatory
+emotion,” deriving out of contexts with no clear resolution or
+escape (Lazarus, 1991b, p. 829). Whereas anxiety can manifest in
+many ways, in this paper we will examine general state anxiety.
+Such state anxiety is likely to emerge in a context like the
+COVID-19 pandemic, which involves a shifting, unavoidable,
+multifaceted threat beyond any individual’s control.
+We posit that, in any given time point, this crisis can be
+described using the (a) average level, (b) velocity, and (c) acceleration of the COVID-19 case number over the preceding days.
+This information is available to individuals via the constant coverage of this phenomenon, and, as with previous events, they are
+likely paying close attention (Althaus & Tewksbury, 2002; Boyle
+et al., 2004; Casero-Ripollés, 2020; Chao et al., 2020; Heath &
+Gay, 1997). As such, the appraisal process initiates as usual.
+Moreover, this process will be ongoing as individuals try to make
+sense of the daily changes in the crisis (Lazarus, 1991a; Lazarus &
+Folkman, 1984).
+More COVID-19 cases within one’s most relevant environment
+(operationalized in this article as the U.S. state of residence) will
+result in greater appraisals of threat.1 Not only do more cases
+signify greater risk of one getting sick, but they might also portend
+increased disturbances for both one’s personal life (i.e., family,
+work, and other valued outcomes) as well as macro outcomes (e.g.,
+economic turmoil). Combined, all these factors point to higher
+levels of uncertainty and threat, leading to anxiety. Beyond averages, however, both velocity as well as acceleration of COVID-19
+cases should also imply more unfavorable appraisals. Specifically,
+the facts that the cases are increasing (positive velocity), and the
+increases are speeding up (positive acceleration), point to a more
+threatening development of the undesirable outcomes mentioned
+above; simply put, the situation is getting worse. As anxiety is an
+anticipatory emotion (Lazarus, 1991b), an increase in any of these
+indicators of change portends greater future threats. Thus, at a
+1
+We focus on the local U.S. level but acknowledge that the pandemic is
+a global issue. The location of the sample should not threaten the external
+validity of this study, as appraisal processes are universal in character.
+
+ANXIETY AND DYNAMIC STRESSORS
+
+given time period, all three descriptors of crisis pattern should be
+associated with anxiety (Sapolsky, 1999).
+
+This document is copyrighted by the American Psychological Association or one of its allied publishers.
+This article is intended solely for the personal use of the individual user and is not to be disseminated broadly.
+
+Hypothesis 1: The (a) average level, (b) velocity, and (c)
+acceleration of the number of COVID-19 cases over the
+preceding days are, on average, positively related to daily
+anxiety.
+It is important to note that appraisal is a dynamic phenomenon
+(Eschleman et al., 2012), meaning that these characteristics might
+not be equally salient at all points of the ongoing pandemic. As
+mentioned above, arguments have been made both for an increase
+in stressor impact over time, such that continued or cumulative
+stressor exposure will eventually overwhelm the individual (Hobfoll, 1989; McEwen, 1998), as well as for a decrease in stressor
+impact over time, such that individuals react less strongly to
+experienced stressors (Brickman & Campbell, 1971; Frederick &
+Loewenstein, 1999; Helson, 1948; Selye, 1956).
+We posit that these two positions are less in opposition than they
+seem. The key is stressor salience. That is, it is only continued
+exposure to a salient stressor that threatens to overwhelm an
+individual—if a stressor is not salient anymore, the associated
+emotion is “made moot” (Lazarus, 1991a, p. 354). Stressors become less salient over time if their novelty fades, if they become
+more predictable, and as they are seen as more of an established (as
+opposed to emerging) environmental feature (Lazarus & Folkman,
+1984; Selye, 1976; Watson, 2000).
+This habituation is adaptive as it allows constant stimuli to fade
+into the background, leaving resources available to deal with novel
+circumstances or stimuli, which are most likely to require immediate attention (Frederick & Loewenstein, 1999) to protect the
+organism (Herman, 2013; Miller et al., 2007). In this context,
+average confirmed case levels represent the more static feature of
+the crisis. Average cases are events that have already occurred
+(with fewer anticipatory implications), are monotonic, and, overall, carry less salient information for the individual. Thus, their
+presence becomes more familiar and predictable, requiring less
+processing and attention (McGrath & Beehr, 1990). This allows
+adjusting to “the new normal” over time (Brickman & Campbell,
+1971). Thus, whereas we argued in the preceding text that
+COVID-19 cases will be associated with anxiety in general, we
+expect this effect to decrease over time as average case salience
+weakens.
+Hypothesis 2: Time moderates the positive effect of the average level of COVID-19 cases on daily anxiety such that the
+effect of average cases decreases over time.
+However, features of the stressor that indicate change are unlikely to become less salient over time. Changing conditions are
+something that individual monitoring systems are very sensitive to
+(Watson, 2000). In this context, the longer the crisis, the greater
+the threat to one’s daily life, especially as the crisis drags on. The
+positive velocity and acceleration of COVID-19 cases represent,
+by definition, dynamic and novel circumstances that disallows
+adaptation (Herman, 2013; Lazarus & Folkman, 1984). Instead,
+this signals an increasing lack of predictability and uncertainty of
+the stressor, which is likely to maintain stressor salience or even
+loom ever larger on an individual’s view of their situation (Levine
+& Wiener, 1989; Sapolsky, 1999). Put more simply, the “percep-
+
+51
+
+tion of events as improving or worsening” (Sapolsky, 1999, p. 459)
+will be an issue that does not lose salience over time. Rather,
+because such factors can relate to threat not only now, but also in
+future instances (Lindsley et al., 1995; Riskind, 1997), their salience will remain stable or increase over time (Lazarus, 1991a). In
+fact, continued exposure to stimuli can increase sensitization to
+changes in severity or modality (Herman, 2013).
+In addition, persistent positive rates of change over time indicate
+that this crisis is not going to “blow over” (Kim et al., 2011),
+further enhancing the salience of the stressor. In simpler terms,
+whereas 1,000 COVID-19 cases may be less anxiety inducing in
+April compared with in March, as individuals are accustomed to
+average levels in the thousands, the degree to which these 1,000
+cases represent increasing and exponential rates of growth is more
+likely to overwhelm individuals’ emotional systems and capabilities to adapt (Hobfoll, 1989; Lazarus & Folkman, 1984). These
+arguments are also in line with allostatic load views (McEwen &
+Seeman, 2003), which posit that continued exposure to a salient
+stressor will have graver effects as time goes by; whereas level
+becomes less salient, rate does not, allowing for individuals’
+capacity to deal with the stressor to be overwhelmed. As a result,
+we argue that the overall effects of positive velocity and acceleration have an accumulation affect, and thus their impact will
+increase over time.
+Hypothesis 3: Time moderates the positive effect of the (a)
+velocity and (b) acceleration of COVID-19 cases on daily
+anxiety, such that their effect increases over time.
+Anxiety, on its own, is a particularly unpleasant aversive state.
+However, what makes it even more insidious are the effects that it
+has on individual cognition and attention, and thus, on individual
+attitudes and behaviors. We examine general state anxiety’s effects
+on engagement, performance, and emotional exhaustion at work.
+First, anxiety creates a state of hypervigilance (Cheng & McCarthy, 2018; Ellis, 1962), which increases individual attention to
+threats, as well as making such threats loom larger (Grupe &
+Nitschke, 2013). The hypervigilance anxiety creates leaves little
+room for other (especially more positive) states (Beal et al., 2005),
+in essence pushing them out from the individual’s consciousness.
+Second, the aversive character of anxiety-evoking experiences, as
+well as the toll they take on attentional processes, can sap individual resources and interfere with recovery (Kagan, 1972; Sonnentag et al., 2017). These disengage the individual from the work
+context, and prohibit resource mobilization toward the same, resulting in lower levels of work engagement. This is in line with
+work arguing that persistent or unresolved stressor effects are
+negatively linked with engagement (Sonnentag et al., 2010).
+These disruptions also interfere with attention intensive processes, such as task performance (Eysenck et al., 2007); the focus
+that performance requires is instead consumed by the hypervigilance and aversiveness associated with the anxious state (Beal et
+al., 2005). Anxiety can lead to avoidance behaviors (Spector &
+Fox, 2002) that, while not further impacting one’s affect, come at
+the expense of performance (Johnson et al., 2010). Supporting
+these points are meta-analytic estimates that show a negative
+relationship between anxiety and job performance (Ford et al.,
+2011). Anxious individuals also tend to ruminate more (Thau &
+Mitchell, 2010) which, in addition to the above, further depletes
+
+FU, GRECO, LENNARD, AND DIMOTAKIS
+
+This document is copyrighted by the American Psychological Association or one of its allied publishers.
+This article is intended solely for the personal use of the individual user and is not to be disseminated broadly.
+
+52
+
+resources, leading to increased levels of emotional exhaustion
+(Maslach et al., 2001). Several studies have demonstrated these
+detrimental effects of anxiety on emotional exhaustion (e.g., McCarthy et al., 2016; Richardsen et al., 1992).
+All in all, we propose that the pattern of COVID-19 features
+will affect next-day functioning (i.e., engagement, job performance, and emotional exhaustion) via general state anxiety.
+In line with the preceding temporal effects arguments, the
+indirect effects of average cases on next-day functioning via
+anxiety will decrease over time as the relationship between
+number of cases and anxiety weakens. The indirect effects of
+velocity and acceleration in cases, however, will increase over
+time as the relationship between rate features and anxiety
+strengthens.
+Hypothesis 4: The indirect effects of COVID-19 case (a)
+average levels, (b) velocity and (c) acceleration on next-day
+engagement, performance and emotional exhaustion via anxiety will be moderated by time, such that the indirect effects of
+average levels will weaken, but the indirect effects of velocity
+and acceleration will strengthen over time.
+
+Method
+Sample and Procedure
+Participants came from 35 states and the District of Columbia,
+representing over 90% of the U.S. population and were recruited
+using the Qualtrics panel service; such panels have been recently
+validated as a data collection method (e.g., Eberly et al., 2017).
+Participants were employed (30⫹ hr/week) in a wide range of
+industries and jobs (see Appendix A). Data were collected in an
+experience sampling methodology (ESM) study (Oklahoma State
+University’s Institutional Review Board approved; Project: BU19 – 82; Title: A study on dynamic task motivation and engagement) composed of four partially overlapping waves (which we
+term a shingled ESM). Demographics were collected at sign-up. In
+the daily phase, participants were sent three surveys each workday
+for three consecutive weeks, containing multiple daily measures of
+anxiety and the dependent variables. Surveys were sent at workday
+start (T1), middle (T2), and near the end (T3).
+Across four waves, our final sample was 262 individuals
+providing 2,332 day-level data points. A step-by-step procedure
+of obtaining the final sample across waves is provided in
+Appendix A; sample demographics are given in Table 1. We
+conducted a series of one-way analyses of variance on nonfocal
+variables (i.e., age, sex, ethnicity, job tenure, and weekly work
+hours) and response times across waves to ensure that there
+were no differences that could distort our findings; no statistically significant pairwise differences were found across
+waves.
+
+Measures
+Unless otherwise noted, all our within-person variables were
+measured at multiple points during the day and aggregated to the
+day-level (see Appendix B for all survey-measured items, including anchors and referents). Variables relating to COVID-19 were
+
+derived from data provided by Johns Hopkins University (https://
+github.com/CSSEGISandData/COVID-19).
+
+Time
+Time was represented by the log of collection day, ranging from
+1 to 79, corresponding to our study period that spanned from
+February 10, 2020 to April 28, 2020.
+
+Average Levels of State Confirmed Cases
+We included the average number of confirmed cases at state
+level of the prior week (5-day period). We log transformed this
+variable due to its skewed distribution.
+
+Trajectory of State Confirmed Cases
+For each study day, we ran a time series analysis to describe
+linear (velocity) and curvilinear (acceleration) growth over the
+preceding 5-day period. Estimates were then extracted to be used
+as IVs. See the online supplemental material for a full description
+of this process and example data.
+
+Daily Anxiety
+Anxiety was measured in each survey (T1, T2, and T3) and
+reflected current states. A five-item measure was used (Marteau &
+Bekker, 1992; Watson & Clark, 1994). Mean coefficient alpha
+across 15 days was .94 (SD ⫽ .01).
+
+Daily Dependent Variables
+Engagement reflected current engagement with work tasks and
+was assessed in T1 and T2 surveys (Bakker & Costa, 2014; mean
+␣ ⫽ .91, SD ⫽ .02). Work task performance reflected performance
+on T1 and T2 tasks and was assessed in T2 and T3 surveys
+(Williams & Anderson, 1991; mean ␣ ⫽ .92, SD ⫽ .02). Emotional exhaustion reflected current states and was assessed in T1
+and T3 surveys (Wharton, 1993; mean ␣ ⫽ .91, SD ⫽ .02).
+
+Control Variables
+Due to the potential of other attention-grabbing variables to
+produce anxiety (Becker, 2005), we controlled for whether a
+particular day was a record high in either confirmed cases or
+deaths. Results were unchanged with or without these control
+variables.
+
+Analytic Strategy
+Given the nested nature of the data (days within people), we
+tested our hypotheses using multilevel path analysis in Mplus 8
+(Muthén & Muthén, 1998-2017) with maximum likelihood estimation. Though the exogenous variables are all at Level 1, we used
+raw scores instead of the more common group-centering as average level, velocity, and acceleration of COVID-19 cases are all
+objective and meaningful indicators, instead of reflecting a person’s reported mean levels. Time (day) was centered at the date
+that the first state (California) enacted stay-at-home orders (on
+March 19, 2020, near the midpoint of data collection). This eases
+interpretation of main effects and allows sufficient space to model
+moderation (⫾25 days, starting when the United States first
+reached 100 cases and ending with a point equidistantly past the
+middle—these dates closely align to typical ⫾1 standard deviation
+
+Age
+Sex
+White
+African American
+Hispanic/Latin
+Asian
+West Asian
+Other race
+Job tenure
+Weekly work hours
+
+14.
+15.
+16.
+17.
+18.
+19.
+20.
+21.
+22.
+23.
+
+44.73
+0.24
+0.77
+0.11
+0.04
+0.05
+0.00
+0.03
+9.22
+42.25
+
+0.16
+0.09
+3.36
+4.03
+0.07
+0.00
+1.93
+0.01
+0.00
+1.36
+3.05
+4.23
+1.77
+
+M
+
+9.42
+0.43
+0.42
+0.31
+0.20
+0.22
+0.06
+0.16
+8.44
+6.26
+
+0.34
+0.27
+0.42
+0.86
+0.17
+0.04
+0.67
+0.04
+0.01
+0.39
+0.57
+0.54
+0.53
+
+SD
+
+.18
+—
+.48
+.61
+.30
+⫺.25
+.46
+.23
+.12
+.06
+.01
+⫺.12
+⫺.03
+
+⫺.08
+.08
+⫺.02
+.01
+⫺.06
+⫺.03
+⫺.04
+.15
+⫺.09
+.16
+
+⫺.19
+.09
+.06
+.04
+⫺.08
+⫺.11
+⫺.05
+.05
+⫺.06
+.14
+
+2
+
+—
+.40
+.34
+.17
+.57
+.23
+⫺.01
+⫺.17
+⫺.27
+.01
+⫺.02
+.02
+.03
+
+1
+
+⫺.01
+.14
+.04
+.09
+⫺.07
+⫺.09
+.01
+⫺.07
+⫺.03
+.09
+
+.18
+.23
+—
+.80
+.25
+⫺.06
+.75
+.37
+⫺.04
+.02
+.03
+⫺.08
+⫺.04
+
+3
+
+.05
+.09
+.05
+.06
+⫺.07
+⫺.08
+⫺.06
+⫺.03
+⫺.04
+.10
+
+.10
+.32
+.78
+—
+.13
+⫺.29
+.93
+.55
+.11
+.01
+.06
+⫺.13
+.01
+
+4
+
+⫺.18
+.01
+⫺.01
+.01
+.06
+⫺.07
+⫺.04
+.04
+⫺.04
+.02
+
+.27
+.09
+.17
+.14
+—
+⫺.28
+⫺.12
+⫺.66
+.18
+.03
+⫺.05
+.03
+.01
+
+5
+
+.10
+.07
+.07
+.06
+⫺.09
+⫺.07
+⫺.04
+⫺.08
+⫺.02
+.07
+
+⫺.03
+.22
+.74
+.90
+⫺.08
+⫺.10
+—
+.70
+.12
+⫺.01
+.08
+⫺.13
+.00
+
+⫺.02
+⫺.05
+⫺.03
+⫺.14
+⫺.62
+—
+⫺.23
+.11
+⫺.90
+.01
+.02
+.02
+.06
+
+.04
+.04
+.03
+.07
+⫺.08
+⫺.02
+⫺.01
+⫺.07
+.03
+.00
+
+7
+
+6
+
+9
+
+.14
+.04
+.04
+.07
+⫺.14
+⫺.03
+⫺.01
+⫺.02
+⫺.02
+.06
+
+⫺.03
+⫺.08
+⫺.03
+⫺.08
+.09
+.06
+.02
+.06
+.01
+⫺.01
+
+Level 2
+
+⫺.03
+.03
+.00
+.08
+.45
+⫺.81
+.07
+⫺.53
+—
+⫺.05
+.01
+.00
+⫺.11
+
+Level 1
+⫺.09
+.09
+.24
+.35
+⫺.68
+.42
+.46
+—
+⫺.16
+⫺.02
+.12
+⫺.07
+.01
+
+8
+
+.01
+.03
+.08
+⫺.06
+⫺.08
+.00
+.02
+.00
+⫺.04
+⫺.11
+
+.05
+.04
+.01
+.02
+.07
+.00
+⫺.02
+⫺.05
+⫺.02
+—
+⫺.25
+⫺.21
+.61
+
+10
+
+.17
+.07
+⫺.02
+.05
+⫺.03
+.04
+⫺.07
+⫺.02
+.09
+.04
+
+⫺.05
+⫺.03
+.00
+.03
+⫺.02
+.03
+.06
+.02
+.01
+⫺.22
+—
+.24
+⫺.42
+
+11
+
+.04
+.01
+⫺.07
+.11
+.07
+⫺.06
+⫺.04
+⫺.02
+.04
+⫺.02
+
+.01
+⫺.01
+⫺.07
+⫺.10
+.03
+.01
+⫺.10
+⫺.04
+.00
+⫺.16
+.24
+—
+⫺.30
+
+12
+
+⫺.08
+⫺.04
+.12
+⫺.10
+⫺.07
+.01
+.00
+⫺.05
+⫺.04
+⫺.03
+
+.04
+.00
+.02
+.00
+.03
+.01
+⫺.02
+⫺.01
+⫺.05
+.55
+⫺.41
+⫺.21
+—
+
+13
+
+—
+.14
+.06
+.00
+⫺.04
+⫺.01
+⫺.04
+⫺.09
+.47
+.02
+
+14
+
+—
+⫺.05
+.09
+⫺.03
+.08
+⫺.03
+⫺.09
+⫺.02
+.13
+
+15
+
+—
+⫺.64
+⫺.38
+⫺.41
+⫺.11
+⫺.30
+⫺.02
+.02
+
+16
+
+—
+⫺.07
+⫺.08
+⫺.02
+⫺.06
+.02
+⫺.02
+
+17
+
+—
+⫺.05
+⫺.01
+⫺.03
+⫺.02
+⫺.03
+
+18
+
+—
+⫺.01
+⫺.04
+.04
+.01
+
+19
+
+—
+⫺.01
+.06
+⫺.02
+
+20
+
+—
+⫺.04
+.02
+
+21
+
+—
+.00
+
+22
+
+—
+
+23
+
+Note. N ⫽ 2,332 observations derived from 262 participants. Time was centered at the midpoint of the study (March 19, 2020) and was natural log transformed for the interaction terms. For
+within-individual variables, standard deviations are reported at the within-individual level. Correlations in the upper diagonal are at the within-individual level. Correlations in the lower diagonal are
+at the between-individual level. Between-individual correlations that are greater than .13 are statistically significant at p ⬍ .05; within-individual correlations that are greater than .05 are statistically
+significant at p ⬍ .05.
+
+Record day (cases)
+Record day (deaths) day
+Time
+Average level
+Velocity
+Acceleration
+Average Level ⫻ Time
+Velocity ⫻ Time
+Acceleration ⫻ Time
+Daily anxiety
+Daily engagement
+Daily performance
+Daily emotional exhaustion
+
+1.
+2.
+3.
+4.
+5.
+6.
+7.
+8.
+9.
+10.
+11.
+12.
+13.
+
+Variable
+
+Table 1
+Descriptive Statistics and Intercorrelations Among Study Variables
+
+This document is copyrighted by the American Psychological Association or one of its allied publishers.
+This article is intended solely for the personal use of the individual user and is not to be disseminated broadly.
+
+ANXIETY AND DYNAMIC STRESSORS
+
+53
+
+FU, GRECO, LENNARD, AND DIMOTAKIS
+
+This document is copyrighted by the American Psychological Association or one of its allied publishers.
+This article is intended solely for the personal use of the individual user and is not to be disseminated broadly.
+
+54
+
+levels). Time was transformed via natural log as typical with long
+time frames. We modeled time effects as random to accommodate
+the moderation analyses (Snijders & Bosker, 2011). Indirect effects were tested via a 20,000 replication Monte Carlo parametric
+bootstrap procedure (Preacher & Selig, 2012) to create 95% biascorrected confidence intervals (CIs).2
+We also ran several supplementary analyses by (a) using
+national instead of state-level confirmed cases; (b) using a
+7-day instead of 5-day timeframe for COVID-19 patterns; (c)
+including, as controls, relevant demographics, state-level
+dummy codes or characteristics such as active stay-at-home
+orders or economic issues and whether individuals were working from home; (d) raw time instead of the natural log of time;
+and (e) a three-level model that accounted for nesting within
+states.3 Results are all similar in size and scope (see the online
+supplemental material for these as well as for analyses excluding the record day controls).
+
+Results
+In our shingled ESM design, daily responses were nested within
+person. Within-person variables (Level 1) included the average
+confirmed case level for the preceding five days in the person’s
+state, the velocity and acceleration of change in COVID-19 cases,
+daily anxiety, and next-day engagement, task performance, and
+emotional exhaustion. Variance components analysis indicated
+that all endogenous variables had a notable proportion of withinperson variance: 29.85% for anxiety, 29.44% for engagement,
+54.94% for performance, and 28.90% for emotional exhaustion,
+suggesting that the use of multilevel modeling is appropriate.
+We conducted a multilevel confirmatory factor analysis to assess the fit of our measurement model (Byrne, 2001). Our proposed four-factor model demonstrated a good fit to the data,
+␹2(71) ⫽ 284.71, p ⬍ .01; CFI ⫽ .99; RMSEA ⫽ .04; SRMR ⫽
+.03. In addition, it performed better than alternative models in
+which (a) emotional exhaustion and anxiety were collapsed, (b)
+engagement and performance were collapsed, and (c) all items
+were combined (see Table 2).
+Table 1 shows means, standard deviations, and correlations.
+Hypothesis 1, which predicted that the (a) average level, (b)
+velocity, and (c) acceleration of the number of COVID-19 cases
+over the past days are positively related to daily anxiety, was
+supported (see Table 3), in that all these features of the crisis were
+positively associated with anxiety at the study midpoint (March 19,
+2020; ␥average level ⫽ .02, p ⫽ .04; ␥velocity ⫽ .32, p ⫽ .04;
+␥acceleration ⫽ 1.34, p ⫽ .04).
+Hypotheses 2 and 3 predicted that, over time, the effect of (a)
+average level of COVID-19 cases on anxiety would decrease
+(Hypothesis 2), but the effect of the (b) velocity and (c) acceleration of COVID-19 cases would increase (Hypothesis 3). The
+interaction of average cases and time was negative (␥ ⫽ ⫺.07, p ⬍
+.01), suggesting that, over time, the effect of average levels of
+COVID-19 cases on anxiety did indeed decrease (slope ⫽ .06, p ⬍
+.001 and slope ⫽ .00, p ⫽ .77 for early and late stages, respectively). In contrast, the interaction of time and velocity (␥ ⫽ .93,
+p ⫽ .05) and acceleration (␥ ⫽ 4.16, p ⫽ .03) were positive,
+suggesting that over time, the effects of velocity (slope ⫽ ⫺.21,
+p ⫽ .23 and slope ⫽ .71, p ⫽ .03 for early and late stages,
+respectively) and acceleration (slope ⫽ ⫺1.05, p ⫽ .10 and
+
+slope ⫽ 3.06, p ⫽ .03 for early and late stages, respectively) on
+anxiety increased (see Table 3). Hypotheses 2 and 3 were thus
+supported.
+Hypothesis 4 stated that time would moderate the indirect effects (IEs) of COVID-19 (a) level (negatively), (b) velocity, and
+(c) acceleration (positively) on the dependent variable’s via anxiety. The IEs of case levels (see Table 4) on next-day engagement,
+performance, and emotional exhaustion via anxiety were indeed
+stronger in earlier (vs. later) stages (for early vs. middle:
+⌬IEengagement ⫽ ⫺.0054, 95% CI [–.0101, ⫺.0022];
+⌬IEperformance ⫽ ⫺.0042, 95% CI [–.0083, ⫺.0015]; ⌬IEemotional
+exhaustion ⫽ .0100, 95% CI [.0053, .0158]; for middle vs. late:
+⌬IEengagement ⫽ ⫺.0039, 95% CI [–.0074, ⫺.0016];
+⌬IEperformance ⫽ ⫺.0031, 95% CI [–.0060, ⫺.0011]; ⌬IEemotional
+exhaustion ⫽ .0073, 95% CI [.0039, .0115].
+The IEs of COVID-19 velocity on next-day engagement, performance, and emotional exhaustion via anxiety were inversely
+strengthened at later (vs. earlier) stages (for early vs. middle:
+⌬IEengagement ⫽ .0774, 95% CI [.0088, .1955]; ⌬IEperformance ⫽
+.0604, 95% CI [.0067, .1625]; ⌬IEemotional exhaustion ⫽ ⫺.1431,
+95% CI [–.3097, ⫺.0078]; for middle vs. late: ⌬IEengagement ⫽
+.0560, 95% CI [.0063, .1414]; ⌬IEperformance ⫽ .0438, 95% CI [.0048,
+.1175]; ⌬IEemotional exhaustion ⫽ ⫺.1037, 95% CI [–.2239, ⫺.0056].
+Likewise, the indirect effects of COVID-19 acceleration on engagement,
+performance, and emotional exhaustion via anxiety were stronger at later
+stages (for early vs. middle: ⌬IEengagement ⫽ .3476, 95% CI [.0622,
+.8467]; ⌬IEperformance ⫽ .2714, 95% CI [.0446, .6994]; ⌬IEemotional
+exhaustion ⫽ ⫺.6429, 95% CI [⫺1.3287, ⫺.0873]; for middle vs. late:
+⌬IEengagement ⫽ .2514, 95% CI [.0450, .6124]; ⌬IEperformance ⫽ .1963,
+95% CI [.0323, .5057]; ⌬IEemotional exhaustion ⫽ ⫺.4649, 95% CI
+[–.9608, ⫺.0632]. Overall, IEs were significant for early and middle (but
+not for late) stages for average cases; they were significant for middle and
+late stages (but not for early) for velocity and acceleration. These results
+are thus supportive of our hypotheses.
+
+Discussion
+We investigated anxiety associated with the current COVID-19
+pandemic, a context characterized by an uncertain and changing
+threat over time. Grounded in appraisal theories, we focused on the
+experience of the stressor as it unfolded over time. We proposed
+and found that, within a given time frame, the overall level of a
+crisis (current average COVID-19 cases) and the rate of change
+(velocity and acceleration of case growth) have independent effects on individual experiences of general state anxiety, which in
+turn relates to next-day functioning. Moreover, we showed that
+these effects change over time; the impact of average levels on
+state anxiety lessened, but the impact of both rate variables increased as the crisis continued to unfold.
+2
+Full code and output appear in the Open Science Framework repository
+(https://osf.io/tpbu3).
+3
+State accounted for a trivial percentage (i.e., less than .20%) of the
+variance for endogenous variables (all daily: anxiety ⫽ .20%, engagement ⫽ .09%, performance ⫽ .19%, emotional exhaustion ⫽ .11%),
+making it unlikely that shared state-level experiences might create analytical issues not addressed in our two-level model (see online supplemental
+material).
+
+ANXIETY AND DYNAMIC STRESSORS
+
+55
+
+Table 2
+Confirmatory Factor Analysis
+Model
+
+␹2
+
+df
+
+CFI
+
+RMSEA
+
+SRMR
+
+AIC
+
+Four-factor model: Proposed
+Three-factor model: Emotional exhaustion and anxiety collapsed
+Three-factor model: Engagement and performance collapsed
+One-factor model: All variables collapsed
+
+284.71
+2962.56
+3248.33
+10231.16
+
+71
+74
+74
+77
+
+.99
+.84
+.82
+.42
+
+.04
+.13
+.13
+.23
+
+.03
+.10
+.18
+.22
+
+44567.65
+51692.41
+53324.08
+69035.61
+
+Note. CFI ⫽ comparative fit index; RMSEA ⫽ root mean square error of approximation; SRMR ⫽ standardized root mean squared residual; AIC ⫽
+Akaike information criterion.
+
+theory, but also provides an analytical roadmap for testing the
+updated predictions from theoretical perspectives that integrate
+changes over time.
+Our study also has implications for practice, both within and
+outside of the COVID-19 context. Our findings imply that people
+are likely to acclimate to anxiety over time if stressors are constant
+(e.g., level of crime for police officers, number of patients for
+medical staff), yet changes in the rate (velocity or acceleration)
+that indicate the situation is worsening will still have an impact.
+This can guide decision makers to consider the trajectory of a
+stressor unfolding over time, as interventions may be more effective if they focus on changing, rather than static, stressors. This
+also argues against allowing situations to continually deteriorate
+(as such deterioration would be anxiety generating). Likewise, our
+study can guide practitioners in allocating resources to individuals
+who might be personally experiencing anxiety due to ongoing
+stressors—people do not “get used to” contexts involving problematic rates, especially over time.
+
+This document is copyrighted by the American Psychological Association or one of its allied publishers.
+This article is intended solely for the personal use of the individual user and is not to be disseminated broadly.
+
+Implications
+Our findings have important implications for appraisal theories
+(Lazarus & Folkman, 1984) and related frameworks (Edwards,
+1992). First, we show that contexts should be evaluated holistically. Ongoing stressors unfold over time in nuanced ways, all of
+which are important in predicting anxiety. Thus, a bad situation
+that is steadily worsening differs from one that is improving and
+different from one where the deterioration is itself accelerating.
+Considering differing appraisals of ongoing stressors over time
+adds nuance and predictive ability to the temporal aspect of the
+theory (Lazarus & Folkman, 1984). Integration of concepts from
+cybernetic views allows for more complex and interesting effects
+to be tested in the future.
+We showed that the impact of the various aspects of the stressor
+change over time. The more static aspects diminish in magnitude,
+whereas the dynamic aspects increase. This temporal perspective
+may be the first step in resolving seemingly contradictory theoretical perspectives related to adaptation (i.e., the effects of ongoing
+stressors decreasing over time [Brickman & Campbell, 1971;
+Frone & McFarlin, 1989; Helson, 1948]) versus accumulation
+effects (i.e., ongoing stressors becoming overwhelming over time
+[Lazarus, 1999; McEwen & Seeman, 2003]). Whereas these views
+might appear to have opposite predictions, we find that they can,
+in fact, operate in tandem, based on how different facets of a
+context are evaluated over time. This work not only enhances
+
+Limitations
+Our study is not without limitations. First, we only used selfreported measures of anxiety and next-day functioning. Whereas
+no reasonable alternative exists for some of these variables (anxiety and engagement), if the behavioral variables were measured
+via more objective reports our concerns about common method
+
+Table 3
+Results of Multilevel Analyses Predicting Daily Anxiety, Next Day Engagement, Task Performance, and Emotional Exhaustion
+Daily anxiety
+Variables
+
+␥
+
+SE
+
+t
+
+Intercept
+Record day for confirmed
+Record day for deaths
+Average level
+Velocity
+Acceleration
+Time
+Average Level ⫻ Time
+Velocity ⫻ Time
+Acceleration ⫻ Time
+Daily anxiety
+Pseudo R2
+
+1.37
+.03
+.04
+.02ⴱ
+.32ⴱ
+1.34ⴱ
+.03
+⫺.07ⴱⴱ
+.93ⴱ
+4.16ⴱ
+
+.06
+.02
+.03
+.01
+.15
+.66
+.05
+.02
+.47
+1.92
+
+23.17
+1.17
+1.32
+2.02
+2.11
+2.01
+.70
+⫺4.43
+1.98
+2.17
+
+7.30
+
+Next day engagement
+
+Next day performance
+
+Next day emotional
+exhaustion
+
+␥
+
+␥
+
+3.01
+⫺.09
+⫺.10
+.00
+⫺.04
+⫺.28
+⫺.02
+
+⫺.15ⴱⴱ
+
+SE
+
+t
+
+␥
+
+SE
+
+t
+
+.08
+.05
+.07
+.01
+.16
+.63
+.04
+
+36.73
+⫺1.75
+⫺1.45
+.05
+⫺.26
+⫺.44
+⫺.52
+
+4.23
+⫺.02
+.03
+⫺.01
+.29ⴱ
+.77
+⫺.01
+
+.06
+.05
+.07
+.01
+.15
+.58
+.03
+
+73.21
+⫺.37
+.41
+⫺1.50
+2.02
+1.33
+⫺.43
+
+.04
+1.90
+
+⫺3.56
+
+⫺.11ⴱⴱ
+
+.04
+1.20
+
+⫺3.05
+
+1.81
+.01
+⫺.01
+⫺.00
+.16
+.88
+⫺.01
+
+.27ⴱⴱ
+
+SE
+
+t
+
+.08
+.05
+.07
+.01
+.15
+.58
+.03
+
+23.80
+.24
+⫺.19
+⫺.36
+1.09
+1.54
+⫺.20
+
+.04
+4.20
+
+7.29
+
+Note. N ⫽ 2,332 observations derived from 262 participants. All coefficients are unstandardized. Time was centered at the midpoint of the study (March
+19, 2020) and was natural log transformed.
+ⴱ
+p ⬍ .05. ⴱⴱ p ⬍ .01.
+
+FU, GRECO, LENNARD, AND DIMOTAKIS
+
+56
+Table 4
+Results of Indirect Effects at Different Stages
+
+Next day engagement
+
+Next day task performance
+
+95% CI
+
+This document is copyrighted by the American Psychological Association or one of its allied publishers.
+This article is intended solely for the personal use of the individual user and is not to be disseminated broadly.
+
+Indirect effect
+Average level of cases
+Early stages
+Middle stages
+Late stages
+Differences
+Early versus middle
+Middle versus late
+Velocity of cases
+Early stages
+Middle stages
+Late stages
+Differences
+Early versus middle
+Middle versus late
+Acceleration of cases
+Early stages
+Middle stages
+Late stages
+Differences
+Early versus middle
+Middle versus late
+
+Next day emotional exhaustion
+
+95% CI
+
+95% CI
+
+Estimate
+
+Lower limit
+
+Upper limit
+
+Estimate
+
+Lower limit
+
+Upper limit
+
+Estimate
+
+Lower limit
+
+Upper limit
+
+ⴚ.0089
+ⴚ.0035
+.0004
+
+ⴚ.0177
+ⴚ.0086
+⫺.0026
+
+ⴚ.0032
+ⴚ.0004
+.0041
+
+ⴚ.0070
+ⴚ.0027
+.0003
+
+ⴚ.0146
+ⴚ.0071
+⫺.0021
+
+ⴚ.0022
+ⴚ.0003
+.0033
+
+.0165
+.0065
+⫺.0008
+
+.0072
+.0005
+⫺.0067
+
+.0278
+.0137
+.0049
+
+ⴚ.0054
+ⴚ.0039
+
+ⴚ.0101
+ⴚ.0074
+
+ⴚ.0022
+ⴚ.0016
+
+ⴚ.0042
+ⴚ.0031
+
+ⴚ.0083
+ⴚ.0060
+
+ⴚ.0015
+ⴚ.0011
+
+.0100
+.0073
+
+.0053
+.0039
+
+.0158
+.0115
+
+.0301
+ⴚ.0474
+ⴚ.1034
+
+⫺.0142
+ⴚ.1162
+ⴚ.2512
+
+.0985
+ⴚ.0065
+ⴚ.0155
+
+.0235
+ⴚ.0369
+ⴚ.0807
+
+⫺.0101
+ⴚ.0958
+ⴚ.2073
+
+.0815
+ⴚ.0049
+ⴚ.0115
+
+⫺.0556
+.0875
+.1912
+
+⫺.1573
+.0068
+.0183
+
+.0316
+.1786
+.3867
+
+.0774
+.0560
+
+.0088
+.0063
+
+.1955
+.1414
+
+.0604
+.0438
+
+.0067
+.0048
+
+.1625
+.1175
+
+ⴚ.1431
+ⴚ.1037
+
+ⴚ.3097
+ⴚ.2239
+
+ⴚ.0078
+ⴚ.0056
+
+.1527
+ⴚ.1949
+ⴚ.4463
+
+⫺.0086
+ⴚ.4887
+–1.0765
+
+.4231
+ⴚ.0205
+ⴚ.0718
+
+.1192
+ⴚ.1522
+ⴚ.3485
+
+⫺.0044
+ⴚ.4031
+ⴚ.8885
+
+.3514
+ⴚ.0158
+ⴚ.0529
+
+⫺.2824
+.3605
+.8254
+
+⫺.6712
+.0124
+.0920
+
+.0387
+.7511
+1.6584
+
+.3476
+.2514
+
+.0622
+.0450
+
+.8467
+.6124
+
+.2714
+.1963
+
+.0446
+.0323
+
+.6994
+.5057
+
+ⴚ.6429
+ⴚ.4649
+
+–1.3287
+ⴚ.9608
+
+ⴚ.0873
+ⴚ.0632
+
+Note. N ⫽ 2,332 derived from 262 participants. Confidence intervals that do not include zero appear in boldface type. Early stage refers to date March
+2, 2020, middle stage refers to date March 19, 2020, and late stage refers to date April 8, 2020.
+
+variance would be lessened. However, we separated the variables
+over time and used multiple measurements for each variable
+(which renders them more reliable), somewhat assuaging these
+concerns; in addition, the results are, broadly speaking, in line with
+other investigations of the effects of anxiety on such measures of
+functioning.
+Another limitation is that we did not account for some important
+factors that may be impacting people’s daily life during this crisis;
+of note are home factors such as work-family conflict and family
+demands. Part of the unfolding nature of COVID-19 has been a
+record shift to working from home. While the enactment of stayat-home orders resulted in only around 50% of our sample shifting
+to working from home (at the highest point), and our model was
+robust to controlling for such shifts, inability to control for such
+variables directly is a limitation. Another limitation is that the
+composition of our sample is not nationally representative in
+gender or race.
+Our operationalization of COVID-19 variables also requires that
+individuals are, to some extent, aware of the broad shapes of this
+crisis. Absent this, it would be difficult to explain our results. We
+do, however, see this assumption as reasonable; people follow
+crises closely (as noted above), and knowledge of this crisis was
+widespread early. Further, the COVID-19 crisis persisted past the
+end of data collection in April, generating periods of slowing
+(negative velocity/deceleration) not seen prior, in addition to the
+growth and plateauing (null velocity/acceleration) previously observed. Whereas growth and plateauing are contexts that we were
+able to link to reduced anxiety, our data did not include major
+periods of deceleration, limiting our ability to draw conclusions
+about anxiety when bad situations improve, as opposed to worsen
+or persist. Last, although our work contributes to the transactional
+
+theory of stress, this contribution, at least for the time being, relates
+only to adverse situations, as we cannot automatically extend these
+findings to positive situations over time. This is, however, an
+opportunity for future work to investigate unfolding positive contexts (such as changes in compensation) over time.
+
+Conclusion
+The trajectories of unfolding crises can be characterized in a
+variety of ways. Using the transactional theory of stress, we
+illustrate the importance of looking at these holistically. We demonstrated that the impact of these various trajectory aspects can
+strengthen or diminish effects on work outcomes via anxiety over
+time. Future work can provide a contribution by integrating these
+insights into many investigations on the effects of persistent adverse situations.
+
+References
+Althaus, S. L., & Tewksbury, D. (2002). Agenda setting and the “new”
+news: Patterns of issue importance among readers of the paper and
+online versions of the New York Times. Communication Research,
+29(2), 180 –207. https://doi.org/10.1177/0093650202029002004
+Anshel, M. H. (2000). A conceptual model and implications for coping
+with stressful events in police work. Criminal Justice and Behavior,
+27(3), 375– 400. https://doi.org/10.1177/0093854800027003006
+Ariely, D., & Carmon, Z. (2000). Gestalt characteristics of experiences:
+The defining features of summarized events. Journal of Behavioral
+Decision Making, 13(2), 191–201. https://doi.org/10.1002/(SICI)10990771(200004/06)13:2⬍191::AID-BDM330⬎3.0.CO;2-A
+Bakker, A. B., & Costa, P. L. (2014). Chronic job burnout and daily
+functioning: A theoretical analysis. Burnout Research, 1(3), 112–119.
+https://doi.org/10.1016/j.burn.2014.04.003
+
+This document is copyrighted by the American Psychological Association or one of its allied publishers.
+This article is intended solely for the personal use of the individual user and is not to be disseminated broadly.
+
+ANXIETY AND DYNAMIC STRESSORS
+Barling, J. (1990). Employment, stress and family functioning. Wiley.
+https://doi.org/10.1002/job.4030120409
+Beal, D. J., Weiss, H. M., Barros, E., & MacDermid, S. M. (2005). An
+episodic process model of affective influences on performance. Journal
+of Applied Psychology, 90(6), 1054 –1068. https://doi.org/10.1037/00219010.90.6.1054
+Beck, J. W., Scholer, A. A., & Hughes, J. (2017). Divergent effects of
+distance versus velocity disturbances on emotional experiences during
+goal pursuit. Journal of Applied Psychology, 102(7), 1109 –1123. https://
+doi.org/10.1037/apl0000210
+Becker, T. E. (2005). Potential problems in the statistical control of
+variables in organizational research: A qualitative analysis with recommendations. Organizational Research Methods, 8(3), 274 –289. https://
+doi.org/10.1177/1094428105278021
+Bledow, R., Schmitt, A., Frese, M., & Kühnel, J. (2011). The affective shift
+model of work engagement. Journal of Applied Psychology, 96(6),
+1246 –1257. https://doi.org/10.1037/a0024532
+Boyle, M. P., Schmierbach, M., Armstrong, C. L., McLeod, D. M., Shah, D. V.,
+& Pan, Z. (2004). Information seeking and emotional reactions to the September
+11 terrorist attacks. Journalism & Mass Communication Quarterly, 81(1),
+155–167. https://doi.org/10.1177/107769900408100111
+Brickman, P., & Campbell, D. T. (1971). Hedonic relativism and planning
+the good society. In M. H. Appley (Ed.), Adaptation level theory: A
+symposium (pp. 287–301). Academic Press.
+Brief, A. P., & Weiss, H. M. (2002). Organizational Behavior: Affect in the
+Workplace. Annual Review of Psychology, 53(1), 279 –307. https://doi
+.org/10.1146/annurev.psych.53.100901.135156
+Byrne, B. M. (2001). Structural equation modeling with AMOS, EQS, and
+LISREL: Comparative approaches to testing for the factorial validity of
+a measuring instrument. International Journal of Testing, 1(1), 55– 86.
+https://doi.org/10.1207/S15327574IJT0101_4
+Carver, C. S., & Scheier, M. F. (1990). Origins and functions of positive
+and negative affect: A control-process view. Psychological Review,
+97(1), 19 –35. https://doi.org/10.1037/0033-295X.97.1.19
+Carver, C. S., & Scheier, M. F. (2000). On the structure of behavioral
+self-regulation. In M. Boekaerts, P. R. Pintrich, & M. Zeidner (Eds.),
+Handbook of self-regulation (pp. 41– 84). Academic Press. https://doi
+.org/10.1016/B978-012109890-2/50032-9
+Casero-Ripollés, A. (2020). Impact of Covid-19 on the media system.
+Communicative and democratic consequences of news consumption
+during the outbreak. El Profesional de la Información, 29(2), e290223.
+https://doi.org/10.3145/epi.2020.mar.23
+Chao, M., Xue, D., Liu, T., Yang, H., & Hall, B. J. (2020). Media use and
+acute psychological outcomes during COVID-19 outbreak in China.
+Journal of Anxiety Disorders, 74, 102248. https://doi.org/10.1016/j
+.janxdis.2020.102248
+Cheng, B. H., & McCarthy, J. M. (2018). Understanding the dark and bright sides
+of anxiety: A theory of workplace anxiety. Journal of Applied Psychology,
+103(5), 537–560. https://doi.org/10.1037/apl0000266
+Craig, E. A., & Jacobsen, K. (1984). Mutations of the heat inducible 70
+kilodalton genes of yeast confer temperature sensitive growth. Cell,
+38(3), 841– 849. https://doi.org/10.1016/0092-8674(84)90279-4
+Diener, E., & Diener, C. (1996). Most people are happy. Psychological
+Science, 7(3), 181–185. https://doi.org/10.1111/j.1467-9280.1996
+.tb00354.x
+Eberly, M. B., Holley, E. C., Johnson, M. D., & Mitchell, T. R. (2017). It’s
+not me, it’s not you, it’s us! An empirical examination of relational
+attributions. Journal of Applied Psychology, 102(5), 711–731. https://
+doi.org/10.1037/apl0000187
+Eckenrode, J. (1984). Impact of chronic and acute stressors on daily reports
+of mood. Journal of Personality and Social Psychology, 46(4), 907–918.
+https://doi.org/10.1037/0022-3514.46.4.907
+
+57
+
+Edwards, J. R. (1992). A cybernetic theory of stress, coping, and wellbeing in organizations. Academy of Management Review, 17(2), 238 –
+274. https://doi.org/10.5465/amr.1992.4279536
+Ellis, A. (1962). Reason and emotion in psychotherapy. Stuart.
+Eschleman, K. J., Alarcon, G. M., Lyons, J. B., Stokes, C. K., & Schneider,
+T. (2012). The dynamic nature of the stress appraisal process and the
+infusion of affect. Anxiety, Stress, and Coping, 25(3), 309 –327. https://
+doi.org/10.1080/10615806.2011.601299
+Eysenck, M. W., Derakshan, N., Santos, R., & Calvo, M. G. (2007).
+Anxiety and cognitive performance: Attentional control theory. Emotion, 7(2), 336 –353. https://doi.org/10.1037/1528-3542.7.2.336
+Ford, M. T., Cerasoli, C. P., Higgins, J. A., & Decesare, A. L. (2011).
+Relationships between psychological, physical, and behavioural health
+and work performance: A review and meta-analysis. Work and Stress,
+25(3), 185–204. https://doi.org/10.1080/02678373.2011.609035
+Frederick, S., & Loewenstein, G. (1999). Hedonic adaptation. In D. Kahneman, E. Diener, & N. Schwarz (Eds.), Well-being: The foundations of
+hedonic psychology (pp. 302–329). Russell Sage Foundation.
+Frone, M. R., & McFarlin, D. B. (1989). Chronic occupational stressors,
+self-focused attention, and well-being: Testing a cybernetic model of
+stress. Journal of Applied Psychology, 74(6), 876 – 883. https://doi.org/
+10.1037/0021-9010.74.6.876
+Ganster, D. C., & Rosen, C. C. (2013). Work stress and employee health:A
+multidisciplinary review. Journal of Management, 39(5), 1085–1122.
+https://doi.org/10.1177/0149206313475815
+Grupe, D. W., & Nitschke, J. B. (2013). Uncertainty and anticipation in anxiety:
+An integrated neurobiological and psychological perspective. Nature Reviews
+Neuroscience, 14(7), 488–501. https://doi.org/10.1038/nrn3524
+Heath, R. L., & Gay, C. D. (1997). Risk communication: Involvement,
+uncertainty, and control’s effect on information scanning and monitoring
+by expert stakeholders. Management Communication Quarterly, 10(3),
+342–372. https://doi.org/10.1177/0893318997010003004
+Helson, H. (1948). Adaptation-level as a basis for a quantitative theory of
+frames of reference. Psychological Review, 55(6), 297–313. https://doi
+.org/10.1037/h0056721
+Herman, J. (2013). Neural control of chronic stress adaptation. Frontiers in
+Behavioral Neuroscience. Advance online publication. https://doi.org/
+10.3389/fnbeh.2013.00061
+Hobfoll, S. E. (1989). Conservation of resources: A new attempt at conceptualizing stress. American Psychologist, 44(3), 513–524. https://doi
+.org/10.1037/0003-066X.44.3.513
+Howe, M., Chang, C.-H., & Johnson, R. E. (2013). Understanding affect,
+stress, and well-being within a self-regulation framework. In P. L.
+Perrewé, C. C. Rosen, & J. Halbesleben (Eds.), The role of emotion and
+emotion regulation in job stress and well-being (research in occupational stress and well-being (Vol. 11, pp. 1–34). Emerald Group Publishing. https://doi.org/10.1108/S1479-3555(2013)0000011005
+Johnson, R. E., Howe, M., & Chang, C. H. (2013). The importance of
+velocity, or why speed may matter more than distance. Organizational
+Psychology Review, 3(1), 62– 85. https://doi.org/10.1177/20413866
+12463836
+Johnson, R. E., Tolentino, A. L., Rodopman, O. B., & Cho, E. (2010). We
+(sometimes) know not how we feel: Predicting job performance with an
+implicit measure of trait affectivity. Personnel Psychology, 63(1), 197–
+219. https://doi.org/10.1111/j.1744-6570.2009.01166.x
+Kagan, J. (1972). Motives and development. Journal of Personality and
+Social Psychology, 22(1), 51– 66. https://doi.org/10.1037/h0032356
+Kanner, A. D., Coyne, J. C., Schaefer, C., & Lazarus, R. S. (1981).
+Comparison of two modes of stress measurement: Daily hassles and
+uplifts versus major life events. Journal of Behavioral Medicine, 4(1),
+1–39. https://doi.org/10.1007/BF00844845
+Kim, T. G., Hornung, S., & Rousseau, D. M. (2011). Change-supportive
+employee behavior: Antecedents and the moderating role of time. Jour-
+
+This document is copyrighted by the American Psychological Association or one of its allied publishers.
+This article is intended solely for the personal use of the individual user and is not to be disseminated broadly.
+
+58
+
+FU, GRECO, LENNARD, AND DIMOTAKIS
+
+nal of Management, 37(6), 1664 –1693. https://doi.org/10.1177/
+0149206310364243
+Lazarus, R. S. (1991a). Emotion and adaptation. Oxford University Press.
+Lazarus, R. S. (1991b). Progress on a cognitive-motivational-relational
+theory of emotion. American Psychologist, 46(8), 819 – 834. https://doi
+.org/10.1037/0003-066X.46.8.819
+Lazarus, R. S. (1999). The cognition-emotion debate: A bit of history. In
+T. Dalgleish & M. J. Power (Eds.), Handbook of cognition and emotion
+(pp. 3–19). Wiley. https://doi.org/10.1002/0470013494.ch1
+Lazarus, R. S., & Folkman, S. (1984). Stress, appraisal, and coping.
+Springer. https://doi.org/10.1007/978-1-4419-1005-9_215
+Levine, S., & Wiener, S. G. (1989). Coping with uncertainty: A paradox.
+In D. Palermo (Ed.), Coping with uncertainty: Behavioral and developmental perspectives (pp. 1–16). Lawrence Erlbaum.
+Lindsley, D. H., Brass, D. J., & Thomas, J. B. (1995). Efficacy-performing
+spirals: A multilevel perspective. Academy of Management Review,
+20(3), 645– 678. https://doi.org/10.5465/amr.1995.9508080333
+Lyon, B. L. (2000). Stress, coping, and health. In V. H. Rice (Ed.),
+Handbook of stress, coping and health: Implications for nursing research, theory, and practice (pp. 2–20). SAGE.
+Marteau, T. M., & Bekker, H. (1992). The development of a six-item
+short-form of the state scale of the Spielberger State–Trait Anxiety
+Inventory (STAI). British Journal of Clinical Psychology, 31(3), 301–
+306. https://doi.org/10.1111/j.2044-8260.1992.tb00997.x
+Maslach, C., Schaufeli, W. B., & Leiter, M. P. (2001). Job burnout. Annual
+Review of Psychology, 52(1), 397– 422. https://doi.org/10.1146/annurev
+.psych.52.1.397
+McCarthy, J. M., Trougakos, J. P., & Cheng, B. H. (2016). Are anxious
+workers less productive workers? It depends on the quality of social
+exchange. Journal of Applied Psychology, 101(2), 279 –291. https://doi
+.org/10.1037/apl0000044
+McEwen, B. S. (1998). Stress, adaptation, and disease. Allostasis and
+allostatic load. Annals of the New York Academy of Sciences, 840(1),
+33– 44. https://doi.org/10.1111/j.1749-6632.1998.tb09546.x
+McEwen, B. S., & Seeman, T. (2003). Stress and affect: Applicability of
+the concepts of allostasis and allostatic load. In Handbook of affective
+sciences (pp. 1117–1137). Oxford University Press.
+McGrath, J. E., & Beehr, T. A. (1990). Time and the stress process: Some
+temporal issues in the conceptualization and measurement of stress.
+Stress Medicine, 6(2), 93–104. https://doi.org/10.1002/smi.2460060205
+Miller, G. E., Chen, E., & Zhou, E. S. (2007). If it goes up, must it come
+down? Chronic stress and the hypothalamic-pituitary-adrenocortical axis
+in humans. Psychological Bulletin, 133(1), 25– 45. https://doi.org/10
+.1037/0033-2909.133.1.25
+Muthén, L. K., & Muthén, B. O. (1998 –2017). Mplus user’s guide (8th
+ed.).
+Parke, M. R., Weinhardt, J. M., Brodsky, A., Tangirala, S., & DeVoe, S. E.
+(2018). When daily planning improves employee performance: The
+importance of planning type, engagement, and interruptions. Journal of
+Applied Psychology, 103(3), 300 –312. https://doi.org/10.1037/
+apl0000278
+Preacher, K. J., & Selig, J. P. (2012). Advantages of Monte Carlo confidence intervals for indirect effects. Communication Methods and Measures, 6(2), 77–98. https://doi.org/10.1080/19312458.2012.679848
+Restubog, S. L. D., Scott, K. L., & Zagenczyk, T. J. (2011). When distress
+hits home: The role of contextual factors and psychological distress in
+predicting employees’ responses to abusive supervision. Journal of
+Applied Psychology, 96(4), 713–729. https://doi.org/10.1037/a0021593
+Richardsen, A. M., Burke, R. J., & Leiter, M. P. (1992). Occupational
+demands, psychological burnout and anxiety among hospital personnel
+in Norway. Anxiety, Stress, and Coping, 5(1), 55– 68. https://doi.org/10
+.1080/10615809208250487
+
+Riskind, J. H. (1997). Looming vulnerability to threat: A cognitive paradigm for anxiety. Behaviour Research and Therapy, 35(8), 685–702.
+https://doi.org/10.1016/S0005-7967(97)00011-9
+Ritter, K.-J., Matthews, R. A., Ford, M. T., & Henderson, A. A. (2016).
+Understanding role stressors and job satisfaction over time using adaptation theory. Journal of Applied Psychology, 101(12), 1655–1669.
+https://doi.org/10.1037/apl0000152
+Rosen, C. C., Dimotakis, N., Cole, M. S., Taylor, S. G., Simon, L. S.,
+Smith, T. A., & Reina, C. S. (2020). When challenges hinder: An
+investigation of when and how challenge stressors impact employee
+outcomes. Journal of Applied Psychology, 105(10), 1181–1206. https://
+doi.org/10.1037/apl0000483
+Sapolsky, R. M. (1999). The physiology and pathophysiology of unhappiness.
+In D. Kahneman, E. Diener, & N. Schwartz (Eds.), Well-being: The
+foundations of hedonic psychology (p. 453). Russell Sage Foundation.
+Schaufeli, W. B., Bakker, A. B., & Salanova, M. (2006). The measurement
+of work engagement with a short questionnaire: A cross-national study.
+Educational and Psychological Measurement, 66(4), 701–716. https://
+doi.org/10.1177/0013164405282471
+Schaufeli, W. B., Salanova, M., González-Romá, V., & Bakker, A. B.
+(2002). The measurement of engagement and burnout: A two sample
+confirmatory factor analytic approach. Journal of Happiness Studies,
+3(1), 71–92. https://doi.org/10.1023/A:1015630930326
+Selye, H. (1956). The stress of life. McGraw-Hill.
+Selye, H. (1976). Stress without distress. In G. Serban (Ed.), Psychopathology of human adaptation (pp. 137–146). Springer. https://doi.org/10
+.1007/978-1-4684-2238-2_9
+Snijders, T. A. B., & Bosker, R. J. (2011). Multilevel analysis: An introduction to basic and advanced multilevel modeling. SAGE.
+Sonnentag, S., Dormann, C., & Demerouti, E. (2010). Not all days are
+created equal: The concept of state work engagement. In A. B. Bakker
+& M. P. Leiter (Eds.), Work engagement: Recent developments in theory
+and research (pp. 25–38). Psychology Press.
+Sonnentag, S., & Frese, M. (2012). Dynamic performance. In S. W. J.
+Kozlowski (Ed.), Oxford handbook of industrial and organizational
+psychology (Vol. 1, pp. 548 –575). Oxford University Press.
+Sonnentag, S., Venz, L., & Casper, A. (2017). Advances in recovery
+research: What have we learned? What should be done next? Journal of
+Occupational Health Psychology, 22(3), 365–380. https://doi.org/10
+.1037/ocp0000079
+Spector, P. E., & Fox, S. (2002). An emotion-centered model of voluntary work
+behavior: Some parallels between counterproductive work behavior and organizational citizenship behavior. Human Resource Management Review, 12(2),
+269–292. https://doi.org/10.1016/S1053-4822(02)00049-9
+Suh, E., Diener, E., & Fujita, F. (1996). Events and subjective well-being:
+Only recent events matter. Journal of Personality and Social Psychology, 70(5), 1091–1102. https://doi.org/10.1037/0022-3514.70.5.1091
+Thau, S., & Mitchell, M. S. (2010). Self-gain or self-regulation impairment? Tests of competing explanations of the supervisor abuse and
+employee deviance relationship through perceptions of distributive justice. Journal of Applied Psychology, 95(6), 1009 –1031. https://doi.org/
+10.1037/a0020540
+Watson, D. (2000). Mood and temperament. Guilford Press.
+Watson, D., & Clark, L. A. (1994). The PANAS-X: Manual for the Positive
+and Negative Affect Schedule—Expanded form. https://doi.org/10
+.17077/48vt-m4t2
+Weiss, H. M., & Cropanzano, R. (1996). Affective events theory: A
+theoretical discussion of the structure, causes and consequences of
+affective experiences at work. In B. M. Staw & L. L. Cummings (Eds.),
+Research in organizational behavior: An annual series of analytical
+essays and critical reviews (Vol. 18, pp. 1–74). JAI Press.
+Wharton, A. S. (1993). The affective consequences of service work:
+Managing emotions on the job. Work and Occupations, 20(2), 205–232.
+https://doi.org/10.1177/0730888493020002004
+
+ANXIETY AND DYNAMIC STRESSORS
+Williams, L. J., & Anderson, S. E. (1991). Job satisfaction and organizational commitment as predictors of organizational citizenship and in-role
+
+59
+
+behaviors. Journal of Management, 17(3), 601– 617. https://doi.org/10
+.1177/014920639101700305
+
+Appendix A
+
+This document is copyrighted by the American Psychological Association or one of its allied publishers.
+This article is intended solely for the personal use of the individual user and is not to be disseminated broadly.
+
+Sample and Procedure
+This study was conducted in four partially overlapping waves.
+For each wave, participants were asked to complete three surveys
+a day for three consecutive weeks. Surveys were sent at the start
+(T1), middle (T2), and near the end (T3) of the workday; average
+completion times were 9:30 a.m., 1:12 p.m., and 5:26 p.m., respectively.
+The first wave started on February 6, 2020, and 205 participants
+completed the sign-up survey. The daily phase started on February
+10, 2020. On the fourth day of the study, we stopped the participation of 45 people because they (a) missed attention checks
+embedded in the survey for 3 days in a row or (b) carelessly
+responded to some qualitative questions (included as part of a
+broader data collection). In addition, a few participants had responded to the survey more than once. After removing these
+duplicated daily surveys, our initial Wave 1 sample was 934
+day-level observations from 130 participants. Of these day-level
+observations, 27 were excluded because they were completed
+outside the required timeframe and 376 were excluded because
+they missed responses in one of the three daily surveys on a study
+day. We were left with 75 individuals providing 531 day-level
+observations for the first wave.
+Similarly, our second wave started on February 19, 2020 with
+225 individuals in the initial survey with the daily phase starting on
+February 24, 2020. Of these individuals, 53 were removed for the
+same reasons as above (i.e., attention checks and careless responses). Excluding missed responses within a particular study day
+and incorrectly timed responses left us with 92 individuals providing 731 day-level observations for the second wave.
+The third wave started on March 5, 2020 with 90 individuals,
+and the daily phase starting on March 9, 2020. This was reduced
+to 73 individuals (after exclusions) providing 410 day-level
+
+observations. Missing response and incorrectly timed responses
+brought the sample to 39 individuals providing 244 day-level
+observations.
+The fourth wave started on April 4, 2020 and included 224
+individuals who completed the initial survey; the daily phase
+started on April 8, 2020. The sample was reduced to 180 individuals providing 1,618 observations after exclusions (duplicated
+surveys). Of this sample, 60 observations were excluded because
+they were not completed within the required timeframe. Accounting for missing daily surveys left us with a sample of 113 individuals with 962 day-level observations.
+Our initial combined sample across four waves therefore was
+composed of 319 individuals providing 2,468 day-level observations. After removing 48 individuals with a single daily observation (our design required participants with at least two consecutive
+days without missing data), we had 271 individuals providing
+2,420 daily observations.
+Missing item-level data (21 observations) on our dependent
+variables (i.e., engagement, performance, and emotional exhaustion) reduced the total sample to 2,399 observations from
+271 individuals. In addition, we were not able to definitively
+determine the locations of eight individuals (who had provided
+65 observations) from this subset, leaving us with 2,334 observations from 263 individuals. Two other observations (belonging to one individual) were not usable due to being from a state
+that had no other observations. Therefore, our final sample for
+analysis includes 2,332 observations within 262 individuals.
+These individuals were all full-time employees (working 42.5
+hr per week on average) in a varied set of industries and jobs.
+(summarized in Table A1).
+
+(Appendices continue)
+
+FU, GRECO, LENNARD, AND DIMOTAKIS
+
+60
+
+This document is copyrighted by the American Psychological Association or one of its allied publishers.
+This article is intended solely for the personal use of the individual user and is not to be disseminated broadly.
+
+Table A1
+Participants’ Employment Across Industries
+Industry
+
+%
+
+Example job
+
+Agriculture, forestry, fishing, and hunting
+Utilities
+Construction
+Manufacturing
+Wholesale trade
+Retail trade
+Transportation and warehousing
+Information
+Finance and insurance
+Real estate and rental and leasing
+Professional, scientific, and technical services
+Management of companies and enterprises
+Administrative and support/waste management
+Educational services
+Health care and social assistance
+Arts, entertainment, and recreation
+Accommodation and food services
+Other services (except public administration)
+Central administrative office activity
+
+1.15
+1.53
+1.53
+9.16
+3.05
+3.82
+3.44
+2.67
+9.16
+3.05
+9.54
+0.76
+1.53
+14.12
+17.18
+1.91
+0.76
+12.60
+3.05
+
+Biologist
+Water operator
+Foremen
+Operations director
+Territory manager
+Store design
+Dispatch manager
+Electronics Engineer
+Equities analyst
+Accounting manager
+Contract specialist
+Analyst
+Legal assistant
+School principal
+Physical therapist
+Director of artist residencies
+Motel manager
+Receptionist
+Federal government contractor
+
+(Appendices continue)
+
+ANXIETY AND DYNAMIC STRESSORS
+
+61
+
+Appendix B
+Survey Measures
+Task Engagement (Bakker & Costa, 2014; Schaufeli et
+al., 2002; Schaufeli et al., 2006)
+
+This document is copyrighted by the American Psychological Association or one of its allied publishers.
+This article is intended solely for the personal use of the individual user and is not to be disseminated broadly.
+
+Measured on T1 and T2 surveys and aggregated to the day level.
+
+Referent: Emotional exhaustion experienced currently
+(1⫽ not at all, 2 ⫽ a little, 3 ⫽ moderately, 4 ⫽ quite a bit,
+5 ⫽ very much).
+
+Referent: Engagement with current task
+
+1.
+
+I feel emotionally drained.
+
+(1⫽ strongly disagree, 2 ⫽ disagree, 3 ⫽ neither, 4 ⫽ agree,
+5 ⫽ strongly agree)
+
+2.
+
+I feel burned out.
+
+3.
+
+I feel used up.
+
+1.
+
+I feel bursting with energy working on this task.
+
+2.
+
+I am enthusiastic about this task I am doing.
+
+3.
+
+I feel happy working intensely on this task.
+
+Task Performance (Parke et al., 2018; Williams &
+Anderson, 1991)
+Measured on the T2 and T3 surveys and aggregated to the day
+level.
+Referent: Performance in work tasks during morning and
+afternoon, respectively
+(1⫽ strongly disagree, 2 ⫽ disagree, 3 ⫽ neither, 4 ⫽ agree,
+5 ⫽ strongly agree)
+1.
+
+I fulfilled the responsibilities specified in my job description for that task.
+
+2.
+
+I consistently met the formal performance requirements
+for that task.
+
+3.
+
+I adequately completed all my assigned duties in that
+task.
+
+Emotional Exhaustion (Wharton, 1993)
+Measured on the T1 and T3 surveys and aggregated to the day
+level.
+
+Anxiety (Marteau & Bekker, 1992;
+Watson & Clark, 1994)
+Measured on the T1, T2, and T3 surveys and aggregated to the
+day level.
+Referent: Anxiety experienced currently
+(1 ⫽very slightly, 2 ⫽ a little, 3 ⫽ moderately, 4 ⫽ quite a
+bit, 5 ⫽ extremely)
+1.
+
+Nervous
+
+2.
+
+Anxious
+
+3.
+
+Upset
+
+4.
+
+Tense
+
+5.
+
+Worried
+
+Received June 18, 2020
+Revision received September 17, 2020
+Accepted October 4, 2020 䡲
+
+

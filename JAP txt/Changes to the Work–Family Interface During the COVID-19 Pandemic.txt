@@ -1,0 +1,3035 @@
+Journal of Applied Psychology
+© 2020 American Psychological Association
+ISSN: 0021-9010
+
+2020, Vol. 105, No. 10, 1073–1087
+http://dx.doi.org/10.1037/apl0000819
+
+This document is copyrighted by the American Psychological Association or one of its allied publishers.
+This article is intended solely for the personal use of the individual user and is not to be disseminated broadly.
+
+Changes to the Work–Family Interface During the COVID-19 Pandemic:
+Examining Predictors and Implications Using Latent Transition Analysis
+Hoda Vaziri
+
+Wendy J. Casper
+
+University of North Texas
+
+University of Texas at Arlington
+
+Julie Holliday Wayne
+
+Russell A. Matthews
+
+Wake Forest University
+
+University of Alabama
+
+Employees around the world have experienced sudden, significant changes in their work and family roles
+due to the COVID-19 pandemic. However, applied psychologists have limited understanding of how
+employee experiences of work–family conflict and enrichment have been affected by this event and what
+organizations can do to ensure better employee functioning during such societal crises. Adopting a
+person-centered approach, we examine transitions in employees’ work–family interfaces from before
+COVID-19 to after its onset. First, in Study 1, using latent profile analysis (N ⫽ 379; nonpandemic data),
+we identify profiles of bidirectional conflict and enrichment, including beneficial (low conflict and high
+enrichment), active (medium conflict and enrichment), and passive (low conflict and enrichment). In
+Study 2, with data collected before and during the COVID-19 pandemic, we replicate Study 1 profiles
+and explore whether employees transition between work–family profiles during the pandemic. Results
+suggest that although many remain in prepandemic profiles, positive (from active/passive to beneficial)
+and negative (from beneficial to active/passive) transitions occurred for a meaningful proportion of
+respondents. People were more likely to go through negative transitions if they had high segmentation
+preferences, engaged in emotion-focused coping, experienced higher technostress, and had less compassionate supervisors. In turn, negative transitions were associated with negative employee consequences
+during the pandemic (e.g., lower job satisfaction and job performance, and higher turnover intent). We
+discuss implications for future research and for managing during societal crises, both present and future.
+Keywords: COVID-19, work–family conflict and enrichment, latent transition analysis, technostress,
+supervisor support and compassion
+Supplemental materials: http://dx.doi.org/10.1037/apl0000819.supp
+
+conflict (i.e., incompatibility between work and family; Greenhaus
+& Beutell, 1985) and enrichment (i.e., positive spillover between
+work and family; Greenhaus & Powell, 2006), which are linked to
+employee attitudes and behavior (Amstad, Meier, Fasel, Elfering,
+& Semmer, 2011; McNall, Nicklin, & Masuda, 2010). Thus, it is
+critical to identify factors that affect transitions in the WF interface
+during this macro crisis and the implications for employee attitudes and behavior.
+Because the extent and influence of the pandemic on the WF
+interface are unknown, critical questions abound: What were typical patterns of WF conflict and enrichment before the pandemic?
+How have patterns shifted during this event? While some people
+may fare worse (i.e., greater conflict and/or less enrichment), do
+others fare better (i.e., reduced conflict and/or greater enrichment)?
+What personal and work factors predict changes to the WF interface after the onset of COVID-19? Finally, what are the implications of these profile transitions during the COVID-19 event for
+worker attitudes and behaviors?
+This research aims to address these questions, contributing to
+the literature in novel ways. First, organizational research, and WF
+scholarship specifically, has typically ignored societal crises (Kim
+
+The COVID-19 pandemic has upended the lives of workers
+worldwide. As the pandemic unfolded and social distancing occurred, workers lost jobs (Beer, 2020; Tozzi, 2020), faced job
+insecurity (Blustein et al., 2020), lost boundaries between work
+and home (Fisher et al., 2020), and worried about their health and
+that of their families (Prime, Wade, & Browne, 2020). Overnight,
+workers began teleworking, many for the first time (Kramer &
+Kramer, 2020). Such shifts likely impacted work–family (WF)
+
+This article was published Online First August 31, 2020.
+X Hoda Vaziri, Department of Management, University of North Texas; Wendy J. Casper, Department of Management, University of Texas at
+Arlington; Julie Holliday Wayne, School of Business, Wake Forest University; Russell A. Matthews, Department of Management, University of
+Alabama.
+Additional online materials for Studies 1 and 2 are available at https://
+osf.io/x9tv7.
+Correspondence concerning this article should be addressed to Hoda Vaziri,
+Department of Management, University of North Texas, 1155 Union Circle
+#305429, Denton, TX 76203. E-mail: hoda.vaziri@unt.edu
+1073
+
+This document is copyrighted by the American Psychological Association or one of its allied publishers.
+This article is intended solely for the personal use of the individual user and is not to be disseminated broadly.
+
+1074
+
+VAZIRI, CASPER, WAYNE, AND MATTHEWS
+
+& Ployhart, 2014), a key oversight given the impact that events
+such as manmade and natural disasters, pandemics, war, and
+terrorism (Eby, Mitchell, & Zimmerman, 2016) can have on workers and families. Event systems theory (EST; Morgeson, Mitchell,
+& Liu, 2015) argues that events that are novel, disruptive, and
+critical result in changes in behavior, suggesting this is a key
+omission. In this study we explore whether the novel, disruptive,
+and critical event of COVID-19 is associated with changes in the
+WF interface as well as job attitudes and behavior.
+Second, we adopt a person-centered approach. A variablecentered approach examines levels of bidirectional conflict and
+enrichment and their unique relationships with antecedents and
+outcomes, providing important insight into between-person experiences. Although useful, there is also value in person-centered
+methods to explore how combinations of variables define experiences for different people. Rather than examining conflict or
+enrichment separately, person-centered methods detect profiles
+that differ qualitatively or quantitatively in combinations of variables, offering novel insight (Wang & Hanges, 2011; Woo, Jebb,
+Tay, & Parrigon, 2018). In this research, we use latent profile
+analysis (LPA) to identify profiles of WF conflict and enrichment
+(e.g., Moazami, Nurmi, Mauno, Aunola, & Rantanen, 2019; Rantanen, Kinnunen, Mauno, & Tement, 2013) during a period without a macro crisis (Study 1, November 2014) and then validate
+these profiles with data from right before COVID-19 hit (Study 2,
+February 2020), providing insight into WF profiles during routine
+times.
+Third, WF research often uses cross-sectional designs (Casper,
+Eby, Bordeaux, Lockwood, & Lambert, 2007; Lapierre & McMullan, 2016), ignoring WF changes over time (Allen, French, Braun,
+& Fletcher, 2019). Gathering data over time is vital to test whether
+events foster change (Eby et al., 2016). A person-centered approach, combined with data collected before and during the pandemic, describes how people transition between profiles over time
+to explore how COVID-19 impacts the WF interface. Bliese,
+Adler, and Flynn (2017) have called for examining transitions
+around discrete events with measures taken before and after an
+event. To this end, in Study 2 we surveyed workers just before
+COVID-19 hit the United States and again 6 weeks later. Applying
+latent transition analysis (LTA), we capture the extent to which
+peoples’ WF experiences changed for better or worse during
+COVID-19.
+Exploring intraperson transitions is important, given scholars
+know little about how societal crises impact the WF interface (Eby
+et al., 2016). Yet, it is also important to identify factors that
+promote, and the consequences of, such transitions. As such, we
+examine personal and work factors that explain why transitions
+occur (Shipp & Cole, 2015) to provide insight into how employers
+can reduce negative or promote positive effects of societal crises.
+Finally, we assess how profile transitions relate to job attitudes and
+behavior. As conflict and enrichment relate to many employee
+outcomes (e.g., satisfaction, commitment, performance; Amstad et
+al., 2011; McNall et al., 2010), we expect profile transitions to
+relate to key outcomes, indicating why employers should support
+workers during crisis events. Identifying outcomes associated with
+profile transitions enables an accurate assessment of the risk employers face when employees struggle to manage the WF interface
+during crisis events. Given the likely recurrence of COVID-19 and
+
+other events like natural disasters or social unrest, our findings
+provide important insights for both workers and employers.
+
+Study 1: Establishing Work–Family Experience
+Profiles
+Studies of conflict and enrichment profiles are mixed in terms of
+the number and type of profiles found. Some report four profiles of
+active, passive, harmful, and beneficial (Moazami et al., 2019),
+whereas others report three of active, beneficial, and contradictory
+(Rantanen et al., 2013). Given mixed findings, in Study 1, we use
+an inductive approach (Woo & Allen, 2014) to establish WF
+profiles. A person-centered approach can identify quantitatively
+distinct profiles that differ in levels of conflict and enrichment
+(Spurk, Hirschi, Wang, Valero, & Kauffeld, 2020) as well as
+qualitatively distinct profiles varying on relative standing of conflict and enrichment. For instance, one profile may include people
+with high conflict and low enrichment, whereas another includes
+low levels of conflict and enrichment. In Study 1, we explore WF
+profiles with prepandemic data.
+Research Question (RQ) 1: How many distinct conflict and
+enrichment profiles are there and what is their nature?
+
+Method
+Participants were recruited through Amazon Mechanical Turk
+(MTurk) and were required to work at least 32 hr per week and live
+in the United States (Bowling Green State University Institutional
+Review Board [IRB] Protocol 680818; Wayne, Matthews, OdleDusseau, & Casper, 2019). Initially 620 respondents were
+screened. Of these, 149 did not meet study qualification and were
+not allowed to access the survey. Participants who failed one or
+more of the attention-check items (N ⫽ 91) were omitted (Huang,
+Curran, Keeney, Poposki, & DeShon, 2012). Listwise deletion of
+missing data on conflict and enrichment (N ⫽ 1) resulted in 379
+complete responses. Participants were primarily Caucasian (79%),
+female (54%), and married/cohabiting (88%); 63% had children
+living at home and they were, on average, 37 years old. Of
+participants, 12% were in computer and mathematical occupations;
+11% were in sales and related occupations; 10% were in education,
+training, and library occupations; and the remaining participants
+were working in a variety of other occupations, such as office and
+administrative support, health care support, business and financial
+operations, and so forth. Table 1 provides information on our
+measures.
+LPA was used to identify profiles (Morin, Morizot, Boudrias, &
+Madore, 2011; Woo & Allen, 2014) using Mplus 7.4 (Muthen &
+Muthen, 2015). Per Nylund, Asparouhov, and Muthén (2007), we
+started with a model where two latent profiles were specified and
+added profiles until there was no further improvement in model fit.
+To compare model fit, we examined log likelihood (LL), Akaike
+information criterion (AIC), Bayesian information criterion (BIC),
+sample-size-adjusted BIC (SSA–BIC), consistent AIC (CAIC),
+Lo-Mendell-Rubin likelihood ratio test (LMR; Lo, Mendell, &
+Rubin, 2001), and entropy. A best fitting model includes lower LL,
+AIC, BIC, SSA–BIC, and CAIC, higher entropy, and significant
+LMR (p ⬍ .05), indicating that the specified k-profile solution is
+significantly better than the k-1-profile solution. Given these in-
+
+WORK–FAMILY PROFILE TRANSITION DURING COVID-19
+
+1075
+
+Table 1
+Scales Used to Measure Variables
+Study and variable
+
+Number of
+items
+
+Scale citation
+
+Sample item
+
+Studies 1 and 2
+Conflict and enrichment
+Work-to-family conflict
+Family-to-work conflict
+
+This document is copyrighted by the American Psychological Association or one of its allied publishers.
+This article is intended solely for the personal use of the individual user and is not to be disseminated broadly.
+
+Work-to-family
+enrichment
+Family-to-work
+enrichment
+
+5
+5
+
+Netemeyer, Boles, and McMurrian (1996)
+Netemeyer et al. (1996)
+
+3
+
+Kacmar, Crawford, Carlson, Ferguson,
+and Whitten (2014)
+Kacmar et al. (2014)
+
+3
+
+The demands of my work interfere with my family life.
+The demands of my family or spouse/partner interfere with
+work-related activities.
+I have to put off doing things at work because of demands
+on my time at home.
+My involvement in my family puts me in a good mood and
+this helps me be a better worker.
+
+Study 2
+Personal characteristics
+Segmentation preference
+Problem-focused copinga
+Emotion-focused copinga
+Demands
+Technology overload
+
+4
+4
+4
+
+Kreiner (2006)
+Endler and Parker (1994)
+Endler and Parker (1994)
+
+I don’t like work issues creeping into my home life.
+I analyze the problem before reacting.
+I blame myself for not knowing what to do.
+
+5
+
+I am forced by the technology we are using to do more
+work than I can handle.
+I have to be in touch with work after hours due to this
+technology.
+Using the available technology is compatible with my work.
+
+Technology invasion
+
+3
+
+Tarafdar, Tu, Ragu-Nathan, and RaguNathan (2007)
+Tarafdar et al. (2007)
+
+Technology
+incompatibility
+Resources
+Family-supportive
+supervisory behaviors
+Leader compassion
+
+4
+
+Moore and Benbasat (1991)
+
+4
+
+Hammer, Ernst Kossek, Bodner, and
+Crain (2013)
+Shiota, Keltner, and John (2006)
+
+My supervisor makes me feel comfortable talking to him/
+her about my conflicts between work and nonwork.
+During the COVID-19 pandemic my supervisor takes care
+of people who are vulnerable.
+
+Cammann, Fichman, Jenkins, and Klesh
+(1979)
+Meyer and Allen (1991)
+
+All in all, I am satisfied with my job.
+
+Employee outcomes
+Job satisfaction
+
+3
+3
+
+Organizational
+commitment
+Turnover intentions
+
+4
+
+Organizational citizenship
+behaviors
+Job performance
+
+6
+
+Bentein, Vandenberghe, Vandenberg, and
+Stinglhamber (2005)
+Lee and Allen (2002)
+
+4
+
+Williams and Anderson (1991)
+
+4
+
+I feel “emotionally attached” to my current organization.
+I frequently think of quitting my job with this organization.
+I willingly give of my time to help others who have work
+or nonwork problems.
+I perform well in the job tasks that are expected of me.
+
+Note. For all measures (except noted), response anchors were 1 (strongly disagree) to 5 (strongly agree).
+Response anchors for problem-focused and emotion-focused coping were 1 (never) to 5 (very often).
+
+a
+
+dices are sometimes contradictory, we also used elbow plots of the
+BIC and CAIC to examine where the curve flattens (Chawla,
+MacGowan, Gabriel, & Podsakoff, 2020; Morin & Marsh, 2015).
+
+Results
+Table 2 provides descriptive information for study variables. Per
+Table 3, although other solutions had lower LL, AIC, BIC, and
+SSA-BIC, we retained the three-profile solution as LMR statistic for
+the other solutions was not significant. In addition, the elbow plot of
+BIC and CAIC (see Figure 1) shows that the slope of the curve
+flattens around three profiles. Together, these visual and statistical
+criteria suggest that there are three profiles in our data.
+Table 4 and Figure 2 show means of bidirectional conflict and
+enrichment for each profile. Most employees (59%) belonged to a
+profile with low conflict and high enrichment. Given conflict is a
+negative experience with negative consequences and enrichment is
+positive, this high positive/low negative spillover profile is desirable;
+we labeled it beneficial (Moazami et al., 2019). We labeled a second
+
+profile of moderate conflict and enrichment (22%) active, and the
+third profile of low conflict and enrichment (19%) was labeled passive (Moazami et al., 2019). Because passive and active profiles are a
+mix of desirable (moderate enrichment or low conflict) and undesirable spillover (moderate conflict or low enrichment), they are less
+desirable than the beneficial profile. Results suggest three quantitatively (passive and active) and qualitatively (beneficial) different
+profiles (RQ1).
+
+Study 2: Replicating and Exploring Transitions
+Between Work–Family Profiles
+In Study 2, we collected data before and during the COVID-19
+pandemic. We first sought to replicate Study 1; we expected to find
+the same three profiles.
+Hypothesis 1 (H1): There are three WF conflict and enrichment profiles that differ quantitatively (passive and active)
+and qualitatively (beneficial).
+
+VAZIRI, CASPER, WAYNE, AND MATTHEWS
+
+1076
+
+Table 2
+Means, Standard Deviations, and Correlations Among Study 1 Variables
+
+This document is copyrighted by the American Psychological Association or one of its allied publishers.
+This article is intended solely for the personal use of the individual user and is not to be disseminated broadly.
+
+Variable
+1.
+2.
+3.
+4.
+5.
+6.
+7.
+8.
+9.
+10.
+11.
+13.
+12.
+
+M (SD)
+
+Age
+36.52 (9.20)
+Gendera
+.54 (.50)
+Raceb
+.79 (.40)
+Married/cohabitingc
+.88 (.33)
+Childrend
+1.32 (.47)
+Work hours
+41.82 (6.69)
+Work-to-family conflict
+2.13 (1.05)
+Work-to-family enrichment 3.47 (1.02)
+Family-to-work conflict
+1.86 (.90)
+Family-to-work enrichment 3.82 (.88)
+Passive profilec
+.19 (.39)
+Active profilec
+.22 (.42)
+Beneficial profilec
+.59 (.49)
+
+1
+
+2
+
+3
+
+4
+
+—
+⫺.02
+.21ⴱⴱ
+⫺.04
+⫺.26ⴱⴱ
+.05
+.01
+.03
+.00
+⫺.02
+⫺.01
+⫺.03
+.03
+
+—
+.01
+⫺.10
+.01
+⫺.09
+⫺.02
+.10
+⫺.01
+.21ⴱⴱ
+⫺.08
+⫺.05
+.10ⴱ
+
+—
+⫺.03
+.03
+.15ⴱⴱ
+.06
+⫺.08
+.01
+⫺.08
+.05
+⫺.01
+⫺.03
+
+—
+.19ⴱⴱ
+.03
+⫺.15ⴱⴱ
+.05
+⫺.09
+.06
+⫺.06
+⫺.07
+.11ⴱ
+
+Note. N ⫽ 379. Values on the diagonal represent scale reliability.
+a
+0 ⫽ male, 1 ⫽ female. b 1 ⫽ Caucasian, 0 ⫽ others. c 0 ⫽ no, 1 ⫽ yes.
+ⴱ
+p ⬍ .05. ⴱⴱ p ⬍ .01.
+
+How Do Employees Transition Between Profiles
+During COVID-19?
+Employees are active agents in managing the work– home interface (Nippert-Eng, 1996), which has often been crafted with key
+resources (e.g., childcare, eating out) to ensure it is manageable
+(ten Brummelhuis & Bakker, 2012). Some employees rely on
+colleague support to stay efficient and keep work hours modest.
+Others create boundaries between work and home to prevent
+conflict (Ashforth, Kreiner, & Fugate, 2000; Bulger, Matthews, &
+Hoffman, 2007). For many, the COVID-19 pandemic was a shock
+to a carefully crafted WF interface. In the United States, after a
+national health emergency was announced on March 13, 2020,
+workers either worked from home, often using untried technology,
+or in potentially unsafe workplaces with risk of exposure. According to EST, a novel, disruptive, and critical event like COVID-19
+should have a major impact on employee perceptions and behav-
+
+5
+
+d
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+—
+⫺.01
+—
+⫺.05
+.22ⴱⴱ (.93)
+⫺.15ⴱⴱ
+.01
+⫺.29ⴱⴱ (.89)
+⫺.13ⴱ
+.03
+.49ⴱⴱ ⫺.04
+(.88)
+⫺.12ⴱ ⫺.03
+⫺.33ⴱⴱ
+.54ⴱⴱ ⫺.31ⴱⴱ (.81)
+.17ⴱⴱ ⫺.05
+.15ⴱⴱ ⫺.73ⴱⴱ ⫺.16ⴱⴱ ⫺.46ⴱⴱ
+—
+⫺.13ⴱⴱ
+.10ⴱ
+.46ⴱⴱ ⫺.04
+.78ⴱⴱ ⫺.26ⴱⴱ ⫺.26ⴱⴱ
+—
+⫺.02
+⫺.05
+⫺.51ⴱⴱ
+.62ⴱⴱ ⫺.53ⴱⴱ
+.59ⴱⴱ ⫺.58ⴱⴱ ⫺.64ⴱⴱ
+1 ⫽ yes, 2 ⫽ no.
+
+iors, including the WF interface. Bliese et al. (2017) noted that
+events evoking a transition response should be studied by contrasting measures before the event and shortly after it. Relative to right
+before, this novel event (COVID-19) disrupted work and home,
+likely creating a transition response. As such, we expect negative
+transitions toward greater conflict and/or lower enrichment between work and home, reflected in transitions from beneficial to
+active or passive profiles.
+Yet despite the stresses of COVID-19, with many obligations
+paused, some workers may face an improved WF interface. As
+social distancing ended long commutes and social obligations, the
+pace of life slowed for some. Remote work can reduce exposure to
+issues exacerbated by on-site work (e.g., toxic colleagues), and
+some workloads may decrease. Consistent with EST, suggesting
+people react differently to the same macroevent (Morgeson et al.,
+2015), some workers may experience lower interference and
+
+Table 3
+Fit Statistics for Profile Structures in Study 1 and Study 2
+Number of profiles
+
+LL
+
+FP
+
+AIC
+
+BIC
+
+CAIC
+
+SSA-BIC
+
+Entropy LMR(p)
+
+2
+3
+4
+5
+6
+7
+
+⫺1956.56
+⫺1902.44
+⫺1867.78
+⫺1848.13
+⫺1824.18
+⫺1810.42
+
+13
+18
+23
+28
+33
+38
+
+3939.11
+3840.88
+3781.57
+3752.26
+3714.36
+3696.85
+
+Study 1 (N ⫽ 379)
+3990.30
+4003.30
+3911.76
+3929.76
+3872.13
+3895.13
+3862.51
+3890.51
+3844.30
+3877.30
+3846.47
+3884.47
+
+3949.06
+3854.65
+3799.15
+3773.67
+3739.60
+3725.91
+
+.771
+.811
+.843
+.790
+.864
+.862
+
+⬍.001
+⬍.001
+.080
+.272
+.731
+.377
+
+2
+3
+4
+5
+6
+7
+
+⫺3016.83
+⫺2882.82
+⫺2812.34
+⫺2720.32
+⫺2670.42
+⫺2636.49
+
+13
+18
+23
+28
+33
+38
+
+6059.66
+5801.64
+5670.68
+5496.64
+5406.85
+5348.98
+
+Study 2 (N ⫽ 583)
+6116.45
+6129.45
+5880.27
+5898.27
+5771.15
+5794.15
+5618.95
+5646.95
+5551.00
+5584.00
+5514.97
+5552.97
+
+6075.18
+5823.12
+5698.13
+5530.06
+5446.24
+5394.33
+
+.811
+.791
+.798
+.843
+.870
+.900
+
+⬍.001
+.006
+.070
+.002
+.261
+.767
+
+Note. LL ⫽ log likelihood; FP ⫽ free parameters; AIC ⫽ Akaike information criterion; BIC ⫽ Bayesian
+information criterion; CAIC ⫽ consistent AIC; SSA-BIC ⫽ sample-size adjusted BIC; LMR(p) ⫽ p-value for
+the Lo, Mendell, and Rubin (2001) test.
+
+This document is copyrighted by the American Psychological Association or one of its allied publishers.
+This article is intended solely for the personal use of the individual user and is not to be disseminated broadly.
+
+WORK–FAMILY PROFILE TRANSITION DURING COVID-19
+
+1077
+
+Figure 2. Latent profiles of bidirectional work–family conflict and enrichment for Study 1. WFC ⫽ work-to-family conflict; FWC ⫽ familyto-work conflict; WFE ⫽ work-to-family enrichment; FWE ⫽ family-towork enrichment.
+
+Figure 1. Elbow plot for Bayesian information criterion (BIC) and consistent Akaike information criterion (CAIC) for Study 1 (top panel) and
+Study 2 (bottom panel).
+
+greater positive spillover and as such, transition to more desirable
+profiles (i.e., from active or passive to beneficial).
+RQ2: How do employees transition between profiles of work–
+family conflict and enrichment following the onset of the
+COVID-19 pandemic?
+
+What Factors Relate to Transitions Between Profiles?
+Although we expect some employees experience positive, and
+others negative profile transitions, there are several factors, including personal (segmentation preferences, coping), work demands
+(technostress), and resources (family supportive supervision,
+leader compassion) that may predict whether and how people
+transition between profiles during societal crisis events.
+
+Table 4
+Means and Standard Deviations of Conflict and Enrichment for
+Each Profile
+
+Work-family variable
+
+Work-to-family
+Family-to-work
+Work-to-family
+Family-to-work
+
+Work-to-family
+Family-to-work
+Work-to-family
+Family-to-work
+
+conflict
+conflict
+enrichment
+enrichment
+
+conflict
+conflict
+enrichment
+enrichment
+
+Passive
+
+Active
+
+Beneficial
+
+M (SD)
+
+M (SD)
+
+M (SD)
+
+2.54 (.23)
+1.63 (.11)
+2.05 (.14)
+3.11 (.12)
+
+Study 1
+3.10 (.12)
+3.21 (.10)
+3.43 (.12)
+3.47 (.12)
+
+1.74 (.07)
+1.52 (.05)
+4.02 (.06)
+4.28 (.06)
+
+2.71 (.19)
+1.67 (.10)
+2.67 (.17)
+2.82 (.12)
+
+Study 2
+3.72 (.09)
+3.52 (.15)
+3.54 (.13)
+3.65 (.12)
+
+Segmentation preference. People differ in whether they prefer to keep home and work separate (segmentors) or integrate
+across roles (integrators; Nippert-Eng, 1996). Because integrators
+prefer weak boundaries between work and home and have experience integrating roles as required by remote work, COVID-19
+should be less novel or disruptive, so they should face similar or
+even less conflict and higher enrichment, moving to (or staying in)
+a beneficial profile. In contrast, because remote work does conflicts with segmentors’ desire to separate work and home, and they
+may have less experience integrating roles, segmentors should
+experience more conflict and less enrichment, moving to (or staying in) active or passive profiles.
+Hypothesis 2 (H2): Those with lower segmentation preference
+are more likely to transition to or stay in the beneficial profile.
+Coping strategy. Stress involves a cognitive appraisal, so
+how a person views a stressor event is vital to a person’s response
+(Lazarus & Folkman, 1984). There are a variety of strategies
+people may use to cope with crisis events. Problem-focused coping
+is an active form of coping in which people reduce or remove a
+stressor though problem-solving, cost– benefit analysis, and time
+management (Lazarus & Folkman, 1984). It is negatively related
+to WF conflict (Lapierre & Allen, 2006; Mauno & Rantanen,
+2013) and positively related to role engagement and cross-domain
+enrichment (Mauno, Rantanen, & Tolvanen, 2014). As such, it
+should relate to a transition to (or staying in) a beneficial profile.
+Emotion-focused coping, a passive form of coping, tries to “reduce
+stress through emotional responses, self-preoccupation, and fantasizing.” It is less adaptive (Austenfeld & Stanton, 2004, p. 1339)
+and associated with more WF conflict (Rantanen, Mauno, Kinnunen, & Rantanen, 2011). Thus, people who use emotion-focused
+coping should transition to (or stay in) the active profile.
+Hypothesis 3 (H3): Those higher in problem-focused coping
+are more likely to transition to or stay in the beneficial profile.
+Hypothesis 4 (H4): Those higher in emotion-focused coping
+are more likely to transition to or stay in the active profile.
+
+1.81 (.07)
+1.41 (.04)
+4.09 (.09)
+4.13 (.10)
+
+Technostress. Although information and communication
+technology (ICT) can help employees work more efficiently, it
+can also have a negative impact on employees (Wang, Liu, &
+
+VAZIRI, CASPER, WAYNE, AND MATTHEWS
+
+1078
+
+Table 5
+Means, Standard Deviations, and Correlations Among Study 2 Variables
+
+This document is copyrighted by the American Psychological Association or one of its allied publishers.
+This article is intended solely for the personal use of the individual user and is not to be disseminated broadly.
+
+Variable
+1.
+2.
+3.
+4.
+5.
+6.
+7.
+8.
+9.
+10.
+11.
+12.
+13.
+14.
+15.
+16.
+17.
+18.
+19.
+20.
+21.
+22.
+23.
+24.
+25.
+26.
+27.
+28.
+29.
+30.
+31.
+32.
+33.
+34.
+35.
+36.
+37.
+38.
+
+M (SD)
+
+Age
+54.39 (11.04)
+Gendera
+.54 (.50)
+b
+Race
+.86 (.35)
+c
+Married
+.63 (.49)
+d
+Children
+1.37 (.48)
+Work hours
+42.37 (6.81)
+WFC W1
+2.31 (1.11)
+WFC W2
+2.33 (1.03)
+FWC W1
+1.76 (.87)
+FWC W2
+1.84 (.87)
+WFE W1
+3.56 (.96)
+WFE W2
+3.57 (.91)
+FWE W1
+3.62 (.90)
+FWE W2
+3.61 (.81)
+Segmentation preference
+4.20 (.82)
+Problem-focused coping
+3.28 (.88)
+Emotion-focused coping
+1.89 (.84)
+Technology incompatibility
+3.57 (.99)
+Technology overload
+2.24 (.89)
+Technology invasion
+2.24 (.95)
+FSSB
+3.62 (1.07)
+Leader compassion
+3.70 (1.04)
+Job satisfaction W1
+3.98 (1.11)
+Job satisfaction W2
+3.95 (1.08)
+Job performance W1
+4.61 (.53)
+Job performance W2
+4.56 (.58)
+Turnover intent W1
+2.12 (1.17)
+Turnover intent W2
+2.07 (1.16)
+Organizational commitment W1
+3.17 (1.00)
+Organizational commitment W2
+3.35 (1.02)
+OCB W1
+3.68 (.70)
+OCB W2
+3.70 (.79)
+c
+Active profile W1
+.15 (.36)
+Passive profile W1c
+.35 (.48)
+c
+Beneficial profile W1
+.50 (.50)
+c
+Active profile W2
+.22 (.41)
+c
+Passive profile W2
+.30 (.46)
+Beneficial profile W2c
+.49 (.50)
+
+1
+
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+—
+⫺.20ⴱⴱ
+.13ⴱ
+.08
+⫺.25ⴱⴱ
+.05
+⫺.13ⴱ
+⫺.13ⴱ
+⫺.16ⴱⴱ
+⫺.20ⴱⴱ
+.10
+.18ⴱⴱ
+.06
+.09
+⫺.03
+.09
+⫺.20ⴱⴱ
+⫺.01
+⫺.10
+⫺.08
+⫺.02
+⫺.03
+.17ⴱⴱ
+.16ⴱⴱ
+.16ⴱⴱ
+.20ⴱⴱ
+⫺.32ⴱⴱ
+⫺.34ⴱⴱ
+.09
+.11ⴱ
+.03
+.12ⴱ
+⫺.14ⴱⴱ
+⫺.11ⴱ
+.20ⴱⴱ
+⫺.19ⴱⴱ
+⫺.02
+.17ⴱⴱ
+
+—
+⫺.03
+⫺.26ⴱⴱ
+.13ⴱ
+⫺.13ⴱ
+⫺.03
+⫺.03
+⫺.04
+⫺.12ⴱ
+⫺.05
+⫺.07
+⫺.01
+⫺.09
+.09
+⫺.06
+.13ⴱⴱ
+.12ⴱ
+.06
+.03
+⫺.07
+⫺.04
+⫺.11ⴱ
+⫺.06
+⫺.04
+⫺.01
+.12ⴱ
+.07
+⫺.11ⴱ
+⫺.09
+⫺.10
+⫺.04
+⫺.03
+.04
+⫺.01
+⫺.09
+.12ⴱ
+⫺.04
+
+—
+.01
+⫺.05
+.05
+.01
+.02
+⫺.04
+⫺.09
+.02
+⫺.01
+⫺.02
+⫺.05
+⫺.03
+⫺.06
+⫺.08
+.01
+⫺.10
+⫺.03
+⫺.04
+⫺.05
+⫺.03
+⫺.02
+.11ⴱ
+.15ⴱⴱ
+⫺.08
+⫺.06
+.01
+⫺.03
+.02
+.05
+⫺.02
+⫺.01
+.03
+⫺.10
+.11ⴱ
+⫺.02
+
+—
+⫺.30ⴱⴱ
+.03
+.03
+.09
+.08
+.10
+.07
+.03
+.12ⴱ
+.11ⴱ
+⫺.04
+.13ⴱ
+⫺.06
+⫺.03
+.14ⴱⴱ
+.12ⴱ
+.13ⴱ
+.09
+.13ⴱ
+.13ⴱ
+.00
+.03
+⫺.13ⴱ
+⫺.06
+.14ⴱⴱ
+.13ⴱ
+.20ⴱⴱ
+.13ⴱ
+.05
+⫺.07
+.03
+.09
+⫺.06
+⫺.02
+
+—
+.07
+.02
+⫺.02
+⫺.04
+⫺.05
+⫺.19ⴱⴱ
+⫺.17ⴱⴱ
+⫺.24ⴱⴱ
+⫺.25ⴱⴱ
+.01
+⫺.16ⴱⴱ
+.01
+.08
+⫺.04
+⫺.03
+⫺.09
+⫺.09
+⫺.16ⴱⴱ
+⫺.13ⴱ
+⫺.05
+.02
+.13ⴱⴱ
+.11ⴱ
+⫺.16ⴱⴱ
+⫺.14ⴱⴱ
+⫺.17ⴱⴱ
+⫺.15ⴱⴱ
+⫺.05
+.20ⴱⴱ
+⫺.16ⴱⴱ
+⫺.02
+.23ⴱⴱ
+⫺.19ⴱⴱ
+
+—
+.17ⴱⴱ
+.20ⴱⴱ
+⫺.04
+⫺.01
+⫺.07
+⫺.05
+⫺.14ⴱⴱ
+⫺.09
+⫺.09
+.01
+⫺.08
+⫺.05
+.02
+.08
+⫺.09
+⫺.11ⴱ
+.03
+.02
+.07
+.07
+⫺.02
+.00
+.01
+.01
+.02
+.08
+.01
+.11ⴱ
+⫺.11ⴱ
+.07
+.04
+⫺.09
+
+(.92)
+.65ⴱⴱ
+.64ⴱⴱ
+.42ⴱⴱ
+⫺.34ⴱⴱ
+⫺.30ⴱⴱ
+⫺.30ⴱⴱ
+⫺.25ⴱⴱ
+⫺.05
+⫺.11ⴱ
+.33ⴱⴱ
+.18ⴱⴱ
+.31ⴱⴱ
+.32ⴱⴱ
+⫺.19ⴱⴱ
+⫺.16ⴱⴱ
+⫺.37ⴱⴱ
+⫺.32ⴱⴱ
+⫺.28ⴱⴱ
+⫺.23ⴱⴱ
+.37ⴱⴱ
+.31ⴱⴱ
+⫺.18ⴱⴱ
+⫺.24ⴱⴱ
+⫺.13ⴱ
+⫺.09
+.54ⴱⴱ
+.17ⴱⴱ
+⫺.54ⴱⴱ
+.35ⴱⴱ
+.22ⴱⴱ
+⫺.49ⴱⴱ
+
+(.91)
+.46ⴱⴱ
+.66ⴱⴱ
+⫺.24ⴱⴱ
+⫺.29ⴱⴱ
+⫺.24ⴱⴱ
+⫺.26ⴱⴱ
+⫺.01
+⫺.15ⴱⴱ
+.35ⴱⴱ
+.12ⴱ
+.37ⴱⴱ
+.35ⴱⴱ
+⫺.21ⴱⴱ
+⫺.23ⴱⴱ
+⫺.26ⴱⴱ
+⫺.31ⴱⴱ
+⫺.23ⴱⴱ
+⫺.31ⴱⴱ
+.24ⴱⴱ
+.32ⴱⴱ
+⫺.16ⴱⴱ
+⫺.20ⴱⴱ
+⫺.13ⴱ
+⫺.14ⴱⴱ
+.39ⴱⴱ
+.10ⴱ
+⫺.38ⴱⴱ
+.59ⴱⴱ
+.15ⴱⴱ
+⫺.63ⴱⴱ
+
+(.91)
+.52ⴱⴱ
+⫺.12ⴱ
+⫺.22ⴱⴱ
+⫺.16ⴱⴱ
+⫺.19ⴱⴱ
+⫺.13ⴱ
+⫺.03
+.38ⴱⴱ
+.14ⴱⴱ
+.32ⴱⴱ
+.31ⴱⴱ
+⫺.12ⴱ
+⫺.09
+⫺.23ⴱⴱ
+⫺.21ⴱⴱ
+⫺.38ⴱⴱ
+⫺.37ⴱⴱ
+.31ⴱⴱ
+.26ⴱⴱ
+⫺.08
+⫺.12ⴱ
+⫺.08
+⫺.12ⴱ
+.79ⴱⴱ
+⫺.11ⴱ
+⫺.46ⴱⴱ
+.41ⴱⴱ
+.03
+⫺.36ⴱⴱ
+
+(.91)
+⫺.10
+⫺.14ⴱⴱ
+⫺.13ⴱ
+⫺.13ⴱ
+⫺.09
+⫺.07
+.47ⴱⴱ
+.08
+.43ⴱⴱ
+.38ⴱⴱ
+⫺.13ⴱ
+⫺.12ⴱ
+⫺.16ⴱⴱ
+⫺.26ⴱⴱ
+⫺.36ⴱⴱ
+⫺.51ⴱⴱ
+.21ⴱⴱ
+.32ⴱⴱ
+⫺.08
+⫺.12ⴱ
+⫺.16ⴱⴱ
+⫺.19ⴱⴱ
+.40ⴱⴱ
+.00
+⫺.29ⴱⴱ
+.79ⴱⴱ
+⫺.16ⴱⴱ
+⫺.51ⴱⴱ
+
+(.86)
+.61ⴱⴱ
+.75ⴱⴱ
+.45ⴱⴱ
+⫺.06
+.36ⴱⴱ
+⫺.12ⴱ
+⫺.13ⴱ
+⫺.06
+⫺.12ⴱ
+.38ⴱⴱ
+.32ⴱⴱ
+.63ⴱⴱ
+.50ⴱⴱ
+.29ⴱⴱ
+.20ⴱⴱ
+⫺.36ⴱⴱ
+⫺.30ⴱⴱ
+.49ⴱⴱ
+.48ⴱⴱ
+.43ⴱⴱ
+.29ⴱⴱ
+⫺.04
+⫺.66ⴱⴱ
+.66ⴱⴱ
+⫺.05
+⫺.44ⴱⴱ
+.44ⴱⴱ
+
+(.92)
+.51ⴱⴱ
+.67ⴱⴱ
+⫺.08
+.32ⴱⴱ
+⫺.13ⴱⴱ
+⫺.27ⴱⴱ
+⫺.05
+⫺.11ⴱ
+.46ⴱⴱ
+.42ⴱⴱ
+.54ⴱⴱ
+.60ⴱⴱ
+.23ⴱⴱ
+.25ⴱⴱ
+⫺.39ⴱⴱ
+⫺.38ⴱⴱ
+.48ⴱⴱ
+.57ⴱⴱ
+.35ⴱⴱ
+.41ⴱⴱ
+⫺.10
+⫺.46ⴱⴱ
+.51ⴱⴱ
+⫺.06
+⫺.63ⴱⴱ
+.63ⴱⴱ
+
+(.85)
+.55ⴱⴱ
+.08
+.33ⴱⴱ
+⫺.10
+⫺.16ⴱⴱ
+.01
+⫺.06
+.32ⴱⴱ
+.31ⴱⴱ
+.43ⴱⴱ
+.34ⴱⴱ
+.22ⴱⴱ
+.16ⴱⴱ
+⫺.20ⴱⴱ
+⫺.18ⴱⴱ
+.39ⴱⴱ
+.39ⴱⴱ
+.42ⴱⴱ
+.27ⴱⴱ
+⫺.07
+⫺.64ⴱⴱ
+.65ⴱⴱ
+⫺.07
+⫺.38ⴱⴱ
+.41ⴱⴱ
+
+(.80)
+.03
+.40ⴱⴱ
+⫺.09
+⫺.24ⴱⴱ
+.00
+⫺.07
+.30ⴱⴱ
+.30ⴱⴱ
+.29ⴱⴱ
+.36ⴱⴱ
+.15ⴱⴱ
+.17ⴱⴱ
+⫺.21ⴱⴱ
+⫺.23ⴱⴱ
+.33ⴱⴱ
+.41ⴱⴱ
+.32ⴱⴱ
+.38ⴱⴱ
+⫺.11ⴱ
+⫺.41ⴱⴱ
+.46ⴱⴱ
+⫺.06
+⫺.59ⴱⴱ
+.59ⴱⴱ
+
+(.80)
+⫺.03
+⫺.13ⴱ
+.07
+⫺.11ⴱ
+⫺.13ⴱ
+⫺.10
+⫺.06
+⫺.13ⴱ
+⫺.12ⴱ
+.09
+.20ⴱⴱ
+.15ⴱⴱ
+.15ⴱⴱ
+⫺.15ⴱⴱ
+⫺.21ⴱⴱ
+⫺.02
+⫺.16ⴱⴱ
+⫺.12ⴱ
+.04
+.04
+⫺.08
+.13ⴱ
+⫺.05
+
+(.89)
+.03
+⫺.15ⴱⴱ
+.05
+.00
+.32ⴱⴱ
+.29ⴱⴱ
+.30ⴱⴱ
+.27ⴱⴱ
+.17ⴱⴱ
+.17ⴱⴱ
+⫺.17ⴱⴱ
+⫺.18ⴱⴱ
+.32ⴱⴱ
+.32ⴱⴱ
+.39ⴱⴱ
+.36ⴱⴱ
+.01
+⫺.26ⴱⴱ
+.24ⴱⴱ
+⫺.02
+⫺.27ⴱⴱ
+.26ⴱⴱ
+
+(.87)
+.05
+.29ⴱⴱ
+.25ⴱⴱ
+.01
+.00
+⫺.20ⴱⴱ
+⫺.15ⴱⴱ
+⫺.36ⴱⴱ
+⫺.36ⴱⴱ
+.29ⴱⴱ
+.26ⴱⴱ
+⫺.02
+⫺.05
+⫺.10ⴱ
+⫺.03
+.30ⴱⴱ
+⫺.06
+⫺.16ⴱⴱ
+.34ⴱⴱ
+⫺.01
+⫺.27ⴱⴱ
+
+Note. Correlations reported based on matched data across Wave 1 (W1) and Wave 2 (W2). Values on the diagonal represent scale reliability. WFC ⫽
+work-to-family conflict; FWC ⫽ family-to-work conflict; WFE ⫽ work-to-family enrichment; FWE ⫽ family-to-work enrichment; FSSB ⫽ familysupportive supervisor behaviors; OCB ⫽ organizational citizenship behaviors.
+a
+0 ⫽ male, 1 ⫽ female. b 1 ⫽ Caucasian, 0 ⫽ others. c 0 ⫽ no, 1 ⫽ yes. d 1 ⫽ yes, 2 ⫽ no.
+ⴱ
+p ⬍ .05. ⴱⴱ p ⬍ .01.
+
+Parker, 2020). When ICT is introduced to support telework,
+training on technology fosters adjustment (Lautsch, Kossek, &
+Eaton, 2009), but such training was likely not possible with the
+sudden onset of COVID-19. When employees must use new
+technology without preparation, they may experience technostress (Ragu-Nathan, Tarafdar, Ragu-Nathan, & Tu, 2008) such
+as technology overload, invasion, and incompatibility. Technology overload refers to pressure “to work faster and longer,”
+whereas technology invasion refers to feeling a need to be
+available at all times, blurring boundaries between work and
+home (Tarafdar, Tu, Ragu-Nathan, & Ragu-Nathan, 2007).
+Technology incompatibility refers to a perception that new
+technology does not fit one’s needs (Moore & Benbasat, 1991).
+These forms of technostress can foster inefficiency and blur WF
+boundaries (e.g., work e-mails after business hours), such that
+employees experience more WF conflict (Butts, Becker, &
+Boswell, 2015; Chen & Karahanna, 2018; Leung & Zhang,
+2017). As such, people who experience greater technostress
+should transition to (or stay in) active profiles.
+Hypothesis 5 (H5): Those who experience higher levels of
+technostress, including (1) overload, (2) invasion, and (3)
+
+incompatibility are more likely to transition to or stay in the
+active profile.
+Leader behavior. Leaders are key sources of support employees may use to cope with stressors like COVID-19. Leaders who
+engage in family-supportive supervisor behaviors (FSSBs) help employees manage work and family roles (Crain & Stevens, 2018),
+fostering lower conflict or higher enrichment (Hammer, Kossek,
+Yragui, Bodner, & Hanson, 2009; Odle-Dusseau, Britt, & GreeneShortridge, 2012). FSSBs are critical during societal crises when
+people face more family demands. Thus, employees with access to
+FSSBs during COVID-19 are more likely to transition to or stay in a
+beneficial profile. Similarly, when workers face anxiety over COVID19, a compassionate supervisor who empathizes and recognizes employee concerns can relieve stress and generate positive emotions
+(Davenport, 2015; Dutton, Workman, & Hardin, 2014; Peng, Chen,
+Xia, & Ran, 2017), resulting in less conflict and greater enrichment
+(i.e., staying in or transitioning to the beneficial profile).
+Hypothesis 6 (H6): Those with leaders exhibiting higher (1)
+FSSBs and (2) compassion are more likely to transition to or
+stay in the beneficial profile.
+
+WORK–FAMILY PROFILE TRANSITION DURING COVID-19
+
+1079
+
+This document is copyrighted by the American Psychological Association or one of its allied publishers.
+This article is intended solely for the personal use of the individual user and is not to be disseminated broadly.
+
+Table 5 (Continued)
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+26
+
+27
+
+28
+
+29
+
+30
+
+31
+
+32
+
+33
+
+34
+
+35
+
+36
+
+37
+
+38
+
+(.82)
+.04
+.04
+⫺.20ⴱⴱ
+⫺.26ⴱⴱ
+⫺.16ⴱⴱ
+⫺.26ⴱⴱ
+⫺.14ⴱⴱ
+⫺.19ⴱⴱ
+.08
+.10
+⫺.12ⴱ
+⫺.20ⴱⴱ
+⫺.18ⴱⴱ
+⫺.18ⴱⴱ
+.07
+.10
+⫺.14ⴱⴱ
+.03
+.20ⴱⴱ
+⫺.21ⴱⴱ
+
+(.88)
+.77ⴱⴱ
+⫺.03
+.00
+⫺.08
+⫺.06
+⫺.22ⴱⴱ
+⫺.19ⴱⴱ
+.16ⴱⴱ
+.25ⴱⴱ
+⫺.05
+⫺.05
+⫺.03
+.00
+.22ⴱⴱ
+⫺.06
+⫺.11ⴱ
+.33ⴱⴱ
+⫺.05
+⫺.22ⴱⴱ
+
+(.75)
+⫺.12ⴱ
+⫺.07
+⫺.15ⴱⴱ
+⫺.14ⴱⴱ
+⫺.22ⴱⴱ
+⫺.19ⴱⴱ
+.15ⴱⴱ
+.24ⴱⴱ
+⫺.08
+⫺.08
+⫺.05
+⫺.04
+.22ⴱⴱ
+.00
+⫺.16ⴱⴱ
+.27ⴱⴱ
+.00
+⫺.23ⴱⴱ
+
+(.93)
+.87ⴱⴱ
+.48ⴱⴱ
+.55ⴱⴱ
+.21ⴱⴱ
+.22ⴱⴱ
+⫺.35ⴱⴱ
+⫺.42ⴱⴱ
+.49ⴱⴱ
+.58ⴱⴱ
+.38ⴱⴱ
+.41ⴱⴱ
+⫺.09
+⫺.23ⴱⴱ
+.28ⴱⴱ
+⫺.07
+⫺.25ⴱⴱ
+.29ⴱⴱ
+
+(.90)
+.42ⴱⴱ
+.52ⴱⴱ
+.21ⴱⴱ
+.19ⴱⴱ
+⫺.29ⴱⴱ
+⫺.40ⴱⴱ
+.46ⴱⴱ
+.55ⴱⴱ
+.36ⴱⴱ
+.42ⴱⴱ
+⫺.08
+⫺.19ⴱⴱ
+.24ⴱⴱ
+⫺.09
+⫺.22ⴱⴱ
+.27ⴱⴱ
+
+(.96)
+.76ⴱⴱ
+.44ⴱⴱ
+.27ⴱⴱ
+⫺.66ⴱⴱ
+⫺.60ⴱⴱ
+.68ⴱⴱ
+.63ⴱⴱ
+.45ⴱⴱ
+.38ⴱⴱ
+⫺.19ⴱⴱ
+⫺.34ⴱⴱ
+.46ⴱⴱ
+⫺.11ⴱ
+⫺.31ⴱⴱ
+.38ⴱⴱ
+
+(.95)
+.31ⴱⴱ
+.36ⴱⴱ
+⫺.58ⴱⴱ
+⫺.66ⴱⴱ
+.62ⴱⴱ
+.71ⴱⴱ
+.36ⴱⴱ
+.45ⴱⴱ
+⫺.16ⴱⴱ
+⫺.31ⴱⴱ
+.41ⴱⴱ
+⫺.19ⴱⴱ
+⫺.32ⴱⴱ
+.45ⴱⴱ
+
+(.89)
+.59ⴱⴱ
+⫺.31ⴱⴱ
+⫺.35ⴱⴱ
+.27ⴱⴱ
+.24ⴱⴱ
+.36ⴱⴱ
+.27ⴱⴱ
+⫺.26ⴱⴱ
+⫺.09
+.27ⴱⴱ
+⫺.24ⴱⴱ
+⫺.05
+.25ⴱⴱ
+
+(.89)
+⫺.27ⴱⴱ
+⫺.33ⴱⴱ
+.23ⴱⴱ
+.23ⴱⴱ
+.25ⴱⴱ
+.30ⴱⴱ
+⫺.29ⴱⴱ
+⫺.02
+.22ⴱⴱ
+⫺.41ⴱⴱ
+.02
+.31ⴱⴱ
+
+(.92)
+.79ⴱⴱ
+⫺.51ⴱⴱ
+⫺.53ⴱⴱ
+⫺.29ⴱⴱ
+⫺.34ⴱⴱ
+.24ⴱⴱ
+.20ⴱⴱ
+⫺.37ⴱⴱ
+.13ⴱ
+.19ⴱⴱ
+⫺.29ⴱⴱ
+
+(.92)
+⫺.49ⴱⴱ
+⫺.56ⴱⴱ
+⫺.27ⴱⴱ
+⫺.38ⴱⴱ
+.23ⴱⴱ
+.15ⴱⴱ
+⫺.31ⴱⴱ
+.26ⴱⴱ
+.16ⴱⴱ
+⫺.37ⴱⴱ
+
+(.89)
+.78ⴱⴱ
+.51ⴱⴱ
+.46ⴱⴱ
+⫺.05
+⫺.33ⴱⴱ
+.35ⴱⴱ
+⫺.05
+⫺.29ⴱⴱ
+.30ⴱⴱ
+
+(.89)
+.46ⴱⴱ
+.56ⴱⴱ
+⫺.06
+⫺.34ⴱⴱ
+.37ⴱⴱ
+⫺.08
+⫺.34ⴱⴱ
+.38ⴱⴱ
+
+(.86)
+.60ⴱⴱ
+⫺.04
+⫺.28ⴱⴱ
+.30ⴱⴱ
+⫺.09
+⫺.20ⴱⴱ
+.26ⴱⴱ
+
+(.88)
+⫺.08
+⫺.22ⴱⴱ
+.27ⴱⴱ
+⫺.14ⴱ
+⫺.21ⴱⴱ
+.30ⴱⴱ
+
+—
+⫺.31ⴱⴱ
+⫺.43ⴱⴱ
+.42ⴱⴱ
+⫺.06
+⫺.29ⴱⴱ
+
+—
+⫺.73ⴱⴱ
+⫺.08
+.47ⴱⴱ
+⫺.36ⴱⴱ
+
+—
+⫺.22ⴱⴱ
+⫺.41ⴱⴱ
+.55ⴱⴱ
+
+—
+⫺.34ⴱⴱ
+⫺.51ⴱⴱ
+
+—
+⫺.63ⴱⴱ
+
+—
+
+What Are the Implications of Profile Transitions?
+Transitions in WF profiles during societal crisis should have
+implications for work attitudes (job satisfaction, commitment, and
+turnover intentions) and job performance (organizational citizenship behaviors [OCBs] and in-role performance). The beneficial
+profile (i.e., low conflict with high enrichment) is the most desirable given the greater positive and fewer negative experiences
+across work and family (Demerouti & Geurts, 2004; J. Rantanen et
+al., 2013); thus, this profile should relate to most positive outcomes. Accordingly, transitioning from a passive or active to
+beneficial profile during a crisis event should drive positive employee outcomes.
+Hypothesis 7 (H7): Those who transition from passive or
+active profiles to beneficial experience more positive changes—
+higher (1) job satisfaction, (2) organizational commitment, (3)
+OCBs, and (4) job performance, and lower (5) turnover intentions during the crisis. Conversely, those who transition from
+beneficial to passive or active experience more negative
+changes.
+The implications of transition between active and passive profiles are more equivocal. People transitioning from a passive to an
+
+active profile encounter both more enrichment (desirable) and
+more conflict (undesirable). Likewise, when they transition from
+an active to a passive profile, they experience both less conflict and
+less enrichment. Thus, it is not clear whether increased conflict
+outweighs increased enrichment or vice versa. The one study
+comparing passive and active profiles on employee outcomes (i.e.,
+turnover intentions; Moazami et al., 2019) did not find differences
+between these two groups. Accordingly, we pose a research question.
+RQ3: What are the implications of transitioning between
+passive and active profiles in terms of employee outcomes?
+
+Method
+Participants, design, procedures, and measures. The data
+presented for this study were part of a broader data collection
+effort conducted at Wake Forest University under IRB Protocol
+00023673 (Project Title: “Balance Scale Construct Validation and
+COVID 19”). Participants, recruited through Qualtrics, were required to work at least 32 hr per week and live in the United States.
+Wave 1 (W1) data were collected in the second week of February
+2020 when COVID-19 was present in the United States but not yet
+
+This document is copyrighted by the American Psychological Association or one of its allied publishers.
+This article is intended solely for the personal use of the individual user and is not to be disseminated broadly.
+
+1080
+
+VAZIRI, CASPER, WAYNE, AND MATTHEWS
+
+a widespread concern. Initially 1,468 respondents were screened.
+Of these, 303 did not meet study qualification and were not
+allowed to access the survey. Participants who failed one or more
+of attention-check items (N ⫽ 564) or completed the survey in less
+than 7.5 min (N ⫽ 1; average response time of 23 min) were
+omitted. Listwise deletion of missing data on conflict and enrichment (N ⫽ 17) resulted in 583 complete respondents, who were
+primarily Caucasian (85%), female (57%), and married/cohabiting
+(62%). Most (61%) had children. They were, on average, 54
+(SD ⫽ 11.00) years old and worked 42.25 (SD ⫽ 6.67) hr each
+week. Of participants, 17% were in education, training, and library
+occupations; 14% were in health care support and technical occupations; 7% were in office and administrative support occupations;
+and the remaining participants were working in a variety of other
+occupations, such as production and manufacturing, business and
+financial operations, management, and so forth.
+The COVID-19 crisis presented an opportunity to conduct a
+naturally occurring quasi-experiment using a one-group pretest–
+posttest design (Cook & Campbell, 1979). On February 21, approximately 1 week after we completed W1 data collection, the
+Centers for Disease Control and Prevention (CDC) indicated no
+community spread but were preparing for this possibility. On
+March 13, a national health emergency was declared, calling for
+social distancing, sending thousands of Americans home to work
+remotely. By March 26, the United States led the world in number
+of COVID-19 cases; on March 27, the Coronavirus Aid, Relief,
+and Economic Security (CARES) Act was signed, and on April 1,
+the United States had over 200,000 cases of COVID-19. When we
+began Wave 2 (W2) data collection in the first week of April, the
+United States was in a major societal crisis.
+Of the 583 W1 respondents, 508 completed the W2 survey
+(response rate: 85%). Those who failed attention checks (N ⫽ 26)
+or completed the survey in less than 10 min at W2 (N ⫽ 8; average
+response time of 40 min) were omitted, for a sample of 474. Of
+these, 71 (15%) lost their job or were missing work due to
+COVID-19 and were omitted.1 Listwise deletion of missing data
+on conflict and enrichment resulted in a final sample of 371
+workers who were primarily Caucasian (86%), female (54%), and
+married/cohabiting (63%). Most (63%) had children. They were,
+on average, 54 years old. The W2 sample worked an average of
+42.37 and 38.32 hr per week at W1 and W2, respectively. We
+collected conflict, enrichment, and employee outcomes at both
+waves. Personal and work-related factors (i.e., segmentation preference, coping, technostress, and leader behaviors) were collected
+at W2. Table 1 provides information on our measures.
+Analytical approach. As in Study 1, LPAs were conducted to
+identify conflict and enrichment profiles based on W1 data (N ⫽
+583). We used W1 data because a larger sample size would
+provide more confidence replicating results due to smaller standard errors. We then used LTA (Collins & Lanza, 2009; Nylund et
+al., 2007) on matched data from W1 and W2 (N ⫽ 371) to examine
+the probability of profile transition. We first examined the longitudinal invariance of profiles across two waves, which suggested
+the same number and type of profiles, ⌬␹2(12) ⫽ 11.46, p ⫽ .49
+(Satorra, 2000). We used the invariance model to explore transition probabilities between profiles over time. To test H2 through
+H6 (i.e., predicting transitions), we calculated conditional transition probabilities (Muthén & Asparouhov, 2011) at high and low
+levels of each predictor (⫾1 SD). We used the delta method
+
+Table 6
+Transition Probabilities of Work–Family Profiles Before and
+After COVID-19 Pandemic (Study 2)
+Wave 2 profile
+Wave 1 profile
+
+1
+
+2
+
+3
+
+1. Active
+2. Passive
+3. Beneficial
+
+.815
+.163
+.021
+
+.108
+.749
+.108
+
+.077
+.088
+.871
+
+(Raykov & Marcoulides, 2004) to examine whether conditional
+transition probabilities differed from one another at different levels
+of each predictor. Finally, we used paired-sample t tests to compare changes in outcomes for those who transitioned between
+profiles. For the hypotheses, we used an alpha of .05; but to
+examine the research questions, we used a Bonferroni correction
+(␣ ⫽ .005).
+
+Results
+Step 1: Replicating profiles. Descriptive statistics and correlations are reported in Table 5, and fit statistics for alternative
+latent profile structures in Table 3. As in Study 1, we selected the
+three-profile solution because it had lower LL, AIC, BIC, and
+SSA-BIC compared to the two-profile solution, in addition to
+significant LMR. In addition, elbow plot of BIC and CAIC (see
+Figure 1) suggested the curve flattened after the three-profile
+solution. Table 4 details the mean levels of conflict and enrichment
+for each profile. The three profiles corresponded with beneficial
+(54%), active (15%), and passive (31%) profiles found in Study 1,
+supporting H1. Notably, though not identical, the means are similar across our two samples.
+Step 2: Transitions between profiles. Table 6 provides the
+transition probabilities of each profile before and during the
+COVID-19 crisis. Each cell represents the probability that a person
+transitions from (or stays in) a profile in W1 to a different (or
+same) profile in W2. For example, the first cell indicates that if a
+person belonged to the active profile at W1, it is 82% likely they
+remained in that profile at W2. Whereas employees were 82%,
+75%, and 87% likely to remain in the active, passive, and beneficial profiles, respectively, they were 19%, 25%, and 13% likely to
+transition to another profile at W2. The largest probability of
+transition was from passive to active (16%), followed by those
+who transitioned from active (11%) and beneficial (11%) to passive profile. The lowest probability of transition was from beneficial to active profile (2%). While these numbers may seem
+relatively small, transitioning between profiles (e.g., from passive
+to active) is a dramatic change as it requires simultaneous shifts in
+1
+Attrition analyses suggested that those who did not respond to W2
+reported higher WFC, FWC, and turnover intentions at W1. Also, those
+who lost jobs during the crisis reported higher turnover intentions at W1.
+In consideration of the potential for selective attrition bias, we conducted
+LTA using inverse probability weights as a function of bidirectional
+conflict and enrichment at W1 (for a similar approach, see Lang & Kell,
+2019). Results were generally consistent with findings reported here (except for technology incompatibility), suggesting limited influence of selective attrition on our findings. Results are reported in Table S1 in online
+supplemental material.
+
+.83
+.15
+.03
+.85ⴱⴱⴱ
+.11ⴱ
+.04
+.86ⴱⴱⴱ
+.10ⴱⴱ
+.04
+
+.75
+.14
+.11ⴱ
+.78ⴱⴱⴱ
+.10
+.12
+.87ⴱⴱⴱ
+.13ⴱⴱ
+.01
+Active (no transition)
+Active ¡ Passive
+Active ¡ Beneficial
+Passive (no transition)
+Passive ¡ Active
+Passive ¡ Beneficial
+Beneficial (no transition)
+Beneficial ¡ Active
+Beneficial ¡ Passive
+
+Note. Values in boldface type represent significantly different probabilities across higher (⫹1 SD) and lower (⫺1 SD) levels of a predictor. FSSB ⫽ family-supportive supervisor behaviors.
+ⴱ
+p ⬍ .05. ⴱⴱ p ⬍ .01. ⴱⴱⴱ p ⬍ .001.
+
+.77ⴱⴱⴱ
+.04
+.20
+.68ⴱⴱⴱ
+.09
+.22ⴱ
+.93ⴱⴱⴱ
+.07ⴱⴱ
+.00
+.70
+.30ⴱ
+.00
+.88ⴱⴱⴱ
+.10
+.02
+.82ⴱⴱⴱ
+.18ⴱⴱ
+.00
+.80
+.04
+.16
+.69ⴱⴱⴱ
+.10
+.21
+.91ⴱⴱⴱ
+.08ⴱⴱ
+.01
+.70
+.27ⴱⴱ
+.03
+.88ⴱⴱⴱ
+.11ⴱ
+.01
+.80ⴱⴱⴱ
+.15ⴱⴱ
+.04
+.85
+.00
+.16ⴱⴱ
+.88ⴱⴱⴱ
+.00
+.12ⴱ
+.70ⴱⴱⴱ
+.06
+.24ⴱ
+.92
+.00
+.08ⴱⴱ
+.77ⴱⴱⴱ
+.14
+.09
+.83ⴱⴱⴱ
+.15
+.02
+.75
+.17ⴱ
+.09
+.78ⴱⴱⴱ
+.19
+.03
+.75ⴱⴱⴱ
+.24ⴱⴱⴱ
+.01
+.69
+.18
+.13
+.82ⴱⴱⴱ
+.06
+.11
+.95ⴱⴱⴱ
+.03
+.02
+.83
+.11
+.07
+.76ⴱⴱⴱ
+.19
+.05
+.70ⴱⴱⴱ
+.28ⴱⴱⴱ
+.02
+.55
+.23
+.22
+.83ⴱⴱⴱ
+.07
+.10
+.97ⴱⴱⴱ
+.01
+.02
+.79
+.11ⴱ
+.11ⴱ
+.76ⴱⴱⴱ
+.15ⴱ
+.09
+.68ⴱⴱⴱ
+.28ⴱⴱⴱ
+.04
+.55
+.39ⴱ
+.06
+.92ⴱⴱⴱ
+.05
+.03
+.96ⴱⴱⴱ
+.03ⴱ
+.01
+.71
+.15
+.13
+.89ⴱⴱⴱ
+.10ⴱⴱⴱ
+.01
+.64ⴱⴱⴱ
+.18ⴱ
+.18
+.78
+.03
+.19
+.85ⴱⴱⴱ
+.12ⴱⴱ
+.04
+.91ⴱⴱⴱ
+.07
+.01
+
+Higher
+Lower
+
+ⴱⴱⴱ
+ⴱⴱⴱ
+
+Higher
+Lower
+
+ⴱⴱⴱ
+ⴱⴱⴱ
+
+Higher
+Lower
+
+ⴱⴱⴱ
+ⴱⴱⴱ
+
+Higher
+Lower
+
+ⴱⴱ
+ⴱⴱⴱ
+
+Higher
+Lower
+
+ⴱⴱ
+ⴱⴱⴱ
+
+Higher
+Lower
+
+ⴱⴱ
+ⴱⴱⴱ
+
+Higher
+
+ⴱⴱⴱ
+
+ⴱⴱⴱ
+
+Higher
+
+ⴱⴱⴱ
+
+Lower
+
+1081
+
+Lower
+Transition pattern
+
+Leader
+compassion
+FSSB
+Technology
+incompatibility
+Technology
+invasion
+Technology
+overload
+Emotion coping
+Problem coping
+Segmentation
+preferences
+
+both conflict and enrichment. For example, about 40% of the
+sample experienced higher work-to-family conflict (WFC; ranging
+between .2 and 3.6; ⌬M ⫽ .78, p ⬍ .05) and another 38% reported
+lower WFC (ranging between ⫺.2 and ⫺2.8; ⌬M ⫽ ⫺.76, p ⬍
+.05) during the pandemic. We observed similar trends for family
+to-work conflict (FWC), work-to-family enrichment (WFE), and
+family to-work enrichment (FWE). However, only extreme
+changes in both conflict and enrichment at the same time foster
+profile transition (e.g., average decrease of 1.82 and 1.78 units in
+WFC and FWC, respectively, with an average increase of .69 and
+.65 units in WFE and FWE to transition from active to beneficial
+profile). Given this, and in response to RQ2, the extent of profile
+transitions suggests there were major simultaneous shifts in WF
+conflict and enrichment from W1 to W2 for some respondents.
+Notably, there were both positive (i.e., from active/passive to
+beneficial) and negative (i.e., from beneficial to active/passive)
+transitions during the COVID-19 event.
+Step 3: Predicting transitions. Table 7 details conditional
+transition probabilities for each predictor. For segmentation preferences, though there was no difference in transition probabilities
+from passive to beneficial profiles, those with lower preferences
+for segmentation were more likely to transition from active to
+beneficial profiles (a positive transition, .11, p ⬍ .05) compared
+with those with higher preferences for segmentation (.03, p ⬎ .05),
+partially supporting H2. There was no difference in any conditional transition probabilities for higher and lower levels of
+problem-focused coping; H3 was not supported. Those with higher
+emotion-focused coping were more likely to transition from beneficial to active profiles (.28, p ⬍ .05) compared with those lower
+in emotion-focused coping (.03, p ⬎ .05), partially supporting H4.
+For technostress, those reporting higher technology overload
+and technology invasion were more likely to have a negative
+transition from beneficial to active profile (overload: .28, p ⬍ .05;
+invasion: .24, p ⬍ .05) compared to those with lower technology
+overload and invasion (overload: .01, p ⬎ .05; invasion: .03, p ⬎
+.05). Further, those whose technology was less compatible with
+their work were more likely to transition from beneficial to passive
+profile (.24, p ⬍ .05), providing some support for H5. Employees
+with supervisors lower on FSSB were more likely to transition
+from active to passive profiles (.27, p ⬍ .05). In contrast, those
+with more compassionate leaders were more likely to transition
+from passive to beneficial profiles (a positive transition, .22, p ⬍
+.05) and those with less compassionate leaders were more likely to
+transition from beneficial to active profiles (a negative one, .18,
+p ⬍ .05), partially supporting H6.
+Step 4: Implications of transitions. Table 8 provides means
+and standard deviations of employee outcomes across profiles over
+time. Table 9 includes paired-sample t tests for changes in outcomes across transition groups. Transitioning from active or passive to beneficial profiles (a positive transition) was associated
+with more job satisfaction, and commitment, and lower turnover
+intent, while transitioning from beneficial to active profile (negative transition) was associated with lower job satisfaction and
+performance, and more turnover intentions, partially supporting
+H7. For RQ3, we compared outcomes for transitioning between
+active and passive profiles using a Bonferroni-adjusted alpha value
+of .005. However, we did not find significant changes in any
+outcomes when employees transitioned between these two profiles.
+
+Table 7
+Conditional Transition Probabilities Across Lower and Higher Levels of Predictors (Study 2)
+
+This document is copyrighted by the American Psychological Association or one of its allied publishers.
+This article is intended solely for the personal use of the individual user and is not to be disseminated broadly.
+
+WORK–FAMILY PROFILE TRANSITION DURING COVID-19
+
+VAZIRI, CASPER, WAYNE, AND MATTHEWS
+
+1082
+
+Table 8
+Means and Standard Deviations of Employee Outcomes Across Profiles Over Time (Study 2)
+
+This document is copyrighted by the American Psychological Association or one of its allied publishers.
+This article is intended solely for the personal use of the individual user and is not to be disseminated broadly.
+
+Active
+M (SD)
+
+Passive
+M (SD)
+
+Beneficial
+M (SD)
+
+Outcome variable
+
+Wave 1
+
+Wave 2
+
+Wave 1
+
+Time 2
+
+Wave 1
+
+Wave 2
+
+Job satisfaction
+Organizational commitment
+Organizational citizenship behaviors
+Job performance
+Turnover intent
+
+4.04 (.10)
+3.34 (.16)
+3.60 (.10)
+4.06 (.15)
+2.91 (.23)
+
+3.95 (.09)
+3.47 (.12)
+3.52 (.11)
+3.82 (.18)
+2.72 (.18)
+
+2.15 (.19)
+2.26 (.12)
+3.32 (.07)
+4.64 (.06)
+2.59 (.20)
+
+2.23 (.20)
+2.32 (.13)
+3.34 (.10)
+4.64 (.06)
+2.46 (.20)
+
+4.51 (.04)
+3.69 (.07)
+3.94 (.05)
+4.77 (.03)
+1.58 (.07)
+
+4.55 (.04)
+3.93 (.06)
+4.00 (.06)
+4.78 (.03)
+1.50 (.08)
+
+Post hoc analyses. We conducted post hoc analyses to examine gender and parental status as predictors of WF profiles (see
+Table S2 in the online supplemental material) but could not detect
+differences in conditional transition probabilities. One trend was
+that men were 90% likely, and women 56% likely, to remain in the
+active profile. Yet this seemingly large difference was not statistically significant, suggesting inadequate power.
+
+Discussion
+In this study, we explored changes to employees’ WF interface
+during the unfolding of the COVID-19 crisis, the personal and job
+factors related to WF changes, and how WF changes relate to job
+attitudes and performance. Our findings related to the COVID-19
+event may offer insight into similar macrolevel crises, including a
+second wave of COVID-19, other pandemics which are expected
+to occur more often in the future (World Economic Forum, 2019),
+or potentially natural disasters and major social unrest. The current
+study sheds light on how employers and employees can better
+manage the WF interface during challenging events and contributes to a sparse body of research linking macrolevel events to
+individual well-being, attitudes, and behavior (Kim & Ployhart,
+2014).
+We accomplish these aims by taking a person-centered approach, identifying three WF profiles (Wang & Hanges, 2011;
+Woo et al., 2018)––beneficial (low conflict and high enrichment),
+active (medium conflict and enrichment), and passive (low conflict
+and enrichment). Although our profiles slightly differ from past
+
+research (Moazami et al., 2019; Rantanen et al., 2013), we replicated them in two data sets. A key question is whether such
+profiles change with societal events. Our results suggest that the
+number and nature of profiles may endure but that, as we discuss
+next, some people move to a new profile during macro events.
+However, it is not clear whether findings generalize beyond our
+sample (e.g., older employees) or study design (e.g., 6-week time
+lag), warranting future research.
+Second, by collecting data before and during the COVID-19
+pandemic as suggested by Bliese et al. (2017), we shed light on
+how employees’ WF interfaces change during a macrolevel crisis,
+a topic on which there has been little empirical study (Eby et al.,
+2016). EST suggests that events that are novel, disruptive, and
+critical create behavior changes. By extension, we argue that
+COVID-19, as a negative exogenous event with these characteristics, should affect the WF interface. Consistent with EST, our
+results show that within a few weeks of the COVID-19 crisis,
+many, though not all employees, experienced shifts in the WF
+interface in terms of the combination of conflict and enrichment
+(Fisher et al., 2020; Kramer & Kramer, 2020). Transitions from
+some profiles were more likely (i.e., passive) than were others (i.e.,
+beneficial). People with little conflict or enrichment (i.e., passive)
+before COVID-19 were more likely to face greater conflict and
+enrichment, transitioning to the active profile. In other words,
+people who started off in an undesirable low-activation profile
+were likely to transition to an undesirable high-activation profile
+during the COVID-19 crisis. In addition to EST, this is consistent
+
+Table 9
+Mean Levels (With Standard Errors) of Changes in Employee Outcomes Across Different
+Transitions in Study 2
+⌬MW2–W1 (SE)
+Transition pattern
+
+Job
+satisfaction
+
+Active (no transition)
+Active ¡ Passive
+Active ¡ Beneficial
+Passive (no transition)
+Passive ¡ Active
+Passive ¡ Beneficial
+Beneficial (no transition)
+Beneficial ¡ Active
+Beneficial ¡ Passive
+
+.06 (.15)
+⫺.03 (.23)
+.38 (.26)
+.04 (.08)
+⫺.03 (.19)
+.30 (.11)ⴱⴱ
+⫺.03 (.06)
+⫺.51 (.20)ⴱⴱ
+⫺.20 (.24)
+
+Note. W2 ⫽ Wave 2; W1 ⫽ Wave 1.
+p ⬍ .05. ⴱⴱ p ⬍ .01. ⴱⴱⴱ p ⬍ .001.
+
+ⴱ
+
+Organizational
+Organizational
+Job
+commitment citizenship behaviors performance Turnover intent
+.09 (.15)
+.33 (.24)
+.40 (.16)ⴱ
+.08 (.07)
+.11 (.13)
+.37 (.13)ⴱⴱ
+.23 (.05)ⴱⴱⴱ
+.25 (.17)
+.07 (.20)
+
+⫺.16 (.11)
+.02 (.26)
+.27 (.21)
+.04 (.06)
+⫺.08 (.20)
+.22 (.13)
+.00 (.06)
+.14 (.13)
+⫺.18 (.12)
+
+⫺.27 (.12)ⴱ
+⫺.09 (.20)
+.25 (.18)
+.04 (.06)
+⫺.18 (.13)
+.00 (.09)
+⫺.02 (.03)
+⫺.38 (.16)ⴱ
+⫺.06 (.09)
+
+.18 (.17)
+⫺.39 (.28)
+⫺.72 (.21)ⴱⴱ
+⫺.14 (.09)
+⫺.08 (.13)
+⫺.31 (.12)ⴱ
+⫺.06 (.05)
+.46 (.21)ⴱ
+.11 (.14)
+
+WORK–FAMILY PROFILE TRANSITION DURING COVID-19
+
+1083
+
+Table 10
+Recommendations for Organizations on Best Practices in Managing Societal Crisis Events
+
+This document is copyrighted by the American Psychological Association or one of its allied publishers.
+This article is intended solely for the personal use of the individual user and is not to be disseminated broadly.
+
+1.
+2.
+3.
+4.
+5.
+6.
+
+Prior to event
+Develop policies and practices to help employees manage work and family effectively
+Train managers on the importance of compassion during societal crisis events
+Recognize and reward compassionate supervisor behaviors
+Proactively adopt new technologies that support remote work in general and in times of societal crisis events specifically
+Provide support services (e.g., a help desk) and training to employees on new technologies
+Train employees on various coping mechanisms (e.g., emotion- vs. problem-focused) and appropriate situations to use them
+
+During event
+Emphasize to leaders the importance of compassion and reward leaders who display it
+As an act of compassion, make an “employee health first” policy and then walk the talk
+Recognize employee technostress and provide on-demand support service to ameliorate it
+Be supportive of employee preferences to keep work and family separate and provide tips or training on how employees can create boundaries
+between work and home when working remotely (e.g., a “no after hour” email policy to foster segmentation)
+5. Provide real-time coping tips that emphasize problem-solving coping (e.g., time management) and reduce use of emotion-based coping (e.g.,
+ruminating on crisis events)
+1.
+2.
+3.
+4.
+
+Note. Prior to event recommendations are based on the findings of the study during the crisis event. These recommendations help employers plan and
+lay the foundation in advance of a societal crisis.
+
+with conservation of resources (COR; Hobfoll, 1989) theory’s
+application to traumatic events (those that are unexpected, make
+excessive demands, are outside resource utilization strategies, etc.)
+which are particularly threatening and result in rapid resource
+depletion (Hobfoll, 1991).
+Importantly, people with a beneficial profile (low conflict and
+high enrichment) often sustained this profile, even after the onset
+of COVID-19, counter to anecdotal reports of the widespread,
+disruptive nature of COVID-19 to the WF interface. These findings have at least three important implications. First, the stability
+of the beneficial profiles suggests that societal crisis does not
+always translate into personal crisis (Eby et al., 2016) and consistent with EST, people may interpret the same event differently
+(Morgeson et al., 2015). Second, these findings are perhaps best
+explained by COR theory’s tenets of resource gain spirals (Hobfoll, 1989). The continuity of many beneficial profiles suggests
+that most people who fared well before the pandemic were able to
+avert significant distress at least during the initial stages of this
+event, perhaps due to coping or other resources, which are critical
+to recovery from natural disasters (Benight et al., 1999). COR
+theory suggests that people with more resources are better positioned to protect resources during adverse events (Hobfoll, 1989,
+2011). In this study, before the pandemic, people in the beneficial
+profile had the resources to manage WF demands. The ability to
+invest resources to foster resource gain spirals once the pandemic
+hit seemingly enabled them to avert an undesirable profile transition. Merging theory with practice, these results reinforce arguments that employer-provided WF support is always vital, not only
+during crisis events. By proactively supporting WF needs, employers can better position employees to navigate WF roles effectively
+before and during macrolevel crisis events (see Table 10). A final
+implication is the importance of studying events before and after
+their onset (Bliese et al., 2017) given much “disaster research”
+only examines people’s responses over time after an event (e.g.,
+Benight et al., 1999). Our research indicates that people’s tendencies to change profiles during societal crisis differed depending on
+whether they started in a relatively resource rich (beneficial) or
+resource poor (passive) profile, shedding new light on principles of
+COR.
+
+In light of the EST notion that people differ in their reactions to
+macro events (Morgeson et al., 2015), we go beyond describing
+WF profile transitions to examine personal and work factors that
+predict such transitions to guide employers on best practices.
+Emotion-focused coping, technology overload, and technology
+invasion were associated with transition from a beneficial to an
+active profile (a negative transition). Yet, a compassionate leader
+was associated with a positive transition from a passive to beneficial profile. Perhaps because of their comfort integrating work
+and home, employees with lower segmentation preferences (i.e.,
+integrators) were more likely to benefit during COVID-19 by
+transitioning from an active to beneficial profile. Employees
+whose leaders exhibited fewer FSSBs were more likely to transition from an active to passive profile but showed no transition
+to/from beneficial profiles. While unexpected, perhaps supervisors
+who exhibit FSSBs after the onset of COVID-19 also did so
+prepandemic; thus, no transition might be observed. Future research should examine this possibility.
+Collectively, our results suggest ways employees and employers
+(see Table 10) might improve the negative effects of macrolevel
+crises. Employers that identify technology-related needs, provide
+technology training in advance, and offer technology support during periods of turmoil might offset the negative effects of technostress. Likewise, employers can train supervisors on the importance of compassion, and develop “employee health first” plans to
+help workers manage work and family. These actions may especially be needed by people who use emotion-focused coping or
+prefer segmentation, as they are likely to face more adverse
+changes in the WF interface.
+Our research also highlights why employees and employers
+should care about workers’ WF struggles. As expected, negative
+transitions (i.e., from beneficial to active/passive) have negative
+effects on worker outcomes. Yet, we found no changes in outcomes with transitions between passive and active profiles, perhaps due to small samples (and low power) in transition groups.
+Future research may explore the nuances of conflict and enrichment profiles in terms of employee outcomes, but our study
+suggests that conflict and enrichment should be considered in
+tandem to explore how combinations of these variables relate to
+
+This document is copyrighted by the American Psychological Association or one of its allied publishers.
+This article is intended solely for the personal use of the individual user and is not to be disseminated broadly.
+
+1084
+
+VAZIRI, CASPER, WAYNE, AND MATTHEWS
+
+key outcomes. Still, we suggest that employers who offer instrumental (e.g., technology support) and emotional (e.g., compassion)
+support to employees during adverse events should help them
+manage work and family, and benefit with better employee attitudes and behaviors.
+As with any study, ours has limitations. Our data come from
+workers recruited via MTurk and Qualtrics. Although our samples
+included many industries, findings may not generalize to all people. Notably, most Study 2 participants had grown children rather
+than young children, so findings may not generalize to parents of
+young children. We explored effects of gender, parental status, and
+children at home but did not find differences in transition probabilities, likely due to low power. Thus, we encourage future
+research to include strata of participants with young children. More
+than half of our participants changed from onsite to remote work
+during COVID-19. However, our data did not differentiate people
+without a change in work location by remote versus onsite work
+with risk of exposure to COVID-19, so we could not examine
+effects of high-risk work, another important area for future research. Also, a 6-week lag was chosen in part due to time needed
+to update the study protocol and obtain IRB approval. Shorter or
+longer lags may have identified distinct profile transition relationships. Further, predictors were only collected at W2; however, the
+use of pre–post data for other variables reduces common method
+variance concerns. Although we had systematic attrition, attrition
+analyses suggested little influence on results, except for technology incompatibility findings, which should be interpreted cautiously.
+Finally, our analytical methods (i.e., LPA and LTA) have their
+own criticisms. Notably, these methods are prone to interpretation
+bias in identifying profiles (Morin, Meyer, Creusier, & Biétry,
+2016), and overextraction of profiles and alternative explanation of
+population heterogeneity (Bauer & Curran, 2003a, 2003b). Beyond
+that, these techniques are sample-specific and require relatively
+large heterogeneous samples to be stable and generalizable (Woo
+et al., 2018). However, to deal with concerns about samplespecific findings, we replicated our profiles across two distinct
+samples. That said, although a variable-centered approach could be
+used to examine the combination of conflict and enrichment (i.e.,
+via interaction terms), we are unaware of a variable-centered
+approach that would allow us to examine such combinations as
+outcomes, as done here. Given the nature of our research questions
+(e.g., examining profile transitions during a societal crisis), LPA
+and LTA were appropriate analytical tools to provide novel insights (Cudeck & Henly, 2003). Still, we see these challenges as
+areas of opportunities for future research. Researchers may wish to
+collect additional waves of data with even larger samples of
+respondents during societal-crisis events. This would allow scholars to replicate the profiles and profile transitions found here.
+In short, the current study explores how societal crises impact
+employees’ WF interface. Employees who transition to a more
+negative WF profile during such events have more negative job
+attitudes and report fewer positive work behaviors. As such, employers have good reason to help workers manage work and home
+during societal turmoil. Those that offer emotional support from
+compassionate supervisors and instrumental support for new technology may ease WF transitions and benefit with committed
+employees who remain long after societal turmoil passes.
+
+References
+Allen, T. D., French, K. A., Braun, M. T., & Fletcher, K. (2019). The
+passage of time in work–family research: Toward a more dynamic
+perspective. Journal of Vocational Behavior, 110, 245–257. http://dx.doi
+.org/10.1016/j.jvb.2018.11.013
+Amstad, F. T., Meier, L. L., Fasel, U., Elfering, A., & Semmer, N. K.
+(2011). A meta-analysis of work–family conflict and various outcomes
+with a special emphasis on cross-domain versus matching-domain relations. Journal of Occupational Health Psychology, 16, 151–169. http://
+dx.doi.org/10.1037/a0022170
+Ashforth, B. E., Kreiner, G., & Fugate, M. (2000). All in a day’s work:
+Boundaries and micro role transitions. Academy of Management Review,
+25, 472– 491. http://dx.doi.org/10.5465/amr.2000.3363315
+Austenfeld, J. L., & Stanton, A. L. (2004). Coping through emotional
+approach: A new look at emotion, coping, and health-related outcomes.
+Journal of Personality, 72, 1335–1364. http://dx.doi.org/10.1111/j
+.1467-6494.2004.00299.x
+Bauer, D. J., & Curran, P. J. (2003a). Distributional assumptions of growth
+mixture models: Implications for overextraction of latent trajectory
+classes. Psychological Methods, 8, 338 –363. http://dx.doi.org/10.1037/
+1082-989X.8.3.338
+Bauer, D. J., & Curran, P. J. (2003b). Overextraction of latent trajectory
+classes: Much ado about nothing? Reply to Rindskopf (2003), Muthén
+(2003), and Cudeck and Henly (2003). Psychological Methods, 8, 384 –
+393. http://dx.doi.org/10.1037/1082-989X.8.3.384
+Beer, T. (2020). COVID-19 fallout: Lower-income earners hit hardest by
+job losses. Retrieved from https://www.forbes.com/sites/tommybeer/
+2020/05/14/covid-19-fallout-lower-income-earners-hit-hardest-by-joblosses/#94ba9c35d897
+Benight, C. C., Ironson, G., Klebe, K., Carver, C. S., Wynings, C., Burnett,
+K., . . . Schneiderman, N. (1999). Conservation of resources and coping
+self-efficacy predicting distress following a natural disaster: A causal
+model analysis where the environment meets the mind. Anxiety, Stress,
+and Coping, 12, 107–126. http://dx.doi.org/10.1080/1061580
+9908248325
+Bentein, K., Vandenberghe, C., Vandenberg, R., & Stinglhamber, F.
+(2005). The role of change in the relationship between commitment and
+turnover: A latent growth modeling approach. Journal of Applied Psychology, 90, 468 – 482. http://dx.doi.org/10.1037/0021-9010.90.3.468
+Bliese, P. D., Adler, A. B., & Flynn, P. J. (2017). Transition processes: A
+review and synthesis integrating methods and theory. Annual Review of
+Organizational Psychology and Organizational Behavior, 4, 263–286.
+http://dx.doi.org/10.1146/annurev-orgpsych-032516-113213
+Blustein, D. L., Duffy, R., Ferreira, J. A., Cohen-Scali, V., Cinamon, R. G.,
+& Allan, B. A. (2020). Unemployment in the time of COVID-19: A
+research agenda. Journal of Vocational Behavior, 119, 103436. http://
+dx.doi.org/10.1016/j.jvb.2020.103436
+Bulger, C. A., Matthews, R. A., & Hoffman, M. E. (2007). Work and
+personal life boundary management: Boundary strength, work/personal
+life balance, and the segmentation-integration continuum. Journal of
+Occupational Health Psychology, 12, 365–375. http://dx.doi.org/10
+.1037/1076-8998.12.4.365
+Butts, M., Becker, W., & Boswell, W. (2015). Hot buttons and time sinks:
+The effects of electronic communication during nonwork time on emotions and work-nonwork conflict. Academy of Management Journal, 58,
+1–26. http://dx.doi.org/10.5465/amj.2014.0170
+Cammann, C., Fichman, M., Jenkins, D., & Klesh, J. (1979). The Michigan
+Organizational Assessment Questionnaire. Ann Arbor, MI: University
+of Michigan.
+Casper, W. J., Eby, L. T., Bordeaux, C., Lockwood, A., & Lambert, D.
+(2007). A review of research methods in IO/OB work–family research.
+Journal of Applied Psychology, 92, 28 – 43. http://dx.doi.org/10.1037/
+0021-9010.92.1.28
+
+This document is copyrighted by the American Psychological Association or one of its allied publishers.
+This article is intended solely for the personal use of the individual user and is not to be disseminated broadly.
+
+WORK–FAMILY PROFILE TRANSITION DURING COVID-19
+Chawla, N., MacGowan, R. L., Gabriel, A. S., & Podsakoff, N. P. (2020).
+Unplugging or staying connected? Examining the nature, antecedents,
+and consequences of profiles of daily recovery experiences. Journal of
+Applied Psychology, 105, 19 –39. http://dx.doi.org/10.1037/apl0000423
+Chen, A., & Karahanna, E. (2018). Life interrupted: The effects of
+technology-mediated work interruptions on work and nonwork outcomes. MIS Quarterly: Management Information Systems, 42, 1023–
+1042.
+Collins, L. M., & Lanza, S. T. (2009). Latent class and latent transition
+analysis: With applications in the social, behavioral, and health sciences. Hoboken, NJ: Wiley. http://dx.doi.org/10.1002/9780470567333
+Cook, T. D., & Campbell, D. T. (1979). Quasi-experimentation: Design
+and analysis issues for field settings. Boston, MA: Houghton Mifflin.
+Crain, T. L., & Stevens, S. C. (2018). Family-supportive supervisor behaviors: A review and recommendations for research and practice.
+Journal of Organizational Behavior, 39, 869 – 888. Hoboken, NJ: Wiley.
+http://dx.doi.org/10.1002/job.2320
+Cudeck, R., & Henly, S. J. (2003). A realistic perspective on pattern
+representation in growth data: Comment on Bauer and Curran (2003).
+Psychological Methods, 8, 378 –383. http://dx.doi.org/10.1037/1082989X.8.3.378
+Davenport, B. (2015). Compassion, suffering and servant-leadership: Combining compassion and servant-leadership to respond to suffering. Leadership, 11, 300 –315. http://dx.doi.org/10.1177/1742715014532481
+Demerouti, E., & Geurts, S. (2004). Towards a typology of work-home
+interaction. Community, Work and Family, 7, 285–309. http://dx.doi.org/
+10.1080/1366880042000295727
+Dutton, J. E., Workman, K. M., & Hardin, A. E. (2014). Compassion at
+work. Annual Review of Organizational Psychology and Organizational
+Behavior, 1, 277–304. http://dx.doi.org/10.1146/annurev-orgpsych031413-091221
+Eby, L. T., Mitchell, M., & Zimmerman, L. (2016). Work and family in
+times of crisis. In T. D. Allen & L. T. Eby (Eds.), The Oxford handbook
+of work and family. New York, NY: Oxford University Press. http://dx
+.doi.org/10.1093/oxfordhb/9780199337538.013.32
+Endler, N. S., & Parker, J. D. A. (1994). Assessment of multidimensional
+coping: Task, emotion, and avoidance strategies. Psychological Assessment, 6, 50 – 60. http://dx.doi.org/10.1037/1040-3590.6.1.50
+Fisher, J., Languilaire, J.-C., Lawthom, R., Nieuwenhuis, R., Petts, R. J.,
+Runswick-Cole, K., & Yerkes, M. A. (2020). Community, work, and
+family in times of COVID-19. Community Work & Family, 23, 247–252.
+http://dx.doi.org/10.1080/13668803.2020.1756568
+Greenhaus, J. H., & Beutell, N. (1985). Sources of conflict between work
+and family roles. Academy of Management Review, 10, 76 – 88. http://
+dx.doi.org/10.5465/amr.1985.4277352
+Greenhaus, J. H., & Powell, G. N. (2006). When work and family are
+allies: A theory of work–family enrichment. Academy of Management
+Review, 31, 72–92. http://dx.doi.org/10.5465/amr.2006.19379625
+Hammer, L. B., Ernst Kossek, E., Bodner, T., & Crain, T. (2013). Measurement development and validation of the family supportive supervisor behavior short-form (FSSB-SF). Journal of Occupational Health
+Psychology, 18, 285–296. http://dx.doi.org/10.1037/a0032612
+Hammer, L. B., Kossek, E. E., Yragui, N. L., Bodner, T. E., & Hanson,
+G. C. (2009). Development and validation of a multidimensional measure of family supportive supervisor behaviors (FSSB). Journal of
+Management, 35, 837– 856. http://dx.doi.org/10.1177/014920630
+8328510
+Hobfoll, S. E. (1989). Conservation of resources. A new attempt at conceptualizing stress. American Psychologist, 44, 513–524. http://dx.doi
+.org/10.1037/0003-066X.44.3.513
+Hobfoll, S. E. (1991). Traumatic stress: A theory based on rapid loss of
+resources. Anxiety Research, 4, 187–197. http://dx.doi.org/10.1080/
+08917779108248773
+
+1085
+
+Hobfoll, S. E. (2011). Conservation of resource caravans and engaged
+settings. Journal of Occupational and Organizational Psychology, 84,
+116 –122. http://dx.doi.org/10.1111/j.2044-8325.2010.02016.x
+Huang, J. L., Curran, P. G., Keeney, J., Poposki, E. M., & DeShon, R. P.
+(2012). Detecting and deterring insufficient effort responding to surveys.
+Journal of Business and Psychology, 27, 99 –114. http://dx.doi.org/10
+.1007/s10869-011-9231-8
+Kacmar, K. M., Crawford, W. S., Carlson, D. S., Ferguson, M., & Whitten,
+D. (2014). A short and valid measure of work–family enrichment.
+Journal of Occupational Health Psychology, 19, 32– 45. http://dx.doi
+.org/10.1037/a0035123
+Kim, Y., & Ployhart, R. E. (2014). The effects of staffing and training on
+firm productivity and profit growth before, during, and after the Great
+Recession. Journal of Applied Psychology, 99, 361–389. http://dx.doi
+.org/10.1037/a0035408
+Kramer, A., & Kramer, K. Z. (2020). The potential impact of the
+COVID-19 pandemic on occupational status, work from home, and
+occupational mobility. Journal of Vocational Behavior. Advance online
+publication. http://dx.doi.org/10.1016/j.jvb.2020.103442
+Kreiner, G. (2006). Consequences of work– home segmentation or integration: A person-environment fit perspective. Journal of Organizational
+Behavior, 27, 485–508. http://dx.doi.org/10.1002/job.386
+Lang, J. W. B., & Kell, H. J. (2019). General mental ability and specific
+abilities: Their relative importance for extrinsic career success. Journal
+of Applied Psychology. Advance online publication. http://dx.doi.org/10
+.1037/apl0000472
+Lapierre, L. M., & Allen, T. D. (2006). Work-supportive family, familysupportive supervision, use of organizational benefits, and problemfocused coping: Implications for work–family conflict and employee
+well-being. Journal of Occupational Health Psychology, 11, 169 –181.
+http://dx.doi.org/10.1037/1076-8998.11.2.169
+Lapierre, L. M., & McMullan, A. (2016). A review of methodological and
+measurement approaches to the study of work and family. In T. D. Allen
+& L. T. Eby (Eds.), The Oxford handbook of work and family (pp.
+36 –52). New York, NY: Oxford University Press. http://dx.doi.org/10
+.1093/oxfordhb/9780199337538.013.4
+Lautsch, B. A., Kossek, E. E., & Eaton, S. C. (2009). Supervisory approaches and paradoxes in managing telecommuting implementation.
+Human Relations, 62, 795– 827. http://dx.doi.org/10.1177/0018
+726709104543
+Lazarus, R., & Folkman, S. (1984). Stress, appraisal, and coping. New
+York, NY: Springer.
+Lee, K., & Allen, N. J. (2002). Organizational citizenship behavior and
+workplace deviance: The role of affect and cognitions. Journal of
+Applied Psychology, 87, 131–142. http://dx.doi.org/10.1037/0021-9010
+.87.1.131
+Leung, L., & Zhang, R. (2017). Mapping ICT use at home and telecommuting practices: A perspective from work/family border theory. Telematics and Informatics, 34, 385–396. http://dx.doi.org/10.1016/j.tele
+.2016.06.001
+Lo, Y., Mendell, N. R., & Rubin, D. B. (2001). Testing the number of
+components in a normal mixture. Biometrika, 88, 767–778. http://dx.doi
+.org/10.1093/biomet/88.3.767
+Mauno, S., & Rantanen, M. (2013). Contextual and dispositional coping
+resources as predictors of work–family conflict and enrichment: Which
+of these resources or their combinations are the most beneficial? Journal
+of Family and Economic Issues, 34, 87–104. http://dx.doi.org/10.1007/
+s10834-012-9306-3
+Mauno, S., Rantanen, M., & Tolvanen, A. (2014). Identifying coping
+profiles and profile differences in role engagement and subjective wellbeing. Journal of Basic and Applied Sciences, 10, 189 –204. http://dx
+.doi.org/10.6000/1927-5129.2014.10.27
+McNall, L. A., Nicklin, J. M., & Masuda, A. D. (2010). A meta-analytic
+review of the consequences associated with work–family enrichment.
+
+This document is copyrighted by the American Psychological Association or one of its allied publishers.
+This article is intended solely for the personal use of the individual user and is not to be disseminated broadly.
+
+1086
+
+VAZIRI, CASPER, WAYNE, AND MATTHEWS
+
+Journal of Business and Psychology, 25, 381–396. http://dx.doi.org/10
+.1007/s10869-009-9141-1
+Meyer, J., & Allen, N. J. (1991). A three-component conceptualization of
+organizational commitment. Human Resource Management Review, 1,
+61– 89. http://dx.doi.org/10.1016/1053-4822(91)90011-Z
+Moazami, A., Nurmi, J. E., Mauno, S., Aunola, K., & Rantanen, J. (2019).
+Longitudinal latent profiles of work–family balance: Examination of
+antecedents and outcomes. International Journal of Stress Management,
+26, 65–77. http://dx.doi.org/10.1037/str0000093
+Moore, G. C., & Benbasat, I. (1991). Development of an instrument to
+measure the perceptions of adopting an information technology innovation. Information Systems Research, 2, 192–222. http://dx.doi.org/10
+.1287/isre.2.3.192
+Morgeson, F. P., Mitchell, T., & Liu, D. (2015). Event system theory: An
+event-oriented approach to the organizational sciences. Academy of
+Management Review, 40, 515–537. http://dx.doi.org/10.5465/amr.2012
+.0099
+Morin, A. J. S., & Marsh, H. W. (2015). Disentangling shape from level
+effects in person-centered analyses: An illustration based on university
+teachers’ multidimensional profiles of effectiveness. Structural Equation Modeling, 22, 39 –59. http://dx.doi.org/10.1080/10705511.2014
+.919825
+Morin, A. J. S., Meyer, J. P., Creusier, J., & Biétry, F. (2016). Multiplegroup analysis of similarity in latent profile solutions. Organizational
+Research Methods, 19, 231–254. http://dx.doi.org/10.1177/1094
+428115621148
+Morin, A. J. S., Morizot, J., Boudrias, J. S., & Madore, I. (2011). A
+multifoci person-centered perspective on workplace affective commitment: A latent profile/factor mixture analysis. Organizational Research
+Methods, 14, 58 –90. http://dx.doi.org/10.1177/1094428109356476
+Muthén, B., & Asparouhov, T. (2011). LTA in Mplus: Transition probabilities influenced by covariates. Mplus Web Notes, 13, 1–30. Retrieved
+from http://www.statmodel.com/examples/LTAwebnote.pdf
+Muthen, L. K., & Muthen, B. O. (2015). Mplus user’s guide (7th ed.). Los
+Angeles, CA: Author.
+Netemeyer, R. G., Boles, J. S., & McMurrian, R. (1996). Development and
+validation of work–family conflict and family-work conflict scales.
+Journal of Applied Psychology, 81, 400 – 410. http://dx.doi.org/10.1037/
+0021-9010.81.4.400
+Nippert-Eng, C. (1996). Home and work: Negotiating boundaries through
+everyday life. Chicago, IL: University of Chicago Press. http://dx.doi
+.org/10.7208/chicago/9780226581477.001.0001
+Nylund, K. L., Asparouhov, T., & Muthén, B. O. (2007). Deciding on the
+number of classes in latent class analysis and growth mixture modeling:
+A Monte Carlo simulation study. Structural Equation Modeling, 14,
+535–569. http://dx.doi.org/10.1080/10705510701575396
+Odle-Dusseau, H. N., Britt, T. W., & Greene-Shortridge, T. M. (2012).
+Organizational work–family resources as predictors of job performance
+and attitudes: The process of work–family conflict and enrichment.
+Journal of Occupational Health Psychology, 17, 28 – 40. http://dx.doi
+.org/10.1037/a0026428
+Peng, J., Chen, Y., Xia, Y., & Ran, Y. (2017). Workplace loneliness,
+leader-member exchange and creativity: The cross-level moderating role
+of leader compassion. Personality and Individual Differences, 104,
+510 –515. http://dx.doi.org/10.1016/j.paid.2016.09.020
+Prime, H., Wade, M., & Browne, D. T. (2020). Risk and resilience in
+family well-being during the COVID-19 pandemic. American Psychologist. Advance online publication. http://dx.doi.org/10.1037/
+amp0000660
+Ragu-Nathan, T. S., Tarafdar, M., Ragu-Nathan, B. S., & Tu, Q. (2008).
+The consequences of technostress for end users in organizations: Conceptual development and validation. Information Systems Research, 19,
+417– 433. http://dx.doi.org/10.1287/isre.1070.0165
+
+Rantanen, J., Kinnunen, U., Mauno, S., & Tement, S. (2013). Patterns of
+conflict and enrichment in work–family balance: A three-dimensional
+typology. Work and Stress, 27, 141–163. http://dx.doi.org/10.1080/
+02678373.2013.791074
+Rantanen, M., Mauno, S., Kinnunen, U., & Rantanen, J. (2011). Do
+individual coping strategies help or harm in the work–family conflict
+situation? Examining coping as a moderator between work–family conflict and well-being. International Journal of Stress Management, 18,
+24 – 48. http://dx.doi.org/10.1037/a0022007
+Raykov, T., & Marcoulides, G. A. (2004). Using the delta method for
+approximate interval estimation of parameter functions in SEM. Structural Equation Modeling, 11, 621– 637. http://dx.doi.org/10.1207/
+s15328007sem1104_7
+Satorra, A. (2000). Scaled and adjusted restricted tests in multi-sample
+analysis of moment structures. In R. D. H. Heijmans, D. S. G. Pollock,
+& A. Satorra (Eds.), Innovations in multivariate statistical analysis (pp.
+233–247). Philadelphia, PA: Kluwer Academic. http://dx.doi.org/10
+.1007/978-1-4615-4603-0_17
+Seaman, S. R., & White, I. R. (2013). Review of inverse probability
+weighting for dealing with missing data. Statistical Methods in Medical
+Research, 22, 278 –295. http://dx.doi.org/10.1177/0962280210395740
+Shiota, M. N., Keltner, D., & John, O. P. (2006). Positive emotion dispositions differentially associated with Big Five personality and attachment
+style. The Journal of Positive Psychology, 1, 61–71. http://dx.doi.org/
+10.1080/17439760500510833
+Shipp, A. J., & Cole, M. S. (2015). Time in individual-level organizational
+studies: What is it, how is it used, and why isn’t it exploited more often?
+Annual Review of Organizational Psychology and Organizational Behavior, 2, 237–260. http://dx.doi.org/10.1146/annurev-orgpsych032414-111245
+Spurk, D., Hirschi, A., Wang, M., Valero, D., & Kauffeld, S. (2020). Latent
+profile analysis: A review and “how to” guide of its application within
+vocational behavior research. Journal of Vocational Behavior, 120,
+103445. http://dx.doi.org/10.1016/j.jvb.2020.103445
+Tarafdar, M., Tu, Q., Ragu-Nathan, B. S., & Ragu-Nathan, T. S. (2007).
+The impact of technostress on role stress and productivity. Journal of
+Management Information Systems, 24, 301–328. http://dx.doi.org/10
+.2753/MIS0742-1222240109
+ten Brummelhuis, L. L., & Bakker, A. B. (2012). A resource perspective on
+the work-home interface: The work-home resources model. American
+Psychologist, 67, 545–556. http://dx.doi.org/10.1037/a0027974
+Thoemmes, F., & Ong, A. D. (2016). A primer on inverse probability of
+treatment weighting and marginal structural models. Emerging Adulthood, 4, 40 –59. http://dx.doi.org/10.1177/2167696815621645
+Tozzi, J. (2020). Health-care industry loses 1.4 million jobs in pandemic.
+Retrieved from https://www.bloomberg.com/news/articles/2020-05-08/
+health-care-industry-loses-1-4-million-jobs-in-pandemic
+van der Wal, W. M., & Geskus, R. B. (2011). ipw: An R package for
+inverse probability weighting. Journal of Statistical Software, 43, 1–23.
+http://dx.doi.org/10.18637/jss.v043.i13
+Wang, B., Liu, Y., & Parker, S. K. (2020). How does the use of information
+communication technology affect individuals? A work design perspective. Academy of Management Annals, 2018. 0127. http://dx.doi.org/10
+.5465/annals.2018.0127
+Wang, M., & Hanges, P. J. (2011). Latent class procedures: Applications
+to organizational research. Organizational Research Methods, 14, 24 –
+31. http://dx.doi.org/10.1177/1094428110383988
+Wayne, J. H., Matthews, R. A., Odle-Dusseau, H., & Casper, W. J. (2019).
+Fit of role involvement with values: Theoretical, conceptual, and psychometric development of work and family authenticity. Journal of
+Vocational Behavior, 115, 103317. http://dx.doi.org/10.1016/j.jvb.2019
+.06.005
+Williams, L. J., & Anderson, S. E. (1991). Job satisfaction and organizational commitment as predictors of organizational citizenship and in-role
+
+WORK–FAMILY PROFILE TRANSITION DURING COVID-19
+
+This document is copyrighted by the American Psychological Association or one of its allied publishers.
+This article is intended solely for the personal use of the individual user and is not to be disseminated broadly.
+
+behaviors. Journal of Management, 17, 601– 617. http://dx.doi.org/10
+.1177/014920639101700305
+Woo, S. E., & Allen, D. G. (2014). Toward an inductive theory of stayers
+and seekers in the organization. Journal of Business and Psychology, 29,
+683–703. http://dx.doi.org/10.1007/s10869-013-9303-z
+Woo, S. E., Jebb, A. T., Tay, L., & Parrigon, S. (2018). Putting the
+“person” in the center: Review and synthesis of person-centered approaches and methods in organizational science. Organizational Research Methods, 21, 814 – 845. http://dx.doi.org/10.1177/10944
+28117752467
+Wooldridge, J. M. (2007). Inverse probability weighted estimation for
+general missing data problems. Journal of Econometrics, 141, 1281–
+1301. http://dx.doi.org/10.1016/j.jeconom.2007.02.002
+
+1087
+
+World Economic Forum. (2019). Outbreak readiness and business impact:
+Protecting lives and livelihoods across the global economy. Retrieved
+from http://www3.weforum.org/docs/WEF HGHI_Outbreak_Readiness_Business_Impact.pdf
+
+Received June 8, 2020
+Revision received July 10, 2020
+Accepted July 11, 2020 䡲
+
+Correction to Roth et al. (2020)
+In the article “Political Affiliation and Employment Screening Decisions: The Role of Similarity
+and Identification Processes,” by Philip L. Roth, Jason B. Thatcher, Philip Bobko, Kevin D.
+Matthews, Jill E. Ellingson, and Caren B. Goldberg (Journal of Applied Psychology, Vol. 105, No.5,
+pp. 472– 486. http://dx.doi.org/10.1037/apl0000422), Kevin Matthews gathered data and administered study materials, not Philip Bobko.
+http://dx.doi.org/10.1037/apl0000845
+
+

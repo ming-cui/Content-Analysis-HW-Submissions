@@ -1,0 +1,1559 @@
+Journal of Applied Psychology
+© 2020 American Psychological Association
+ISSN: 0021-9010
+
+2020, Vol. 105, No. 11, 1234 –1245
+http://dx.doi.org/10.1037/apl0000739
+
+Working in a Pandemic: Exploring the Impact of COVID-19 Health
+Anxiety on Work, Family, and Health Outcomes
+John P. Trougakos
+
+Nitya Chawla
+
+University of Toronto Scarborough
+
+Texas A&M University
+
+Julie M. McCarthy
+This document is copyrighted by the American Psychological Association or one of its allied publishers.
+This article is intended solely for the personal use of the individual user and is not to be disseminated broadly.
+
+University of Toronto Scarborough
+The COVID-19 pandemic has unhinged the lives of employees across the globe, yet there is little
+understanding of how COVID-19 health anxiety (CovH anxiety)—that is, feelings of fear and apprehension about having or contracting COVID-19 —impacts critical work, home, and health outcomes. In
+the current study, we integrate transactional stress theory (Lazarus & Folkman, 1984) with selfdetermination theory (Deci & Ryan, 2000) to advance and test a model predicting that CovH anxiety
+prompts individuals to suppress emotions, which has detrimental implications for their psychological
+need fulfillment. In turn, lack of psychological need fulfillment hinders employees’ abilities to work
+effectively, engage with their family, and experience heightened well-being. Our model further predicts
+that handwashing frequency—a form of problem-focused coping—will mitigate the effects of CovH
+anxiety. We test our propositions using a longitudinal design that followed 503 employees across the first
+four weeks that stay-at-home and social distancing orders were enacted. Consistent with predictions,
+CovH anxiety was found to impair critical work (goal progress), home (family engagement) and health
+(somatic complaints) outcomes due to increased emotion suppression and lack of psychological need
+fulfillment. Further, individuals who frequently engage in handwashing behavior were buffered from the
+negative impact of CovH anxiety. Combined, our work integrates and extends existing theory and has a
+number of important practical implications. Our research represents a first step to understanding the
+work-, home-, and health-related implications of this unprecedented situation, highlighting the detrimental impact of the anxiety stemming from the COVID-19 pandemic.
+Keywords: COVID-19, anxiety, emotion regulation, self-determination theory, employee well-being and
+effectiveness
+Supplemental materials: http://dx.doi.org/10.1037/apl0000739.supp
+
+I am dealing with feelings of helplessness— usually I am one to plan
+and control every aspect of my life, and in the face of adversity, I will
+simply work harder and smarter. In this situation, I cannot outsmart
+
+a virus, and the unknown, how it will impact the life of my loved ones,
+and what impact it will have in my life, comes in waves of anxiety.
+—Construction industry employee, March 20201
+
+As illustrated in this powerful quote, the COVID-19 pandemic
+has projected humanity into an unprecedented era characterized by
+feelings of helplessness and loss of control. While it is too early to
+robustly understand the impact of the virus on long-term psychological outcomes, several anecdotal reports by health care professionals note an increase in anxiety, particularly surrounding the
+uncertainties brought by COVID-19 (e.g., Achenbach, 2020;
+Kluger, 2020). However, our understanding of how employees’
+COVID-19 health anxiety (CovH anxiety)—that is, feelings of fear
+and apprehension about having or contracting COVID-19 (Afifi,
+Shahnazi, & Harrison, 2018)—spills over to affect their work- and
+home-related behaviors is nascent. In this study, we advance and
+test a model that elucidates the mechanisms by which CovH
+anxiety impacts critical work (goal progress), home (family en-
+
+This article was published Online First September 24, 2020.
+X John P. Trougakos, Department of Management, Rotman School of
+Management, University of Toronto Scarborough; Nitya Chawla, Department of Management, Mays Business School, Texas A&M University;
+Julie M. McCarthy, Department of Management, Rotman School of Management, University of Toronto Scarborough.
+All authors contributed to this article equally; the author order was
+determined randomly. This research was supported by research grants from
+the Social Sciences and Humanities Research Council of Canada awarded
+to John P. Trougakos (435-2014-0693) and Julie M. McCarthy (435-20150220). We thank Aqsa Dutli, Michelle Harli, and Jai Yadav for their
+outstanding work as research assistants. We would also like to thank Daniel
+Beal, Stephane Côté, and Alicia Grandey, for their helpful insights. Finally,
+we thank all frontline workers for their dedication and effort in helping us
+all get through these challenging times.
+Correspondence concerning this article should be addressed to John P.
+Trougakos, Department of Management, Rotman School of Management, University of Toronto Scarborough, 1095 Military Trail, Toronto,
+ON M1C 1A4, Canada. E-mail: john.trougakos@utoronto.ca
+
+1
+This quote was provided by one of the 503 employees included in the
+current study and was captured during the week that Canada implemented
+social distancing measures as a result of COVID-19.
+
+1234
+
+This document is copyrighted by the American Psychological Association or one of its allied publishers.
+This article is intended solely for the personal use of the individual user and is not to be disseminated broadly.
+
+IMPACT OF COVID-19 HEALTH ANXIETY
+
+gagement), and health (somatic complaints) outcomes. Further, we
+assess the role of problem-focused coping in the form of handwashing as a strategy to mitigate the potentially detrimental effects
+of CovH anxiety.
+We advance existing theory and research in at least three ways.
+First, we integrate tenets from transactional stress theory (Lazarus
+& Folkman, 1984) and self-determination theory (SDT; Deci &
+Ryan, 2000) to develop a conceptual framework that delineates the
+mechanisms by which CovH anxiety impacts critical outcomes
+across both work and home domains. Consistent with this theoretical lens, our work is situated within an environmental context—
+the COVID-19 pandemic. Specifically, we theorize that in situations wherein the imminent threat is uncontrollable, as in the
+current crisis, people are more likely to withdraw from the situation by suppressing their emotions (Gross, 2015). Thus, we advance scholarly understanding of the impact of anxiety on individuals’ self-regulation, particularly in situations characterized by
+high levels of threat and lack of control (e.g., pandemics, wars,
+natural disasters). Further, our examination of CovH anxiety as a
+core determinant of suppression is a significant shift from past
+work that has largely focused on the consequences of suppression.
+Second, to understand the downstream effects of suppressing
+one’s emotions during the COVID-19 pandemic, we draw from
+research on emotion regulation and SDT (Deci & Ryan, 2000;
+Roth et al., 2014) to highlight—for the first time—the negative
+impact of emotion suppression on individuals’ psychological need
+fulfillment in a work context. Since emotion suppression negatively impacts factors linked to competence, relatedness, and autonomy (Butler, Lee, & Gross, 2007; Gross, 2015; Gross & John,
+2003; Roth et al., 2014), we expect emotion suppression to hinder
+need fulfillment. We further consider the extent to which the three
+psychological needs of SDT (competence, relatedness, and autonomy) align with domains of workers’ lives (work, family, and
+health) that are likely to be influenced by the pandemic. Thus, in
+line with SDT, we posit that need fulfillment will impact people’s
+ability to effectively work, engage with their family, as well as
+their personal well-being.
+Third, we examine a core moderator of the negative impact of
+CovH anxiety on emotion suppression—active coping in the form
+of handwashing frequency. Drawing from the literature on
+problem-focused coping (Lazarus & Folkman, 1984), as well as
+work demonstrating that anxiety is often driven by a loss of control
+(Bandura, 1988; Fiske, Morling, & Stevens, 1996), we position
+washing one’s hands as a critical behavior that can help individuals
+regain control of the situation, thereby alleviating the detrimental
+effects of CovH anxiety.
+
+Theoretical Background
+The COVID-19 pandemic has impacted all aspects of people’s
+lives, leading to changes in work behaviors, family experiences,
+and personal well-being (e.g., Achenbach (2020); Brenner, 2020;
+Thompson, 2020). In the sections that follow, we integrate core
+ideas from the transactional model of stress (Lazarus, 1991) with
+SDT (Deci & Ryan, 2000) to outline the mechanisms by which we
+expect anxiety stemming from the COVID-19 situation to impact
+these critical outcomes. Our overall conceptual model is depicted
+in Figure 1.
+
+1235
+
+The Impact of CovH Anxiety on Emotion Suppression
+CovH anxiety reflects feelings of apprehension about having or
+contracting COVID-19. Grounded in the literature on health anxiety (Afifi et al., 2018; Creed & Barsky, 2004), this construct is
+aligned with Lazarus and Folkman’s (1984) transactional stress
+framework, which holds that threatening events—such as a global
+pandemic—trigger high levels of anxiety (Lazarus, 1991). This
+conceptualization is also consistent with Cheng and McCarthy’s
+(2018) theory of workplace anxiety, as well as Gross’ (1998)
+process model of emotion regulation, both of which emphasize the
+role of the situation in the experience of anxiety.
+When threatened, individuals analyze their current resources in
+order to enact a coping response (Lazarus & Folkman, 1984).
+Prevailing theory and research indicate that feelings of anxiety will
+trigger defense mechanisms in the form of a fight or flight response that is aimed at escaping the threat (Cannon, 1927). The
+fight response is triggered when the threat is deemed surmountable, while the flight response is triggered when it is believed that
+the threat is difficult to overcome (Folkman & Lazarus, 1980;
+Steimer, 2002). The COVID-19 pandemic is likely to prompt a
+flight response, as it is an immediate threat, it is unclear how long
+it will persist, and there are a multitude of unanswered questions
+regarding its impact. Stress-based theories (Cannon, 1927;
+Lazarus, 1991), combined with theories of emotion regulation
+(Gross, 1998; Gross & John, 2003), provide critical insight on how
+the flight response will surface with respect to emotion-focused
+coping. Specifically, situations that elicit threat, such as the new
+coronavirus, likely motivate people to reduce the expression of
+their emotions through emotion suppression, a response-based
+form of emotion-focused coping that is used to regulate emotions
+after they have been generated (Gross, 1998; Gross, 2015; Gross &
+John, 2003; Lazarus, 1991). Thus, we expect that the affective
+reaction due to the worldwide pandemic (i.e., CovH anxiety)
+triggers emotion-focused coping in the form of emotion suppression (Cutuli, 2014).
+Research findings across several disciplines provide preliminary
+support for this argument. For example, emotion regulation research has found significant positive relations between measures
+of stress (Mohiyeddini, Opacka-Juffry, & Gross, 2014), anxiety
+(Lee et al., 2016), aggression (Grandey, Dickter, & Sin, 2004), and
+negative affect (Talaei-Khoei et al., 2017) on the one hand, and
+suppression-based regulation on the other. Further, cross-sectional
+studies indicate that trait anxiety (Kashdan & Steger, 2006) and
+negative affect predict subsequent emotion suppression (Brockman, Ciarrochi, Parker, & Kashdan, 2017). Additional support
+comes from the realm of clinical psychology, wherein withdrawal
+strategies are commonly observed among individuals with clinical
+levels of anxiety, such as those suffering from generalized anxiety
+and panic disorder (e.g., Baker, Holloway, Thomas, Thomas, &
+Owens, 2004; Kennedy & Ehrenreich-May, 2017). Finally, there is
+evidence for this proposition in scholarly work on chronic illnesses, such as cancer. For instance, Conley, Bishop, and Andersen (2016) found that breast cancer patients with high levels of
+negative affect were more likely to use disengagement-focused
+coping strategies. Combined, the above discussion suggests that
+emotion suppression may be a form of coping with CovH anxiety.
+Thus, we predict:
+
+This document is copyrighted by the American Psychological Association or one of its allied publishers.
+This article is intended solely for the personal use of the individual user and is not to be disseminated broadly.
+
+1236
+
+TROUGAKOS, CHAWLA, AND MCCARTHY
+
+Figure 1. Conceptual model and path analysis results. N ⫽ 465 (after accounting for missing data). Analyses
+include all possible direct effects from predictor to outcome variables. In addition, the residuals of our outcome
+variables were allowed to covary. This model also controls for trait anxiety (assessed at Time 1) on all paths as
+well as hours spent working at home and hours spent working outside home (e.g., at job site, traditional office
+setting, etc.; assessed at Time 4) on the outcome variables. For parsimony, these variables are not presented in
+the figure, but are reported in Table 2. Unstandardized coefficients reported in the figure. ⴱ p ⬍ .05. ⴱⴱ p ⬍ .01.
+
+Hypothesis 1: CovH anxiety is positively related to emotion
+suppression.
+
+The Impact of Emotion Suppression on Need
+Fulfillment
+When individuals engage in response-focused coping in the
+form of suppression, they are stifling the experience of their
+emotions and denying an outlet to attend to their needs (Shahar,
+Kalman-Halevi, & Roth, 2019). Thus, it is not surprising that this
+type of regulation has been found to be maladaptive, particularly
+when people are faced with challenging situations (Gross & Levenson, 1993). Rather than aiding coping, emotion suppression
+tends to undermine support, exacerbate distress, and lead to lower
+physical and psychological well-being (Gross, 2015). Indeed, suppression has been linked to a host of negative personal outcomes
+that span a wide range of personal domains (e.g., Clohessy &
+Ehlers, 1999; Gross, 2015).
+We build on past work to theorize that emotion suppression is
+detrimental to need fulfillment as outlined in SDT, which suggests
+that people strive to meet needs of competence, relatedness, and
+autonomy (Deci & Ryan, 2000; Roth et al., 2014). Fulfillment of
+these needs leads to a number of positive professional, social, and
+health-related outcomes (Gagné & Deci, 2005). However, emotion
+suppression may undermine individuals’ psychological needs due
+to its impact on cognitive functioning, reduced social effectiveness, and sense of autonomy (e.g., Benita, Benish-Weisman, Matos, & Torres, 2019; Grandey, Rupp, & Brice, 2015; Gross, 2015).
+Prior work has established the severely depleting and cognitively taxing nature of suppression (e.g., Baumeister, Bratslavsky,
+Muraven, & Tice, 1998), suggesting that it reduces feelings of
+competence. Indeed, the effort required for suppression impedes
+subsequent efforts to regulate behavior, limiting performance effectiveness (e.g., Beal, Weiss, Barros, & MacDermid, 2005;
+Grandey, 2000). The depleting nature of suppression is largely
+driven by the increased cognitive load resulting from trying to deal
+with the underlying emotions being suppressed (Gross & John,
+2003). This impairs constructive thought processes, problem solving, memory, and information recall, resulting in a reduction in
+individuals’ efficacy beliefs about performing a variety of tasks
+
+(e.g., Beal et al., 2005; Gross, 2015; Richards, Butler, & Gross,
+2003).
+Emotion suppression can also impact individuals’ relatedness
+needs by inhibiting social functioning and positive interpersonal
+experiences. For example, the use of emotion suppression has been
+linked to diminished recall of social information, lower communication effectiveness and social functioning, and reduced rapport
+between interaction partners (Butler et al., 2003; Gross & John,
+2003). Suppression is also related to increased social avoidance
+behaviors, negative partner perceptions, and increased hostility
+(Butler et al., 2007; Trougakos, Jackson, & Beal, 2011). These
+findings highlight a body of evidence linking emotion suppression
+to reduced interpersonal functioning, which should interfere with
+feelings of relatedness.
+Finally, emotion suppression can lead to a decreased sense of
+autonomy. Emotion suppression is an inhibitory state in which
+people do not display their inner feelings (Richards & Gross,
+1999), suggesting that suppression does not reflect autonomous
+behavior. Supporting this logic, scholars have proposed that emotion suppression impairs people’s sense of autonomy as they are
+unable to express genuine emotions and thus experience a loss of
+control (Grandey et al., 2015). Past research has also demonstrated
+that greater use of surface acting—an emotional labor strategy that
+relies on suppression—relates to decreased personal control
+(Grandey, Fisk, & Steiner, 2005) and that use of these strategies is
+opposed to autonomy (Goldberg & Grandey, 2007). Overall, emotion suppression requires restraint, which is likely to reduce a
+person’s sense that their autonomy needs are being met. Based on
+the above discussion, we predict:
+Hypothesis 2: Emotion suppression is negatively related to
+psychological need fulfillment.
+
+Impact of Need Fulfillment on Work, Home, and
+Health Outcomes
+In line with past work on SDT, we expect decreased psychological need fulfillment—stemming from emotion suppression as a
+result of CovH anxiety—to be critical in influencing individuals’
+work effectiveness, home experiences, and health outcomes (e.g.,
+Gagné & Deci, 2005; Ryan & Deci, 2017). These domains capture
+
+This document is copyrighted by the American Psychological Association or one of its allied publishers.
+This article is intended solely for the personal use of the individual user and is not to be disseminated broadly.
+
+IMPACT OF COVID-19 HEALTH ANXIETY
+
+critical aspects of people’s lives impacted by the pandemic (work,
+home, and health), and are conceptually aligned with the facets of
+SDT.
+With respect to the work domain, a lack of need fulfillment is
+likely to impede employees’ job effectiveness, particularly with
+regards to competence needs. Competence “concerns succeeding
+at optimally challenging tasks and being able to attain desired
+outcomes” (Baard, Deci, & Ryan, 2004, p. 2046). Not surprisingly,
+when people experience greater need fulfillment, they experience
+greater goal attainment (Sheldon & Kasser, 1998). For employees
+working during the pandemic, goal progress is an important indicator of work success because formal performance metrics may
+have been unclear during this unprecedented time. As noted by
+Gabriel, Volpone, MacGowan, Butts, and Moran (in press), goal
+progress reflects employee perceptions of whether they have been
+able to meet work goals. Given the alignment between SDT and
+goal progress, the more competent a person feels, the more likely
+they will strive to meet their goals (e.g., Gagné & Deci, 2005).
+Thus, need fulfillment should facilitate goal progress.
+Psychological need fulfillment can also facilitate individuals’
+relational behaviors. During the early stages of the pandemic,
+people were largely cut-off from members of their social network
+outside of their immediate households. As such, the primary outlet
+for social engagement for many people was their own family.
+Thus, family engagement, which reflects the extent to which
+individuals’ direct attention to, and are absorbed in, their family
+(Rothbard, 2001), represents a critical outcome for people during
+the pandemic. SDT’s emphasis on relatedness as a critical need
+also aligns with workers’ family engagement. Past research supports this notion. For instance, psychological need fulfillment can
+increase relationship commitment and warmth toward partners
+(Ducat & Zimmer-Gembeck, 2010; Patrick, Knee, Canevello, &
+Lonsbary, 2007). Moreover, need fulfillment is related to reduced
+hostile behaviors in family relationships (Petit, Knee, Hadden, &
+Rodriguez, 2017), and facilitates more open, understanding, and
+less aggressive responses during family conflicts (Deci & Ryan,
+2014). When individuals’ needs are met, they are also less likely to
+alienate themselves from family or engage in family conflict
+(Senécal, Vallerand, & Guay, 2001). Thus, we expect psychological need fulfilment to be positively related to employees’ family
+engagement.
+Finally, we build on past work demonstrating that need fulfilment plays a critical role in influencing individuals’ health (Deci &
+Ryan, 2000) by examining psychosomatic complaints as a core
+outcome, which is an important physical indicator of well-being
+(e.g., Bennett, Gabriel, Calderwood, Dahling, & Trougakos, 2016;
+Trépanier, Fernet, & Austin, 2016). Employees’ personal wellbeing has long been aligned with SDT needs, most closely with
+autonomy (Deci & Ryan, 1985, 2000). According to Deci and
+Ryan (2000), the satisfaction of autonomy needs is energizing and
+promotes health and well-being, while lack of need satisfaction
+contributes to pathology and ill-being. Need fulfilment has been
+shown to be relevant for numerous well-being indicators, such as
+self-esteem and physical symptoms (Sheldon, Ryan, & Reis,
+1996), variability in daily well-being (Reis, Sheldon, Gable, Roscoe, & Ryan, 2000), as well as energy and sleep quality (Campbell,
+Soenens, Beyers, & Vansteenkiste, 2018). Jointly, we predict that:
+
+1237
+
+Hypothesis 3: Psychological need fulfillment is associated
+with greater (a) goal progress, (b) family engagement, and (c)
+lower somatic complaints.
+In sum, Hypotheses 1–3 suggest a serial mediation process.
+Thus, we propose:
+Hypothesis 4: There is a serial indirect effect of CovH anxiety
+on (a) goal progress, (b) family engagement, and (c) somatic
+complaints via emotion suppression and psychological need
+fulfillment.
+
+Handwashing as a Moderator
+The transactional model of stress (Lazarus & Folkman, 1987)
+also provides insight into factors that may mitigate the effects of
+CovH anxiety. As previously noted, emotion suppression is an
+emotion-focused coping strategy that can help manage the impact
+of the experienced threat. At the same time, individuals can engage
+in problem-focused coping strategies to diminish the impact of
+CovH anxiety on emotion suppression (Lazarus & Folkman,
+1984). In other words, while suppression focuses on managing
+one’s emotional response to the threat, problem-focused coping
+involves strategies that will enable the threat to be endured and/or
+minimized. This is consistent with other stress theories, which
+suggest that when faced with situational demands, problemfocused coping can attenuate the adverse effects of stressors (Hobfoll, 1998). Thus, problem-focused strategies are expected to moderate the negative effects of the stressor. Empirical findings help
+support this proposition as emotion-focused coping has been found
+to mediate, and problem-focused coping has been found to moderate, the relationship between stress and well-being (Aldwin &
+Revenson, 1987; Bhagat, Allie, & Ford, 1995; Parkes, 1990).
+In the midst of the current pandemic, handwashing is one of the
+most central forms of problem-focused coping. Indeed, the first
+piece of advice on the World Health Organization’s (WHO)
+COVID-19 website is: “Regularly and thoroughly clean your
+hands with an alcohol-based hand rub or wash them with soap and
+water” (WHO, 2020). Given that handwashing, when done properly, kills the virus (Hillier, 2020), it provides individuals with a
+mechanism to cope with the threat of COVID-19. This is important
+because anxiety typically triggers a loss of control (Bandura, 1988;
+Fiske et al., 1996; Spector, 1986), which can be alleviated by
+engaging in proactive forms of coping—such as handwashing—
+aimed at minimizing the threat.
+In terms of empirical research, while the impact of handwashing
+on the relation between anxiety and emotion suppression has not
+been examined, there is evidence that handwashing mitigates the
+impact of stressors. For instance, past work has indicated that
+handwashing diminishes the detrimental effects of personal threats
+by evoking positive emotions (Tang et al., 2017) and minimizing
+cognitive interference (Kalanthroff, Aslan, & Dar, 2017). Based on
+the above discussion, we posit that handwashing frequency may
+buffer the impact of CovH anxiety:
+Hypothesis 5: Handwashing moderates the positive relationship between CovH anxiety and emotion suppression, such
+that the positive relationship is weaker when the frequency of
+handwashing is greater.
+
+TROUGAKOS, CHAWLA, AND MCCARTHY
+
+1238
+Method
+
+This document is copyrighted by the American Psychological Association or one of its allied publishers.
+This article is intended solely for the personal use of the individual user and is not to be disseminated broadly.
+
+Participants and Procedure
+To test the impact of CovH anxiety on employees’ experiences
+and behaviors, we strategically began recruitment during the week
+that social distancing measures were implemented in Canada.2,3 In
+an effort to obtain employees from a diverse range of industries,
+we posted advertisements on several social networking sites (e.g.,
+LinkedIn, Facebook, Twitter; Chawla, MacGowan, Gabriel, &
+Podsakoff, 2020). Within the advertisement was a link to the Time
+1 survey, which included a measure of CovH anxiety. To qualify
+for the study, participants had to be employed and work at least 20
+hrs per week in Canada. The remaining three surveys were each
+sent approximately one week apart in an effort to reduce concerns
+tied to common method biases (Podsakoff, MacKenzie, Lee, &
+Podsakoff, 2003). Participants received a link to each survey via
+e-mail on Friday at noon and had until the following Monday at
+noon to complete it. At Time 2, participants rated their emotion
+suppression and handwashing habits. At Time 3, participants completed the measure of psychological need fulfillment. At Time 4,
+we assessed participants’ behaviors across the work and home
+domains, as well as psychosomatic complaints. Participants received a $4 CAD Tango gift card for each completed survey.
+A total of 709 participants met the eligibility criteria. Our study
+inherently included identity checks, as the surveys and Tango gift
+cards were distributed to valid e-mail addresses, alleviating some
+concerns with snowball samples (Marcus, Weigelt, Hergert, Gurt, &
+Gelléri, 2017). We also included CAPTCHA verification and attention
+checks in the surveys. Our final sample consisted of 503 participants
+(70.9%) who provided matched responses across the four surveys. Participants were predominantly female (63.2%), Caucasian (74.6%), and
+full-time employees (89.7%). On average, participants were 36.8 years
+old (SD ⫽ 10.2), worked 7.9 (SD ⫽ 1.7) hours per day, and employed in
+their current organization for 6.3 years (SD ⫽ 7.0).4
+
+Measures
+Table 1 provides details about each of the substantive scales
+used in the current study.5 We included two control variables that
+were theoretically relevant to our hypotheses. First, we controlled
+for employees’ trait levels of anxiety (see Table 1) in an effort to
+show the unique effects of anxiety stemming from the COVID-19
+pandemic. We also controlled for the number of hours employees
+spent working during the week in which we assessed our outcome
+variables, given that it may have a substantive impact on our
+behavioral criteria (see Table 3).
+
+Results
+Descriptive statistics, reliabilities, and correlations are presented in
+Table 2. We tested our conceptual model using path analysis and
+followed recommended practices (please see Appendix A for details
+on our analytic approach and results of our confirmatory factor
+analysis). Results of the path analyses are reported in Table 3 and
+illustrated in Figure 1. Hypothesis 1 predicted that CovH anxiety
+would positively relate to emotion suppression. As reported in Table
+3, we found a significant positive effect of CovH anxiety on suppression (b ⫽ .17, SE ⫽ .04, p ⬍ .01). Importantly, this effect held even
+
+after controlling for trait anxiety (b ⫽ ⫺.01, SE ⫽ .04, ns)6, suggesting anxiety relating to a specific situation (COVID-19) has unique
+effects on suppression.
+Hypothesis 2 proposed that emotion suppression negatively
+relates to psychological need fulfillment. Results provided support
+for this hypothesis, as we found a negative effect of emotion
+suppression on psychological need fulfillment (b ⫽ ⫺.13, SE ⫽
+.04, p ⬍ .01). In addition, consistent with Hypothesis 3, psychological need fulfillment was positively associated with goal progress (b ⫽ .51, SE ⫽ .07, p ⬍ .01) and family engagement (b ⫽ .20,
+SE ⫽ .07, p ⬍ .05), but negatively related to somatic complaints
+(b ⫽ ⫺.33, SE ⫽ .06, p ⬍ .01).
+Hypothesis 4(a– d) theorized that CovH anxiety would have
+serial indirect effects on the behavioral criteria via emotion suppression and need fulfillment. Bootstrap results supported this
+hypothesis: CovH anxiety had a negative indirect effect on goal
+progress (estimate ⫽ ⫺.011, 95% CI [⫺.024, ⫺.004]) and family
+engagement (estimate ⫽ ⫺.004, 95% CI [⫺.012, ⫺.001]) via
+suppression and need fulfillment. In contrast, CovH anxiety had a
+positive indirect effect on somatic complaints (estimate ⫽ .007,
+95% CI [.002, .016]) via suppression and psychological need
+fulfillment. Thus, individuals with greater CovH anxiety suffer
+from reduced work effectiveness (i.e., lower goal progress), family
+engagement, and greater somatic complaints due to their lack of
+psychological need fulfillment as a result of suppressing emotions.
+Our final hypothesis (Hypothesis 5) proposed a moderating
+effect of handwashing frequency on the relationship between
+CovH anxiety and emotion suppression. As illustrated in Figure 2,
+we found a significant interaction effect of CovH anxiety and
+handwashing frequency on emotion suppression (b ⫽ ⫺.01, SE ⫽
+.00, p ⬍ .05). Simple slope analyses revealed that the relationship
+between CovH anxiety and emotion suppression was significant
+and positive when handwashing frequency was lower (simple
+slope: b ⫽ .25, t ⫽ 4.61, p ⬍ .01) but not when the frequency was
+higher (simple slope: b ⫽ .08, t ⫽ 1.40, ns). Thus, proactive
+coping mechanisms—such as handwashing frequency— buffered
+individuals from suppressing their emotions.7
+2
+Strict social distancing protocols, including closure of non-essential
+businesses, were in place during our study.
+3
+This data is the first study published as part of a larger data collection
+(University of Toronto IRB # 00032439; Patterns of recovery: Workplace
+wellbeing study).
+4
+We ran supplemental analyses to examine whether the participants who
+opted-in differed from our final sample on CovH anxiety, trait anxiety, and
+other key demographics. Results indicated that there were no significant differences with one exception, such that the final sample had higher organizational
+tenure. Please contact the authors for additional details on these analyses.
+5
+Although we followed prior work in examining overall need fulfillment (e.g., Foulk, Lanaj, & Krishnan, 2019; Lanaj, Johnson, & Lee, 2016),
+for the sake of thoroughness we also conducted supplemental analyses
+wherein we separated the three psychological needs. Please see the Supplemental Appendix for details of this model.
+6
+We also tested a model that did not include trait anxiety as a control
+variable. The hypothesized effects remained qualitatively unchanged. Results of this model are available from the authors.
+7
+Conditional indirect effects indicated that CovH anxiety was associated
+with lower goal progress and family engagement, but greater somatic
+complaints, via emotion suppression and need fulfillment when handwashing frequency was lower. A detailed description of these analyses is
+presented in Appendix B.
+
+IMPACT OF COVID-19 HEALTH ANXIETY
+
+1239
+
+Table 1
+Measures Used in the Study
+
+This document is copyrighted by the American Psychological Association or one of its allied publishers.
+This article is intended solely for the personal use of the individual user and is not to be disseminated broadly.
+
+Variable
+
+Number
+of items
+
+Measure
+
+CovH anxiety
+
+3
+
+Simms et al. (2011)
+
+Trait anxiety
+
+4
+
+Goldberg (1999)
+
+Emotion
+suppression
+Handwashing
+frequency
+
+3
+
+Gross and John (2003)
+
+Psychological need
+fulfillment
+
+9
+
+Goal progress
+
+3
+
+Family
+engagement
+Somatic
+complaints
+
+3
+
+“I am worried about catching
+COVID-19.”
+“I get stressed out easily.”
+
+1
+
+5
+
+Scale anchors
+
+Reliability
+
+Time
+period
+
+Not at all—Very
+much
+Strongly disagree—
+Strongly agree
+Strongly disagree—
+Strongly agree
+
+.77
+
+1
+
+.86
+
+1
+
+.70
+
+2
+
+—
+
+2
+
+Strongly disagree—
+Strongly agree
+
+.84
+
+3
+
+Strongly disagree—
+Strongly agree
+Not at all—Very
+much
+Not at all—Very
+much
+
+.90
+
+4
+
+.87
+
+4
+
+.75
+
+4
+
+Sample item
+
+La Guardia, Ryan,
+Couchman, and Deci
+(2000)
+Wanberg, Zhu, and van
+Hooft (2010)
+Rich, LePine, and Crawford
+(2010)
+Spector, Dwyer, and Jex
+(1988)
+
+“When I was feeling negative, I was
+careful not to express it.”
+“On average, how many times did you
+wash or sanitize your hands each
+day this week?
+“I felt free to be who I am.”
+“I have made good progress on my
+job-related goals.”
+“I focused my attention on my family
+and/or friends.”
+“Headache.”
+
+Note. CovH anxiety ⫽ COVID-19 health anxiety. CovH anxiety was assessed with items adapted from Simms et al.’s (2011) measure of health anxiety,
+which assesses the extent to which individuals are worried about health-related issues. All items were measured on a 5-point scale and referred to
+participants’ experiences or behaviors the past week.
+
+Discussion
+
+Contributions to Theory and Research
+
+We advance a model that integrates the transactional model of
+stress with SDT to elucidate the effects of workers’ CovH anxiety
+on outcomes across a number of critical life domains. Using a
+longitudinal design, we found CovH anxiety to be positively
+related to emotion suppression, which in turn was negatively
+related to psychological need fulfillment. Considering the three
+domains of SDT (competence, relatedness, and autonomy), need
+fulfillment was related to increased goal progress and family
+engagement, and reduced somatic complaints. Further, the effects
+of CovH anxiety on emotion suppression were moderated by
+handwashing, a problem-focused coping strategy that is a widespread means of combating the current pandemic.
+
+The current study contributes to the existing literature by examining suppression as an emotion-focused coping mechanism of
+CovH anxiety. We demonstrate that in situations wherein an imminent threat is uncontrollable, as in the current pandemic, individuals are more likely to withdraw from the situation by suppressing their emotions. Past research has long conceptualized
+threatening situations as potential precursors to emotion suppression (Hagemann, Levenson, & Gross, 2006), but has largely
+treated this as a given assumption, focusing instead on the consequences of suppression. Our study empirically demonstrates suppression as a reaction to a high-anxiety situation, thereby expanding knowledge of the antecedents of suppression. Importantly, we
+
+Table 2
+Means, Standard Deviations, and Correlations of Study Variables
+Study variables
+1.
+2.
+3.
+4.
+5.
+6.
+7.
+8.
+9.
+10.
+11.
+
+CovH anxiety (T1)
+Emotion suppression (T2)
+Handwashing frequency (HWF; T2)
+Psychological need fulfillment (T3)
+Goal progress (T4)
+Family engagement (T4)
+Somatic complaints (T4)
+Trait anxiety (T1)
+Hours worked from home (T4)
+Hours worked outside (T4)
+CovH Anxiety ⫻ HWF
+
+M
+
+SD
+
+1
+
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+2.60
+2.70
+14.83
+3.32
+3.20
+2.77
+2.22
+3.23
+20.09
+10.79
+.90
+
+.95
+.80
+12.30
+.66
+1.00
+.99
+.84
+.93
+17.56
+16.81
+11.64
+
+(.77)
+.20ⴱⴱ
+.08
+⫺.10ⴱ
+⫺.08
+.16ⴱⴱ
+.13ⴱⴱ
+.33ⴱⴱ
+⫺.08
+⫺.03
+⫺.06
+
+(.70)
+.03
+⫺.17ⴱⴱ
+.00
+.02
+.09ⴱ
+.07
+⫺.07
+.06
+⫺.10ⴱ
+
+—
+⫺.09ⴱ
+⫺.11ⴱ
+.04
+.16ⴱⴱ
+.04
+⫺.28ⴱⴱ
+.27ⴱⴱ
+.18ⴱⴱ
+
+(.84)
+.39ⴱⴱ
+.09ⴱ
+⫺.32ⴱⴱ
+⫺.31ⴱⴱ
+.17ⴱⴱ
+⫺.06
+⫺.05
+
+(.90)
+.00
+⫺.21ⴱⴱ
+.15ⴱⴱ
+.31ⴱⴱ
+.08
+.01
+
+(.87)
+.05
+.04
+⫺.07
+⫺.13ⴱⴱ
+⫺.10ⴱ
+
+(.75)
+.26ⴱⴱ
+⫺.07
+.03
+.02
+
+(.86)
+⫺.06
+⫺.05
+⫺.04
+
+—
+⫺.57ⴱⴱ
+⫺.01
+
+—
+.06
+
+—
+
+Note. N ⫽ 465–503 (after accounting for missing data). CovH anxiety ⫽ COVID-19 health anxiety; SD ⫽ standard deviation; T1 ⫽ time 1 survey; T2 ⫽
+time 2 survey; T3 ⫽ time 3 survey; T4 ⫽ time 4 survey. Each survey was sent one week apart. Handwashing frequency refers to the average number of
+times employees washed or sanitized their hands per day. Hours worked from home refers to the number of hours employees spent working from home
+that week whereas hours worked outside refers to the number of hours employees spent working outside their homes (e.g., at a job site, traditional office
+setting, etc.). The interaction term was computed based on the grand-mean centered scores of each of the variables (Aiken & West, 1991).
+ⴱ
+p ⬍ .05. ⴱⴱ p ⬍ .01.
+
+TROUGAKOS, CHAWLA, AND MCCARTHY
+
+1240
+Table 3
+Simultaneous Path Analysis Results
+
+Emotion suppression
+(Time 2)
+
+CovH anxiety
+Emotion suppression
+Psychological need fulfillment
+Trait anxiety
+Hours worked from home
+Hours worked outside
+Handwashing frequency (HWF)
+CovH Anxiety ⫻ HWF
+R2
+
+B
+
+SE
+
+␤
+
+.17ⴱⴱ
+
+.04
+
+⫺.01
+.00
+⫺.01ⴱ
+
+Goal progress
+(Time 4)
+
+Family engagement
+(Time 4)
+
+Somatic complaints
+(Time 4)
+
+b
+
+SE
+
+␤
+
+b
+
+SE
+
+␤
+
+b
+
+SE
+
+␤
+
+b
+
+SE
+
+␤
+
+.20
+
+.02
+⫺.13ⴱⴱ
+
+.03
+.04
+
+.03
+⫺.15
+
+.04
+
+⫺.02
+
+⫺.23ⴱⴱ
+
+.03
+
+⫺.31
+
+.00
+.09
+.51ⴱⴱ
+⫺.02
+.03ⴱⴱ
+.02ⴱⴱ
+
+.05
+.05
+.07
+.05
+.00
+.00
+
+.00
+.08
+.34
+⫺.02
+.46
+.34
+
+.17ⴱⴱ
+⫺.02
+.20ⴱ
+.00
+⫺.01ⴱⴱ
+⫺.02ⴱⴱ
+
+.05
+.06
+.07
+.05
+.00
+.00
+
+.16
+⫺.02
+.14
+.00
+⫺.23
+⫺.25
+
+.05
+.02
+⫺.33ⴱⴱ
+.15ⴱⴱ
+.00
+.00
+
+.04
+.05
+.06
+.05
+.00
+.00
+
+.06
+.02
+⫺.26
+.17
+.01
+.02
+
+.00
+.00
+.05
+
+.04
+⫺.10
+.12
+
+.28
+
+.10
+
+.14
+
+Note. N ⫽ 465 (after accounting for missing data). CovH anxiety ⫽ COVID-19 health anxiety. CovH anxiety and trait anxiety were measured at Time
+1; handwashing frequency was measured at Time 2; and, hours spent working were assessed at Time 4. CovH anxiety and handwashing frequency were
+grand-mean centered prior to the creation of the interaction term. The residuals of our outcome variables were allowed to co-vary. The standardized
+coefficients, as well as the R2 values, were obtained using the STDYX command in Mplus. Participants in our sample came from a broad range of industries
+across the economy (e.g., sales, consulting, education, healthcare, information technology, manufacturing, oil and gas, marketing, and banking services/
+finance). The top five industries represented included healthcare (12.6%), Government/Public Sector (9.7%), Education (7.5%), Retail (5.2%), and
+Banking/Finance (3.9%).
+ⴱ
+p ⬍ .05. ⴱⴱ p ⬍ .01.
+
+controlled for trait anxiety, highlighting that situation-specific
+anxiety (e.g., CovH anxiety) triggers maladaptive emotion-focused
+coping beyond individuals’ typical experiences of anxiety. As
+such, we also contribute to the anxiety literature by elucidating
+emotion suppression as a crucial mechanism linking anxiety experiences to downstream consequences. Thus, we advance scholarly understanding of the impact of anxiety on individuals’ selfregulation, particularly during situations characterized by high
+levels of threat and lack of control (e.g., pandemics, wars, natural
+disasters, threat of layoff).
+Our research also represents one of the few studies to integrate
+insights from transactional stress theory (Lazarus & Folkman,
+1984) with SDT (Roth et al., 2014) to highlight—for the first
+time—the impact of emotion suppression on employees’ psycho-
+
+logical need fulfillment. Expanding on research demonstrating the
+negative impact of suppression on a host of factors (Gross, 2015),
+we explicitly found an inhibiting effect of emotion suppression on
+individuals’ need fulfillment, which had critical implications for
+people’s abilities to effectively work and engage with their family,
+as well as their personal health. This integration of the emotion
+regulation and SDT literatures in relation to work outcomes represents a substantial contribution, as previous research on consequences of emotion suppression aligns with the three SDT needs
+but had yet to be adequately and empirically explored.
+Finally, drawing from literature on problem-focused coping
+(Lazarus & Folkman, 1984), we demonstrate that washing one’s
+hands can help individuals regain control of the situation and
+alleviate the detrimental effects of CovH anxiety. This highlights
+
+4
+
+3.5
+Emotion Suppression
+
+This document is copyrighted by the American Psychological Association or one of its allied publishers.
+This article is intended solely for the personal use of the individual user and is not to be disseminated broadly.
+
+Predictor
+
+Psychological need
+fulfillment (Time 3)
+
+3
+Low hand
+washing
+frequency
+
+2.5
+High hand
+washing
+frequency
+
+2
+
+1.5
+Low COVID-19 Health
+Anxiety
+
+High COVID-19 Health
+Anxiety
+
+Figure 2. Moderating effect of handwashing frequency on the relationship between COVID-19 health anxiety
+and emotion suppression.
+
+IMPACT OF COVID-19 HEALTH ANXIETY
+
+the importance of problem-focused coping as a means to buffer the
+impact of situations characterized by high levels of anxiety due to
+imminent threat and uncertainty (Fiske et al., 1996).
+
+This document is copyrighted by the American Psychological Association or one of its allied publishers.
+This article is intended solely for the personal use of the individual user and is not to be disseminated broadly.
+
+Practical Implications
+From a practical standpoint, our study speaks powerfully to the
+experiences of employees during the COVID-19 crisis. We captured the experiences of workers from the first week social distancing orders were enacted, and are thus able to provide a fundamental understanding of how the situation has impacted
+workers’ lives, as well as how they might experience and deal with
+anxiety-inducing threat situations more broadly. First, it is clear
+that CovH anxiety has implications for work effectiveness, family
+engagement, and personal health. Our work also demonstrates that
+in the face of an unprecedented threat, problem-focused coping in
+the form of a simple behavior such as handwashing can help
+mitigate the impact of the situation-specific anxiety. Critically, we
+do not suggest that handwashing is a universal coping mechanism
+that would work across a variety of threat situations. Rather, we
+highlight the importance of engaging in appropriate coping behaviors relevant to the situation individuals are dealing with. In the
+COVID-19 crisis, handwashing has been widely recommended as
+a way to combat the threat. In other situations, such as when
+someone is under threat of layoffs, taking active steps to make sure
+work is effectively done might similarly mitigate the impact of
+threat-related anxiety.
+Our research also highlights the detrimental impact of emotion
+suppression (and related emotion regulation strategies, such as
+surface acting) for employees and organizations alike, highlighting
+that suppression inhibits both organizationally relevant (goal progress) as well as personal (family engagement, health complaints)
+outcomes. As such, our findings underscore the importance of
+engaging in more effective means of emotion regulation. We also
+add to the body of evidence that need fulfillment is critical for
+employee effectiveness and health. Thus, organizations should
+help employees mitigate anxiety broadly by offering training in
+effective emotional coping methods as well as strategies to ensure
+they fulfill their psychological needs. Training and seminars (or
+webinars in the time of COVID-19) on topics such as resilience,
+stress management, and work-life balance may be particularly
+beneficial.
+
+Strengths, Limitations, and Directions for Future
+Research
+The current study has both strengths and limitations. We used a
+longitudinal design, separating variables across time points and
+captured employees’ experiences from the first week social distancing and stay-at-home orders were enacted. Thus, we were able
+to more accurately capture individuals’ experiences during the
+crucial initial days through the first month of the lockdown. Yet, a
+potential limitation is that all measures came from the same source,
+raising the potential for same-source measurement biases. However, we used a variety of means to reduce this issue including
+varying our response scales, using a count variable as a moderator,
+separating our measures in time, and running alternative models
+controlling for trait positive and negative affectivity (Podsakoff et
+al., 2003).8 Further, as we were interested in how employees have
+
+1241
+
+dealt with the pandemic over time, focusing on self-reported
+experiences was appropriate. Another potential limitation of our
+study is concerns about causality. Yet, we separated all of our
+variables at each stage of the mediational chain across time.
+Additionally, our moderation hypothesis is unlikely to be affected
+by this concern (Podsakoff et al., 2003).
+Our study raises several avenues for future research. Our work
+reflects only the precipice of the impact of the COVID-19 pandemic, which is likely to have far-reaching consequences for
+months, years, and even decades ahead. Much work is needed to
+gain a more complete understanding of the implications of this
+crisis for employees, families, and organizations. Research can
+build on our initial examination of the role of emotion suppression,
+examining changes over time as individuals may begin becoming
+de-sensitized to feelings of CovH anxiety. It would also be valuable for future research to consider alternative responses to anxiety
+that we were unable to capture (e.g., mood repair and/or cognitive
+interference; Cheng & McCarthy, 2018; Larsen, 2000).9 Research
+focused on within-person fluctuations during this time would also
+be instructive, as there is no doubt that individuals have experienced considerable variability on a daily basis during the pandemic. Beyond the current pandemic, scholars should extend research on the relationship between emotion regulation and SDT in
+the work domain. Finally, we encourage scholars to examine if our
+model applies to high-threat work contexts more generally, such as
+military, police, or hospitals, and/or environments that employees
+might have little control over, as well as high-threat situations such
+as working in an organization in the midst of layoffs or working
+for an abusive supervisor.
+
+Conclusion
+In this moment in history, we are in the midst of a global crisis
+unlike any humanity has faced in more than a century. Our
+research represents a first step to understanding the work-, home-,
+and health-related implications of this unprecedented situation,
+highlighting the detrimental impact of the anxiety stemming from
+the COVID-19 pandemic. However, there are proactive means
+(i.e., handwashing) by which the consequences of this anxiety can
+be mitigated. While there is still much to be understood about the
+impact of the current pandemic on employees and organizations,
+the present study offers critical insights into people’s experiences
+during the initial phases of this crisis, especially in regards to the
+role of CovH anxiety.
+
+8
+We tested a model that controlled for trait positive affectivity and trait
+negative affectivity, but our conclusions remained qualitatively unchanged.
+Please contact the authors for details on the measures and results.
+9
+We tested two additional models. In the first, we included COVID-19
+detachment (adapted from Sonnentag & Fritz, 2007) as a simultaneous
+mediator with emotion suppression; results of this analysis did not qualitatively alter our findings. In the second, we included emotional exhaustion
+as a simultaneous mediator with need fulfillment. Results of our model
+held except for the link between need fulfillment and somatic complaints,
+which became non-significant. This was not surprising considering the
+high correlation (.50) and conceptual overlap between exhaustion and
+somatic complaints. Please contact the authors for details on the measures
+and results.
+
+TROUGAKOS, CHAWLA, AND MCCARTHY
+
+1242
+
+This document is copyrighted by the American Psychological Association or one of its allied publishers.
+This article is intended solely for the personal use of the individual user and is not to be disseminated broadly.
+
+References
+Achenbach, J. (2020, April 2). Coronavirus is harming the mental health of
+tens of millions of people in U.S., new poll finds. Washington Post.
+Retrieved from https://www.washingtonpost.com/health/coronavirus-isharming-the-mental-health-of-tens-of-millions-of-people-in-us-newpoll-finds/2020/04/02/565e6744-74ee-11ea-85cb-8670579b863d_story
+.html
+Afifi, T. D., Shahnazi, A., & Harrison, K. (2018). Worry and rumination as
+a consideration when designing health and risk messages. In R. Parrott
+(Ed.), The Oxford Encyclopedia of health and risk message design and
+processing. New York, NY: Oxford Press. http://dx.doi.org/10.1093/
+acrefore/9780190228613.013.348
+Aiken, L. S., & West, S. G. (1991). Multiple regression: Testing and
+interpreting interactions. Newbury Park, CA: Sage.
+Aldwin, C. M., & Revenson, T. A. (1987). Does coping help? A reexamination of the relation between coping and mental health. Journal of
+Personality and Social Psychology, 53, 337–348. http://dx.doi.org/10
+.1037/0022-3514.53.2.337
+Baard, P. P., Deci, E. L., & Ryan, R. M. (2004). Intrinsic need satisfaction:
+A motivational basis of performance and well-being in two work settings. Journal of Applied Social Psychology, 34, 2045–2068. http://dx
+.doi.org/10.1111/j.1559-1816.2004.tb02690.x
+Baker, R., Holloway, J., Thomas, P. W., Thomas, S., & Owens, M. (2004).
+Emotional processing and panic. Behaviour Research and Therapy, 42,
+1271–1287. http://dx.doi.org/10.1016/j.brat.2003.09.002
+Bandura, A. (1988). Self-efficacy conception of anxiety. Anxiety Research,
+1, 77–98. http://dx.doi.org/10.1080/10615808808248222
+Baumeister, R. F., Bratslavsky, E., Muraven, M., & Tice, D. M. (1998).
+Ego depletion: Is the active self a limited resource? Journal of Personality and Social Psychology, 74, 1252–1265. http://dx.doi.org/10.1037/
+0022-3514.74.5.1252
+Beal, D. J., Weiss, H. M., Barros, E., & MacDermid, S. M. (2005). An
+episodic process model of affective influences on performance. Journal
+of Applied Psychology, 90, 1054 –1068. http://dx.doi.org/10.1037/00219010.90.6.1054
+Benita, M., Benish-Weisman, M., Matos, L., & Torres, C. (2019). Integrative and suppressive emotion regulation differentially predict well-being
+through basic need satisfaction and frustration: A test of three countries.
+Motivation and Emotion, 44, 67– 81. http://dx.doi.org/10.1007/s11031019-09781-x
+Bennett, A. A., Gabriel, A. S., Calderwood, C., Dahling, J. J., & Trougakos, J. P. (2016). Better together? Examining profiles of employee
+recovery experiences. Journal of Applied Psychology, 101, 1635–1654.
+http://dx.doi.org/10.1037/apl0000157
+Bhagat, R. S., Allie, S. M., & Ford, D. L. (1995). Coping with stressful life
+events: An empirical analysis. Occupational Stress: A Handbook, 54,
+93–112.
+Brenner, A. (2020, April). 10 tips to create healthy boundaries during
+self-quarantine. Psychology Today. Retrieved from https://www
+.psychologytoday.com/us/blog/in-flux/202004/10-tips-create-healthyboundaries-during-self-quarantine
+Brockman, R., Ciarrochi, J., Parker, P., & Kashdan, T. (2017). Emotion
+regulation strategies in daily life: Mindfulness, cognitive reappraisal and
+emotion suppression. Cognitive Behaviour Therapy, 46, 91–113. http://
+dx.doi.org/10.1080/16506073.2016.1218926
+Butler, E. A., Egloff, B., Wlhelm, F. H., Smith, N. C., Erickson, E. A., &
+Gross, J. J. (2003). The social consequences of expressive suppression.
+Emotion, 3, 48 – 67. http://dx.doi.org/10.1037/1528-3542.3.1.48
+Butler, E. A., Lee, T. L., & Gross, J. J. (2007). Emotion regulation and
+culture: Are the social consequences of emotion suppression culturespecific? Emotion, 7, 30 – 48. http://dx.doi.org/10.1037/1528-3542.7
+.1.30
+Campbell, R., Soenens, B., Beyers, W., & Vansteenkiste, M. (2018).
+University students’ sleep during an exam period: The role of basic
+
+psychological needs and stress. Motivation and Emotion, 42, 671– 681.
+http://dx.doi.org/10.1007/s11031-018-9699-x
+Cannon, W. B. (1927). The James-Lange theory of emotions: A critical
+examination and an alternative theory. The American Journal of Psychology, 39, 106 –124. http://dx.doi.org/10.2307/1415404
+Chawla, N., MacGowan, R. L., Gabriel, A. S., & Podsakoff, N. P. (2020).
+Unplugging or staying connected? Examining the nature, antecedents,
+and consequences of profiles of daily recovery experiences. Journal of
+Applied Psychology, 105, 19 –39. http://dx.doi.org/10.1037/apl0000423
+Cheng, B. H., & McCarthy, J. M. (2018). Understanding the dark and
+bright sides of anxiety: A theory of workplace anxiety. Journal of
+Applied Psychology, 103, 537–560. http://dx.doi.org/10.1037/
+apl0000266
+Clohessy, S., & Ehlers, A. (1999). PTSD symptoms, response to intrusive
+memories and coping in ambulance service workers. British Journal of
+Clinical Psychology, 38, 251–265. http://dx.doi.org/10.1348/
+014466599162836
+Conley, C. C., Bishop, B. T., & Andersen, B. L. (2016). Emotions and
+emotion regulation in breast cancer survivorship. Health Care, 4, 1–22.
+http://dx.doi.org/10.3390/healthcare4030056
+Creed, F., & Barsky, A. (2004). A systematic review of the epidemiology
+of somatisation disorder and hypochondriasis. Journal of Psychosomatic
+Research, 56, 391– 408. http://dx.doi.org/10.1016/S0022-3999(03)
+00622-6
+Cutuli, D. (2014). Cognitive reappraisal and expressive suppression strategies role in the emotion regulation: An overview on their modulatory
+effects and neural correlates. Frontiers in Systems Neuroscience, 8, 175.
+http://dx.doi.org/10.3389/fnsys.2014.00175
+Deci, E. L., & Ryan, R. M. (1985). The general causality orientations scale:
+Self-determination in personality. Journal of Research in Personality,
+19, 109 –134. http://dx.doi.org/10.1016/0092-6566(85)90023-6
+Deci, E. L., & Ryan, R. M. (2000). The “what” and “why” of goal pursuits:
+Human needs and the self-determination of behavior. Psychological
+Inquiry, 11, 227–268. http://dx.doi.org/10.1207/S15327965PLI1104_01
+Deci, E. L., & Ryan, R. M. (2014). The importance of universal psychological needs for understanding motivation in the workplace. In M.
+Gagné (Ed.), The Oxford handbook of work engagement, motivation,
+and self-determination theory (pp. 13–32). New York, NY: Oxford
+University Press. http://dx.doi.org/10.1093/oxfordhb/9780199794911
+.013.003
+Ducat, W. H., & Zimmer-Gembeck, M. J. (2010). Romantic partner behaviours as social context: Measuring six dimensions of relationships.
+Journal of Relationships Research, 1, 1–16. http://dx.doi.org/10.1375/
+jrr.1.1.1
+Fiske, S. T., Morling, B., & Stevens, L. E. (1996). Controlling self and
+others: A theory of anxiety, mental control, and social control. Personality and Social Psychology Bulletin, 22, 115–123. http://dx.doi.org/10
+.1177/0146167296222001
+Folkman, S., & Lazarus, R. S. (1980). An analysis of coping in a middleaged community sample. Journal of Health and Social Behavior, 21,
+219 –239. http://dx.doi.org/10.2307/2136617
+Foulk, T. A., Lanaj, K., & Krishnan, S. (2019). The virtuous cycle of daily
+motivation: Effects of daily strivings on work behaviors, need satisfaction, and next-day strivings. Journal of Applied Psychology, 104, 755–
+775. http://dx.doi.org/10.1037/apl0000385
+Gabriel, A. S., Volpone, S., MacGowan, R. L., Butts, M. M., & Moran,
+C. M. (in press). When work and family blend together: Examining the
+daily experiences of breastfeeding mothers at work. Academy of Management Journal.
+Gagné, M., & Deci, E. L. (2005). Self-determination theory and work
+motivation. Journal of Organizational Behavior, 26, 331–362. http://dx
+.doi.org/10.1002/job.322
+Goldberg, L. R. (1999). A broad-bandwidth, public domain, personality
+inventory measuring the lower-level facets of several five-factor models.
+
+This document is copyrighted by the American Psychological Association or one of its allied publishers.
+This article is intended solely for the personal use of the individual user and is not to be disseminated broadly.
+
+IMPACT OF COVID-19 HEALTH ANXIETY
+In I. Mervielde, I. Deary, F. De Fruyt, & F. Ostendorf (Eds.), Personality
+psychology in Europe (Vol. 7, pp. 7–28). Tilburg, the Netherlands:
+Tilburg University Press.
+Goldberg, L. S., & Grandey, A. A. (2007). Display rules versus display
+autonomy: Emotion regulation, emotional exhaustion, and task performance in a call center simulation. Journal of Occupational Health
+Psychology, 12, 301–318. http://dx.doi.org/10.1037/1076-8998.12.3.301
+Grandey, A. A. (2000). Emotion regulation in the workplace: A new way
+to conceptualize emotional labor. Journal of Occupational Health Psychology, 5, 95–110. http://dx.doi.org/10.1037/1076-8998.5.1.95
+Grandey, A. A., Dickter, D. N., & Sin, H. P. (2004). The customer is not
+always right: Customer aggression and emotion regulation of service
+employees. Journal of Organizational Behavior: The International
+Journal of Industrial, Occupational and Organizational Psychology and
+Behavior, 25, 397– 418. http://dx.doi.org/10.1037/0021-9010.90.5.893
+Grandey, A. A., Fisk, G. M., & Steiner, D. D. (2005). Must “service with
+a smile” be stressful? The moderating role of personal control for
+American and French employees. Journal of Applied Psychology, 90,
+893–904. http://dx.doi.org/10.1037/0021-9010.90.5.893
+Grandey, A. A., Rupp, D., & Brice, W. N. (2015). Emotional labor
+threatens decent work: A proposal to eradicate emotional display rules.
+Journal of Organizational Behavior, 36, 770 –785. http://dx.doi.org/10
+.1002/job.2020
+Greguras, G. J., & Diefendorff, J. M. (2009). Different fits satisfy different
+needs: Linking person-environment fit to employee commitment and
+performance using self-determination theory. Journal of Applied Psychology, 94, 465– 477. http://dx.doi.org/10.1037/a0014068
+Gross, J. J. (1998). The emerging field of emotion regulation: An integrative review. Review of General Psychology, 2, 271–299. http://dx.doi
+.org/10.1037/1089-2680.2.3.271
+Gross, J. J. (2015). Emotion regulation: Current status and future prospects.
+Psychological Inquiry, 26, 1–26. http://dx.doi.org/10.1080/1047840X
+.2014.940781
+Gross, J. J., & John, O. P. (2003). Individual differences in two emotion
+regulation processes: Implications for affect, relationships, and wellbeing. Journal of Personality and Social Psychology, 85, 348 –362.
+http://dx.doi.org/10.1037/0022-3514.85.2.348
+Gross, J. J., & Levenson, R. W. (1993). Emotional suppression: Physiology, self-report, and expressive behavior. Journal of Personality and
+Social Psychology, 64, 970 –986. http://dx.doi.org/10.1037/0022-3514
+.64.6.970
+Hagemann, T., Levenson, R. W., & Gross, J. J. (2006). Expressive suppression during an acoustic startle. Psychophysiology, 43, 104 –112.
+http://dx.doi.org/10.1111/j.1469-8986.2006.00382.x
+Hillier, M. D. (2020). Using effective hand hygiene practice to prevent and
+control infection. Nursing Standard, 35, 45–50. http://dx.doi.org/10
+.7748/ns.2020.e11552
+Hobfoll, S. E. (1998). Stress, culture, and community: The psychology and
+philosophy of stress. New York, NY: Plenum Press.
+Kalanthroff, E., Aslan, C., & Dar, R. (2017). Washing away your sins will
+set your mind free: Physical cleansing modulates the effect of threatened
+morality on executive control. Cognition and Emotion, 31, 185–192.
+http://dx.doi.org/10.1080/02699931.2015.1086313
+Kashdan, T. B., & Steger, M. F. (2006). Expanding the topography of
+social anxiety. An experience-sampling assessment of positive emotions,
+positive events, and emotion suppression. Psychological Science, 17,
+120 –128. http://dx.doi.org/10.1111/j.1467-9280.2006.01674.x
+Kennedy, S. M., & Ehrenreich-May, J. (2017). Assessment of emotional
+avoidance in adolescents: Psychometric properties of a new multidimensional measure. Journal of Psychopathology and Behavioral Assessment, 39, 279 –290. http://dx.doi.org/10.1007/s10862-016-9581-7
+Kline, T. J. B. (2005). Psychological testing: A practical approach to
+design and evaluation. Thousand Oaks, CA: Sage.
+
+1243
+
+Kluger, J. (2020, Mar. 26). The coronavirus pandemic may be causing an
+anxiety pandemic. Time. Retrieved from https://time.com/5808278/
+coronavirus-anxiety/
+La Guardia, J. G., Ryan, R. M., Couchman, C. E., & Deci, E. L. (2000).
+Within-person variation in security of attachment: A self-determination
+theory perspective on attachment, need fulfillment, and well-being.
+Journal of Personality and Social Psychology, 79, 367–384. http://dx
+.doi.org/10.1037/0022-3514.79.3.367
+Lanaj, K., Johnson, R. E., & Lee, S. M. (2016). Benefits of transformational behaviors for leaders: A daily investigation of leader behaviors
+and need fulfillment. Journal of Applied Psychology, 101, 237–251.
+http://dx.doi.org/10.1037/apl0000052
+Larsen, R. J. (2000). Toward a science of mood regulation. Psychological
+Inquiry, 11, 129 –141. http://dx.doi.org/10.1207/S15327965PLI1103_01
+Lazarus, R. S. (1991). Psychological stress in the workplace. In R. Crandall
+& P. L. Perrewé (Eds.), Occupational stress: A handbook (pp. 3–15).
+Washington, DC: Taylor & Francis.
+Lazarus, R. S., & Folkman, S. (1984). Stress, appraisal, and coping. New
+York, NY: Springer.
+Lazarus, R. S., & Folkman, S. (1987). Transactional theory and research on
+emotions and coping. European Journal of Personality, 1, 141–169.
+http://dx.doi.org/10.1002/per.2410010304
+Lee, M., Pekrun, R., Taxer, J. L., Schutz, P. A., Vogl, E., & Xie, X. (2016).
+Teachers’ emotions and emotion management: Integrating emotion regulation theory with emotional labor research. Social Psychology of
+Education, 19, 843– 863. http://dx.doi.org/10.1007/s11218-016-9359-5
+Marcus, B., Weigelt, O., Hergert, J., Gurt, J., & Gelléri, P. (2017). The use
+of snowball sampling for multi source organizational research: Some
+cause for concern. Personnel Psychology, 70, 635– 673. http://dx.doi
+.org/10.1111/peps.12169
+Mohiyeddini, C., Opacka-Juffry, J., & Gross, J. J. (2014). Emotional
+suppression explains the link between early life stress and plasma
+oxytocin. Anxiety, Stress & Coping, 27, 466 – 475. http://dx.doi.org/10
+.1080/10615806.2014.887696
+Muthén, L. K., & Muthén, B. O. (1998 –2015). Mplus user’s guide. Los
+Angeles, CA: Author.
+Parkes, K. R. (1990). Coping, negative affectivity, and the work environment: Additive and interactive predictors of mental health. Journal of
+Applied Psychology, 75, 399 – 409. http://dx.doi.org/10.1037/0021-9010
+.75.4.399
+Patrick, H., Knee, C. R., Canevello, A., & Lonsbary, C. (2007). The role
+of need fulfillment in relationship functioning and well-being: A selfdetermination theory perspective. Journal of Personality and Social
+Psychology, 92, 434 – 457. http://dx.doi.org/10.1037/0022-3514.92.3
+.434
+Petit, W. E., Knee, C. R., Hadden, B. W., & Rodriguez, L. M. (2017).
+Self-determination theory and Intimate Partner Violence: An APIM
+Model of Need Fulfillment and IPV. Motivation Science, 3, 119 –132.
+http://dx.doi.org/10.1037/mot0000054
+Podsakoff, P. M., MacKenzie, S. B., Lee, J.-Y., & Podsakoff, N. P. (2003).
+Common method biases in behavioral research: A critical review of the
+literature and recommended remedies. Journal of Applied Psychology,
+88, 879 –903. http://dx.doi.org/10.1037/0021-9010.88.5.879
+Preacher, K. J., & Hayes, A. F. (2004). SPSS and SAS procedures for
+estimating indirect effects in simple mediation models. Behavior Research Methods, Instruments & Computers, 36, 717–731. http://dx.doi
+.org/10.3758/BF03206553
+Preacher, K. J., & Hayes, A. F. (2008). Asymptotic and resampling
+strategies for assessing and comparing indirect effects in multiple mediator models. Behavior Research Methods, 40, 879 – 891. http://dx.doi
+.org/10.3758/BRM.40.3.879
+Reis, H. T., Sheldon, K. M., Gable, S. L., Roscoe, J., & Ryan, R. M.
+(2000). Daily well-being: The role of autonomy, competence, and relat-
+
+This document is copyrighted by the American Psychological Association or one of its allied publishers.
+This article is intended solely for the personal use of the individual user and is not to be disseminated broadly.
+
+1244
+
+TROUGAKOS, CHAWLA, AND MCCARTHY
+
+edness. Personality and Social Psychology Bulletin, 26, 419 – 435. http://
+dx.doi.org/10.1177/0146167200266002
+Rich, B. L., Lepine, J. A., & Crawford, E. R. (2010). Job engagement:
+Antecedents and effects on job performance. Academy of Management
+Journal, 53, 617– 635. http://dx.doi.org/10.5465/amj.2010.51468988
+Richards, J. M., Butler, E. A., & Gross, J. J. (2003). Emotion regulation in
+romantic relationships: The cognitive consequences of concealing feelings. Journal of Social and Personal Relationships, 20, 599 – 620. http://
+dx.doi.org/10.1177/02654075030205002
+Richards, J. M., & Gross, J. J. (1999). Composure at any cost? The
+cognitive consequences of emotion suppression. Personality and Social
+Psychology Bulletin, 25, 1033–1044. http://dx.doi.org/10.1177/
+01461672992511010
+Roth, G., Benita, M., Amrani, C., Shachar, B. H., Asoulin, H., Moed, A.,
+. . . Kanat-Maymon, Y. (2014). Integration of negative emotional experience versus suppression: Addressing the question of adaptive functioning. Emotion, 14, 908 –919. http://dx.doi.org/10.1037/a0037051
+Rothbard, N. P. (2001). Enriching or depleting? The dynamics of engagement in work and family roles. Administrative Science Quarterly, 46,
+655– 684. http://dx.doi.org/10.2307/3094827
+Ryan, R. M., & Deci, E. L. (2017). Self-determination theory: Basic
+psychological needs in motivation, development and wellness. New
+York, NY: Guilford Press.
+Senécal, C., Vallerand, R. J., & Guay, F. (2001). Antecedents and outcomes of work-family conflict: Toward a motivational model. Personality and Social Psychology Bulletin, 27, 176 –186. http://dx.doi.org/10
+.1177/0146167201272004
+Shahar, B. H., Kalman-Halevi, M., & Roth, G. (2019). Emotion regulation
+and intimacy quality: The consequences of emotional integration, emotional distancing, and suppression. Journal of Social and Personal
+Relationships, 36, 3343–3361. http://dx.doi.org/10.1177/026540751
+8816881
+Sheldon, K. M., & Kasser, T. (1998). Pursuing personal goals: Skills
+enable progress, but not all progress is beneficial. Personality and Social
+Psychology Bulletin, 24, 1319 –1331. http://dx.doi.org/10.1177/014616
+72982412006
+Sheldon, K. M., Ryan, R., & Reis, H. T. (1996). What makes for a good
+day? Competence and autonomy in the day and in the person. Personality and Social Psychology Bulletin, 22, 1270 –1279. http://dx.doi.org/
+10.1177/01461672962212007
+Simms, L. J., Goldberg, L. R., Roberts, J. E., Watson, D., Welte, J., &
+Rotterman, J. H. (2011). Computerized adaptive assessment of personality disorder: Introducing the CAT–PD project. Journal of Personality
+Assessment, 93, 380 –389. http://dx.doi.org/10.1080/00223891.2011
+.577475
+Sonnentag, S., & Fritz, C. (2007). The Recovery Experience Questionnaire: Development and validation of a measure for assessing recuper-
+
+ation and unwinding from work. Journal of Occupational Health Psychology, 12, 204 –221. http://dx.doi.org/10.1037/1076-8998.12.3.204
+Spector, P. E. (1986). Perceived control by employees: A meta-analysis of
+studies concerning autonomy and participation at work. Human Relations, 39, 1005–1016. http://dx.doi.org/10.1177/001872678603901104
+Spector, P. E., Dwyer, D. J., & Jex, S. M. (1988). Relation of job stressors
+to affective, health, and performance outcomes: a comparison of multiple data sources. Journal of Applied Psychology, 73, 11–19. http://dx
+.doi.org/10.1037/0021-9010.73.1.11
+Steimer, T. (2002). The biology of fear- and anxiety-related behaviors.
+Dialogues in Clinical Neuroscience, 4, 231–249.
+Talaei-Khoei, M., Nemati-Rezvani, H., Fischerauer, S. F., Ring, D., Chen,
+N., & Vranceanu, A. M. (2017). Emotion regulation strategies mediate
+the associations of positive and negative affect to upper extremity
+physical function. Comprehensive Psychiatry, 75, 85–93. http://dx.doi
+.org/10.1016/j.comppsych.2017.03.005
+Tang, H., Lu, X., Su, R., Liang, Z., Mai, X., & Liu, C. (2017). Washing
+away your sins in the brain: Physical cleaning and priming of cleaning
+recruit different brain networks after moral threat. Social Cognitive and
+Affective Neuroscience, 12, 1149 –1158. http://dx.doi.org/10.1093/scan/
+nsx036
+Thompson, D. (2020, March). The Coronavirus is creating a huge, stressful
+experiment in working from home. The Atlantic. Retrieved from https://
+www.theatlantic.com/ideas/archive/2020/03/coronavirus-creatinghuge-stressful-experiment-working-home/607945/
+Trépanier, S.-G., Fernet, C., & Austin, S. (2016). Longitudinal relationships between workplace bullying, basic psychological needs, and employee functioning: A simultaneous investigation of psychological need
+satisfaction and frustration. European Journal of Work and Organizational Psychology, 25, 690 –706. http://dx.doi.org/10.1080/1359432X
+.2015.1132200
+Trougakos, J. P., Jackson, C. L., & Beal, D. J. (2011). Service without a
+smile: Comparing the consequences of neutral and positive display rules.
+Journal of Applied Psychology, 96, 350 –362. http://dx.doi.org/10.1037/
+a0021880
+Uysal, A., Lee Lin, H., & Knee, C. R. (2010). The role of need satisfaction
+in self-concealment and well-being. Personality and Social Psychology
+Bulletin, 36, 187–199. http://dx.doi.org/10.1177/0146167209354518
+Wanberg, C. R., Zhu, J., & van Hooft, E. A. (2010). The job search grind:
+Perceived progress, self-reactions, and self-regulation of search effort.
+Academy of Management Journal, 53, 788 – 807. http://dx.doi.org/10
+.5465/amj.2010.52814599
+World Health Organization. (2020, May 3). Coronavirus disease (COVID19) advice for the public. Retrieved from https://www.who.int/
+emergencies/diseases/novel-coronavirus-2019/advice-for-public
+
+IMPACT OF COVID-19 HEALTH ANXIETY
+
+1245
+
+Appendix A
+
+This document is copyrighted by the American Psychological Association or one of its allied publishers.
+This article is intended solely for the personal use of the individual user and is not to be disseminated broadly.
+
+Analytic Approach
+Prior to running our analyses, we conducted a confirmatory
+factor analysis to test the hypothesized seven-factor measurement
+structure, excluding handwashing as well as number of hours spent
+working given that they represented single item measures. Our
+2
+hypothesized model adequately fit the data, ␹(384)
+⫽ 914.359, p ⬍
+.01, RMSEA ⫽ .05, CFI ⫽ .92, SRMR ⫽ .05.10
+We tested our hypotheses using a path analysis in Mplus Version 8.3 (Muthén & Muthén, 1998 –2015). To examine serial
+mediation (Hypothesis 4), we used a Monte Carlo bootstrap simulation with 20,000 replications to create our bias-corrected 95%
+confidence intervals (CIs) around our indirect effects. Consistent
+with guidelines (Preacher & Hayes, 2004, 2008), we modeled the
+
+direct effects of CovH anxiety on each of the outcome variables
+when testing mediation. Further, the residuals of our outcome
+variables were allowed to covary (as is the default in Mplus).
+Following recommendations by Aiken and West (1991), we centered CovH anxiety and handwashing frequency before computing
+the interaction term (Hypothesis 5).
+
+10
+Our hypothesized model demonstrated a better fit than (a) a structure
+that collapsed CovH anxiety and trait anxiety onto one factor and, (b) a
+structure that collapsed all the constructs onto a single factor. Please
+contact the authors for detailed results.
+
+Appendix B
+Conditional Indirect Effects
+Albeit not formally hypothesized, our arguments suggest that
+there may be conditional indirect effects, such that the impact of
+CovH anxiety on our work-, home-, and health-related outcomes
+via emotion suppression and psychological need fulfillment are
+weakened for individuals who exhibit greater handwashing frequency. Thus, we also examined conditional serial indirect effects
+of CovH anxiety on our outcomes at high and low (⫾1 SD) levels
+of handwashing frequency. We utilized a Monte Carlo bootstrap
+simulation with 20,000 replications to calculate the bias-corrected
+95% CIs. Analyses indicated that CovH anxiety was associated with
+lower goal progress (estimate ⫽ ⫺.016, 95% CI [⫺.033, ⫺.006]) and
+family engagement (estimate ⫽ ⫺.006, 95% CI [⫺.017, ⫺.002]) via
+emotion suppression and psychological need fulfillment when handwashing frequency was lower. However, these indirect effects did not
+emerge when handwashing frequency was higher (goal progress:
+
+estimate ⫽ ⫺.005, 95% CI [⫺.019, .001]; family engagement: estimate ⫽ ⫺.002, 95% CI [⫺.009, .000]). Finally, CovH anxiety had a
+positive indirect effect on somatic complaints via emotion suppression and psychological need fulfillment when handwashing frequency
+was lower (estimate ⫽ .010, 95% CI [.004, .022]), but not when
+handwashing frequency was higher (estimate ⫽ .003, 95% CI [.000,
+.013]). In sum, our findings highlight that the negative impact of
+CovH anxiety on employees’ behaviors and experiences across the
+work, home, and health domains occur when employees do not
+proactively cope by washing their hands.
+Received May 13, 2020
+Revision received July 21, 2020
+Accepted August 3, 2020 䡲
+
+

@@ -1,0 +1,2116 @@
+Journal of Applied Psychology
+When There is a Will There is a Way: The Role of Proactive Personality in
+Combating COVID-19
+Nancy Yi-Feng Chen, J. Michael Crant, Nan Wang, Yu Kou, Yuhong Qin, Junhua Yu, and Rongju Sun
+Online First Publication, February 18, 2021. http://dx.doi.org/10.1037/apl0000865
+
+CITATION
+Yi-Feng Chen, N., Michael Crant, J., Wang, N., Kou, Y., Qin, Y., Yu, J., & Sun, R. (2021, February 18). When There is a Will
+There is a Way: The Role of Proactive Personality in Combating COVID-19. Journal of Applied Psychology. Advance online
+publication. http://dx.doi.org/10.1037/apl0000865
+
+Journal of Applied Psychology
+© 2021 American Psychological Association
+ISSN: 0021-9010
+
+https://doi.org/10.1037/apl0000865
+
+When There is a Will There is a Way:
+The Role of Proactive Personality in Combating COVID-19
+Nancy Yi-Feng Chen1, J. Michael Crant2, Nan Wang1, Yu Kou1, Yuhong Qin3, Junhua Yu4, and Rongju Sun5
+1
+
+Department of Management, Lingnan University
+Department of Management and Organization, University of Notre Dame
+3
+Emergency Department, Peking University International Hospital, China
+4
+Ezhou Central Hospital, Ezhou City, Hubei Province, China
+5
+Department of Emergency General Hospital of PLA, Beijing, China
+
+This document is copyrighted by the American Psychological Association or one of its allied publishers.
+This article is intended solely for the personal use of the individual user and is not to be disseminated broadly.
+
+2
+
+The global COVID-19 pandemic has disrupted personal and work lives and created great uncertainty and
+stress, especially for frontline health care professionals like doctors and nurses who risk personal health
+while facing increased workloads and new COVID-related tasks. People can passively respond to this
+disruption, or they can be more active and choose to shape the conditions surrounding their work during the
+crisis. We designed a multiwave, multisource study examining whether a proactive orientation is a key
+resource for frontline health care professionals in the COVID-19 pandemic. Drawing from proactive and
+conservation of resources theories, we studied a sample of 408 doctors and nurses at a COVID-19 hospital in
+the locked-down area surrounding Wuhan City, China during the ﬁrst wave of the virus. Our aim is to
+examine how personal agency contributes to health care professionals’ performance and well-being when
+combating COVID-19. Proactive personality as a dispositional resource was associated with higher levels of
+perceived strengths use, a job-related motivational resource. This effect was jointly moderated by routine
+disruption and perceived organizational support. Proactive personality was indirectly associated with
+performance and two indicators of well-being (resilience and thriving) through perceived strengths use.
+More frequent physical exposure to the virus magniﬁed the effects of perceived strengths use on an archival
+indicator of performance during the ﬁrst wave of the pandemic.
+Keywords: COVID-19, proactive personality, conservation of resources, strengths use, well-being
+
+brought by the pandemic (Restubog et al., 2020). Health care
+professionals working at the vanguard of this new and overwhelming situation had little information about the virus or its effective
+treatment; many had to identify new tasks, responsibilities, and
+work structures during the crisis. Because of a lack of expertise,
+many health care professionals with specialties in areas other than
+respiratory infections were required to instantly change their focus
+to treating COVID-19 patients, facing uncertainty and risk of
+infection (Liu et al., 2020). Success in the face of such an uncertain
+and challenging context calls for considerable personal initiative in
+exploring effective ways of work while maintaining an adequate
+level of psychological well-being. Accordingly, we draw from
+theories of proactive personality and behavior to examine how the
+personal agency helps deal with such uncertainty. We then utilize
+the conservation of resources (COR) theory to better understand how
+proactive personality contributes to performance and well-being
+during this pandemic.
+This study aims to provide several important contributions.
+Perhaps most salient is directly tying the importance of an active
+approach to work to performance and well-being for frontline
+health care professionals during this uncertain time. The unique
+nature of our sample, participants, and context provide a rich
+opportunity for studying these relationships. Second, we broaden
+the proactive personality literature by examining its role in coping
+with uncertainty, crisis, and the underlying mechanisms involved.
+Recent work has noted the negative implications for COVID-19 on
+well-being (Sibley et al., 2020) and resilience (Prime et al., 2020).
+Our research extends this by demonstrating the importance of
+
+Theﬁeldof applied psychology haslong been interestedin identifying
+factors associated with job performance and personal well-being intimes
+of crisis (e.g., Chisholm et al., 1983; Hogan, 2020; Lindström &
+Giordano, 2016; Stachowski et al., 2009). The current COVID-19
+global pandemic (World Health Organization [WHO], 2020) is amplifying the importance of this topic, especially for frontline health care
+professionals in the most active COVID-19 hotspots. Our objective is to
+study how a proactive orientation facilitates the performance and wellbeing of frontline doctors and nurses (referred to as health care professionals hereafter) treating COVID-19 patients in locked-down greater
+Wuhan, China during the ﬁrst outbreak of the crisis.
+Frontline health care professionals directly confronted a chaotic
+environment, ill-deﬁned situations, and the unpredictable future
+
+J. Michael Crant
+https://orcid.org/0000-0002-8969-7363
+Nancy Yi-Feng Chen, J. Michael Crant, and Nan Wang contributed
+equally to this study. This research was supported by a Faculty Research
+Grant from Lingnan University’s Research Committee (Project Number:
+DB20A9) to the ﬁrst author. We thank Lina Yu, Wenjuan Hu, and Junfeng
+Cheng from Ezhou Central Hospital for their assistance with this study.
+Correspondence concerning issues regarding the hospital context during the
+pandemic should be addressed to Qin Yuhong, Email: qyh304@126.com, Yu
+Junhua, Email: hbezyjh@126.com, and Rongju Sun, Email: srj20170101@
+163.com
+Correspondence concerning this article should be addressed to J. Michael
+Crant, 378 Mendoza College of Business, University of Notre Dame, Notre
+Dame, IN 46556, United States. Email: jcrant@nd.edu
+1
+
+This document is copyrighted by the American Psychological Association or one of its allied publishers.
+This article is intended solely for the personal use of the individual user and is not to be disseminated broadly.
+
+2
+
+YI-FENG CHEN ET AL.
+
+proactive personality in creating a motivational resource to build
+both. Third, we extend research on strengths use and its relationships with proactive personality and performance by utilizing a
+research design that addresses the limitations of previous research.
+van Woerkom, Mostert, et al. (2016) used a cross-sectional design
+and urged future studies to employ longitudinal methods; furthermore, their subjective performance measure was collected before
+the measurement of proactivity and strengths use. Our longitudinal
+design allows more conﬁdence to be placed in the causal relationships. Fourth, we highlight COR as an integrative theoretical lens
+for understanding how proactive personality affects outcomes by
+considering how proactivity manifests itself through motivational job
+resources. Finally, we examine the importance of three COVID-19related moderators: Routine disruption, perceived organizational
+support, and physical exposure. This not only provides further
+validation of how important proactive personality is during a crisis,
+but also indicates that contextual differences in experiences during
+the crisis play an important role in reactions to it (Figure 1a).
+
+Theoretical Development and Hypotheses
+Proactive personality is a trait-level behavioral tendency to actively
+create environmental change; proactive people scan for and create
+opportunities, demonstrate initiative, and persevere when facing
+obstacles (Bateman & Crant, 1993). Proactives will view the
+COVID-19 crisis not just as a threat, but also as an opportunity
+to enact meaningful change and ﬁnd new and better ways of doing
+work. We chose proactive personality as a focal variable because
+of its ﬁt with coping with a crisis: It stresses agency (Bateman &
+Crant, 1993), and proactivity is particularly important when facing
+uncertainty (Grant & Ashford, 2008). Proactive people are motivated to reduce uncertainty (Ohly & Schmitt, 2017) by actively
+anticipating future possibilities in external environments and acting in
+self-directed ways (Grifﬁn et al., 2007).
+Proactive personality has been directly and indirectly linked to a
+variety of organizational outcomes (Crant et al., 2017). Theories of
+proactive personality and behavior (e.g., Bateman & Crant, 1993;
+Crant, 2000; Grant & Ashford, 2008; Parker et al., 2006) have
+identiﬁed several mediating processes, which Parker et al. (2006)
+refer to as cognitive-motivational states. The theories converge on
+the notion that proactive personality manifests itself in behaviors
+through these mediating states. The theories also note that contextual factors—such as boundary conditions surrounding work experiences during COVID-19—may supplement or mitigate the
+effects of proactive personality on mediators and outcome variables
+(Crant et al., 2017).
+Because we study proactive personality in the context of COVID19, we also draw from the COR theory. This theory emphasizes the
+role played by objective context—rather than perceptions of that
+context—in resource use (Hobfoll et al., 2018). COVID-19 is one of
+the most disruptive stressors in the health care domain, and it is a
+powerful contextual inﬂuence on people. The COR theory holds that
+people with more resources use them to protect against or recover
+from losses and to gain additional resources (Hobfoll, 1989). Thus,
+we expect proactive health care professionals (referred to as “proactives” hereafter) to create greater job-related motivational resources in
+achieving goals of performance and well-being during COVID-19.
+Speciﬁcally, we argue that proactives will generate job-related
+motivational resources by creating opportunities to utilize their
+
+strengths in the face of the crisis. Drawing from the positive
+psychology research tradition and the work of Seligman and his
+colleagues (e.g., Seligman & Csikszentmihalyi, 2000; Seligman
+et al., 2005), strengths use refers to a person’s unique characteristics and abilities that, when activated, are energizing and permit
+performance at one’s personal best (Linley & Harrington, 2006;
+Wood et al., 2011). Following other scholars who have examined
+strengths use in the world of work, we are interested in studying the
+extent to which employees perceive that they can broadly use their
+strengths (van Woerkom, Bakker, et al., 2016; Wood et al., 2011)
+rather than identifying which speciﬁc signature character strengths
+are most representative (Peterson & Seligman, 2004).
+When employees engage in tasks capitalizing on their strengths,
+they can achieve their goals in a more self-concordant way that
+better ﬁts with their developing interests and core values as well as
+enhances motivation (Sheldon & Elliot, 1999). Strengths use is
+deﬁned as availing oneself of personal characteristics that are
+energizing to the user (Linley & Harrington, 2006) and allow
+people to perform at their personal best (Wood et al., 2011). It is a
+job-related motivational resource because it facilitates the achievement of work-related behavioral goals such as higher performance
+and lower absenteeism; furthermore, organizations should support
+strengths use (e.g., van Woerkom, Bakker, et al., 2016; van
+Woerkom & Meyers, 2015). Strengths use is a function of personality and job resources (Bakker & van Woerkom, 2018). Proactives
+are more likely to use their strengths at work (Bakker & van
+Woerkom, 2018; van Woerkom, Mostert, et al., 2016). The ambiguity and uncertainty faced by health care professionals during
+the pandemic and the necessity of reinventing one’s job allows
+proactives to create opportunities to capitalize on their best qualities. In highly routinized and structured situations, individuals may
+have the limited latitude to craft a ﬁt between their strengths and
+job responsibilities. However, in times of uncertainty and chaos
+(e.g., combating COVID-19), individuals can view such ambiguities as opportunities for constructive change that capitalize on their
+personal strengths. Accordingly, we propose that:
+Hypothesis 1 (H1): Proactive personality is positively related to
+perceived strengths use among health care professionals.
+We further argue that strengths use may serve as an important
+mechanism explaining how proactives achieve better performance in the uncertain COVID-19 context. Proactives utilize
+their strengths to establish a new order from the chaos in a way
+that provides more opportunities to capitalize on their expertise
+and ﬁt with their values (van Woerkom, Bakker, et al., 2016),
+allowing them to work in a more motivated, self-concordant way
+(Sheldon & Elliot, 1999). Previous theorizing and empirical
+research suggest that strengths use is associated with higher
+performance (Clifton & Harter, 2003; Linley et al., 2010; van
+Woerkom, Mostert, et al., 2016). Employees are more likely to
+accomplish goals when they engage in tasks capitalizing on their
+strengths (van Woerkom, Bakker, et al., 2016). However, withdrawal behaviors (e.g., excessive work breaks and neglecting
+important in-role tasks) can become more frequent in times of
+crisis and uncertainty (Hermann, 1963; Hui & Lee, 2000). Yet,
+when individuals utilize their strengths to obtain motivational
+energy, they may be less likely to withdraw even when facing a
+
+PROACTIVE PERSONALITY AND COVID-19
+
+This document is copyrighted by the American Psychological Association or one of its allied publishers.
+This article is intended solely for the personal use of the individual user and is not to be disseminated broadly.
+
+highly stressful environment like COVID-19. Lacking motivational
+resources is associated with withdrawal behaviors; strengths use
+is related to reduced withdrawal behaviors such as absenteeism
+(Sliter et al., 2012; van Woerkom, Bakker, et al., 2016), probably
+by providing necessary motivational resources. We thus propose
+that proactives may have higher performance and lower withdrawal behaviors because of their higher levels of perceived
+strengths use.
+Hypothesis 2(H2): Proactive personality is (a) positively related
+to the health care professionals’ performance through perceived
+strengths use, and (b) negatively related to the health care
+professional’s withdrawal behaviors through perceived strengths
+use during the pandemic.
+For health care professionals, disruptions and uncertainty bring
+stress and challenges to not only their work but also their psychological well-being. For example, Liu et al.’s (2020) qualitative study
+revealed that health care professionals taking care of patients infected
+by COVID-19 face great emotional demands and a high risk of
+emotional exhaustion. We argue that proactive personality as a
+dispositional resource leads to securing more psychological resources that help sustain well-being during the stressful COVID-19
+crisis.
+Limited research has examined relationships between proactive
+personality and well-being. Available evidence has shown that
+proactive personality moderates the relationship between stressors
+and well-being (Cunningham & De La Rosa, 2008), and the
+relationship between proactive personality and well-being is mediated by job crafting and career competencies (Plomp et al., 2016).
+Nonetheless, it is not clear whether and how proactive personality
+may contribute to well-being in times of crisis and uncertainty.
+We posit that perceived strengths use may serve as an important
+mechanism through which proactives differentiate themselves
+from their counterparts in maintaining high levels of psychological
+well-being during the pandemic. Proactives may identify and create
+self-concordant work situations, drawing from their best selves that
+transcend the temporary difﬁculties. Strengths use, in turn, is associated with greater levels of psychological well-being (e.g., Bakker
+et al., 2019; Govindji & Linley, 2007; Proctor et al., 2011; Wood
+et al., 2011). As such, proactives may gain higher levels of psychological well-being through strengths use.
+We examine two indicators of psychological well-being that are
+particularly relevant to recovering from stress during the COVID-19
+crisis: Resilience and thriving. Resilience refers to positive adjustment in the face of adversity (Carver, 1998; Hartmann et al., 2020),
+which focuses on rebounding from threatening circumstances
+(Masten & Reed, 2002; Sutcliffe & Vogus, 2003). A recent review
+article (Hartmann et al., 2020) concluded that both dispositions and
+personal resources predict resilience. Thriving refers to a sense of
+vitality and learning, often when facing adversity (Carver, 1998;
+Spreitzer et al., 2005); a recent meta-analysis (Kleine et al., 2019)
+indicated that thriving is associated with proactive personality and
+with positive attitudes toward self-development. Outbreaks of infectious diseases take a particularly strong toll on the well-being of
+health care workers (Restubog et al., 2020). We argue that strengths
+use can help proactives experience higher levels of resilience and
+thriving during the stressful pandemic.
+
+3
+
+Hypothesis 3(H3): Proactive personality is positively related to
+the health care professionals’ (a) resilience and (b) thriving
+through perceived strengths use during the pandemic.
+
+COVID-19-Related Moderators
+To further understand the process by which proactive personality
+leads to the outcome variables through perceived strengths use, we
+examined three moderators chosen because of their particular relevance to the COVID-19 crisis and to our theoretical model: Routine
+disruption, perceived organizational support, and physical exposure
+to the virus. We ﬁrst consider potential moderators that may regulate
+the relationships between proactive personality and strengths use,
+followed by moderators of the relationships between strengths use
+and the outcome variables.
+In their model of proactive motivation, Parker et al. (2010)
+theorized that three distinct motivational states affect one’s propensity to engage in proactive behaviors: “can do,” “reason to,”
+and “energized to” motivations. In terms of creating situations
+capitalizing on one’s strengths, proactive personality can be
+considered a “can do” motivator; proactive personality reﬂects a
+belief that one is able to change things for the better, and a tendency
+to engage in proactive behaviors such as strengths use. But the
+relationship between proactive personality and strengths use is also
+affected by “reason to” and “energized to” motivational states.
+Routine disruption can be considered a “reason to” motivational
+force for proactive motivation (Parker et al., 2010); it reﬂects the
+“why” rationale of pursuing proactive goals. In the pandemic
+frontlines, one major challenge is the disruption of previously
+comfortable routines. Many had to shift from their previous tasks
+to a new role (Liu et al., 2020). Ambiguity triggers forwardthinking and self-starting behavior (Ohly & Schmitt, 2017);
+thus, routine disruption is a contextual force providing a reason
+that change is necessary. Additionally, people are more likely to
+pursue proactive goals when they experience “energized to”
+motivational states, such as activated positive affect (Parker
+et al., 2010). Perceived organizational support is an important
+condition conducive to positive mood states in organizational
+settings, supported by meta-analytic evidence (Rhoades &
+Eisenberger, 2002). Accordingly, perceived organizational support during the ﬁght against COVID-19 is a contextual variable
+consistent with the “energized to” motivation to pursue proactive
+goals, and compensates for the exhaustive nature of routine
+disruption. Indeed, perceived organizational support during the
+COVID-19 pandemic may be especially important given the
+emergency nature of the task, the employees’ need for support,
+and the tight supply of materials at that time. Even among people
+working in the same organization, we expect differences in their
+perceived organizational support because of the effects of leadership style and personal perceptual lenses. Together, these three
+components of proactive motivation work in concert to form a
+better understanding of the boundary conditions surrounding
+proactive behaviors, including strengths use. Thus, we hypothesize:
+Hypothesis 4(H4): There is a three-way interaction of proactive personality, routine disruption, and perceived organizational support in predicting perceived strengths use. The
+positive relationship between proactive personality and perceived strengths use will be greater with more routine disruption
+
+4
+
+YI-FENG CHEN ET AL.
+
+This document is copyrighted by the American Psychological Association or one of its allied publishers.
+This article is intended solely for the personal use of the individual user and is not to be disseminated broadly.
+
+when the perceived organizational support from the hospital is
+also higher.
+We next considered a COVID-19-related boundary condition
+affecting the relationships between strengths use and the outcome
+variables. Aligned with the COR theory, we have proposed that
+proactives accumulate additional job-related motivational resources consistent with their authentic selves by utilizing their
+strengths (Bakker & van Woerkom, 2018; Peterson & Seligman,
+2004) and obtaining mastery experiences (Bandura, 1997;
+Peterson & Seligman, 2004) that ultimately lead to improved
+performance and well-being. Routine disruption provides opportunities for strengths use, as described in H2a and H2b. Physical
+exposure to the virus, on the other hand, is a unique COVID-19
+contextual factor that signals the need to capitalize on the resources
+built up through strengths use rather than creating more opportunities. It is a particular stressor that would exacerbate relationships
+between strengths use and performance/well-being. Physical
+exposure to the virus imposes considerable pressure and fear to
+the health care professionals (Liu et al., 2020), requiring more
+personal resources to deal with the work demands and the psychologically taxing situation. When facing demanding tasks,
+greater job resources can facilitate performance and well-being
+(Bakker & Demerouti, 2007, 2017; Demerouti et al., 2001). How
+and when strengths are effectively used depends on context and
+interests (Biswas-Diener et al., 2011). As such, we argue that when
+facing high physical exposure to COVID-19, strengths use (as a
+job resource) brings salient advantages leading to better performance and well-being. Therefore, we propose that:
+Hypothesis 5(H5): The relationship between perceived strengths
+use and (a) job performance, (b) withdrawal behaviors,
+(c) resilience, and (d) thriving during the pandemic will be
+moderated by physical exposure to the COVID-19 virus. The
+positive effect will be enhanced when physical exposure is higher
+for H5a, H5c, and H5d; the negative effect will be enhanced
+when physical exposure is higher for H5b.
+
+Method
+Sample and Procedures
+We collected data from a hospital in the locked-down area of
+greater Wuhan in Hubei Province, China, which shifted from a
+general hospital to a pneumonia specialist hospital to exclusively
+treat COVID-19 patients. Our target sample included all the frontline health care professionals (doctors and nurses) who provided
+care to infected patients.
+We obtained ethics approval for this study from the SubCommittee on Research Ethics and Safety of the Research Committee
+of the ﬁrst author’s University (IRB approval code: EC082/1920,
+study title: The Impact of the COVID-19 Pandemic on Doctors and
+Nurses). We worked with hospital administrators to collect data in
+such a way as to protect conﬁdentiality and anonymity, matching
+participants and supervisors using codes to ensure that the participants’ identity was not disclosed to the research team and that the
+survey data were not accessible to the hospital management.
+Instructions included a consent form notifying respondents that
+completing the survey was voluntary and that we would keep their
+
+responses strictly conﬁdential and only use these data for research
+purposes.
+We employed a three-wave, multisource research design to minimize concerns of common method bias (Podsakoff et al., 2012). Data
+collection commenced in April 2020 to fully capture the experiences
+of the participants during the ﬁrst wave of the crisis. Instructions
+asked the health care professionals to report their experiences at work
+since the beginning of the pandemic. In wave one, the health care
+professionals provided demographic information and completed
+measures of the independent variables and moderators. Mediators
+were reported 2 weeks later in wave two by the health care professionals. About 3 weeks later, we collected wave three data, including
+the well-being outcomes reported by the health care professionals and
+leader-rated withdrawal behaviors. The hospital’s administration
+department awarded performance bonuses in various amounts to
+the health care professionals which reﬂected their job performance
+during the pandemic period. We obtained archival data for all the ﬁrstwave participants’ level of ﬁnal performance bonus from the administration department after the survey data collection.
+We approached all the 782 health care professionals who worked
+in the hospital. Of these, 408 (52.17%) agreed to participate and
+responded to our ﬁrst online survey, and we obtained the performance data at the end of the study based on this sample of 408
+participants. Among those, 362 participated in the second wave and
+315 in the third wave. There were no signiﬁcant demographic
+differences between respondents and nonrespondents. Because
+Mplus can use full information maximum likelihood to estimate
+models in which some variables have missing values (Enders &
+Bandalos, 2001), it reported sample size based on the largest number
+of sample size that an estimated relationship in the model has
+(i.e., 408 in our study). To demonstrate our appreciation, each
+participant was given an online cash coupon of RMB 75 (about
+9 USD) for their participation. Among the 408 participants, 200
+were doctors and the rest were nurses. Further, 32.60% of the
+participants were male and 87.75% had a bachelor’s degree or
+above. The average age was 34.60 years (SD = 7.63) and the
+average organizational tenure was 11.52 years (SD = 7.90).
+
+Measures
+We conducted all surveys in Chinese. Following the translationback-translation procedure (Brislin, 1980), three bilingual researchers translated scales originally in English. One researcher ﬁrst
+translated the survey to Chinese, and a second researcher doublechecked the Chinese translation and resolved concerns with the ﬁrst
+translator. A third researcher then back-translated the resulting
+Chinese survey. Appendix A presents all items and provides additional descriptive information.
+
+Proactive Personality
+Proactive personality was measured with a ten-item version
+(Seibert et al., 1999) of Bateman and Crant’s (1993) original scale.
+Cronbach’s alpha was .91.
+
+Perceived Strengths Use
+Perceived strengths use was measured with an eight-item scale
+adapted from Keenan and Mostert’s (2013) perceived organizational
+
+5
+
+5
+
+6
+
+Withdrawal Behaviors
+
+Analytical Strategies
+Our data have a nested structure where the health care professionals
+were under the supervision of 52 leaders. To account for potential
+nonindependence in the data because there were participants reporting
+to the same leader, we employed a sandwich estimator using the
+complex modeling with Mplus 8.0. This method can provide an
+unbiased and robust estimation of the standard errors, and mitigates
+the potential for both Type I and Type II errors associated with nested
+data (Bliese & Hanges, 2004; Muthén & Muthén, 2017). For the
+
+.91
+.10
+.07
+—
+.01
+.06
+.03
+.90
+.38**
+.02
+.14
+.10
+.97
+.15**
+.14**
+.02
+.39**
+.35**
+.91
+.49**
+.09
+.23**
+.02
+.20**
+.24**
+.91
+.14**
+.23**
+.23**
+.19**
+.09
+.32**
+.23**
+—
+.36**
+.24**
+−.59**
+−.01
+.11*
+−.07
+−.04
+−.02
+.02
+.13*
+.05
+.04
+—
+.36**
+.19**
+.95**
+−.44**
+.04
+.11*
+.00
+−.01
+−.20**
+−.03
+.03
+.05
+.08
+34.60
+0.33
+3.10
+11.52
+0.49
+5.45
+5.62
+4.73
+5.39
+5.08
+2.94
+1.43
+5.65
+5.45
+
+7.63
+0.47
+0.61
+7.90
+0.50
+0.86
+1.18
+1.18
+1.00
+1.38
+1.59
+0.74
+0.76
+0.81
+
+2
+
+Age
+Sex
+Education
+Tenure
+Doctor_Nurse
+Proactive Personality
+Routine Disruption
+Perceived Organizational Support
+Perceived Strengths Use
+Physical Exposure
+Performance Bonus
+Withdrawal Behavior
+Resilience
+Thriving
+
+We controlled for the demographic characteristics, including age,
+sex, education level, and tenure of the participants. In addition, we
+controlled for the positions of doctor versus nurse (labeled
+Doctor_Nurse in the “Results” section) to account for the different
+workloads and responsibilities between the two categories of health
+care professionals we studied.
+
+SD
+
+Control Variables
+
+Mean
+
+Resilience was measured by the ﬁve-item resilience at work scale
+developed by Stephens et al. (2013). Thriving was measured using
+the nine-item scale developed by Porath et al. (2012). We slightly
+reworded the items to reﬂect work during the pandemic. Cronbach’s
+alpha for the variables were .92 and .86, respectively.
+
+Variables
+
+Well-Being Outcomes
+
+1
+
+3
+
+4
+
+The respondents’ withdrawal behaviors were reported by their
+direct supervisors using the three-item scale developed by Eder and
+Eisenberger (2008). Cronbach’s alpha was .91.
+
+1.
+2.
+3.
+4.
+5.
+6.
+7.
+8.
+9.
+10.
+11.
+12.
+13.
+14.
+
+The administration department provided archival records of the
+participants’ performance bonus, labeled as “pandemic special
+bonus” that speciﬁcally reﬂected their overall job performance in
+battling the COVID-19 pandemic in terms of their working hours, a
+number of cases processed, and general performance evaluation
+rated by their direct supervisors during the pandemic period.
+
+.91
+.49**
+.25**
+.31**
+.17**
+.12*
+.08
+.52**
+.46**
+
+7
+
+Performance Bonus
+
+—
+.07
+.04
+−.04
+.09
+.14**
+−.01
+−.12*
+.02
+.01
+
+8
+
+9
+
+We developed two scales that reﬂect the working environment of
+health professionals during the pandemic. Routine disruption was
+measured by ﬁve items and physical exposure was assessed by three
+items. Cronbach’s alphas were .91 and .90, respectively.
+
+Table 1
+Descriptive Statistics and Zero-Order Correlation of Study Variables
+
+This document is copyrighted by the American Psychological Association or one of its allied publishers.
+This article is intended solely for the personal use of the individual user and is not to be disseminated broadly.
+
+Routine Disruption and Physical Exposure
+
+—
+−.25**
+.07
+.13**
+.02
+.03
+−.18**
+−.02
+.00
+.03
+.07
+
+10
+
+11
+
+The perceived organizational support of respondents was assessed with Shanock and Eisenberger’s (2006) six-item scale.
+Participants were asked to focus on their experience during
+COVID-19. Cronbach’s alpha was .91.
+
+—
+.05
+−.54**
+−.07
+−.09
+−.03
+−.10
+−.06
+−.03
+.06
+−.10
+−.10
+
+12
+
+Perceived Organizational Support
+
+Note. N = 315–408. Reliability coefﬁcients appear in bold italic along the diagonal. Age is measured in years. Sex is coded 1 for “male” and 0 for “female.” Education is coded 1 for “high school or below,”
+2 for “college degree,” 3 for “bachelor’s degree,” 4 for “master’s degree,” and 5 for “doctoral degree.” Tenure is measured in years. Doctor_Nurse is coded 1 for “doctor” and 0 for “nurse.” SD = Standard
+deviation.
+* p < .05 (two-tailed test). ** p < .01 (two-tailed test).
+
+.92
+.71**
+
+13
+
+14
+
+support for strengths use scale (POSSU). We modiﬁed the items
+to capture individual strengths use in response to the COVID-19related chaos. Cronbach’s alpha was .97.
+
+.86
+
+PROACTIVE PERSONALITY AND COVID-19
+
+6
+
+YI-FENG CHEN ET AL.
+
+Table 2
+Comparison of Measurement Models of Key Study Variables
+Model
+
+Description
+
+χ2
+
+df
+
+CFI
+
+TLI
+
+RMSEA
+
+SRMR
+
+Δχ2(Δdf)
+
+1
+2
+
+Hypothesized nine-factor model
+Seven-factor model (moderators including routine disruption, physical
+exposure, and perceived organizational support were combined)
+Six-factor model (endogenous variables including perceived strengths use,
+withdrawal behaviors, resilience, and thriving were combined)
+Six-factor model (exogenous variables including proactive personality,
+physical exposure, routine disruption, and perceived organizational
+support were combined)
+Four-factor model (perceived strengths use, withdrawal behaviors,
+resilience, and thriving were combined; routine disruption, physical
+exposure, and perceived organizational support were combined)
+Two-factor model (performance bonus vs. the rest)
+
+595.89
+2003.63
+
+343
+358
+
+.96
+.75
+
+.96
+.72
+
+.04
+.11
+
+.05
+.12
+
+—
+1407.74 (15)
+
+2286.68
+
+365
+
+.71
+
+.68
+
+.11
+
+.18
+
+1690.79 (22)
+
+2517.89
+
+364
+
+.67
+
+.64
+
+.12
+
+.14
+
+1922.00 (21)
+
+3610.19
+
+374
+
+.51
+
+.47
+
+.15
+
+.21
+
+3014.30 (31)
+
+5019.11
+
+378
+
+.30
+
+.24
+
+.17
+
+.19
+
+4423.22 (35)
+
+3
+4
+
+This document is copyrighted by the American Psychological Association or one of its allied publishers.
+This article is intended solely for the personal use of the individual user and is not to be disseminated broadly.
+
+5
+6
+
+Note. The hypothesized nine-factor model serves as the baseline model. Some alternative models are compared with it. All Δχ are signiﬁcant at p < .01.
+CFI = comparative ﬁt index; TLI = Tucker-Lewis index; RMSEA = Root mean squared error of approximation. We constructed parcels as composite
+indicators of the factors to achieve an optimal ratio of the sample size to the number of estimated indicators (Little et al., 2013).
+2
+
+COVID-19 hospitals in China used to examine the factor structure of
+the two new scales. The second was 270 MTurk respondents from the
+health care industry providing data to obtain convergent and discriminant validity evidence for the new scales, and also to differentiate
+perceived strengths use with conceptually similar constructs such as
+work methods autonomy (Morgeson & Humphry, 2006). Results
+from the two independent new samples supported the construct
+validity of our study variables (Appendix B).
+Hypothesis 1 (H1) predicted a positive relationship between
+proactive personality and perceived strengths use. According to the
+results of path analysis in Table 3, proactive personality was
+positively associated with perceived strengths use (β = .32,
+p < .01), supporting H1. Hypotheses 2a (H2a) and 2b (H2b)
+predicted a mediated relationship from proactive personality to
+performance and withdrawal behaviors through strengths use.
+Results in Table 3 show that perceived strengths use was positively related to performance bonus (β = .13, p < .05) but not
+related to withdrawal behaviors (β = .00, p = .99). Further, results
+in Table 5 show that the indirect effects from proactive personality
+through perceived strengths use to performance bonus (indirect
+effect estimate = .04, 95% CI = [.01, .08], excluding zero) was
+
+calculation of indirect effects, we used 20,000 resamples of Monte
+Carlo simulation and constructed 95% conﬁdence intervals (Preacher
+et al., 2010). All the predictors and moderators were grandmean-centered to facilitate interpretation (Aiken et al., 1991). All
+analyses were run both with and without the control variables, with
+no meaningful differences in results.
+
+Results
+Table 1 summarizes the descriptive information of the studied
+variables and their bivariate correlations. Prior to hypothesis testing,
+we assessed the convergent and discriminant validity of our study
+variables by conducting a series of factor analyses. We ﬁrst used the
+complex modeling to account for the potential nonindependence of
+the data (Muthén & Muthén, 2017). The data showed a good ﬁt with
+the hypothesized nine-factor model (Model 1) [χ2(343) = 595.89,
+CFI = .96, TLI = .96, RMSEA = .04, SRMR = .05], which was
+signiﬁcantly better than other alternative models (see Table 2). To
+examine the construct validity of the new scales of routine disruption
+and physical exposure, we collected two additional samples. The ﬁrst
+was a new, independent sample of 181 doctors and nurses from other
+
+Table 3
+Reports of Mediation
+Variables
+Controls
+Sex
+Age
+Education
+Tenure
+Doctor_Nurse
+Independent variable
+Proactive Personality (PP)
+Mediators
+Perceived strengths use
+R2
+
+Perceived strengths use
+
+Performance bonus
+
+Withdrawal behaviors
+
+Resilience
+
+Thriving
+
+.03
+−.16
+−.03
+.09
+.07
+
+.09
+.02
+−.01
+−.06
+.09
+
+.01
+.55*
+−.12*
+−.51*
+−.02
+
+−.02
+.50
+−.12*
+−.42
+−.01
+
+.32**
+
+.07
+
+.08
+
+.44**
+
+.39**
+
+.12
+
+.13*
+.03
+
+.00
+.03
+
+.26**
+.35
+
+.23**
+.29
+
+−.01
+−.17
+−.05
+.18
+−.02
+
+Note. Standardized results are reported. N = 315–408. Sex = 1 if the participant is male and 0 if the participant is female. Doctor_Nurse refers to the position
+of the participant; Doctor_Nurse = 1 if the participant is a doctor and 0 if the participant is a nurse.
+* p < .05 (two-tailed test). ** p < .01 (two-tailed test).
+
+7
+
+PROACTIVE PERSONALITY AND COVID-19
+
+Figure 1
+Conceptual Model
+
+(a)
+Physical exposure
+
+Routine disruption
+
+Perceived
+organizational support
+
+Behavioral outcomes
+
+This document is copyrighted by the American Psychological Association or one of its allied publishers.
+This article is intended solely for the personal use of the individual user and is not to be disseminated broadly.
+
+Job performance
+Withdrawal behaviors
+Perceived
+strengths use
+
+Proactive personality
+
+Well-being outcomes
+Resilience
+Thriving
+
+(b)
+Physical exposure
+
+Routine disruption
+
+.11g/.12*h
+
+.15*a
+
+Perceived
+organizational support
+
+Behavioral outcomes
+
+.10i/.09j
+
+Job performance
+Withdrawal behaviors
+.13*c/.00d
+
+Proactive personality
+.32**b
+
+Perceived
+strengths use
+Well-being outcomes
+.26**e/.23**f
+
+Resilience
+Thriving
+
+Note. a is the coefﬁcient for three way interaction;
+b is the coefﬁcient from proactive personality to perceived strengths use;
+c, d, e, and f are the coefﬁcients from perceived strengths use to job performance, withdrawal behaviors, resilience and thriving, respectively;
+g, h, i, and j are the coefﬁcients of the interactional term between perceived strengths use and physical exposure on job performance, withdrawal behaviors,
+resilience and thriving, respectively.
+
+signiﬁcant. However, concerning withdrawal behaviors, the indirect effect through perceived strengths use was not signiﬁcant
+(indirect effect estimate = .00, 95% CI = [−.05, .05], including
+zero). Therefore, H2a but not H2b was supported in that perceived
+strengths use mediated the relationship between proactive personality and performance bonus.
+Hypotheses 3a (H3a) and 3b (H3b) predicted that perceived
+strengths use mediates the relationships between proactive personality and the well-being outcomes. Results in Table 3 show
+that perceived strengths use was positively related to resilience
+
+(β = .26, p < .01) and thriving (β = .23, p < .01); while Table 5
+shows that the indirect effects through perceived strengths use from
+proactive personality to resilience (indirect effect estimate = .08,
+95% CI = [.03, .14]) and thriving (indirect effect estimate = .07,
+95% CI = [.03, .13]) were both signiﬁcant because the 95% Monte
+Carlo conﬁdence intervals exclude zero. Therefore, H3a and H3b
+were supported.
+Hypotheses 4 (H4) predicted the three-way interaction among
+proactive personality, routine disruption, and perceived organizational support. Path analyses results in Table 4 show that the
+
+8
+
+YI-FENG CHEN ET AL.
+
+Table 4
+Reports of Moderated Mediation
+
+This document is copyrighted by the American Psychological Association or one of its allied publishers.
+This article is intended solely for the personal use of the individual user and is not to be disseminated broadly.
+
+Variables
+
+Perceived strengths use
+
+Controls
+Sex
+Age
+Education
+Tenure
+Doctor_Nurse
+Independent variable
+Proactive Personality (PP)
+Mediators
+Perceived Strengths Use
+Moderators
+Routine Disruption
+Perceived Organizational Support (POS)
+Physical Exposure
+Interaction Terms
+PP × Routine Disruption
+PP × POS
+POS × Routine Disruption
+PP × POS × Routine Disruption
+Perceived Strengths Use × Physical Exposure
+R2
+
+.05
+−.12
+.02
+.12
+−.11
+.15**
+
+.05
+.40**
+−.09
+.07
+.10
+.15*
+.35
+
+Performance bonus
+
+Withdrawal behaviors
+
+Resilience
+
+Thriving
+
+−.02
+−.09
+−.05
+.12
+.12
+
+−.09
+.05
+−.02
+−.07
+.08
+
+−.00
+.62*
+−.12*
+−.54*
+−.03
+
+−.03
+.54*
+−.12*
+−.43*
+−.01
+
+.06
+
+.08
+
+.43**
+
+.39**
+
+−.04
+
+−.02
+
+.24**
+
+.19*
+
+.10*
+.20**
+.41**
+
+.05
+−.01
+.02
+
+.09
+−.01
+.11
+
+.02
+.06
+.08
+
+.06
+.07
+.10
+.09
+.12*
+.16
+
+−.04
+.01
+.08*
+−.02
+.11
+.04
+
+−.12*
+−.04
+−.04
+.13
+.09
+.38
+
+−.03
+−.04
+−.01
+.18*
+.10
+.31
+
+Note. Standardized results are reported. N = 315–408. Sex = 1 if the participant is male and 0 if the participant is female. Doctor_Nurse refers to the position
+of the participant; Doctor_Nurse = 1 if the participant is a doctor and 0 if the participant is a nurse.
+* p < .05 (two-tailed test). ** p < .01 (two-tailed test).
+
+three-way interaction term was signiﬁcant in the predicted direction
+(β = .15, p < .05)1. Figure 2 plots the interaction effects, and
+Table 6 presents the slope differences. The signiﬁcant difference
+between slope (1) and (2) show that when routine disruption
+was high, proactive personality has signiﬁcantly stronger relationships with perceived strengths use when perceived organizational
+support was also high rather than low. The slope differences
+between (2) and (4) further supported the importance of the joint
+effects of both routine disruption and perceived organizational
+support in that when routine disruption was high but perceived
+organizational support was low, the relationship between proactive
+personality and perceived strengths use was even lower than when
+both of the moderators were at low levels. Therefore, H4 was
+supported (Figure 1b).
+Hypotheses 5a, 5b, 5c, and 5d considered moderation effects of
+physical exposure. Table 4 shows that physical exposure signiﬁcantly moderated the relationship between perceived strengths use
+and performance (β = .12, p < .05); the relationship was stronger
+when physical exposure was higher. However, other moderation
+effects were not found; therefore, H5 was partially supported.
+Figure 3 presents a plot of the interaction effects with simple slopes
+(Figure 1b).
+
+Discussion
+Proactive personality is associated with numerous positive outcomes at work (Crant et al., 2017). This research extends thinking in
+this area by showing the importance of proactive personality in
+frontline health care professionals’ success in combating the uncertain crisis created by COVID-19. Those high on proactive personality had higher perceived strengths use, which in turn mediated
+the relationships between proactive personality and performance,
+as well as two indicators of well-being. A three-way interaction
+
+between proactive personality and two contextual moderators,
+routine disruption and perceived organizational support, was associated with perceived strengths use. Another contextual moderator,
+physical exposure to the virus, affected the relationship between
+perceived strengths use and job performance. The nature of the
+moderation effect was that physical exposure exacerbated the effects
+of perceived strengths use on performance. The results taken as a
+whole indicate that a proactive disposition is an important mechanism for both professional and personal success in dealing with the
+pandemic.
+Our study provides a more in-depth understanding of proactive
+personality by considering its value in times of uncertainty and crisis.
+Seeing and utilizing opportunities for self-conceived initiatives from
+the chaos accompanying crisis by working in more self-concordant
+ways and utilizing one’s strengths may provide a fundamental
+explanation for how proactives differentiate themselves from others
+in difﬁcult times. Their self-directed and future-oriented nature makes
+proactives less dependent on other-directed initiatives. In times when
+uncertainty is becoming normal rather than exceptional, such as
+during the current pandemic, a proactive personality may be more
+important than ever before. It provides advantages in terms of
+ﬁnding new and better ways of working in crises.
+Our study also contributes to the COR theory in important ways.
+By conceptualizing proactive personality as a dispositional resource
+that contributes to important professional and personal goals in the
+context of health care professionals combating COVID-19, our
+study delineates how more of this dispositional resource (i.e., higher
+proactive personality) facilitates better acquisition and conservation
+1
+Despite our theoretical interest in the three-way interaction, we also
+tested a model with only the two-way interaction terms (βproactive personality_
+routine disruption = −.09, p = .13; βproactive personality_organizational support = .07,
+p = .31; βroutine disruption_organizational support = .06, p = .18).
+
+9
+
+PROACTIVE PERSONALITY AND COVID-19
+
+Figure 2
+Three-Way Interaction Among Proactive Personality, Routine Disruption, and Perceived Organizational Support on Perceived
+Strengths Use
+
+7
+
+Perceived Strengths Use
+
+(1) High Routine Disruption, High
+Perceived Organizational Support
+
+6
+(2) High Routine Disruption, Low
+Perceived Organizational Support
+
+5.5
+(3) Low Routine Disruption, High
+Perceived Organizational Support
+
+5
+(4) Low Routine Disruption, Low
+Perceived Organizational Support
+
+4.5
+4
+Lower Proactive Personality Higher Proactive Personality
+of other resources (i.e., a job-related motivational resource—perceived strengths use). This provides supportive evidence for the
+important corollary of COR that resources can help acquire and
+maintain other resources (Hobfoll, 1989; Hobfoll et al., 2018).
+
+Moreover, our ﬁnding for the important role of the mediational
+resource of perceived strengths use provides important directions of
+interventions for organizations to consider in dealing with the
+COVID-19 crisis.
+
+Figure 3
+Interaction Plots: Physical Exposure as the Moderator
+
+5
+4.5
+4
+
+Performance Bonus
+
+This document is copyrighted by the American Psychological Association or one of its allied publishers.
+This article is intended solely for the personal use of the individual user and is not to be disseminated broadly.
+
+6.5
+
+β = .39, p < .01
+
+3.5
+
+Lower Physical Exposure
+
+3
+
+Higher Physical Exposure
+
+2.5
+2
+
+β = -.15, p = .15
+
+1.5
+1
+Lower perceived strengths use Higher perceived strengths use
+
+10
+
+YI-FENG CHEN ET AL.
+
+Table 5
+Indirect Effects and Conditional Indirect Effects
+Mediation paths
+Proactive
+Proactive
+Proactive
+Proactive
+
+Indirect effects
+
+personality
+personality
+personality
+personality
+
+→
+→
+→
+→
+
+Perceived
+Perceived
+Perceived
+Perceived
+
+strengths
+strengths
+strengths
+strengths
+
+use
+use
+use
+use
+
+→
+→
+→
+→
+
+.04
+.00
+.08
+.07
+
+Performance bonus
+Withdrawal behaviors
+Resilience
+Thriving
+
+Monte Carlo 95% CI
+[.01,
+[−.05,
+[.03,
+[.03,
+
+.08]
+.05]
+.14]
+.13]
+
+This document is copyrighted by the American Psychological Association or one of its allied publishers.
+This article is intended solely for the personal use of the individual user and is not to be disseminated broadly.
+
+Note. We calculated the Monte Carlo 95% conﬁdence interval (CI) with 20,000 replications.
+
+In addition, our study contributes to research on the management
+of crisis and uncertainty. Research on organizational crisis management tends to emphasize the importance of structural measures and
+leadership (Bundy et al., 2017). By revealing the importance of
+personal agency in maintaining professional and personal success,
+our research suggests that individual employees also play critical
+roles in managing crisis and uncertainty, thus maintaining effective
+organizational functioning at lower levels
+
+Limitations, Future Research, and Practical
+Implications
+As with all research, ours has some limitations that yield implications for future research. Studying doctors and nurses on the
+frontlines during this pandemic is a signiﬁcant strength of the
+research design, but also a limitation. Future research may extend
+our ﬁndings to other types of health care workers who might also
+need to directly confront the uncertainty brought by the COVID-19
+situation. Future research might explore these relationships in other
+crisis settings. Our research sought to investigate the role of proactive personality in this process, but other individual differences also
+likely play a role. Future research might consider examining other
+variables that relate to strengths use, such as self-efﬁcacy and core
+self-evaluations.
+The pandemic has revealed the importance of sound leadership
+during the COVID-19 crisis (Sergent & Stajkovic, 2020). Accordingly, this research has several important practical implications.
+Given our ﬁndings of the importance of proactivity in the COVID19 context, leaders should promote or enhance employees’ awareness of their personal agency as an important path in dealing with the
+crisis, especially considering routine disruption and physical exposure. Hospital management should emphasize that frontline health
+care professionals can craft their positions in a way that ﬁts with their
+strengths while being consistent with legal parameters. Also helpful
+Table 6
+Slope Difference Tests of the Three-Way Interaction With the Slope
+Numbers From Figure 2
+Pair of slopes
+(1)
+(1)
+(1)
+(2)
+(2)
+(3)
+
+and
+and
+and
+and
+and
+and
+
+(2)
+(3)
+(4)
+(3)
+(4)
+(4)
+
+t-value for slope difference
+
+p value for slope difference
+
+1.95*
+0.22
+−0.04
+−1.63
+−2.61**
+−0.30
+
+.05
+.83
+.97
+.10
+.01
+.76
+
+Note. * p < .05 (two-tailed test). ** p < .01 (two-tailed test).
+
+would be efforts to increase the health care professionals’ awareness
+and use of their personal strengths. Managers can emphasize
+proactivity as a means of dealing with novel and difﬁcult situations.
+Moreover, our ﬁnding that perceived organizational support critically enhanced the effect of proactive personality on perceived
+strengths use under high routine disruption situations provides
+important practical implications for organizations, showing that
+even when proactives ﬁnd new ways to do their work during a
+crisis, organizational support can still play a signiﬁcant role by
+backing them up.
+
+Conclusion
+This study demonstrated that a proactive orientation is positively associated with a motivational resource, perceived strengths
+use. Proactive personality is also indirectly associated with performance and two indicators of well-being, resilience, and thriving, through perceived strengths use. Several COVID-19-related
+variables moderated these relationships. The ﬁndings converge on
+the importance of a proactive orientation in frontline health care
+workers’ professional and personal success in dealing with the
+uncertainty stemming from the COVID-19 pandemic. Extending
+beyond the COVID-19 crisis, the active nature of proactive
+personality allows those facing uncertainty and adversity to collect
+a valuable job-related motivational resource, which, in turn, yields
+greater job performance and well-being. Our longitudinal data
+added to the evolving strengths use in organizations literature by
+presenting a process by which proactive personality creates greater
+strengths use, leading to better performance and well-being.
+
+References
+Aiken, L. S., West, S. G., & Reno, R. R. (1991). Multiple regression: Testing
+and interpreting interactions. Sage Publications.
+Bakker, A. B., & Demerouti, E. (2007). The job demands–resources model:
+State of the art. Journal of Managerial Psychology, 22, 309–328. https://
+doi.org/10.1108/02683940710733115
+Bakker, A. B., & Demerouti, E. (2017). Job demands–resources theory:
+Taking stock and looking forward. Journal of Occupational Health
+Psychology, 22, 273–285. https://doi.org/10.1037/ocp0000056
+Bakker, A. B., & van Woerkom, M. (2018). Strengths use in organizations: A
+positive approach of occupational health. Canadian Psychology, 59(1),
+38–46. https://doi.org/10.1037/cap0000120
+Bakker, A. B., Hetland, J., Olsen, O. K., & Espevik, R. (2019). Daily
+strengths use and employee well-being: The moderating role of personality. Journal of Occupational and Organizational Psychology, 92(1),
+144–168. https://doi.org/10.1111/joop.12243
+Bandura, A. (1997). Self-efﬁcacy: the exercise of control. W.H. Freeman.
+
+This document is copyrighted by the American Psychological Association or one of its allied publishers.
+This article is intended solely for the personal use of the individual user and is not to be disseminated broadly.
+
+PROACTIVE PERSONALITY AND COVID-19
+Bateman, T. S., & Crant, J. M. (1993). The proactive component of
+organizational behavior: A measure and correlates. Journal of Organizational Behavior, 14(2), 103–118. https://doi.org/10.1002/job.4030140202
+Biswas-Diener, R., Kashdan, T. B., & Minhas, G. (2011). A dynamic
+approach to psychological strength development and intervention. The
+Journal of Positive Psychology, 6, 106–118. https://doi.org/10.1080/
+17439760.2010.545429
+Bliese, P. D., & Hanges, P. J. (2004). Being both too liberal and too
+conservative: The perils of treating grouped data as though they were
+independent. Organizational Research Methods, 7(4), 400–417. https://
+doi.org/10.1177/1094428104268542
+Brislin, R. W. (1980). Translation and content analysis of oral and written
+material. In H. C. Triandis & J. W. Berry (Eds.), (pp. 389–444). Handbook
+of crosscultural psychology. Allyn & Bacon.
+Bundy, J., Pfarrer, M. D., Short, C. E., & Coombs, W. T. (2017). Crises and
+crisis management: Integration, interpretation, and research development.
+Journal of Management, 43(6), 1661–1692. https://doi.org/10.1177/
+0149206316680030
+Carver, C. S. (1998). Resilience and thriving: Issues, models, and linkages.
+Journal of Social Issues, 54(2), 245–266. https://doi.org/10.1111/j.15404560.1998.tb01217.x
+Chisholm, R. F., Kasl, S. V., & Eskenazi, B. (1983). The nature and
+predictors of job related tension in a crisis situation: Reactions of nuclear
+workers to the Three Mile Island accident. Academy of Management
+Journal, 26(3), 385–405. https://doi.org/10.5465/256252
+Clifton, D. O., & Harter, J. K. (2003). Investing in strengths. In K. S.
+Cameron, J. E. Dutton, & R. E. Quinn (Eds.), Positive organizational
+scholarship: Foundation of a new discipline (pp. 111–121). BerretKoehler.
+Crant, J. M. (2000). Proactive behavior in organizations. Journal of Management, 26(3), 435–462. https://doi.org/10.1177/014920630002600304
+Crant, J. M., Hu, J., & Jiang, K. (2017). Proactive personality: A twenty-year
+review. In S. K. Parker & U. K. Bindle (Eds.), Proactivity at work: Making
+things happen in organizations (pp. 193–225). Routledge.
+Cunningham, C. J. L., & De La Rosa, G. M. (2008). The interactive effects of
+proactive personality and work-family interference on well-being. Journal
+of Occupational Health Psychology, 13(3), 271–282. https://doi.org/10
+.1037/1076-8998.13.3.271
+Demerouti, E., Bakker, A. B., Nachreiner, F., & Schaufeli, W. B. (2001). The
+job demands-resources model of burnout. Journal of Applied Psychology,
+86, 499–512. https://doi.org/10.1037/0021-9010.86.3.499
+Eder, P., & Eisenberger, R. (2008). Perceived organizational support: Reducing the negative inﬂuence of coworker withdrawal behavior. Journal of
+Management, 34(1), 55–68. https://doi.org/10.1177/0149206307309259
+Enders, C. K., & Bandalos, D. L. (2001). The relative performance of full
+information maximum likelihood estimation for missing data in structural
+equation models. Structural Equation Modeling, 8(3), 430–457. https://
+doi.org/10.1207/S15328007SEM0803_5
+Govindji, R., & Linley, P. A. (2007). Strengths use, self-concordance and
+well-being: Implications for strengths coaching and coaching psychologists. International Coaching Psychology Review, 2(2), 143–153.
+Grant, A. M., & Ashford, S. J. (2008). The dynamics of proactivity at work.
+Research in Organizational Behavior, 28, 3–34. https://doi.org/10.1016/j
+.riob.2008.04.002
+Grifﬁn, M. A., Neal, A., & Parker, S. K. (2007). A new model of work role
+performance: Positive behavior in uncertain and interdependent contexts.
+Academy of Management Journal, 50(2), 327–347. https://doi.org/10
+.5465/amj.2007.24634438
+Hartmann, S., Weiss, M., Newman, A., & Hoegl, M. (2020). Resilience in
+the workplace: A multilevel review and synthesis. Applied Psychology,
+69(3), 913–959. https://doi.org/10.1111/apps.12191
+Hermann, C. (1963). Some consequences of crisis which limit the viability of
+organizations. Administrative Science Quarterly, 8(1), 61–82. https://
+www.jstor.org/stable/2390887. https://doi.org/10.2307/2390887
+
+11
+
+Hobfoll, S. E. (1989). Conservation of resources: A new attempt at conceptualizing stress. American Psychologist, 44(3), 513–524. https://doi.org/
+10.1037/0003-066X.44.3.513
+Hobfoll, S. E., Halbesleben, J., Neveu, J. P., & Westman, M. (2018).
+Conservation of resources in the organizational context: The reality of
+resources and their consequences. Annual Review of Organizational
+Psychology and Organizational Behavior, 5, 103–128. https://doi.org/
+10.1146/annurev-orgpsych-032117-104640
+Hogan, M. J. (2020). Collaborative positive psychology: Solidarity, meaning, resilience, well-being, and virtue in a time of crisis. International
+Review of Psychiatry, 1–15. Advance online publication. https://doi.org/
+10.1080/09540261.2020.1778647
+Hui, C., & Lee, C. (2000). Moderating effects of organization-based selfesteem on organizational uncertainty: Employee response relationships.
+Journal of Management, 26(2), 215–232. https://doi.org/10.1177/
+014920630002600203
+Keenan, E. M., & Mostert, K. (2013). Perceived organisational support for
+strengths use: The factorial validity and reliability of a new scale in the
+banking industry. SA Journal of Industrial Psychology, 39(1), 1–12.
+https://doi.org/10.4102/sajip.v39i1.1052
+Kleine, A. K., Rudolph, C. W., & Zacher, H. (2019). Thriving at work: A
+meta-analysis. Journal of Organizational Behavior, 40(9–10), 973–999.
+https://doi.org/10.1002/job.2375
+Lindström, M., & Giordano, G. N. (2016). The 2008 ﬁnancial crisis: Changes
+in social capital and its association with psychological well-being in the
+United Kingdom—A panel study. Social Science & Medicine, 153, 71–80.
+https://doi.org/10.1016/j.socscimed.2016.02.008
+Linley, P. A., & Harrington, S. (2006). Playing to your strengths. The
+Psychologist, 19(2), 86–89.
+Linley, P. A., Nielsen, K. M., Gillett, R., & Biswas-Diener, R. (2010). Using
+signature strengths in pursuit of goals: Effects on goal progress, need
+satisfaction, and well-being, and implications for coaching psychologists.
+International Coaching Psychology Review, 5(1), 6–15.
+Little, T. D., Rhemtulla, M., Gibson, K., & Schoemann, A. M. (2013). Why
+the items versus parcels controversy needn’t be one. Psychological
+Methods, 18(3), 285–300. https://psycnet.apa.org/doi/10.1037/a0033266
+. https://doi.org/10.1037/a0033266
+Liu, Q., Luo, D., Haase, J. E., Guo, Q., Wang, X. Q., Liu, S., : : : Yang,
+B. X. (2020). The experiences of health-care providers during the
+COVID-19 crisis in China: A qualitative study. The Lancet. Global Health,
+8(6), E790–E798. https://doi.org/10.1016/S2214-109X(20)30204-7
+Masten, A. S., & Reed, M. G. J. (2002). Resilience in development. In C.
+R. Snyder & S. J. Lopez (Eds.), Handbook of positive psychology
+(pp. 117–131). Oxford University Press.
+Morgeson, F. P., & Humphrey, S. E. (2006). The Work Design Questionnaire
+(WDQ): Developing and validating a comprehensive measure for assessing job design and the nature of work. Journal of Applied Psychology,
+91(6), 1321–1339. https://doi.org/10.1037/0021-9010.91.6.1321
+Muthén, L., & Muthén, B. (2017). Mplus (Version 8) [computer software].
+(pp. 1998–2017).
+Ohly, S., & Schmitt, A. (2017). Work design and proactivity. In S. K.
+Parker & U. K. Bindl (Eds.), Proactivity at work: Making things happen
+in organizations (pp. 387–410). Routledge.
+Parker, S. K., Bindl, U. K., & Strauss, K. (2010). Making things happen: A
+model of proactive motivation. Journal of Management, 36, 827–856.
+https://doi.org/10.1177/0149206310363732
+Parker, S. K., Williams, H. M., & Turner, N. (2006). Modeling the antecedents of proactive behavior at work. Journal of Applied Psychology,
+91(3), 636–652. https://psycnet.apa.org/doi/10.1037/0021-9010.91.3.636.
+https://doi.org/10.1037/0021-9010.91.3.636
+Peterson, C., & Seligman, M. E. P. (2004). Character strengths and virtues:
+A handbook and classiﬁcation. Oxford University Press.
+Plomp, J., Tims, M., Akkermans, J., Khapova, S. N., Jansen, P. G. W., &
+Bakker, A. B. (2016). Career competencies and job crafting: How
+
+This document is copyrighted by the American Psychological Association or one of its allied publishers.
+This article is intended solely for the personal use of the individual user and is not to be disseminated broadly.
+
+12
+
+YI-FENG CHEN ET AL.
+
+proactive employees inﬂuence their well-being. Career Development
+International, 21(6), 587–602. https://doi.org/10.1108/CDI-08-2016-0145
+Podsakoff, P. M., MacKenzie, S. B., & Podsakoff, N. P. (2012). Sources of
+method bias in social science research and recommendations on how to
+control it. Annual Review of Psychology, 63, 539–569. https://doi.org/10
+.1146/annurev-psych-120710-100452
+Porath, C., Spreitzer, G., Gibson, C., & Garnett, F. G. (2012). Thriving at
+work: Toward its measurement, construct validation, and theoretical
+reﬁnement. Journal of Organizational Behavior, 33(2), 250–275.
+https://doi.org/10.1002/job.756
+Preacher, K. J., Zyphur, M. J., & Zhang, Z. (2010). A general multilevel SEM
+framework for assessing multilevel mediation. Psychological Methods,
+15(3), 209–233. https://psycnet.apa.org/doi/10.1037/a0020141. https://
+doi.org/10.1037/a0020141
+Prime, H., Wade, M., & Browne, D. T. (2020). Risk and resilience in family
+well-being during the COVID-19 pandemic. American Psychologist,
+75(5), 631–643. https://doi.org/10.1037/amp0000660
+Proctor, C., Maltby, J., & Linley, P. A. (2011). Strengths use as a predictor of
+well-being and health-related quality of life. Journal of Happiness Studies,
+12(1), 153–169. https://doi.org/10.1007/s10902-009-9181-2
+Restubog, S. L. D., Ocampo, A. C. G., & Wang, L. (2020). Taking control
+amidst the chaos: Emotion regulation during the COVID-19 pandemic.
+Journal of Vocational Behavior, 119(8), Article 103440. https://doi.org/10
+.1016/j.jvb.2020.103440
+Rhoades, L., & Eisenberger, R. (2002). Perceived organizational support: A
+review of the literature. Journal of Applied Psychology, 87, 698–714.
+https://doi.org/10.1037/0021-9010.87.4.698
+Seibert, S. E., Crant, J. M., & Kraimer, M. L. (1999). Proactive personality
+and career success. Journal of Applied Psychology, 84(3), 416–427.
+https://doi.org/10.1037/0021-9010.84.3.416
+Seligman, M. E. P., & Csikszentmihalyi, M. (2000). Positive psychology: An
+introduction. American Psychologist, 55(1), 5–14. https://doi.org/10
+.1037/0003-066X.55.1.5
+Seligman, M. E., Steen, T. A., Park, N., & Peterson, C. (2005). Positive
+psychology progress: Empirical validation of interventions. American
+Psychologist, 60(5), 410–421. https://doi.org/10.1037/0003-066X.60.5.410
+Sergent, K., & Stajkovic, A. D. (2020). Women’s leadership is associated
+with fewer deaths during the COVID-19 crisis: Quantitative and qualitative analyses of United States governors. Journal of Applied Psychology,
+105(8), 771–783. https://doi.org/10.1037/apl0000577
+Shanock, L. R., & Eisenberger, R. (2006). When supervisors feel supported:
+Relationships with subordinates’ perceived supervisor support, perceived
+organizational support, and performance. Journal of Applied Psychology,
+91(3), 689–695. https://doi.org/10.1037/0021-9010.91.3.689
+Sheldon, K. M., & Elliot, A. J. (1999). Goal striving, need satisfaction, and
+longitudinal well-being: The self-concordance model. Journal of Personality and Social Psychology, 76(3), 482–497. https://doi.org/10.1037/
+0022-3514.76.3.482
+
+Sibley, C. G., Greaves, L. M., Satherley, N., Wilson, M. S., Overall, N. C.,
+Lee, C. H., : : : Houkamau, C. A. (2020). Effects of the COVID-19
+pandemic and nationwide lockdown on trust, attitudes toward government, and well-being. American Psychologist, 75(5), 618–630. https://
+doi.org/10.1037/amp0000662
+Sliter, M., Sliter, K., & Jex, S. (2012). The employee as a punching bag: The
+effect of multiple sources of incivility on employee withdrawal behavior
+and sales performance. Journal of Organizational Behavior, 33(1),
+121–139. https://doi.org/10.1002/job.767
+Spreitzer, G., Sutcliffe, K., Dutton, J., Sonenshein, S., & Grant, A. M. (2005).
+A socially embedded model of thriving at work. Organization Science,
+16(5), 537–549. https://doi.org/10.1287/orsc.1050.0153
+Stachowski, A. A., Kaplan, S. A., & Waller, M. J. (2009). The beneﬁts of
+ﬂexible team interaction during crises. Journal of Applied Psychology,
+94(6), 1536–1543. https://doi.org/10.1037/a0016903
+Stephens, J. P., Heaphy, E. D., Carmeli, A., Spreitzer, G. M., & Dutton, J.
+E. (2013). Relationship quality and virtuousness: Emotional carrying
+capacity as a source of individual and team resilience. The Journal of
+Applied Behavioral Science, 49(1), 13–41. https://doi.org/10.1177/
+0021886312471193
+Sutcliffe, K. M., & Vogus, T. J. (2003). Organizing for resilience. In K. S.
+Cameron, J. E. Dutton, & R. E. Quinn (Eds.), Positive organizational
+scholarship: Foundations of a new discipline (pp. 94–110). BerrettKoehler.
+van Woerkom, M., & Meyers, M. C. (2015). My strengths count! Effects of a
+strengths-based psychological climate on positive affect and job performance. Human Resource Management, 54(1), 81–103. https://doi.org/10
+.1002/hrm.21623
+van Woerkom, M., Bakker, A. B., & Nishii, L. H. (2016). Accumulative
+job demands and support for strength use: Fine-tuning the job demandsresources model using conservation of resources theory. Journal
+of Applied Psychology, 101(1), 141–150. https://doi.org/10.1037/
+apl0000033
+van Woerkom, M., Mostert, K., Els, C., Bakker, A. B., de Beer, L., &
+Rothmann, S., Jr. (2016). Strengths use and deﬁcit correction in organizations: Development and validation of a questionnaire. European Journal
+of Work and Organizational Psychology, 25(6), 960–975. https://doi.org/
+10.1080/1359432X.2016.1193010
+Wood, A. M., Linley, P. A., Maltby, J., Kashdan, T. B., & Hurling, R. (2011).
+Using personal and psychological strengths leads to increases in wellbeing over time: A longitudinal study and the development of the strengths
+use questionnaire. Personality and Individual Differences, 50(1), 15–19.
+https://doi.org/10.1016/j.paid.2010.08.004
+World Health Organization. (2020, March 11). WHO director-general’s
+opinion remarks at the media brieﬁng on COVID-19. https://www.who
+.int/dg/speeches/detail/who-director-general-s-opening-remarks-at-themedia-brieﬁng-on-covid-19---11-march-2020
+
+(Appendices follow)
+
+PROACTIVE PERSONALITY AND COVID-19
+
+13
+
+Appendix A
+Scale Items
+All responses were indicated on a 7-point Likert scale ranging
+from 1 = strongly disagree to 7 = strongly agree, except as
+noted below.
+
+My organization shows very little concern for me. (R)
+My organization takes pride in my accomplishments
+at work.
+
+10-Item Proactive Personality Scale
+5-Item Routine Disruption Scale
+
+This document is copyrighted by the American Psychological Association or one of its allied publishers.
+This article is intended solely for the personal use of the individual user and is not to be disseminated broadly.
+
+I am constantly on the lookout for new ways to improve my life.
+Wherever I have been, I have been a powerful force for
+constructive change.
+
+Compared to the period before the pandemic outbreak, : : :
+I take on more emergent tasks beyond my normal /
+routine tasks.
+
+Nothing is more exciting than seeing my ideas turn into reality.
+
+I spend more time on unexpected urgent tasks.
+
+If I see something I don’t like, I ﬁx it.
+
+I am more overloaded.
+
+No matter what the odds, if I believe in something I will make it
+happen.
+I love being a champion for my ideas, even against others’
+opposition.
+
+I spend more time on inter-departmental co-ordination.
+I am exposed to more unexpected risk than in the past.
+
+3-Item Physical Exposure Scale
+
+I excel at identifying opportunities.
+I am always looking for better ways to do things.
+If I believe in an idea, no obstacle will prevent me from making
+it happen.
+I can spot a good opportunity long before others can.
+
+Responses for physical exposure were indicated on a 6-point scale
+from 1 = never to 6 = always.
+During the COVID-19 crisis, how frequently do you : : :
+directly deal with infected cases at work?
+interact with colleagues or others who directly contact infected cases?
+
+8-Item Strengths Use Scale
+
+work in an environment where exposure to covid-19 is high?
+
+In my work since the pandemic outbreak, : : :
+I use my strengths.
+
+3-Item Withdrawal Behavior Scale
+
+I do my job in a manner that best suits my strong points.
+I do what I am good at.
+I use my talents.
+I ensure that my strengths are aligned with my job tasks.
+
+All items were indicated on a scale ranging from 1 = never to
+6 = always.
+In their work during the pandemic, how often does this
+employee : : :
+
+I make the most of my talents.
+
+take undeserved work breaks.
+
+I apply my strong points.
+
+spend time in idle conversation.
+
+I focus on what I am good at.
+
+neglect aspects of the job one is obligated to perform.
+
+6-Item Perceived Organizational Support
+My organization values my contribution to its well-being.
+My organization strongly considers my goals and values.
+My organization really cares about my well-being.
+My organization is willing to help me when I need a special favor.
+
+Performance Bonus Archival Data
+Because of conﬁdentiality considerations, the hospital disclosed
+six categories (ranges) of the performance bonus rather than the
+amounts each participant’s bonus. We treated the variable as
+continuous in our analyses because the categories reﬂected the
+level of their performance from low (category 1) to high (category
+6), and the ranges had no overlap among different categories. The
+categories were evenly distributed and gradated in increments of
+
+(Appendices continue)
+
+14
+
+YI-FENG CHEN ET AL.
+
+9-Item Thriving Scale
+
+RMB 5,000 (e.g., category 1: The employee’s bonus was RMB 0–
+4,999; category 2: RMB 5,000–9,999; category 3: RMB 10,000–
+14,999, etc.). Because a number of doctors and nurses with other
+specialties were recruited to work together against this respiratory
+disease, the special bonus was mainly designed to reﬂect these
+health care professionals’ efforts and devotion rather than their
+original specialties or positions, making the level of performance
+bonus comparable among the participants as a reﬂection of their
+engagement and behavioral performance.
+
+In my work until now since the pandemic outbreak, : : :
+I ﬁnd myself learning often.
+I continued to learn more and more as time went by.
+I see myself continually improving.
+I am not learning. (R)
+I have developed a lot as a person.
+
+This document is copyrighted by the American Psychological Association or one of its allied publishers.
+This article is intended solely for the personal use of the individual user and is not to be disseminated broadly.
+
+5-Item Resilience Scale
+
+I feel alive and vital.
+
+I am getting better at my work because I learn from my mistakes.
+
+I have energy and spirit.
+
+Dealing with difﬁcult colleagues (or situations) enables me
+to grow.
+
+I do not feel very energetic. (R)
+I have looked forward to each new day.
+
+I see challenges as an opportunity to learn.
+I ﬁnd ways to handle unexpected situations.
+
+(R) denotes reverse-scored items
+
+I bounce back when I confront setbacks at work.
+
+Appendix B
+Additional Discriminant and Convergent Validity Test Results
+
+Table B1
+Results of Conﬁrmatory Factor Analyses for the Study Variables
+Comparison of 1- vs. 2-factor models
+Measurement
+models
+Physical
+exposure vs.
+Routine
+disruption
+Perceived
+Strengths use
+vs. Work
+methods
+autonomy
+Perceived
+Strengths use
+vs. Work
+schedule
+autonomy
+Perceived
+Strengths use
+vs. Decisionmaking
+autonomy
+
+One-factor model
+
+Two-factor model
+
+Sample
+
+χ2
+
+df
+
+RMSEA
+
+CFI
+
+TLI
+
+SRMR
+
+χ2
+
+df
+
+RMSEA
+
+CFI
+
+TLI
+
+SRMR
+
+Δχ2(Δdf)
+
+181 doctors and nurses
+from other COVID-19
+hospitals in Beijing
+and Wuhan
+270 MTurk respondents
+from the health care
+industry
+
+209.76
+
+20
+
+0.23
+
+0.70
+
+0.58
+
+0.15
+
+25.33
+
+19
+
+0.04
+
+0.99
+
+0.99
+
+0.05
+
+184.43(1)
+
+578.60
+
+44
+
+0.21
+
+0.68
+
+0.06
+
+0.12
+
+86.56
+
+43
+
+0.06
+
+0.97
+
+0.97
+
+0.03
+
+492.04(1)
+
+325.28
+
+44
+
+0.15
+
+0.82
+
+0.78
+
+0.07
+
+109.23
+
+43
+
+0.08
+
+0.96
+
+0.95
+
+0.04
+
+216.05(1)
+
+325.28
+
+44
+
+0.15
+
+0.82
+
+0.78
+
+0.07
+
+109.23
+
+43
+
+0.08
+
+0.96
+
+0.95
+
+0.04
+
+216.05(1)
+
+Note B1. Refer to the note below Table B2, for detailed descriptions of the ﬁndings.
+
+(Appendices continue)
+
+15
+
+PROACTIVE PERSONALITY AND COVID-19
+
+This document is copyrighted by the American Psychological Association or one of its allied publishers.
+This article is intended solely for the personal use of the individual user and is not to be disseminated broadly.
+
+Table B2
+Correlations for the Convergent Validity Evidence
+Sample
+
+Variables
+
+Physical exposure
+
+Routine disruption
+
+Perceived strengths use
+
+270 MTurk respondents from the
+health care industry
+
+Work schedule autonomy
+Decision-making autonomy
+Work methods autonomy
+Event disruption
+Job safety
+
+−.03
+.00
+.05
+.28**
+.50**
+
+.09
+.19**
+.19**
+.36**
+.38**
+
+.25**
+.40**
+.39**
+−.07
+−.06
+
+Note B2. Besides the factor analyses of the study variables, we also recruited two independent new samples to conduct a series of analyses to establish the
+discriminant and convergent validity of our study variables, especially the new scales of routine disruption, physical exposure and the adapted measure of
+perceived strengths use. First, we examined the discriminant validity of routine disruption and physical exposure by recruiting a new sample of 181 doctors and
+nurses from other COVID-19 hospitals in Beijing and Wuhan, because these variables were speciﬁc to the COVID-19 battling context. The two-factor model
+provides a better ﬁt to the data compared to a one-factor model as is shown above (Table B1). Secondly, we collected another new sample consists of 270 MTurk
+respondents from the health care industry; we collected data from this sample to assess the discriminant and convergent validity of our new scales. Routine
+disruption had higher correlations with a convergent variable, event disruption (r = .36, p < .01) than with divergent variables of work-schedule autonomy
+(r = .09, n.s.) and work methods autonomy (r = .19, p < .01). Physical exposure to the virus also had higher correlations with a convergent variable, job safety
+(r = .50, p < .01) than with divergent variables decision making autonomy (r = .00, n.s.) and work schedule autonomy (r = −.03, n.s.). We further conducted
+a CFA between perceived strengths use and work methods autonomy (Table B1), which showed that compared with a one-factor solution where all the items
+from both variables were loaded together, the two-factor solution provided a better ﬁt to the data.
+
+Received August 14, 2020
+Revision received October 18, 2020
+Accepted October 28, 2020 ▪
+
+

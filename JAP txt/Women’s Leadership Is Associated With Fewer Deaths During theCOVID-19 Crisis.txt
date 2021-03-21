@@ -1,0 +1,1933 @@
+Journal of Applied Psychology
+© 2020 American Psychological Association
+ISSN: 0021-9010
+
+2020, Vol. 105, No. 8, 771–783
+http://dx.doi.org/10.1037/apl0000577
+
+This document is copyrighted by the American Psychological Association or one of its allied publishers.
+This article is intended solely for the personal use of the individual user and is not to be disseminated broadly.
+
+Women’s Leadership Is Associated With Fewer Deaths During the
+COVID-19 Crisis: Quantitative and Qualitative Analyses of
+United States Governors
+Kayla Sergent
+
+Alexander D. Stajkovic
+
+Edgewood College
+
+University of Wisconsin–Madison
+
+The coronavirus disease that emerged in 2019 (COVID-19) spotlights the need for effective leadership
+in a crisis. Leadership research in applied psychology suggests that women tend to be preferred over men
+as leaders during uncertain times. We contribute to this literature by examining, in the context of
+COVID-19, whether states with women governors had fewer deaths than states with men governors, and
+why. We tested this research question with publicly available data on COVID-19 deaths in the United
+States as of May 5, 2020 and found that states with women governors had fewer COVID-19 deaths
+compared to states with men governors. Governor sex also interacted with early stay-at-home orders;
+states with women governors who issued these orders early had fewer deaths compared to states with men
+governors who did the same. To provide insight into psychological mechanisms of this relationship, we
+conducted a qualitative analysis of governor briefings that took place between April 1, 2020 and May 5,
+2020 (251 briefings, 38 governors, 1.2 million words). Compared to men, women governors expressed
+more empathy and confidence in their briefings. Practical implications are discussed.
+Keywords: leadership, gender, leader effectiveness, crisis, COVID-19
+
+Michel, 2018; Post & Byron, 2015). In particular, research comparing women and men on transformational leadership (Bass &
+Riggio, 2006) showed that women scored higher on charisma and
+individualized consideration (Eagly, Johannesen-Schmidt, & van
+Engen, 2003), giving rise to a “female leadership advantage” under
+contemporary conditions (Eagly & Carli, 2003, p. 807). Ryan,
+Haslam, and Postmes (2007) similarly found that women tend to
+be favored as leaders during a crisis, and they are also selected to
+contest hard-to-win elections (Ryan, Haslam, & Kulich, 2010).
+Palvia, Vahamaa, and Vahamaa (2015) found “strong evidence
+that smaller banks with female CEOs and chairwomen were less
+likely to fail” (p. 577) during the 2008 recession. In their review of
+studies on women’s leadership during trying times, Ryan et al.
+(2016) likewise concluded that women leaders seem to be preferred during business downturns.
+This literature prompted our research question: Do states in the
+United States with women governors have fewer COVID-19
+deaths than states with men governors, and why? To examine this
+question, we used publicly available data and compared the number of reported deaths caused by COVID-19 among states in the
+United States. Because these data were archival, we examined
+gender with the information available, as a dichotomous biological
+sex variable. We found statistically significantly fewer deaths in
+
+The COVID-19 pandemic has been described as one of the most
+challenging societal crises since World War II. For example, on
+April 5, 2020, the Surgeon General of the United States warned the
+public, “Next week is going to be our Pearl Harbor moment. It’s
+going to be our 9/11 moment.”1 A month later, on May 6, 2020,
+White House Press Secretary Kayleigh McEnany expressed similar worries: “The President has been clear that at this moment
+we’re at a war-time moment where we’re fighting the invisible
+enemy. And by that, I mean COVID-19.”2
+This crisis has changed people’s lives in unprecedented ways. In
+addition to public health concerns, the crisis has left many fearing
+for their jobs, struggling with rampant unemployment, and losing
+faith in the effectiveness of business and political leaders (Gershman, 2020; Horsley, 2020). Rapid escalation of COVID-19 highlights the need for timely and effective decision-making by leaders. Applied psychology research has shown that perceptions of
+who makes an effective leader can be altered in a crisis (Ryan,
+Haslam, Hersby, & Bongiorno, 2011).
+One perspective from which leadership literature in applied
+psychology (Lord, Day, Zaccaro, Avolio, & Eagly, 2017) can be
+evaluated is gender effectiveness (Hoobler, Masterson, Nkomo, &
+
+This article was published Online First July 2, 2020.
+X Kayla Sergent, Department of Management, Edgewood College;
+X Alexander D. Stajkovic, Department of Management, University of
+Wisconsin–Madison.
+Correspondence concerning this article should be addressed to Kayla
+Sergent, Department of Management, Edgewood College, 1000 Edgewood
+College Drive, Madison, WI 53711. E-mail: ksergent@edgewood.edu
+
+1
+Surgeon General: This week will be like a ‘Pearl Harbor’ and ‘9/11’
+moment. CNN. April 5, 2020. Retrieved from https://www.cnn.com/2020/
+04/05/politics/jerome-adams-coronavirus/index.html.
+2
+White House Kayleigh McEnany press conference transcript, May 6,
+2020. Rev. Retrieved from https://www.rev.com/blog/transcripts/white-housepress-secretary-kayleigh-mcenany-briefing-transcript-press-conference-may-6.
+
+771
+
+772
+
+SERGENT AND STAJKOVIC
+
+This document is copyrighted by the American Psychological Association or one of its allied publishers.
+This article is intended solely for the personal use of the individual user and is not to be disseminated broadly.
+
+states with women governors than in states with men governors.
+To provide insight into potential psychological mechanisms of this
+relationship, we conducted a qualitative analysis of governors’
+COVID-19-related briefings. In comparison to men governors,
+women governors expressed more empathy and exuded greater
+confidence.
+We proceed as follows. First, we describe the context during
+which the data for this article were collected. Next, we review the
+applied psychology literature on gender and leadership that guided
+our research question and analyses. Then, we report the results of
+both quantitative and qualitative analyses. We conclude with a
+discussion of practical implications.
+
+Context, Literature Review, and Theory Background
+for the Research Question
+Context
+Under the Tenth Amendment of the U.S. Constitution, states are
+granted responsibility for safeguarding the welfare, safety, and
+health of the public. In emergencies, state governors have the
+power to issue executive orders, activate the National Guard, and
+request financial and military aid from the federal government.
+Because governors have influence over state-level public health
+outcomes, we used the COVID-19 crisis to examine if governor
+sex influences the COVID-19-related death count, and why. On
+April 16, 2020, President Trump called attention to the differences
+in leadership among the U.S. governors and their impact on
+important outcomes: “They [governors] really worked hard and . . .
+some states got too much credit for what they’ve done . . . and
+others haven’t been given credit that have done a phenomenal
+job.”3
+To illustrate, on March 15, 2020, California Governor Gavin
+Newsom issued an order closing all public establishments and
+institutions across the state. In contrast, on April 14, 2020, South
+Dakota Governor Krisi Noem announced that she would not issue
+a statewide stay-at-home order: “I’ve been very clear about the fact
+that I don’t think decisions for Sioux Falls are the same decisions
+that are correct and right for a town like Faith or Lemmon, South
+Dakota.”
+
+Literature Review: Theoretical Perspectives on Gender
+and Leadership Effectiveness
+Gender as a differentiator of leadership effectiveness has
+spawned polemic in the past five decades (Megargee, 1969).
+Several journals have devoted special issues to gender and leadership effectiveness—for example, The Leadership Quarterly (Eagly & Heilman, 2016), American Psychologist (Chin, 2010), and
+Education Sciences (O’Connor, 2018); hence, our review is brief.
+Research on gender and leadership effectiveness typically adheres to either a micro or a macro level of analysis. Micro research
+studies individual-level variables—for example, leader behaviors—whereas macro research investigates “the shaking and moving” of a firm to face the future, cope with change, and achieve
+organizational-level results (Nicholls, 1988, p. 16). The present
+study bridges the micro-macro divide by relating a micro predictor
+(governors’ sex) to a macro outcome (state death count). This
+cross-level research answers a call by Hoobler et al. (2018, p.
+
+2490) for gender and leadership studies that capture “multiple
+vantage points and conduct studies that serve to bridge—not
+further divide—these two [macro and micro] approaches.”
+At a micro level of analysis, research has indicated that women
+seem to be sought-out as leaders in times of uncertainty (Ryan et
+al., 2011). In comparison to men, arguably, this is because of
+women’s desire to help others, capacity to balance risk, and
+resilience to “bounce back” from failure more pragmatically (Ryan
+et al., 2016). This research often derives its conclusions from
+surveys, such as by asking participants to rate characteristics of
+managers from successful and unsuccessful companies (Haslam &
+Ryan, 2008; Ryan et al., 2011), by evaluating stock-market declines (Ryan & Haslam, 2005), and by probing political appointments by opposing political parties (Ryan et al., 2010). Though
+valuable in accentuating gender differences in leadership effectiveness, the characteristics of the “crisis” examined (e.g., decreased firm performance) do not equate to the multifaceted severity of the COVID-19 crisis.
+Research on social roles (Eagly, 1987; Eagly & Steffen, 1984)
+suggests that the behavior of women and men leaders is guided by
+role stereotypes, according to which women tend to be communal
+and sharing, whereas men are agentic and independent (ChrobotMason, Hoobler, & Burno, 2019; Eagly & Steffen, 2000; Koenig,
+Eagly, Mitchell, & Ristikari, 2011). If women act incongruently
+with gender role stereotypes, more often than not, such behavior is
+evaluated unfavorably (Eagly, 2004; Eagly & Karau, 2002; Eagly,
+Makhijani, & Klonsky, 1992; Rudman & Glick, 2001). This covariation reinforces work behavior in line with gender stereotypes
+(Amanatullah & Morris, 2010; Bowles, Babcock, & Lai, 2007;
+Brescoll, 2011; Heilman, Block, Martell, & Simon, 1989).
+Social– cognitive theory of gender role development and differentiation postulates that gender-driven behavior depends on a
+coupling of external and internal influences in any given context
+(Bussey & Bandura, 1999). Although much of human learning and
+adaptation is socially situated, neither women nor men are passive
+objects orchestrated by their environments. Instead, they are sentient agents of their experiences, and self-referent thought is an
+intermediary between one’s social milieu and behavior. In this
+vein, cognition (e.g., causal attributions, self-efficacy) mediates
+the impact of gender on leadership effectiveness (Betz & Hackett,
+1981; Brown & Lent, 2016, 2017; Bussey & Bandura, 1999;
+Hartman & Betz, 2007; Mazei et al., 2015).
+Macrolevel research in this literature has historically focused on
+the link between gender and organizational-level effectiveness
+(Krishnan & Park, 2005; Nielsen & Huse, 2010) and on examining
+moderators (e.g., legal, sociocultural context) of this relationship
+(Abdullah, Ismail, & Nachum, 2016; Hoobler et al., 2018; Post &
+Byron, 2015). For example, two recent meta-analyses found a
+positive relationship between women’s leadership (e.g., number of
+women on the board) and firm performance (e.g., accounting
+returns; Hoobler et al., 2018; Post & Byron, 2015). Some mediators of the relationship between gender and firm-level effectiveness include women enhancing the firm’s legitimacy in the eyes of
+stakeholders (Bilimoria, 2006), offering heterogeneity and depth in
+3
+All quotes from the president and the governors used in the article are
+publicly available, and we retrieved them from the transcript company
+Rev.com.
+
+This document is copyrighted by the American Psychological Association or one of its allied publishers.
+This article is intended solely for the personal use of the individual user and is not to be disseminated broadly.
+
+WOMEN’S LEADERSHIP AND FEWER COVID-19 DEATHS
+
+decision-making (Carter, D’Souza, Simkins, & Simpson, 2010),
+and impacting evaluations of resource dependence (Hambrick,
+2007; Peterson & Philpot, 2007).
+Macrolevel gender leadership studies typically use financial
+indicators as measures of effectiveness. This assumes that the
+primary meter of whether women make effective leaders is their
+influence on a firm’s bottom line (Hoobler et al., 2018). For
+context, in an analysis of articles in three management journals
+between 1972 and 2001, Walsh, Weber, and Margolis (2003)
+found that fewer than 2% of studies considered welfare outcomes.
+Economic effectiveness is critical, but a sole focus on it leaves
+much unsaid about leadership beyond a firm’s monetary bottom
+line.
+
+Theory Background for the Research Question
+Our crossed micro-macro research mirrors the situation on the
+ground: State governors are individuals responsible for state-level
+outcomes. As former Speaker of the House Tip O’Neill proclaimed, “All politics is local” (O’Neill, 1994, p. 1); in many ways,
+the impact of COVID-19 is local, too, for governors make decisions for their states. We next discuss why whether a governor is
+a man or woman may make a difference on COVID-19 deaths in
+a state.
+First, as mentioned, women tend to be preferred for leadership
+positions across professions during times of uncertainty (Adams,
+Gupta, & Leeth, 2009; Ashby, Ryan, & Haslam, 2007; Eagly &
+Johnson, 1990; Eagly, Karau, & Makhijani, 1995). In general, this
+appears to be because qualities that make a leader effective when
+circumstances are smooth differ from leadership characteristics
+needed in a crisis, and women seem to navigate uncharted waters
+better than men (Haslam et al., 2001; Hunt, Boal, & Dodge, 1999;
+Pillai & Meindl, 1998; Ryan et al., 2011). For routine operations,
+advance plans can be drawn up and executed in a linear and
+controlled manner. In contrast, in a crisis, rationality is bounded
+(Simon, 1997), and effective leadership requires curvilinear thinking, such as relying more on creativity, improvisation, and intuition (Pearson & Sommer, 2011). Research in both applied and
+neuropsychology suggests that women exhibit more of these qualities than men (Byron & Khazanchi, 2012; Byron, Khazanchi, &
+Nazarian, 2010; Hausmann & Güntürkün, 1999; Kimura, 1987;
+Pagnani, 2011).
+Second, leaders face unfamiliar dilemmas during a life-anddeath crisis, making the capacity to foster collaboration and leverage knowledge across teams with multidisciplinary expertise a
+critical skill. Doing this effectively requires a willingness to distribute authority and share information. The tendency for women
+to have a democratic leadership style (Eagly & Johnson, 1990)
+increases the likelihood of information sharing, generating more
+diverse ideas, brainstorming, and consensus building, which in
+turn increases cooperation and facilitates adaptive decisionmaking (Bartunek, Walsh, & Lacey, 2000; Mano-Negrin & Sheaffer, 2004).
+Third, the psychologically tense atmosphere of the COVID-19
+crisis makes promoting psychological safety another key to leadership effectiveness. Leaders need to create milieus in which
+people discuss ideas, raise questions, and share concerns without
+fear of repercussions. Men tend to associate psychological safety
+with knowledge and control, while women tend to associate it with
+
+773
+
+health and security (Kharlamenkova, 2015). In taxing situations,
+men typically use problem-focused coping (Ptacek, Smith, &
+Dodge, 1994; Ptacek, Smith, & Zanas, 1992), whereas women tend
+to seek social support using emotion-focused coping (Baker &
+Berenbaum, 2007; Tamres, Janicki, & Helgeson, 2002). Though
+some situations bode better for problem-focused coping, during a
+crisis, followers’ concerns turn toward basic needs, and such
+worries are often emotionally laden. Thus, successful leaders show
+awareness of their followers’ feelings and acknowledge the emotional challenges faced. Doing this effectively necessitates empathy, defined as an emotional response congruent with the perceived
+welfare of others (Batson, 1991).
+Showing empathy involves perspective shifting to imagine how
+others are affected by the situation at hand (Batson et al., 1997).
+Research on gender and empathy has shown that women tend to be
+more empathetic toward others than men (Batson et al., 1996;
+Gault & Sabini, 2000; Macaskill, Maltby, & Day, 2002; Toussaint
+& Webb, 2005). Empathy drives a tone of communication that is
+tactful and gentle, making it more effective for delivering emotionally laden speeches in a time of crisis. Because men tend to be
+less empathetic, their communication with followers is often more
+blunt, dominant, and forceful (Zahn, 1989).
+Fourth, keeping a clear mind during a crisis benefits from
+adaptive emotion regulation, defined as prospective shifting regarding activated emotions (Hülsheger, Alberts, Feinholdt, &
+Lang, 2013). Research on gender and emotion regulation has
+found that women are more likely than men to use positive
+emotions in the service of reappraising negative situations (Bryant,
+Smart, & King, 2005; Bryant & Verhoff, 2007; McRae, Ochsner,
+Mauss, Gabrieli, & Gross, 2008). This enables women to more
+adaptively handle the psychological setbacks they face.
+Given the uncertainty surrounding the COVID-19 pandemic,
+mistakes are likely. Thus, leaders also need confidence to make
+course corrections without overreacting or paralyzing the operations with doubt (Boin, Stern, & Sundelius, 2016; Stajkovic,
+2006). Because women make causal attributions less tied to their
+ability compared with men (Frieze, Whitley, Hanusa, & McHugh,
+1982; Rosenthal, Guest, & Peccei, 1996), and external attributions
+are positively related to maintaining confidence (Stajkovic &
+Sommer, 2000), women are more likely than men to exude confidence in a crisis. Confidence, like empathy, can translate to
+differences in communication patterns. For example, men seem to
+communicate confidence by commanding attention and winning
+arguments, with an aim to gain power (Maiorescu, 2016; Tannen,
+2013). In contrast, most women perceive confidence as context
+dependent; therefore, women tend to be more sensitive in exuding
+confidence to their followers by focusing on immediately relevant
+issues, not power (Alban-Metcalfe & West, 1991; Austin, Liu, &
+Jin, 2014; Bussey & Bandura, 1999; Deaux & Major, 1987;
+Gillian, 2003).
+Taken together, these gender differences in thoughts and actions
+may increase the likelihood that followers will respond differently
+to messages from women leaders compared to men leaders. Accordingly, in the context of the present research, it seems plausible
+that when governors issued stay-at-home orders before they became the norm, state residents might have responded more positively to briefings by women governors, ultimately saving lives.
+That is, if women governors showed more empathy and confidence
+in their briefings than men governors, that might have fostered
+
+SERGENT AND STAJKOVIC
+
+774
+
+volitional compliance with their stay-at-home orders, which saved
+lives.
+
+Method and Results
+
+This document is copyrighted by the American Psychological Association or one of its allied publishers.
+This article is intended solely for the personal use of the individual user and is not to be disseminated broadly.
+
+Quantitative Study
+Data and measures. We used the “Coronavirus (COVID-19)
+Data in the United States” file (henceforth, data) released by The
+New York Times to capture number of deaths caused by COVID-19
+in the United States.4 These data contained information for the 50
+states in the United States, the District of Columba, and four U.S.
+Territories (N ⫽ 55).5 The death count from COVID-19 was
+reported in this data set by state, by day, from January 21, 2020 to
+May 5, 2020. We combined these data with state population as of
+July 1, 2019 from the U.S. Census Bureau, divided the population
+numbers by 100,000 (M ⫽ 60.32, SD ⫽ 72.4), and mean-centered
+them.
+To test the interaction effect of governor sex and an issuance of
+early stay-at-home orders on death count, we included a categorical variable to indicate whether states issued this order by March
+23, 2020 (first wave; 0.5 ⫽ statewide order issued, 0 ⫽ orders in
+parts of the state, and ⫺0.5 ⫽ no order issued) as reported by The
+New York Times (Mervosh, Lu, & Swales, 2020). We coded sex as
+a woman (0.5) or a man (⫺0.5) according to the roster posted
+online by the National Governors’ Association.6 Governors’ average age was 58.2 years, (SD ⫽ 12.04), tenure in the current term
+was 1.29 years (SD ⫽ 0.84), and the prior terms served was 0.42
+(SD ⫽ 0.57).7
+Results. We used analysis of covariance (ANCOVA) to examine whether governor sex and its interaction with an early
+stay-at-home order was associated with a lower COVID-19 death
+count. Following the best practice recommendations by Bernerth
+and Aguinis (2016), we considered several covariates, including
+the following sociodemographic variables: governor’s age, tenure,
+number of previous terms served, political affiliation, and state
+population. Prior research on leadership, as reported in Bernerth
+and Aguinis (2016), commonly controls for age and tenure-related
+variables to proxy for differences in a leader’s accrued knowledge
+and other experience-related factors. Political science research has
+established a relationship between gender and political affiliation
+as political parties shape who runs for office and frequency of
+initiatives to facilitate elections of women to office (Sanbonmatsu,
+2010). Finally, infectious disease studies have found that state
+population impacts deaths associated with virus transmissions
+(Nolan et al., 1980).
+The above covariates are based on theory and prior research.
+The following covariates pertain to COVID-19 and were retrieved
+from the COVID-19 State and Territory Actions Tracker available
+on the National Governors’ Association’s website. We considered
+whether states mandated residents to wear face masks to proxy for
+risk of virus transmission; whether states banned domestic and
+state-employee travel to control for interstate crossover in virus
+infections; whether states enacted curfews to proxy for nonessential travel; and whether governors allowed hospitals to participate
+in a ventilator sharing program to proxy for capacity.
+Bivariate correlations of the study variables are reported in
+Table 1. Following ANCOVA procedures (Keppel, 1991), to mitigate alternative explanations and to demonstrate the unique rela-
+
+tionship between governor sex and COVID-19 deaths, we parsed
+out the covariance between covariates and criterion variable. The
+results of the full ANCOVA model are reported in Table 2. Results
+indicated that several covariates were not significantly related to
+COVID-19 deaths. Hence, we next ran a reduced ANCOVA model
+and excluded covariates associated with death count at p ⬎ .10 in
+Table 2. Results of the reduced ANCOVA model are reported in
+Table 3. Results remain consistent when state population is added
+to the reduced ANCOVA model.
+Though results in both ANCOVA models supported our research question, we focus on the more parsimonious, reduced
+ANCOVA model. In it, the main effect of governor sex was
+significant; states with women governors had fewer COVID-19related deaths compared to states with male governors, F(1, 47) ⫽
+5.98, p ⫽ .018, ␩p2 ⫽ .08. The interaction of governor sex and early
+issuance of a stay-at-home order was also significant, F(1, 47) ⫽
+7.74, p ⫽ .008, ␩p2 ⫽ .11; states with women governors who issued
+an early stay-at-home order had fewer COVID-19 deaths compared to states with a male governor who issued the same order
+(see Figure 1).
+
+Qualitative Study
+Data and measures. To shed insight into potential reasons for
+the effects reported above, we next analyze the transcripts from
+governmental briefings related to COVID-19 that took place between April 1, 2020 and May 5, 2020. These transcripts are
+provided by the transcription company Rev, and they are available
+on the company’s website.8 We analyzed 251 briefings, from 38
+different state governors (including the mayor of the District of
+Columbia), covering 1.2 million words spoken.9 Table 4 reports
+descriptive information and quotes to illustrate differences in emphasis among the governors. To avoid confounding the effect of
+the predictor variable, for each briefing, we analyzed words only
+from the governor and excluded remarks from invited guests in the
+briefing.
+We used the Linguistic Inquiry and Word Count (LIWC) 2015
+software (Tausczik & Pennebaker, 2010) with built-in theme dictionaries to analyze the transcripts. These dictionaries are established by the LIWC manufacturer, have been validated (Pennebaker, Boyd, Jordan, & Blackburn, 2015), and have been used in
+applied psychology research (Shantz & Latham, 2009). The software provides dictionaries that assess 41 psychological variables
+and six personal concern categories. Our choice among these
+available dictionaries was guided by theory discussed above.
+4
+
+https://github.com/nytimes/covid-19-data.
+There was no COVID-19-related information available on deaths for
+the territory of American Samoa.
+6
+The District of Columbia (D.C.) has no governor, but the mayor of
+D.C. serves in a similar capacity to U.S. state governors. Hence, we used
+the mayor’s demographic information for D.C.
+7
+These data were obtained from the “Governor’s Roster 2020” (https://
+www.nga.org/wp-content/uploads/2019/07/Governors-Roster.pdf).
+8
+https://www.rev.com/blog/transcripts/all-transcripts.
+9
+From April 1 to May 5, 2020, the transcription company Rev.com only
+transcribed briefings for the 38 governors included in this analysis. If those
+governors who were not included in this analysis gave COVID-19-related
+briefings during this period, the transcripts for those briefings were not
+publicly available through this transcription service.
+5
+
+WOMEN’S LEADERSHIP AND FEWER COVID-19 DEATHS
+
+775
+
+Table 1
+Correlations for the Quantitative Analysis
+
+This document is copyrighted by the American Psychological Association or one of its allied publishers.
+This article is intended solely for the personal use of the individual user and is not to be disseminated broadly.
+
+Variables
+1.
+2.
+3.
+4.
+5.
+6.
+7.
+8.
+9.
+10.
+11.
+12.
+13.
+
+1
+
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+⫺.23†
+⫺.19
+.05
+.10
+.13
+⫺.04
+⫺.03
+⫺.15
+⫺.11
+⫺.26ⴱ
+⫺.08
+⫺.13
+
+.43ⴱⴱ
+⫺.25†
+⫺.10
+.31ⴱ
+.38ⴱⴱ
+.03
+⫺.10
+.01
+⫺.03
+.04
+.41ⴱⴱⴱ
+
+⫺.39ⴱⴱ
+.16
+.19
+.46ⴱⴱ
+.07
+⫺.30ⴱ
+.07
+⫺.15
+⫺.05
+.39ⴱⴱⴱ
+
+.06
+⫺.13
+⫺.33ⴱ
+.05
+.11
+.14
+.10
+⫺.07
+⫺.30ⴱ
+
+⫺.05
+⫺.06
+.24†
+⫺.18
+.01
+⫺.12
+⫺.10
+.23†
+
+.21
+⫺.20
+⫺.03
+⫺.01
+⫺.19
+.01
+.18
+
+.11
+⫺.25†
+.12
+.09
+.26†
+.49ⴱⴱⴱ
+
+⫺.21
+⫺.04
+⫺.10
+⫺.27ⴱ
+⫺.09
+
+⫺.10
+⫺.00
+.20
+⫺.24†
+
+.31ⴱ
+.18
+.05
+
+.09
+⫺.05
+
+.29ⴱ
+
+a
+
+Governor sex
+State populationb
+Stay-at-home orderc
+Domestic travel band
+Face mask mandatee
+Statewide curfewf
+Ventilator sharingg
+State-employee travelh
+Governor political affiliationi
+Governor age
+Governor tenure
+Governor prior terms served
+COVID-19 deaths
+
+0.5 ⫽ female, ⫺0.5 ⫽ male. b Population data was divided by 100,000. c 0.5 ⫽ statewide order by March 23, 2020, 0 ⫽ order in parts of state, ⫺0.5 ⫽
+no order issued. d 0.5 ⫽ executive order, 0 ⫽ recommended, ⫺0.5 ⫽ no order issued. e 0.5 ⫽ mandatory for all, 0 ⫽ mandatory for essential
+workers, ⫺0.5 ⫽ recommended. f 0.5 ⫽ yes, ⫺0.5 ⫽ no. g 0.5 ⫽ yes, ⫺0.5 ⫽ no. h 0.5 ⫽ yes, ⫺0.5 ⫽ no. i 0.5 ⫽ Republican, 0 ⫽
+Independent, ⫺0.5 ⫽ Democrat.
+†
+p ⬍ .10. ⴱ p ⬍ .05. ⴱⴱ p ⬍ .01. ⴱⴱⴱ p ⬍ .001.
+
+a
+
+First, because empathy entails awareness of the feelings of
+others, we used the LIWC “feelings” dictionary. This dictionary
+assesses the frequency with which the speaker references feelingsassociated words (e.g., feelings, hard, tough, and pain). Second,
+showing empathy entails acknowledging a concern for the welfare
+of others. Thus, we analyzed the degree to which governors related
+to their followers’ personal concerns. We chose the following three
+personal categories that are likely on the minds of many during the
+COVID-19 crisis: death (e.g., die, mourn, epidemic, war), money
+(e.g., tax, income, loan, economy), and work (e.g., layoff, hire,
+employ, job). Finally, we analyzed transcripts on the LIWC confidence dictionary (e.g., confident, daring, fearless, optimism, and
+positive).10 The scores for each dictionary are the percent of words
+that relate to the dictionary construct; for example, a score of 2.25
+means 2.25% of the words spoken related to the construct. Despite
+some governors issuing many briefings and others speaking rarely,
+scores are computed as a percentage of total words and thus are
+comparable.
+Results. Descriptive statistics and bivariate correlations are
+reported in Table 5. Because political affiliation impacts the audience governors are accustomed to addressing and the priority of
+topics tackled, and because it had a marginally significant correlation with feelings and confidence, we controlled for it. Moreover,
+age was marginally correlated with gender in this analysis. Thus,
+we ran an ANCOVA model in which gender was a predictor of the
+LIWC criteria described above, controlling for political affiliation
+and age. Additionally, Levitt et al. (2018) outlined standards for
+reporting qualitative findings that called for “quotes or excerpts to
+augment data” (p. 37) and to “demonstrate that findings are
+grounded in evidence (e.g., using quotes)” (p. 36). Accordingly,
+we report the qualitative findings and provide illustrative quotes
+for each result.
+Governor sex was related to outcomes examined. First, women
+governors compared to men governors showed more empathy via
+greater awareness of the feelings of others, F(1, 34) ⫽ 8.84, p ⫽
+.005, ␩p2 ⫽ .21. This is exemplified by South Dakota Governor
+Krisi Noem’s April 23, 2020 remarks:
+
+There is a place you can go to talk to someone that can help you, not
+just get answers to your financial issues, programs that may help you
+get through, but somebody that may help you deal with some anxiety
+or depression or lack of hope that you might be feeling today. You do
+not have to go through this alone. Do not hesitate to reach out to me
+personally, to reach out to my family because they are in the same
+boat and feel the same feelings that you all do.
+
+Governor Gretchen Whitmer also frequently discussed feelings
+in her briefings: “The frustration and the pain are real, and the fear
+is real . . . I understand the frustration that people are feeling. I’m
+frustrated too” (April 15, 2020); “People are feeling very anxious.
+People are worried about the business that they built . . . People are
+worried about making the rent payment because they are out of
+work” (April 17, 2020); “I know that . . . people are feeling
+squirrelly from being at home so much with their family. I know
+that people are worried about getting a job so that they can pay
+their bills . . . I have those same fears” (April 29, 2020); “I know
+that some people are angry and I know many are feeling restless.
+I get it and I respect it and it’s okay to feel that way” (May 1,
+2020).
+Second, women governors showed more empathy than men
+governors by taking an outward emotional response congruent
+with their followers’ welfare by focusing more on relevant topics
+of work, F(1, 34) ⫽ 11.53, p ⫽ .002, ␩p2 ⫽ .25, and money, F(1,
+34) ⫽ 7.69, p ⫽ .009, ␩p2 ⫽ .18. To illustrate, consider the remarks
+of South Dakota Governor Krisi Noem on April 6, 2020 when she
+reassured her populace that “resources are available to you,
+whether it be economic or mental health and labor unemployment.” Likewise, Kansas Governor Laura Kelly emphasized an
+understanding for her people’s concerns related to their work on
+April 3, 2020 when she said, “That’s what I want to talk about
+today. Kansas jobs and small businesses and how we can support
+10
+The LIWC manufacturer titles this dictionary “reward.” However,
+upon review of the words included in this dictionary, a title of “confidence”
+rather than “reward,” is a more accurate portrayal.
+
+SERGENT AND STAJKOVIC
+
+776
+
+This document is copyrighted by the American Psychological Association or one of its allied publishers.
+This article is intended solely for the personal use of the individual user and is not to be disseminated broadly.
+
+Table 2
+Full Covariate Model: Effect of Governor Sex on COVID-19 Death Count
+Predictor
+
+Estimate (b)
+
+b 95% CI
+
+SE
+
+p
+
+Intercept
+Governor sexa
+Governor political affiliationb
+Governor agec
+Governor current tenurec
+Governor previous terms servedc
+State populationd
+Stay-at-home ordere
+Domestic travel banf
+Face mask mandateg
+Statewide curfewh
+State-employee traveli
+Ventilator sharingj
+Governor Sex ⫻ Stay-At-Home Order
+
+2,577.23
+⫺2,157.81
+⫺898.91
+⫺9.18
+⫺294.56
+1,099.80
+8.43
+⫺1,232.56
+⫺272.94
+2,611.66
+⫺165.24
+⫺1,488.14
+3,463.81
+⫺4,272.75
+
+[1,218.65, 3,935.81]
+[⫺4,285.94, ⫺29.69]
+[⫺2,336.79, 538.98]
+[⫺66.22, 47.87]
+[⫺1,162.38, 573.25]
+[⫺178.70, 2,378.31]
+[⫺2.18, 19.04]
+[⫺3,611.86, 1,146.73]
+[⫺1,922.30, 1,376.42]
+[766.38, 4,456.93]
+[⫺1,612.63, 1,282.15]
+[⫺3,044.29, 68.00]
+[765.10, 6,162.52]
+[⫺8,528.84, ⫺16.66]
+
+672.72
+1,053.77
+711.99
+28.25
+429.71
+633.07
+5.25
+1,178.14
+816.70
+913.71
+716.69
+770.55
+1,336.30
+2,107.45
+
+.004ⴱⴱⴱ
+.047ⴱ
+.214
+.747
+.497
+.090†
+.116
+.302
+.740
+.007ⴱⴱ
+.819
+.060†
+.013ⴱ
+.049ⴱ
+
+Note. R2 ⫽ .546ⴱⴱ. CI ⫽ confidence interval; SE ⫽ standard error. A significant b-weight indicates the semi-partial correlation is also significant. b
+represents unstandardized regression weights. Number of observations ⫽ 55.
+a
+0.5 ⫽ female, ⫺0.5 ⫽ male. b 0.5 ⫽ Republican, 0 ⫽ Independent, ⫺0.5 ⫽ Democrat. c Mean-centered. d Divided by 100,000 and meancentered. e 0.5 ⫽ statewide order by March 23, 2020, 0 ⫽ order in parts of state, ⫺0.5 ⫽ no order issued. f 0.5 ⫽ executive order, 0 ⫽
+recommended, ⫺0.5 ⫽ no order issued. g 0.5 ⫽ mandatory for all, 0 ⫽ mandatory for essential workers, ⫺0.5 ⫽ recommended. h 0.5 ⫽ yes, ⫺0.5 ⫽
+no. i 0.5 ⫽ yes, ⫺0.5 ⫽ no. j 0.5 ⫽ yes, ⫺0.5 ⫽ no.
+†
+p ⬍ .10. ⴱ p ⬍ .05. ⴱⴱ p ⬍ .01. ⴱⴱⴱ p ⬍ .001.
+
+them, save them, and create them when the danger of COVID-19
+is behind us.” As illustrated, women governors spoke about work
+and money to connect with followers by painting a brighter future
+ahead. In contrast, speaking about death would call attention to the
+tragic consequences of COVID-19. Hence, death was not spoken
+about differentially by gender (p ⫽ .12). For context, the mean
+death mention was 0.11% of words spoken, suggesting that most
+governors avoided talking about it.
+Third, women governors exuded more confidence compared
+with men governors, F(1, 34) ⫽ 3.74, p ⫽ .061, ␩p2 ⫽ .10.11 For
+example, on April 27, 2020, Governor Gretchen Whitmer asserted
+to her state, “We are not out of the woods yet, but we are seeing
+signs to give us reason to be feeling optimistic; cautiously, but
+optimistic nonetheless.” On April 13, 2020, Governor Gina Raimondo assured her public, “I am confident that by working together and sharing our best ideas, we will be much, much more
+likely to get it right for the citizens of our state.”
+
+Discussion
+Our quantitative analysis revealed that states with women governors had fewer COVID-19 deaths than states with men governors. This finding is consistent with both microlevel studies suggesting that women tend to be preferred as leaders during times of
+poor organizational performance and uncertainty (Ashby et al.,
+2007; Bruckmüller & Branscombe, 2010) and macrolevel research
+linking women’s presence in high leadership positions to better
+firm performance (Davis, Babakus, Englis, & Pett, 2010; Haslam,
+Ryan, Kulich, Trojanowski, & Atkins, 2010; Hoobler et al., 2018;
+Post & Byron, 2015). Given the multifaceted severity of the
+COVID-19 crisis, this finding extends prior research by demonstrating that women leaders tend to be effective beyond just a
+moderate-level organizational crisis (cf., Vongas & Al Hajj, 2015).
+We also found that governor sex interacted with early stay-athome orders. Women governors who issued early stay-at-home
+
+orders had fewer COVID-19 deaths in their states than men governors who issued the same orders. This suggests that state residents perhaps responded differently depending on whether a man
+or woman governor issued this order, as manifested by lives saved.
+This finding supports literature suggesting that a leader’s message
+partly determines how the followers respond to it (Boin et al.,
+2016). That is, our qualitative results lend insight to suggest that
+stay-at-home orders issued by women governors were potentially
+delivered with greater empathy and confidence compared to men
+governors. This qualitative difference in briefing messages is consistent with research showing that women tend to be more sensitive to the needs of those around them and express themselves
+accordingly (Gillian, 2003; Zahn, 1989). Together, the quantitative
+interaction and qualitative results suggest that state residents might
+have responded to early state-at-home orders from women governors more positively with greater volitional compliance than to
+such orders by men governors.
+Our crossed (micro-macro) and multimethod (quantitativequalitative) research helps mitigate a “black box” problem in this
+literature, defined as scarcity of theory regarding mediators
+(Hoobler et al., 2018; Post & Byron, 2015). In probing for psychological mechanisms linking women to leadership effectiveness
+during COVID-19, we found that content of the briefings differed
+between women and men governors in terms of two important
+psychological variables: empathy and confidence. Adding nuance
+to the notion of communication sensitivity in a crisis, our findings
+illustrate how gender differences can manifest in speeches to
+followers. This is important because leaders (e.g., governors)
+11
+The gender difference reported here has a Type I error rate of 6.1%.
+To avoid making a Type II error, we thank our Reviewer 1 for the
+constructive suggestion to report effects at p ⬍ .10 due to the relatively low
+statistical power/small sample size to detect a relationship at a conventional
+Type I error rate of 5%.
+
+WOMEN’S LEADERSHIP AND FEWER COVID-19 DEATHS
+
+777
+
+This document is copyrighted by the American Psychological Association or one of its allied publishers.
+This article is intended solely for the personal use of the individual user and is not to be disseminated broadly.
+
+Table 3
+Reduced Covariate Model: Effect of Governor Sex on COVID-19 Death Count
+Predictor
+
+b
+
+b 95% CI
+
+SE
+
+p
+
+Intercept
+Governor sexa
+Governor prior terms servedb
+Stay-at-home orderc
+Face mask mandated
+Ventilator sharinge
+State-employee travelf
+Governor Sex ⫻ Stay-At-Home Order
+
+2,855.93
+⫺2,344.07
+936.99
+⫺631.93
+2,511.47
+4,059.90
+⫺1,346.25
+⫺5,440.38
+
+[1,572.53, 4,139.33]
+[⫺4,271.99, ⫺416.15]
+[⫺270.65, 2,144.63]
+[⫺2,859.53, 1,595.67]
+[725.61, 4,297.33]
+[1,653.64, 6,466.16]
+[⫺2,794.50, 101.99]
+[⫺9,374.40, ⫺1,506.36]
+
+638.0
+958.3
+600.3
+1,107.3
+887.7
+1,196.1
+719.9
+1,955.5
+
+⬍.001ⴱⴱⴱ
+.018ⴱ
+.125
+.571
+.007ⴱⴱ
+.001ⴱⴱ
+.068†
+.008ⴱⴱ
+
+Note. R2 ⫽ .491ⴱⴱ. CI ⫽ confidence interval; SE ⫽ standard error. A significant b-weight indicates the semi-partial correlation is also significant. b
+represents unstandardized regression weights. Number of observations ⫽ 55.
+a
+0.5 ⫽ female, ⫺0.5 ⫽ male. b Mean-centered. c 0.5 ⫽ statewide order by March 23, 2020, 0 ⫽ order in parts of state, ⫺0.5 ⫽ no order
+issued. d 0.5 ⫽ mandatory for all, 0 ⫽ mandatory for essential workers, ⫺0.5 ⫽ recommended. e 0.5 ⫽ yes, ⫺0.5 ⫽ no. f 0.5 ⫽ yes, ⫺0.5 ⫽ no.
+†
+p ⬍ .10. ⴱ p ⬍ .05. ⴱⴱ p ⬍ .01. ⴱⴱⴱ p ⬍ .001.
+
+typically inspire people, and managers (e.g., in state agencies)
+manage processes (Bertocci, 2009). Whether state agencies, first
+responders, and people are confident that they can do what it takes
+to get through a crisis and bounce back partly depends on the
+leader’s rhetoric (Boin & McConnell, 2007; Brescoll, 2011; Drabek, 1986). Even when people have the skills, many forsake
+pursuits if they doubt they can do what it takes. In our sample,
+women governors seemed to have emphasized confidence more
+than men governors.
+
+Limitations
+The COVID-19 pandemic was started by a rapid virus pathogenesis over which little appreciable control existed (Rothan &
+
+Byrareddy, 2020). The results we report are current but could
+change when counts are final. However, there is an uncertainty
+about a recurrence of the virus in late 2020 (Lovelace &
+Breuninger, 2020). In the meantime, we responded to a call for
+research on the facilitative role of applied psychology during the
+pandemic. Because the data were not experimental, which is
+impossible with our criterion variable, no causality can be inferred
+from our results, just patterns of associations. Our aim was to offer
+timely insight on the role of gender in leadership effectiveness
+during an unprecedented time of crisis and uncertainty.
+Although it has been used in applied psychology research
+(Shantz & Latham, 2009), the LIWC analysis is only as accurate as
+the data it analyzes. Because we used public transcripts, if words
+
+Figure 1. Interaction of governor sex and issuing an early stay-at-home order on COVID-19 deaths. This figure
+plots the interaction of governor sex (women ⫽ .5, men ⫽ ⫺.5) and issuance of an early stay-at-home order
+(⫺0.5 ⫽ no order issued, 0 ⫽ order in parts of state, 0.5 ⫽ statewide order) on COVID-19 deaths as of May
+5, 2020. The error bars represent the 95% confidence intervals of the point estimates. See the online article for
+the color version of this figure.
+
+SERGENT AND STAJKOVIC
+
+778
+
+Table 4
+Description of Governor Briefing Transcripts From the Qualitative Analysis
+
+This document is copyrighted by the American Psychological Association or one of its allied publishers.
+This article is intended solely for the personal use of the individual user and is not to be disseminated broadly.
+
+State
+
+#
+
+Dates of briefings
+
+Sex
+
+Quote
+“We all want to get back to work, and I want all my people to have a
+good paying job.”
+“We’re going to continue to use our heads and we’re going to
+continue to use our hearts.”
+“We’re not going to be stampeded into making too quick of a
+decision.”
+“I’m working overtime to rise above the politics, the finger pointing,
+the bickering back and forth. I think you’ve seen that. I hope folks
+notice that. Trying to do my best in that space and working
+cooperative as we possibly can with the administration at all
+levels.”
+“I think anybody would have thought that was a very cruel April
+fool’s joke.”
+“The social distancing is working, but I don’t want to go a false
+sense of complacency.”
+“We will get through this and we will get on the other side of this
+and we will get back to life.”
+“When you’re in these situations, all those little things that people try
+to get an advantage here, try to do this there, you’ve got to put that
+aside and you got to work for the common good.”
+“These are tough moments in our state and our nation. I hear the
+concerns of those I’m honored to serve.”
+“It is imperative that individuals take personal responsibility by
+limiting their exposure.”
+“We are still climbing on our curve and I just talked to you about
+how that’s a slowing climb, which is a good thing, but we are still
+on this side of the peak and I’m hoping there’s not a plateau.”
+“You are our warriors, and we can’t win this fight without you.
+Thank you . . . for being the best self.”
+“I also must think about the economic challenges I know will be
+waiting . . . once we get to the other side”
+“We have sacrificed too much. We have flattened this curve and
+saved so many lives. Let’s not stop now.”
+“We still have more than our fair share of deaths because we’re not
+as healthy as we should be.”
+“The result is a well thought out, gradual, safe, and effective path
+forward for the people of our state. ”
+“It’s important for people to find a way to get back to something and
+it looks like a new normal, but it’s got to be done safely. I can’t
+emphasize this enough, the timing on this needs to be based on
+data.”
+“Throughout this crisis, I have been having regular Zoom calls with
+various essential workers across our state. I wanted to thank them
+and I wanted to listen to them and ask them what I can do to help
+them.”
+“It is a hard, cold reality, one that far exceeds the reality of
+Minnesota’s harshest winters.”
+“We’re going to make sure that you get what you were entitled to
+because it’s not your fault.”
+“It is Missouri data that I’m going to make decisions on, not some
+prediction.”
+“There is no price too high for us to try to save every life we can.
+This is again a war. We are in a war.”
+
+1. Alabama
+
+3
+
+April 3, 14, 2
+
+F
+
+2. Arizona
+
+1
+
+April 7
+
+M
+
+3. Arkansas
+
+6
+
+April 4, 6, 7, 13 14, 23
+
+M
+
+4. California
+
+25
+
+April 1, 2, 3, 4, 6, 7, 8, 9 10, 13, 14,
+15, 16, 17, 20, 21, 22, 23, 24, 27,
+28, 29, 30; May 1, 4
+
+M
+
+5. Colorado
+
+4
+
+April 1, 6, 8, 24
+
+M
+
+6. Connecticut
+
+5
+
+April 14, 17, 29; May 1, 5
+
+M
+
+7. District of Columbia
+
+3
+
+April 3, 13, 17
+
+F
+
+April 1, 2, 6, 8, 10, 13, 16, 17, 18,
+21, 27, 29; May 1, 3, 5
+
+M
+
+8. Florida
+
+15
+
+9. Georgia
+
+3
+
+April 1, 20, 27
+
+M
+
+10. Idaho
+
+1
+
+April 30
+
+M
+
+11. Illinois
+
+15
+
+April 1, 9, 10, 11, 15, 16, 17, 21, 25,
+27, 28, 29, 30; May 4, 5
+
+M
+
+12. Iowa
+
+3
+
+April 6, 9, 20
+
+F
+
+13. Kansas
+
+2
+
+April 3, 10
+
+F
+
+14. Kentucky
+
+5
+
+April 5, 6, 9 15, 22, 28
+
+M
+
+15. Louisiana
+
+7
+
+April 6, 9, 14, 16, 23, 30; May 4
+
+M
+
+16. Maryland
+
+7
+
+April 3, 7, 10, 17, 20, 24, 29
+
+M
+
+17. Massachusetts
+
+12
+
+April 2, 3, 6, 8, 15, 16, 21, 23, 28,
+29, 30; May 4
+
+M
+
+18. Michigan
+
+12
+
+April 2, 6, 9, 13, 15, 17, 20, 24, 27,
+29; May 1, 4
+
+F
+
+19. Minnesota
+
+3
+
+April 5, 6, 20
+
+M
+
+20. Mississippi
+
+2
+
+April 2, 7
+
+M
+
+21. Missouri
+
+1
+
+April 22
+
+M
+
+April 5, 6, 7, 8, 9, 10, 11, 14, 15,
+16, 17, 18, 21, 22, 23, 25, 27, 30;
+May 1, 5
+April 30
+
+M
+
+April 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 12,
+13, 14, 15, 16, 17, 18, 19, 20, 21,
+22, 23, 24, 25, 26, 27, 28, 29;
+May 1, 3, 4, 5
+April 3, 7, 28, 30
+
+M
+
+22. New Jersey
+
+20
+
+23. New Mexico
+
+1
+
+24. New York
+
+25. North Carolina
+26. Ohio
+
+32
+
+4
+18
+
+April 1, 2, 3, 6, 7, 9, 13, 14, 16, 17,
+20, 22, 23, 28, 30; May 1, 4, 5
+
+F
+
+M
+M
+
+“This is painful that we have such grave economic losses and
+impacts. Incredibly painful.”
+“These decisions we have to make without emotion and we have to
+make them on the facts and I’m not going to be swayed this week
+by this one and now the next week by the other one. Make the
+decisions on the facts, make the decisions on the numbers.”
+“We’re going to rely on the data and we’re going to rely on the facts
+in order to make decisions.”
+“To be able to do this and to continue to move forward in the way
+that we want to do and not have to backtrack I need your help. I
+don’t think it’s going to be hard.”
+
+WOMEN’S LEADERSHIP AND FEWER COVID-19 DEATHS
+
+779
+
+Table 4 (continued)
+
+This document is copyrighted by the American Psychological Association or one of its allied publishers.
+This article is intended solely for the personal use of the individual user and is not to be disseminated broadly.
+
+State
+
+#
+
+Dates of briefings
+
+Sex
+
+Quote
+“So we recognize that we are far away from where we need to be . . .
+I apologize for the inconvenience.”
+“I am confident that by working together and sharing our best ideas,
+we will be more likely to get it right.”
+“So we must be aggressive in going after this virus, but we must seek
+to do as little damage.”
+“You do not have to go through this alone. Don’t hesitate to reach
+out to me personally, to reach out to my family because they are in
+the same boat many times and feel the same feelings that you all
+do.”
+“We’re just beginning to understand. It’s too soon to say with
+certainty what’s going to happen, for sure.”
+“The important thing to achieve mitigation is to ensure that people do
+comply with the standard.”
+“Be careful as you travel in where you go and what you do. This is
+no time for us to relax.”
+“And as I have said so often, we came in as Virginians strong to
+COVID-19, and we will put this in our rear view mirror. We will
+come out of it even stronger.”
+“Small acts are what wins a war. That’s how you win wars. There are
+millions of small heroic actions.”
+“It’s sad and it’s not good enough, but we just have to deal with it
+. . . this pandemic is really rough stuff.”
+“Frankly, there is no good answer to this problem. I wish it were
+easy.”
+“We need to consider the common good of all people, not just our
+fellow Christians.”
+
+27. Pennsylvania
+
+2
+
+April 9, 22
+
+M
+
+28. Rhode Island
+
+1
+
+April 13
+
+F
+
+29. South Carolina
+
+1
+
+April 6
+
+M
+
+30. South Dakota
+
+3
+
+April 6, 17, 23
+
+F
+
+31. Tennessee
+
+3
+
+April 3, 14, 24
+
+M
+
+32. Texas
+
+9
+
+M
+
+33. Utah
+
+1
+
+April 3, 6, 8, 10, 13, 17, 21, 27;
+May 5
+April 30
+April 1, 6, 10, 13, 15, 17, 24, 27, 29;
+May 1, 4
+
+M
+
+34. Virginia
+
+11
+
+M
+
+35. Washington
+
+7
+
+April 1, 7, 13, 16, 21, 29; May 5
+
+M
+
+36. West Virginia
+
+1
+
+April 6
+
+M
+
+37. Wisconsin
+
+1
+
+April 6
+
+M
+
+38. Wyoming
+
+1
+
+April 8
+
+M
+
+by governors were altered by the third-party transcription, this can
+impact results. Also, the LIWC does not understand sarcasm.
+These limitations are somewhat mitigated by the large number (1.2
+million) of words analyzed. Relatedly, because the quantitative
+and qualitative analyses were derived from two data sources, we
+cannot test a model in which empathy and confidence mediate the
+impact of sex on COVID-19 deaths within the same model of
+influence.
+Our data were publicly available; thus, we tested gender according to biological sex. Our research question, though, draws from
+literature on social roles and social cognition, both of which are
+mediated by psychosocial processes. For this reason, men can also
+exhibit traditionally feminine qualities (Ely & Padavic, 2007;
+Mensi-Klarbach, 2014) because gender roles emerge from an
+individual’s activities throughout role development (Eagly, Wood,
+
+& Diekman, 2000). Therefore, not all women have different leadership styles from all men (Hoobler et al., 2018).
+
+Practical Implications
+We cannot control state election results nor sex of the governor.
+However, consistent with Post and Byron (2015), our findings
+underscore that states with a women governor are not just “tokenism” (p. 1562) or a “numbers game” (p. 1563) as we found women
+governors cultivated empathy and confidence more in their
+COVID-19 briefings than did men governors. The juxtaposition of
+these findings with prior research underscores the need to value
+different leadership voices and to build a culture of inclusion in
+which varied voices are heard and valued.
+
+Table 5
+Means, Standard Deviations, and Correlations of Governor Briefing Transcript LIWC Scores
+
+1.
+2.
+3.
+4.
+5.
+6.
+7.
+8.
+
+Variable
+
+M
+
+SD
+
+1
+
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+a
+
+—
+0.03
+58.53
+0.23
+1.49
+0.11
+0.94
+3.91
+
+—
+0.51
+13.38
+0.07
+0.39
+0.09
+0.56
+1.03
+
+⫺.03
+⫺.29†
+.46ⴱⴱ
+.28†
+⫺.29†
+.34ⴱ
+.48ⴱⴱ
+
+.02
+⫺.28†
+⫺.27†
+⫺.13
+⫺.19
+⫺.08
+
+⫺.15
+.06
+.14
+.21
+.02
+
+.24
+⫺.09
+.18
+.20
+
+⫺.05
+.16
+.10
+
+⫺.41ⴱ
+⫺.42ⴱⴱ
+
+.83ⴱⴱ
+
+Governor sex
+Governor political affiliationb
+Governor age
+Feelings
+Confidence
+Death
+Money
+Work
+
+Note. LIWC ⫽ Linguistic Inquiry and Word Count.
+a
+0.5 ⫽ female, ⫺0.5 ⫽ male. b 0.5 ⫽ Republican, 0 ⫽ Independent, ⫺0.5 ⫽ Democrat.
+†
+p ⬍ .10. ⴱ p ⬍ .05. ⴱⴱ p ⬍ .01.
+
+SERGENT AND STAJKOVIC
+
+This document is copyrighted by the American Psychological Association or one of its allied publishers.
+This article is intended solely for the personal use of the individual user and is not to be disseminated broadly.
+
+780
+
+In the absence of women governors or women organizational
+leaders during a crisis, effort can be put forth to diversify leadership teams with individuals who show empathy and confidence. In
+organizations, these attributes could be enhanced with training or
+selected during hiring (Gibson, 2004). Most organizations still
+have hierarchical structures (Donkin, 2010); thus, organizing seminars or adopting hiring criteria appears relatively straightforward.
+Women’s leadership in public office is more prone to be moderated by sociocultural context. For example, women who express
+empathy versus men who express empathy are more readily accepted in many societies, but embracing confidence from women
+leaders is a tougher sell in some cultures (Bandura, 1995, 2006).
+For this reason, implementing a program to unobtrusively change
+gendered stereotypes at a societal level is easier said than done. For
+example, research on subtle forms of prejudice (see Sergent &
+Stajkovic, 2019 for a review) suggests that simply discussing
+gender issues increases the salience of gender prejudice. Thus, in
+addition to calling for needed change, following up with constructive conversations is needed to sift through ways in which preconceived views about gender stereotypes can be updated.
+
+Conclusion
+COVID-19 was an exogenous shock that dramatically affected
+individuals, organizations, and societies. We leveraged this lifeand-death pandemic to reexamine the growing postulate in the
+literature that women seem to be more effective leaders than men
+in a crisis. We focused on U.S. governors for they face extraordinary leadership trials during COVID-19. In addition to decisionmaking under uncertainty, governors need to reassure and persuade state residents to volitionally follow through on the orders,
+even when they come with rare personal costs—for example,
+social distancing. We found that states with women governors had
+fewer COVID-19 deaths than states with men governors, and when
+governors issued an early stay-at-home order, states with women
+governors were more responsive, as borne out by fewer COVID-19
+deaths. The qualitative analysis indicated a potential mechanism
+for that effect may be that women governors were more empathetic
+and confident, as shown in their briefings. Beyond the COVID-19
+crisis, the gender leadership dynamics discussed and examined
+herein are likely to unfold when uncertainty permeates business
+and society.
+
+References
+Abdullah, S. N., Ismail, K. N., & Nachum, L. (2016). Does having women
+on boards create value? The impact of societal perceptions and corporate
+governance in emerging markets. Strategic Management Journal, 37,
+466 – 476. http://dx.doi.org/10.1002/smj.2352
+Adams, S. M., Gupta, A., & Leeth, J. D. (2009). Are female executives
+over-represented in precarious leadership positions? British Journal of
+Management, 20, 1–12. http://dx.doi.org/10.1111/j.1467-8551.2007
+.00549.x
+Alban-Metcalfe, B., & West, M. A. (1991). Women managers. In J.
+Firth-Cozens & M. A. West (Eds.), Women at work: Psychological and
+organizational perspectives (pp. 154 –171). New York, NY: Open University Press.
+Amanatullah, E. T., & Morris, M. W. (2010). Negotiating gender roles:
+Gender differences in assertive negotiating are mediated by women’s
+fear of backlash and attenuated when negotiating on behalf of others.
+
+Journal of Personality and Social Psychology, 98, 256 –267. http://dx
+.doi.org/10.1037/a0017094
+Ashby, J., Ryan, M. K., & Haslam, S. A. (2007). Legal work and the
+glass cliff: Evidence that women are preferentially selected to lead
+problematic cases. William & Mary Journal of Women and the Law,
+13, 775–794. Retrieved from https://scholarship.law.wm.edu/wmjowl/
+vol13/iss3/5
+Austin, L. L., Liu, B. F., & Jin, Y. (2014). Examining signs of recovery:
+How senior crisis communicators define organizational crisis recovery.
+Public Relations Review, 40, 844 – 846. http://dx.doi.org/10.1016/j
+.pubrev.2014.06.003
+Baker, J. P., & Berenbaum, H. (2007). Emotional approach and problem-focused
+coping: A comparison to potentially adaptive strategies. Cognition and Emotion,
+21, 95–118. http://dx.doi.org/10.1080/02699930600562276
+Bandura, A. (1995). Self-efficacy in changing societies. New York, NY: Cambridge University Press. http://dx.doi.org/10.1017/CBO9780511527692
+Bandura, A. (2006). Going global with social cognitive theory: From
+prospect to pay dirt. In S. I. Donaldson, D. E. Berger, & K. Pezdek
+(Eds.), Applied psychology: New frontiers (pp. 53–79). Mahwah, NJ:
+Erlbaum.
+Bartunek, J. M., Walsh, K., & Lacey, C. A. (2000). Dynamics and dilemmas of women leading women. Organization Science, 11, 589 – 610.
+http://dx.doi.org/10.1287/orsc.11.6.589.12531
+Bass, B. M., & Riggio, R. E. (2006). Transformational leadership. Mahwah, NJ: Erlbaum. http://dx.doi.org/10.4324/9781410617095
+Batson, C. D. (1991). The altruism question: Toward a socialpsychological answer. Hillsdale, NJ: Erlbaum.
+Batson, C. D., Polycarpou, M. P., Harmon-Jones, E., Imhoff, H. J., Mitchener, E. C., Bednar, L. L., . . . Highberger, L. (1997). Empathy and
+attitudes: Can feeling for a member of a stigmatized group improve
+feelings toward the group? Journal of Personality and Social Psychology, 72, 105–118. http://dx.doi.org/10.1037/0022-3514.72.1.105
+Batson, C. D., Sympson, S. C., Hindman, J. L., Decruz, P., Todd, R. M.,
+Weeks, J. L., . . . Burns, C. T. (1996). I’ve been there, too: Effect on
+empathy of prior experience with a need. Personality and Social
+Psychology Bulletin, 22, 474 – 482. http://dx.doi.org/10.1177/
+0146167296225005
+Bernerth, J. B., & Aguinis, H. (2016). A critical review and best-practice
+recommendations for control variable usage. Personnel Psychology, 69,
+229 –283. http://dx.doi.org/10.1111/peps.12103
+Bertocci, D. I. (2009). Leadership in organizations: There is a difference
+between leaders and managers. New York, NY: University Press of
+America.
+Betz, N. E., & Hackett, G. (1981). The relationship of career-related
+self-efficacy expectations to perceived career options in college women
+and men. Journal of Counseling Psychology, 28, 399 – 410. http://dx.doi
+.org/10.1037/0022-0167.28.5.399
+Bilimoria, D. (2006). The relationship between women corporate directors
+and women corporate officers. Journal of Managerial Issues, 18, 47– 61.
+Retrieved from https://www.jstor.org/stable/40604524?seq⫽1#metadata
+_info_tab_contents
+Boin, A., & McConnell, A. (2007). Preparing for critical infrastructure
+breakdowns: The limits of crisis management and the need for resilience.
+Journal of Contingencies and Crisis Management, 15, 50 –59. http://dx
+.doi.org/10.1111/j.1468-5973.2007.00504.x
+Boin, A., Stern, E., & Sundelius, B. (2016). The politics of crisis management: Public leadership under pressure. New York, NY: Cambridge
+University Press.
+Bowles, H. R., Babcock, L., & Lai, L. (2007). Social incentives for gender
+differences in the propensity to initiate negotiations: Sometimes it does
+hurt to ask. Organizational Behavior and Human Decision Processes,
+103, 84 –103. http://dx.doi.org/10.1016/j.obhdp.2006.09.001
+
+This document is copyrighted by the American Psychological Association or one of its allied publishers.
+This article is intended solely for the personal use of the individual user and is not to be disseminated broadly.
+
+WOMEN’S LEADERSHIP AND FEWER COVID-19 DEATHS
+Brescoll, V. L. (2011). Who takes the floor and why: Gender, power, and
+volubility in organizations. Administrative Science Quarterly, 56, 622–
+641. http://dx.doi.org/10.1177/0001839212439994
+Brown, S. D., & Lent, R. W. (2016). Vocational psychology: Agency,
+equity, and well-being. Annual Review of Psychology, 67, 541–565.
+http://dx.doi.org/10.1146/annurev-psych-122414-033237
+Brown, S. D., & Lent, R. W. (2017). Social cognitive career theory in a
+diverse word. Journal of Career Assessment, 25, 173–180. http://dx.doi
+.org/10.1177/1069072716660061
+Bruckmüller, S., & Branscombe, N. R. (2010). The glass cliff: When and
+why women are selected as leaders in crisis contexts. British Journal
+of Social Psychology, 49, 433– 451. http://dx.doi.org/10.1348/
+014466609X466594
+Bryant, F. B., Smart, C. M., & King, S. P. (2005). Using the past to
+enhance the present: Boosting happiness through positive reminiscence.
+Journal of Happiness Studies: An Interdisciplinary Forum on Subjective
+Well-Being, 6, 227–260. http://dx.doi.org/10.1007/s10902-005-3889-4
+Bryant, F. B., & Verhoff, J. (2007). Savoring: A new model of positive
+experience. Mahwah, NJ: Erlbaum.
+Bussey, K., & Bandura, A. (1999). Social cognitive theory of gender
+development and differentiation. Psychological Review, 106, 676 –713.
+http://dx.doi.org/10.1037/0033-295X.106.4.676
+Byron, K., & Khazanchi, S. (2012). Rewards and creative performance: A
+meta-analytic test of theoretically derived hypotheses. Psychological
+Bulletin, 138, 809 – 830. http://dx.doi.org/10.1037/a0027652
+Byron, K., Khazanchi, S., & Nazarian, D. (2010). The relationship between
+stressors and creativity: A meta-analysis examining competing theoretical models. Journal of Applied Psychology, 95, 201–212. http://dx.doi
+.org/10.1037/a0017868
+Carter, D. A., D’Souza, F., Simkins, B. J., & Simpson, W. G. (2010). The
+gender and ethnic diversity of U.S. boards and board committees and
+firm financial performance. Corporate Governance, 18, 396 – 414. http://
+dx.doi.org/10.1111/j.1467-8683.2010.00809.x
+Chin, J. L. (2010). Introduction to the special issue on diversity and
+leadership. American Psychologist, 65, 150 –156. http://dx.doi.org/10
+.1037/a0018716
+Chrobot-Mason, D., Hoobler, J. M., & Burno, J. (2019). ILean in versus the
+literature: An evidence-based examination. The Academy of Management Perspectives, 33, 110 –130. http://dx.doi.org/10.5465/amp.2016
+.0156
+Davis, P. S., Babakus, E., Englis, P. D., & Pett, T. (2010). The influence
+of CEO gender on market orientation and performance in service small
+and medium-sized service businesses. Journal of Small Business Management, 48, 475– 496. http://dx.doi.org/10.1111/j.1540-627X.2010
+.00305.x
+Deaux, K., & Major, B. (1987). Putting gender into context: An interactive
+model of gender-related behavior. Psychological Review, 94, 369 –389.
+http://dx.doi.org/10.1037/0033-295X.94.3.369
+Donkin, R. (2010). The history of work. London, England: Palgrave.
+http://dx.doi.org/10.1057/9780230282179
+Drabek, T. E. (1986). Human system responses to disaster: An inventory
+of sociological findings. New York, NY: Springer. http://dx.doi.org/10
+.1007/978-1-4612-4960-3
+Eagly, A. H. (1987). Sex differences in social behavior: A social-role
+interpretation. Mahwah, NJ: Erlbaum.
+Eagly, A. H. (2004). Prejudice: Toward a more inclusive understanding. In
+A. H. Eagly, R. M. Baron, & V. L. Hamilton (Eds.), The social
+psychology of group identity and social conflict: Theory, application,
+and practice (pp. 45– 64). Washington, DC: American Psychological
+Association. http://dx.doi.org/10.1037/10683-003
+Eagly, A. H., & Carli, L. L. (2003). The female leadership advantage: An
+evaluation of the evidence. The Leadership Quarterly, 14, 807– 834.
+http://dx.doi.org/10.1016/j.leaqua.2003.09.004
+
+781
+
+Eagly, A. H., & Heilman, M. E. (2016). Gender and leadership: Introduction to the special issue. The Leadership Quarterly, 27, 349 –353. http://
+dx.doi.org/10.1016/j.leaqua.2016.04.002
+Eagly, A. H., Johannesen-Schmidt, M. C., & van Engen, M. L. (2003).
+Transformational, transactional, and laissez-faire leadership styles: A
+meta-analysis comparing women and men. Psychological Bulletin, 129,
+569 –591. http://dx.doi.org/10.1037/0033-2909.129.4.569
+Eagly, A. H., & Johnson, B. T. (1990). Gender and leadership style: A
+meta-analysis. Psychological Bulletin, 108, 233–256. http://dx.doi.org/
+10.1037/0033-2909.108.2.233
+Eagly, A. H., & Karau, S. J. (2002). Role congruity theory of prejudice
+toward female leaders. Psychological Review, 109, 573–598. http://dx
+.doi.org/10.1037/0033-295X.109.3.573
+Eagly, A. H., Karau, S. J., & Makhijani, M. G. (1995). Gender and the
+effectiveness of leaders: A meta-analysis. Psychological Bulletin, 117,
+125–145. http://dx.doi.org/10.1037/0033-2909.117.1.125
+Eagly, A. H., Makhijani, M. G., & Klonsky, B. G. (1992). Gender and the
+evaluation of leaders: A meta-analysis. Psychological Bulletin, 111,
+3–22. http://dx.doi.org/10.1037/0033-2909.111.1.3
+Eagly, A. H., & Steffen, V. J. (1984). Gender stereotypes stem from the
+distribution of women and men into social roles. Journal of Personality
+and Social Psychology, 46, 735–754. http://dx.doi.org/10.1037/00223514.46.4.735
+Eagly, A. H., & Steffen, V. J. (2000). Gender stereotypes stem from the
+distribution of women and men into social roles. In C. Stangor (Ed.),
+Stereotypes and prejudice: Key readings (pp. 142–160). Philadelphia,
+PA: Psychology Press.
+Eagly, A. H., Wood, W., & Diekman, A. B. (2000). Social role theory of
+sex differences and similarities: A current appraisal. In T. Eckes & H. M.
+Trautner (Eds.), The developmental social psychology of gender (pp.
+174 –190). New York, NY: Psychology Press.
+Ely, R., & Padavic, I. (2007). A feminist analysis of organizational research on sex differences. The Academy of Management Review, 32,
+1121–1143. http://dx.doi.org/10.5465/amr.2007.26585842
+Frieze, I. H., Whitley, B. E., Jr., Hanusa, B. H., & McHugh, M. C. (1982).
+Assessing the theoretical models for sex differences in causal attributions for success and failure. Sex Roles: A Journal of Research, 8,
+333–343. http://dx.doi.org/10.1007/BF00287273
+Gault, B. A., & Sabini, J. (2000). The roles of empathy, anger, and gender
+in predicting attitudes toward punitive, reparative, and preventative
+public policies. Cognition and Emotion, 14, 495–520. http://dx.doi.org/
+10.1080/026999300402772
+Gershman, J. (2020, April 25). Lawsuits pile up against coronavirus
+lockdown measures. The Wall Street Journal. Retrieved from https://
+www.wsj.com/articles/lawsuits-pile-up-against-coronavirus-lockdownmeasures-11587807000
+Gibson, D. E. (2004). Role models in career development: New directions
+for theory and research. Journal of Vocational Behavior, 65, 134 –156.
+http://dx.doi.org/10.1016/S0001-8791(03)00051-4
+Gillian, C. (2003). In a different voice: Psychological theory and women’s
+development. Cambridge, MA: Harvard University Press.
+Hambrick, D. C. (2007). Upper echelons theory: An update. The Academy
+of Management Review, 32, 334 –343. http://dx.doi.org/10.5465/amr
+.2007.24345254
+Hartman, R. O., & Betz, N. E. (2007). The five-factor model and career
+self-efficacy. Journal of Career Assessment, 15, 145–161. http://dx.doi
+.org/10.1177/1069072706298011
+Haslam, S. A., Platow, M. J., Turner, J. C., Reynolds, K. J., McGarty, C.,
+Oakes, P. J., . . . Veenstra, K. (2001). Social identity and the romance of
+leadership: The importance of being seen to be ‘doing it for us’. Group
+Processes & Intergroup Relations, 4, 191–205. http://dx.doi.org/10
+.1177/1368430201004003002
+Haslam, S. A., & Ryan, M. K. (2008). The road to the glass cliff:
+Differences in the perceived suitability of men and women for leadership
+
+This document is copyrighted by the American Psychological Association or one of its allied publishers.
+This article is intended solely for the personal use of the individual user and is not to be disseminated broadly.
+
+782
+
+SERGENT AND STAJKOVIC
+
+positions in succeeding and failing organizations. The Leadership Quarterly, 19, 530 –546. http://dx.doi.org/10.1016/j.leaqua.2008.07.011
+Haslam, S. A., Ryan, M. K., Kulich, C., Trojanowski, G., & Atkins, C.
+(2010). Investing with prejudice: The relationship between women’s
+presence on company boards and objective and subjective measures of
+company performance. British Journal of Management, 21, 484 – 497.
+http://dx.doi.org/10.1111/j.1467-8551.2009.00670.x
+Hausmann, M., & Güntürkün, O. (1999). Sex differences in functional
+cerebral asymmetries in a repeated measures design. Brain and Cognition, 41, 263–275. http://dx.doi.org/10.1006/brcg.1999.1126
+Heilman, M. E., Block, C. J., Martell, R. F., & Simon, M. C. (1989). Has
+anything changed? Current characterizations of men, women and managers. Journal of Applied Psychology, 74, 935–942. http://dx.doi.org/10
+.1037/0021-9010.74.6.935
+Hoobler, J. M., Masterson, C. R., Nkomo, S. M., & Michel, E. J. (2018).
+The business case for women leaders: Meta-analysis, research critique,
+and path forward. Journal of Management, 44, 2473–2499. http://dx.doi
+.org/10.1177/0149206316628643
+Horsley, S. (2020). As businesses reopen, a fight is brewing over worker
+safety lawsuits. NPR. Retrieved from https://www.npr.org/sections/
+coronavirus-live-updates/2020/05/06/851262646/as-businesses-reopena-fight-is-brewing-over-worker-safety-lawsuits
+Hülsheger, U. R., Alberts, H. J., Feinholdt, A., & Lang, J. W. (2013).
+Benefits of mindfulness at work: The role of mindfulness in emotion
+regulation, emotional exhaustion, and job satisfaction. Journal of Applied Psychology, 98, 310 –325. http://dx.doi.org/10.1037/a0031313
+Hunt, J. G., Boal, K. B., & Dodge, G. E. (1999). The effects of visionary
+and crisis-responsive charisma on followers: An experimental examination of two kinds of charismatic leadership. The Leadership Quarterly,
+10, 423– 448. http://dx.doi.org/10.1016/S1048-9843(99)00027-2
+Keppel, G. (1991). Design and analysis: A researcher’s handbook (3rd
+ed.). Upper Saddle River, NJ: Prentice Hall, Inc.
+Kharlamenkova, N. E. (2015). Sex and gender differences in representations of psychological safety. Social Psychology and Society, 6, 51– 60.
+Kimura, D. (1987). Are men’s and women’s brains really different? Canadian Psychology/Psychologie canadienne, 28, 133–147. http://dx.doi
+.org/10.1037/h0079885
+Koenig, A. M., Eagly, A. H., Mitchell, A. A., & Ristikari, T. (2011). Are
+leader stereotypes masculine? A meta-analysis of three research paradigms. Psychological Bulletin, 137, 616 – 642. http://dx.doi.org/10.1037/
+a0023557
+Krishnan, H. A., & Park, D. (2005). A few good women on top management teams. Journal of Business Research, 58, 1712–1720. http://dx.doi
+.org/10.1016/j.jbusres.2004.09.003
+Levitt, H. M., Bamberg, M., Creswell, J. W., Frost, D. M., Josselson, R.,
+& Suárez-Orozco, C. (2018). Journal article reporting standards for
+qualitative primary, qualitative meta-analytic, and mixed methods research in psychology: The APA Publications and Communications
+Board task force report. American Psychologist, 73, 26 – 46. http://dx
+.doi.org/10.1037/amp0000151
+Lord, R. G., Day, D. V., Zaccaro, S. J., Avolio, B. J., & Eagly, A. H.
+(2017). Leadership in applied psychology: Three waves of theory and
+research. Journal of Applied Psychology, 102, 434 – 451. http://dx.doi
+.org/10.1037/apl0000089
+Lovelace, B., & Breuninger, K. (2020). Dr. Fauchi warns U.S. could ‘be in
+for a bad fall’ if coronavirus treatments do not work. Retrieved from
+https://www.nbcconnecticut.com/news/coronavirus/fauci-warns-uscould-be-in-for-a-bad-fall-if-coronavirus-treatments-dont-work/2262766/
+Macaskill, A., Maltby, J., & Day, L. (2002). Forgiveness of self and others
+and emotional empathy. The Journal of Social Psychology, 142, 663–
+665. http://dx.doi.org/10.1080/00224540209603925
+Maiorescu, R. D. (2016). Crisis management at General Motors and
+Toyota: An analysis of gender-specific communication and media cov-
+
+erage. Public Relations Review, 42, 556 –563. http://dx.doi.org/10.1016/
+j.pubrev.2016.03.011
+Mano-Negrin, R., & Sheaffer, Z. (2004). Are women “cooler” than men
+during crises? Exploring gender differences in perceiving organisational
+crisis preparedness proneness. Women in Management Review, 19, 109 –
+122. http://dx.doi.org/10.1108/09649420410525315
+Mazei, J., Hüffmeier, J., Freund, P. A., Stuhlmacher, A. F., Bilke, L., &
+Hertel, G. (2015). A meta-analysis on gender differences in negotiation
+outcomes and their moderators. Psychological Bulletin, 141, 85–104.
+http://dx.doi.org/10.1037/a0038184
+McRae, K., Ochsner, K. N., Mauss, I. B., Gabrieli, J. J. D., & Gross, J. J.
+(2008). Gender differences in emotion regulation: An fMRI study of
+cognitive reappraisal. Group Processes & Intergroup Relations, 11,
+143–162. http://dx.doi.org/10.1177/1368430207088035
+Megargee, E. I. (1969). Influence of sex roles on the manifestation of
+leadership. Journal of Applied Psychology, 53, 377–382. http://dx.doi
+.org/10.1037/h0028093
+Mensi-Klarbach, H. (2014). Gender in top management research: Towards
+a comprehensive research framework. Management Research Review,
+37, 538 –552. http://dx.doi.org/10.1108/MRR-03-2013-0066
+Mervosh, S., Lu, D., & Swales, V. (2020, April 20). See which states and
+cities have told residents to stay at home. The New York Times. Retrieved from https://www.nytimes.com/interactive/2020/us/coronavirusstay-at-home-order.html
+Nicholls, J. (1988). Leadership in organisations: Meta, macro and micro.
+European Management Journal, 6, 16 –25. http://dx.doi.org/10.1016/
+0263-2373(88)90005-9
+Nielsen, S., & Huse, M. (2010). The contribution of women on boards of
+directors: Going beyond the surface. Corporate Governance, 18, 136 –
+148. http://dx.doi.org/10.1111/j.1467-8683.2010.00784.x
+Nolan, T. F., Jr., Goodman, R. A., Hinman, A. R., Noble, G. R., Kendal,
+A. P., & Thacker, S. B. (1980). Morbidity and mortality associated with
+influenza B in the United States, 1979 –1980: A report from the Center
+for Disease Control. The Journal of Infectious Diseases, 142, 360 –362.
+http://dx.doi.org/10.1093/infdis/142.3.360
+O’Connor, P. (2018). Introduction to special issue on gender and leadership
+and a future research agenda. Education in Science, 8, 93–97. http://dx
+.doi.org/10.3390/educsci8030093
+O’Neill, T. (1994). All politics is local, and other rules of the game.
+Holbrook, MA: Bob Adams, Inc.
+Pagnani, A. R. (2011). Gender differences. In M. A. Runco & S. R. Pritzker
+(Eds.), Encyclopedia of creativity (pp. 551–557). San Diego, CA: Academic Press. http://dx.doi.org/10.1016/B978-0-12-375038-9.00106-0
+Palvia, A., Vahamaa, E., & Vahamaa, S. (2015). Are female CEOs and
+chairwomen more conservative and risk averse? Evidence from the
+banking industry during the financial crisis. Journal of Business Ethics,
+131, 577–594. http://dx.doi.org/10.1007/s10551-014-2288-3
+Pearson, C. M., & Sommer, S. A. (2011). Infusing creativity into crisis
+management: An essential approach today. Organizational Dynamics,
+40, 27–33. http://dx.doi.org/10.1016/j.orgdyn.2010.10.008
+Pennebaker, J. W., Boyd, R. L., Jordan, K., & Blackburn, K. (2015).
+Development and psychometric properties of LIWC-2015. Austin, TX:
+University of Texas at Austin.
+Peterson, C. A., & Philpot, J. (2007). Women’s roles on U.S. Fortune 500
+boards: Director expertise and committee memberships. Journal of Business Ethics, 72, 177–196. http://dx.doi.org/10.1007/s10551-006-9164-8
+Pillai, R., & Meindl, J. R. (1998). Context and charisma: A “meso” level
+examination of the relationship of organic structure, collectivism, and
+crisis to charismatic leadership. Journal of Management, 24, 643– 671.
+http://dx.doi.org/10.1016/S0149-2063(99)80078-6
+Post, C., & Byron, K. (2015). Women on boards and firm financial
+performance: A meta-analysis. Academy of Management Journal, 58,
+1546 –1571. http://dx.doi.org/10.5465/amj.2013.0319
+
+This document is copyrighted by the American Psychological Association or one of its allied publishers.
+This article is intended solely for the personal use of the individual user and is not to be disseminated broadly.
+
+WOMEN’S LEADERSHIP AND FEWER COVID-19 DEATHS
+Ptacek, J. T., Smith, R. E., & Dodge, K. (1994). Gender differences in
+coping with stress: When stressor and appraisals do not differ. Personality and Social Psychology Bulletin, 20, 421– 430. http://dx.doi.org/10
+.1177/0146167294204009
+Ptacek, J. T., Smith, R. E., & Zanas, J. (1992). Gender, appraisal, and
+coping: A longitudinal analysis. Journal of Personality, 60, 747–770.
+http://dx.doi.org/10.1111/j.1467-6494.1992.tb00272.x
+Rosenthal, P., Guest, D., & Peccei, R. (1996). Gender differences in
+managers’ causal explanations for their work performance: A study in
+two organizations. Journal of Occupational and Organizational Psychology, 69, 145–151. http://dx.doi.org/10.1111/j.2044-8325.1996
+.tb00606.x
+Rothan, H. A., & Byrareddy, S. N. (2020). The epidemiology and pathogenesis of coronavirus disease (COVID-19) outbreak. Journal of Autoimmunity, 109, 102433. http://dx.doi.org/10.1016/j.jaut.2020.102433
+Rudman, L. A., & Glick, P. (2001). Prescriptive gender stereotypes and
+backlash toward agentic women. Journal of Social Issues, 57, 743–762.
+http://dx.doi.org/10.1111/0022-4537.00239
+Ryan, M. K., & Haslam, S. A. (2005). The glass cliff: Evidence that
+women are over-represented in precarious leadership positions. British
+Journal of Management, 16, 81–90. http://dx.doi.org/10.1111/j.14678551.2005.00433.x
+Ryan, M. K., Haslam, S. A., Hersby, M. D., & Bongiorno, R. (2011). Think
+crisis-think female: The glass cliff and contextual variation in the think
+manager-think male stereotype. Journal of Applied Psychology, 96,
+470 – 484. http://dx.doi.org/10.1037/a0022133
+Ryan, M. K., Haslam, S. A., & Kulich, C. (2010). Politics and the glass
+cliff: Evidence that women are preferentially selected to contest hardto-win seats. Psychology of Women Quarterly, 34, 56 – 64. http://dx.doi
+.org/10.1111/j.1471-6402.2009.01541.x
+Ryan, M. K., Haslam, S. A., Morgenroth, T., Rink, F., Stoker, J., & Peters,
+K. (2016). Getting on top of the glass cliff: Reviewing a decade of
+evidence, explanations, and impact. The Leadership Quarterly, 27, 446 –
+455. http://dx.doi.org/10.1016/j.leaqua.2015.10.008
+Ryan, M. K., Haslam, S. A., & Postmes, T. (2007). Reactions to the glass
+cliff: Gender differences in the explanations for the precariousness of
+women’s leadership positions. Journal of Organizational Change Management, 20, 182–197. http://dx.doi.org/10.1108/09534810710724748
+Sanbonmatsu, K. (2010). Where women run: Gender and party in the
+American states. Ann Arbor, MI: University of Michigan Press.
+Sergent, K., & Stajkovic, A. D. (2019). Prime and prejudice. Applied
+Psychology: An International Review, 68, 391– 448. http://dx.doi.org/10
+.1111/apps.12166
+
+783
+
+Shantz, A., & Latham, G. P. (2009). An exploratory field experiment of the
+effect of subconscious and conscious goals on employee performance.
+Organizational Behavior and Human Decision Processes, 109, 9 –17.
+http://dx.doi.org/10.1016/j.obhdp.2009.01.001
+Simon, H. (1997). Administrative behavior (4th ed.). New York, NY: The
+Free Press.
+Stajkovic, A. D. (2006). Development of a core confidence-higher order
+construct. Journal of Applied Psychology, 91, 1208 –1224. http://dx.doi
+.org/10.1037/0021-9010.91.6.1208
+Stajkovic, A. D., & Sommer, S. A. (2000). Self-efficacy and causal
+attributions: Direct and reciprocal links. Journal of Applied Social Psychology, 30, 707–737. http://dx.doi.org/10.1111/j.1559-1816.2000
+.tb02820.x
+Tamres, L. K., Janicki, D., & Helgeson, V. S. (2002). Sex differences in
+coping behavior: A meta-analytic review and an examination of relative
+coping. Personality and Social Psychology Review, 6, 2–30. http://dx
+.doi.org/10.1207/S15327957PSPR0601_1
+Tannen, D. (2013). You just don’t understand. New York, NY: Harper
+Collins.
+Tausczik, Y. R., & Pennebaker, J. W. (2010). The psychological meaning
+of words: LIWC and computerized text analysis methods. Journal of
+Language and Social Psychology, 29, 24 –54. http://dx.doi.org/10.1177/
+0261927X09351676
+Toussaint, L., & Webb, J. R. (2005). Gender differences in the relationship
+between empathy and forgiveness. The Journal of Social Psychology,
+145, 673– 685. http://dx.doi.org/10.3200/SOCP.145.6.673-686
+Vongas, J. G., & Al Hajj, R. (2015). The evolution of empathy and
+women’s precarious leadership appointments. Frontiers in Psychology,
+6, 1751. http://dx.doi.org/10.3389/fpsyg.2015.01751
+Walsh, J. P., Weber, K., & Margolis, J. D. (2003). Social issues and
+management: Our lost cause found. Journal of Management, 29, 859 –
+881. http://dx.doi.org/10.1016/S0149-2063(03)00082-5
+Zahn, C. J. (1989). The bases for differing evaluations of male and
+female speech: Evidence from ratings of transcribed conservation.
+Communication Monographs, 56, 59 –74. http://dx.doi.org/10.1080/
+03637758909390250
+
+Received April 20, 2020
+Revision received June 9, 2020
+Accepted June 10, 2020 䡲
+
+

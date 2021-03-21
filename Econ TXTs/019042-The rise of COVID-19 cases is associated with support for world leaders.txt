@@ -1,0 +1,902 @@
+The rise of COVID-19 cases is associated with support
+for world leaders
+Kai Chi Yama,1,2, Joshua Conrad Jacksonb,1, Christopher M. Barnesc, Jenson Laud, Xin Qine,2, and Hin Yeung Leef
+a
+Department of Management and Organisation, National University of Singapore, 119077 Singapore; bDepartment of Psychology and Neuroscience,
+University of North Carolina at Chapel Hill, Chapel Hill, NC 27599; cDepartment of Management and Organization, University of Washington, Seattle, WA
+98195; dDepartment of Human Resource Management, Temple University, Philadelphia, PA 19122; eDepartment of Business Administration, Sun Yat-sen
+University, 510275 Guangzhou, China; and fDepartment of Nuclear Science and Engineering, Massachusetts Institute of Technology, Cambridge, MA 02139
+
+COVID-19 has emerged as one of the deadliest and most disruptive
+events in recent human history. Drawing from political science and
+psychological theories, we examine the effects of daily confirmed
+cases in a country on citizens’ support for the political leader through
+the first 120 d of 2020. Using three unique datasets which comprise
+daily approval ratings of head of government (n = 1,411,200) across
+11 world leaders (Australia, Brazil, Canada, France, Germany, Hong
+Kong, India, Japan, Mexico, the United Kingdom, and the United
+States) and weekly approval ratings of governors across the 50 states
+in the United States (n = 912,048), we find a strong and significant
+positive association between new daily confirmed and total confirmed COVID-19 cases in the country and support for the heads of
+government. These analyses show that political leaders received a
+boost in approval in the early months of the COVID-19 pandemic.
+Moreover, these findings suggest that the previously documented
+“rally ‘round the flag” effect applies beyond just intergroup conflict.
+COVID-19
+
+| leader support | political support
+
+Downloaded by guest on January 13, 2021
+
+A
+
+s of May 1, 2020, COVID-19 had already infected over
+3 million and killed 250,000 people. Many political leaders
+and governments were criticized for their responses to the pandemic. The US government was criticized for insufficiently testing
+its citizens during the early stages of the crisis (1); the Japanese
+government was criticized for not declaring a national emergency
+sooner than they did, in the hope of hosting the Olympic Games as
+planned (2); medical doctors and nurses in Hong Kong went on
+strike due to government’s inefficiency in handling the pandemic
+(3). All of these anecdotes suggest that world leaders should suffer
+in their political ratings during this crisis, because many, if not all,
+countries have failed to aggressively address this pandemic effectively. Indeed, even the best possible outcome from COVID-19
+would involve distressingly high numbers of infected and dead and
+a severe impact on the economy, leaving political leaders vulnerable to bad publicity.
+The political science literature, however, suggests another
+possibility. Specifically, the “rally ‘round the flag” effect suggests
+that citizens tend to support their national leaders in times of
+international crises (4–6). The rally effect can be explained by
+enhanced feelings of patriotism, under the perception that one’s
+group is under attack and hence unity is required to defend the
+group and support the incumbent (4). Identified in the 1970s, the
+rally effect has received empirical support in many international
+crises. US presidents’ approval ratings increased during the
+Cuban missile crisis, Iran hostage crisis, Gulf War, 9/11 terrorist
+attack, and the death of Osama bin Laden (7–9).
+Here we explore whether this rally effect generalizes beyond
+intergroup conflict to leaders’ approval ratings during the
+COVID-19 pandemic. Most, if not all, events that triggered the
+rally effect examined by prior research were limited to contexts of
+interpersonal and intercountry violence, involved primarily the US
+president, and were anthropogenic hazards. In this paper, we integrate the political science literature with psychological theories
+to suggest that COVID-19, an international public health crisis,
+www.pnas.org/cgi/doi/10.1073/pnas.2009252117
+
+would also lead to increased political support for one’s national
+leader. Most importantly, we hypothesize that this effect may transcend individuals’ political ideologies, and generalize beyond the
+United States to world leaders from diverse cultural backgrounds.
+Multiple psychological theories converge to support this hypothesis. System justification theory posits that people are motivated to justify and rationalize the way things are, even when
+the social, political, or economic systems negatively affect their
+self-interest (10, 11). Perceived threat and powerlessness are key
+triggers of system justification beliefs, leading people to support
+the status quo and display increased trust toward authorities such
+as governments, because doing so reduces uncertainty and
+minimizes the perceived threat (11, 12). Past research finds that
+liberals and conservatives show the same system justification
+behaviors and beliefs being exposed to threats (13).
+Research on cultural evolution provides a complementary
+explanation for this effect. Cultural evolutionary models suggest
+that adherence to group norms and support for group leaders
+can preserve group unity and prosociality during times of threat and
+scarcity (14). In particular, tightness−looseness theory suggests that
+group cohesion and coordination are necessary for human groups
+to overcome existential threats, and so it is functional for human
+groups to rally around strong leaders in the face of these threats
+(15) (see SI Appendix for a more in-depth discussion).
+The rally effect identified in these literatures provide some
+conceptual support for a counterintuitive hypothesis—citizens
+should increasingly endorse their national leaders as the COVID19 pandemic worsens. We therefore predict that COVID-19 cases
+Significance
+Amid the present COVID-19 pandemic, we find that many citizens around the world “rally ‘round the flag” and increase their
+support for their respective political leaders. We observe these
+findings among countries that are culturally and geographically diverse, and even among leaders who are strongly disliked by citizens prior to the pandemic. Our findings could have
+important voting implications during or immediately after the
+pandemic. As an example, the Korean ruling party won the
+most seats in the house by any party since 1960 in an election
+held during the pandemic in April 2020. COVID-19 might thus
+serve as a catalyst to help some incumbent governments.
+Author contributions: K.C.Y. designed research; K.C.Y. performed research; K.C.Y., J.C.J.,
+J.L., and H.Y.L. analyzed data; and K.C.Y., J.C.J., C.M.B., and X.Q. wrote the paper.
+The authors declare no competing interest.
+This article is a PNAS Direct Submission.
+Published under the PNAS license.
+1
+
+K.C.Y. and J.C.J. contributed equally to this work.
+
+2
+
+To whom correspondence may be addressed. Email: bizykc@nus.edu.sg or qinxin@mail.
+sysu.edu.cn.
+
+This article contains supporting information online at https://www.pnas.org/lookup/suppl/
+doi:10.1073/pnas.2009252117/-/DCSupplemental.
+
+PNAS Latest Articles | 1 of 5
+
+POLITICAL
+SCIENCES
+
+Edited by Susan T. Fiske, Princeton University, Princeton, NJ, and approved August 23, 2020 (received for review May 8, 2020)
+
+should be linked with higher levels of support for national leaders,
+regardless of their performance in handling the pandemic.
+Because the COVID-19 pandemic is rapidly evolving, monthly
+political polling would not be able to capture these swift changes.
+Thus, we use three unique datasets that survey citizens’ political
+approval ratings of their leaders with high temporal resolution
+and power. The first dataset includes daily approval ratings of
+the chief executive of Hong Kong, the Special Administrative
+Region of China (n = 98,875 daily ratings from February 3 to
+April 30, 2020). The second dataset includes daily approval
+ratings of the prime ministers and presidents across 10 countries: Australia, Brazil, Canada, France, Germany, India, Japan, Mexico, the United Kingdom, and the United States (n =
+1,312,325 daily ratings from January 1 to April 30, 2020), and
+the third dataset includes weekly approval ratings of the 50 US
+governors (n = 912,048) from the week of January 1 through
+the week of May 11, 2020.
+Our datasets offer us unique strengths. In the Hong Kong
+dataset, we are able to test our hypothesis in a conservative
+manner, because the chief executive’s political ratings had been
+relatively low due to the city’s recent political unrest and the city
+has confirmed a very small number of COVID-19 cases. This
+restriction of range provides a very conservative test for our
+hypotheses. However, participants in these data were recruited
+via online convenience sampling and may not be representative
+of the general population. This weakness is mitigated in the broader
+cross-country and cross-state datasets, which included representative samples. These datasets also gave us the opportunity to test
+our hypothesis across countries and states that differ dramatically
+in their culture, geography, and responsiveness to COVID-19.
+Results
+
+Downloaded by guest on January 13, 2021
+
+Analytic Strategy. We tested our hypotheses with a series of mul-
+
+tilevel multiple regressions, where leader approval was regressed
+on new and total documented COVID-19 cases. Documented
+cases do not reflect the actual number of COVID-19 cases, but
+they are appropriate for our analysis, since the public has access to
+documented cases rather than true cases. The bivariate distribution of cases and leader approval appeared to be better characterized by a logarithmic relationship than a linear relationship
+(Fig. 1), and models containing log-transformed approval showed
+substantially higher fit than models with no log transformation or
+log-transformed COVID-19 cases (SI Appendix). For this reason, we
+log-transformed leader approval before testing our hypotheses. Our
+results are substantively the same whether or not we employed log
+transformation (SI Appendix).
+For the Hong Kong analysis, we fit a multilevel model to account for the fact that days were nested in individuals. We also
+replicated our results controlling for age, gender, and political
+orientation (scored from 1 to 4, where higher values were more
+liberal). For the cross-country and cross-state analysis, we fit
+multilevel models to account for the fact that days were nested in
+nations. We also within-group centered the number of cases to
+avoid confounding cross-group (level-2) variation in COVID-19
+cases and leader approval with within-group (level-1) variation in
+these variables across time. This centering strategy made our
+analyses exclusively focused on level-1 variation. Thus, we did not
+include level-2 covariates such as GDP per capita, since these variables would not affect level-1 variation. We estimated effect size by
+1) estimating the number of cases that would translate to an additional boost in approval rating and 2) estimating standardized βs
+(COVID-19 cases were standardized within groups to avoid pooling
+level-1 and level-2 variance). While there is no universal measure of
+effect size for multilevel models, these techniques help communicate the real-world implications of our effects.
+In supplemental models within SI Appendix, we explore potential
+group-level moderators of the rally effect. Our cross-country dataset
+did not include enough group-level power to test for moderation,
+2 of 5 | www.pnas.org/cgi/doi/10.1073/pnas.2009252117
+
+but our cross-state data were suitable for moderation analyses, since
+they included favorability ratings from each of the 50 US states. SI
+Appendix summarizes literature on the potential moderators of
+the rally effect in more depth, and evidence for each of these
+accounts. SI Appendix also contains a robustness analysis showing
+that our results replicate while excluding days without a single
+COVID-19 case.
+Models. Our Hong Kong regression revealed a robust effect of
+COVID-19 new, b = 0.0004, β = 0.01, SE = 0.00004, t(78090) =
+8.61, P < 0.001, and total, b = 0.00001, β = 0.01, SE = 0.000002,
+t(78510) = 7.58, P < 0.001, cases on leader approval. The effects
+of new, b = 0.0004, β = 0.01, SE = 0.00004, t(70300) = 10.08, P <
+0.001, and total, b = 0.00002, β = 0.01, SE = 0.000002, t(70770) =
+9.88, P < 0.001, cases replicated controlling for age, gender, and
+self-reported political orientation. While these effects were
+small, each model suggested that days with more COVID-19
+cases had higher approval for the chief executive of Hong Kong.
+Our cross-country models revealed a similar dynamic. Daily
+new, b = 0.00001, β = 0.09, SE = 0.000002, t(1200) = 6.31, P <
+0.001, and total, b = 0.000001, β = 0.09, SE = 0.0000001,
+t(1200) = 6.46, P < 0.001, cases were robustly associated with
+leader approval. Specifically, 1,995.21 daily new COVID-19
+cases translated to an additional point of leader approval. To put
+this number into context, the United States averaged about
+30,000 new cases per day in April, whereas the United Kingdom
+averaged about 4,000 new cases per day in April. Fig. 1 displays
+this relationship in general, and by country. Table 1 summarizes
+each country in this analysis by its change in approval from
+January 1 to April 30, its number of COVID-19 cases as of April
+30, and the standardized relationship between COVID-19 cases
+and favorability, estimated via ordinary least-squares regression
+models. In SI Appendix, we explore lagged models which suggest
+that COVID-19 cases and leader approval are characterized by
+an instantaneous relationship—moving together in time—and
+discuss the meaning of this relationship.
+Our regression model revealed a similarly robust effect of
+COVID-19 cases on gubernatorial approval. Daily new, b =
+0.00002, β = 0.22, SE = 0.000001, t(947) = 11.52, P < 0.001, and
+total, b = 0.000003, β = 0.19, SE = 0.0000003, t(947) = 9.73, P <
+0.001, cases were both robustly associated with governor approval. Our models suggest that 5,305.04 new COVID-19 cases
+would translate to an additional point of governor approval. To
+put this into context, California had over 40,000 new documented cases in April, whereas North Carolina, which was less
+severely affected in April, had ∼9,000 new documented cases.
+Fig. 2 displays a time series of weekly COVID-19 cases (in red)
+against weekly approval (in blue). On average, US governors’
+approval increased 19.08% from January 1 until May 11.
+In sum, rises in COVID-19 cases were associated with higher
+approval across nations and American states. Yet this effect size
+varied. For example, the effect of new COVID-19 cases was far
+stronger in Canada (β = 0.90) than in Mexico (β = −0.07), and it
+was stronger in Illinois (β = 0.63) than in Alaska (β = 0.13). It is
+plausible that this variation is related to cultural factors such
+as tightness−looseness, political factors such as conservatism, or the
+efficacy with which leaders have acted in the face of the pandemic.
+However, exploratory analyses of our cross-state data did not
+show support for these moderators. The only significant moderator in this analysis indicated that states with a history of disasters showed a slightly smaller boost than states with fewer
+natural disasters in their recent history (b = −0.33, P = 0.04; SI
+Appendix). These analyses should be interpreted with caution,
+since we did not have the power to replicate them at the national
+level. Nevertheless, they do suggest that some of the theorized
+moderators of the rally effect may not apply during the COVID-19
+pandemic, and may only apply to certain threats such as warfare.
+Yam et al.
+
+Discussion
+Our analysis of daily political approval ratings across 11 countries/regions and 50 US states supports our hypothesis that new
+daily COVID-19 cases are positively associated with political
+favorability on the same day. A limitation is that our data were
+correlational, which means that we cannot make causal claims.
+
+However, our models show that the association between
+COVID-19 cases and approval ratings holds in a sample of 11
+geographically and culturally diverse countries and across the
+50 US states, and even among world leaders who are widely
+unpopular prior to the pandemic. That said, we do note that the
+rally effect is stronger for some countries than others (Table 1).
+
+15
+
+Approval
+
+Approval
+
+15
+
+10
+
+5
+
+10
+
+5
+
+0
+
+0
+
+5
+2000
+
+4000
+
+6000
+
+0
+
+50000
+
+New Cases
+
+100000
+
+150000
+
+Total Cases
+
+New COVID-19 Cases
+All Countries
+
+POLITICAL
+SCIENCES
+
+0
+
+Approval
+
+Australia
+
+Brazil
+
+Canada
+80
+
+600
+
+Approval
+
+4000
+
+40
+
+2000
+
+20
+
+0
+January 1st
+
+COVID 19 Cases
+
+6000
+
+60
+
+75
+60
+60
+1500
+400
+
+March 1st
+
+April 1st
+
+April 30th
+
+4000
+
+50
+40
+
+40
+
+200
+25
+
+0
+February 1st
+
+2000
+
+6000
+
+2000
+20
+
+0
+January 1st
+
+0
+February 1st
+
+March 1st
+
+April 1st
+
+April 30th
+
+1000
+
+20
+
+0
+January 1st
+
+0
+February 1st
+
+March 1st
+
+April 1st
+
+April 30th
+
+500
+
+0
+
+0
+
+January 1st
+
+February 1st
+
+March 1st
+
+April 1st
+
+April 30th
+
+Date
+France
+
+Germany
+
+Japan
+
+India
+2000
+6000
+
+120
+
+30
+
+30
+6000
+
+60
+1500
+1000
+4000
+
+20
+
+80
+20
+
+4000
+
+40
+
+2000
+
+20
+
+1000
+
+500
+2000
+
+10
+
+0
+January 1st
+
+0
+February 1st
+
+March 1st
+
+April 1st
+
+April 30th
+
+10
+500
+
+0
+January 1st
+
+40
+
+0
+February 1st
+
+March 1st
+
+April 1st
+
+Mexico
+
+April 30th
+
+0
+January 1st
+
+0
+February 1st
+
+March 1st
+
+April 1st
+
+United Kingdom
+
+April 30th
+
+0
+
+0
+
+January 1st
+
+February 1st
+
+March 1st
+
+April 1st
+
+April 30th
+
+United States
+50000
+
+1200
+7500
+
+75
+
+40
+40000
+
+75
+
+800
+
+30
+
+30000
+
+5000
+
+50
+50
+
+20
+
+20000
+
+400
+2500
+
+25
+
+25
+
+10
+
+Downloaded by guest on January 13, 2021
+
+0
+January 1st
+
+0
+February 1st
+
+March 1st
+
+April 1st
+
+April 30th
+
+0
+January 1st
+
+0
+February 1st
+
+March 1st
+
+April 1st
+
+April 30th
+
+10000
+
+0
+January 1st
+
+0
+February 1st
+
+March 1st
+
+April 1st
+
+April 30th
+
+Fig. 1. (Top) The logarithmic relationship between daily approval ratings and (Left) new cases and (Right) total cases, averaged across nations. (Bottom) The
+trajectory of leader approval rating and total COVID-19 cases for each country.
+
+Yam et al.
+
+PNAS Latest Articles | 3 of 5
+
+Table 1. Approval rating and COVID-19 cases across nations
+Country
+Overall
+Australia
+Brazil
+Canada
+France
+Germany
+Hong Kong
+India
+Japan
+Mexico
+United Kingdom
+United States
+
+Change in approval
+
+COVID-19 cases
+
+M = +13.63
++61.19
+−16.43
++30.65
++8.38
++34.88
++0.98
++12.85
+−16.08
+−7.95
++23.68
++4.08
+
+M = 169,412
+6,746
+78,162
+51,587
+128,442
+159,119
+1,041
+33,050
+14,088
+17,799
+165,221
+1,039,909
+
+Effect of total cases on approval
+β
+β
+β
+β
+β
+β
+β
+β
+β
+β
+β
+β
+
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+
+Effect of daily new cases on approval
+
+0.09, P < 0.001
+0.97, P < 0.001
+−0.81, P < 0.001
+0.80, P < 0.001
+0.74, P < 0.001
+0.94, P < 0.001
+0.01, P < 0.001
+0.67, P < 0.001
+−0.79, P < 0.001
+−0.08, P = 0.40
+0.74, P < 0.001
+0.63, P < 0.001
+
+β
+β
+β
+β
+β
+β
+β
+β
+β
+β
+β
+β
+
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+
+0.09, P < 0.001
+0.43, P < 0.001
+−0.80, P < 0.001
+0.90, P < 0.001
+0.78, P < 0.001
+0.76, P < 0.001
+0.01, P < 0.001
+0.73, P < 0.001
+−0.61, P < 0.001
+−0.07, P = 0.43
+0.90, P < 0.001
+0.84, P < 0.001
+
+Shown are country-specific change in approval ratings, COVID-19 cases, and country-specific general linear models estimating the relationship between the
+two. Change in approval is calculated by the difference between approval on the first available day and the final available day, COVID-19 cases are documented
+cases as of April 30 data, and difference in approval ratings is calculated by the difference between the first available day and the last available day. Hong Kong
+data come from a different dataset than the other cultures, and Hong Kong estimates come from a multilevel model rather than a general linear model.
+
+Materials and Methods
+We purchased the Hong Kong data from Hong Kong Public Opinion Research
+Institute (HKPOP; https://www.pori.hk/), and purchased the cross-country
+data from Morning Consult (https://morningconsult.com/). We confirmed
+that we reported all available dates and countries in which daily political
+approval ratings data were collected. Morning Consult also collected data
+from Russian and Chinese participants. However, political approval rating
+was not part of the survey in these two countries, and hence we are unable
+to include these two countries in the analyses.
+
+Downloaded by guest on January 13, 2021
+
+Cross-Country and Cross-State Data. Morning Consult recruited its participants
+using a stratified sampling approach, by matching their participant pools with
+a given nation’s or state’s official government census data, based on age,
+gender, region, and education (plus ethnicity in the United States and 50 US
+states). For the cross-country data, ∼300 to 500 unique individuals from each
+country were polled daily, except in the United States, where ∼6,000 unique
+individuals were polled daily. For the cross-state data, ∼61 (Alaska) to 3,500
+(Florida) unique individuals from each state were polled weekly. Attention
+check items were employed to screen out inattentive respondents. All survey
+questions were provided in languages appropriate for the participants’
+countries, translated and localized by professional translation firms. We note
+that the state approval rating data also contained approval of two governors who left office in early 2020 (Matt Bevin of Kentucky and Phil Bryant of
+Mississippi) and were replaced. We removed ratings of these ex-governors to
+avoid confounding change over time in approval with change in governor.
+
+4 of 5 | www.pnas.org/cgi/doi/10.1073/pnas.2009252117
+
+Data on COVID-19 Cases and Tests. We obtained data on national daily rates of
+total and new confirmed COVID-19 cases from Johns Hopkins (https://coronavirus.
+jhu.edu/). We obtained statewide data on COVID-19 cases and testing from the
+COVID tracking project (https://covidtracking.com/), which provided daily estimates of cases and tests for each state, which we aggregated to the week
+level to match the governor approval data. Prior to analysis, we identified 13
+data points in the COVID tracking data with negative testing values. According
+to the COVID tracking project, these artificial negative values arose from an
+
+Weekly New COVID-19 Cases
+
+Approval
+
+80
+
+4000
+
+60
+
+3000
+
+40
+
+2000
+
+20
+
+1000
+
+COVID−19 Cases
+
+Hong Kong Data. HKPOP recruited panelists in random telephone surveys, and
+interested participants provided their contact information and demographic
+information. In this particular survey, HKPOP recruited participants through
+daily email surveys and asked participants to provide ratings of the chief
+executive and other social issues. All survey questions were provided in both
+English and Cantonese. Because of convenience sampling, this sample skewed
+female, and were younger and more politically liberal than the general
+population in Hong Kong. HKPOP provided individual raw data for our research, which allowed us to use hierarchical linear modeling to test our
+hypotheses. The total number of unique individuals in this sample is 21,904.
+
+The cross-country dataset indexed approval through a single number
+from −50 to 50, and we transformed this to a 0 to 100 scale by adding 50.
+The cross-state dataset indexed approval through two separate “approval”
+and “disapproval” indicators, each from 0 to 100. We created a single approval
+variable by subtracting disapproval from approval, and then adding 50. This
+transformation eliminated any negative values, enabling log transformation,
+but it also meant that favorability values exceeded 100 for the most popular
+governors (e.g., Larry Hogan of Maryland).
+Because these data are proprietary, we do not have access to individual
+raw data. Instead, Morning Consult provided us the daily aggregated data for
+each country and state, which were used for data analyses.
+
+Approval
+
+Another limitation of our analysis is that we cannot estimate the
+time course of this effect. Since we collected our data, Donald
+Trump’s approval rating has dropped, whereas Justin Trudeau’s
+approval rating appears to have remained high. This may be because the rally effect decays over time, or becomes more sensitive
+to how leaders have handled a threat, but these possibilities go
+beyond the scope of our data.
+Our findings could have important voting implications. If citizens
+do “rally ‘round the flag,” then upcoming elections during or in the
+aftermath of COVID-19 could potentially be advantageous for some
+incumbents. This suggests that COVID-19 may have an enduring
+geopolitical impact long after its acute impacts have subsided.
+
+0
+January
+
+0
+February
+
+March
+
+April
+
+May
+
+Date
+Fig. 2. A comparison of weekly gubernatorial approval (in blue) against
+weekly new confirmed COVID-19 cases (in red).
+
+Yam et al.
+
+administrative error related to out-of-state testing (https://covidtracking.com/
+data/). We removed these data points prior to analysis.
+
+1. S. Kaplan, K. Thomas, Despite promises, testing delays leave Americans ‘flying blind,’
+NY Times, 6 April 2020. https://www.nytimes.com/2020/04/06/health/coronavrus-testingus.html. Accessed 30 April 2020.
+2. L. Kihara, Japan’s Abe says cannot hold Olympics unless pandemic contained. Reuters,
+29 April 2020. https://www.reuters.com/article/us-health-coronavirus-japan-olympics/
+japans-abe-says-impossible-to-hold-olympics-unless-pandemic-contained-idUSKCN22B0QR.
+Accessed 30 April 2020.
+3. R. Ip, The bitter pill medical workers on strike might have to swallow. South China
+Morning Post, 9 February 2020. https://www.scmp.com/comment/opinion/article/
+3049473/coronavirus-outbreak-hong-kongs-medical-workers-strike-could-have. Accessed
+30 April 2020.
+4. J. E. Mueller, Presidential popularity from Truman to Johnson. Am. Polit. Sci. Rev. 64,
+18–34 (1970).
+5. M. J. Hetherington, M. Nelson, Anatomy of a rally effect: George W. Bush and the war
+on terrorism. APSC 36, 37–42 (2003).
+6. P. Arena, D. Bak, Diversionary incentives, rally effects, and crisis bargaining. Foreign
+Policy Anal. 11, 233–250 (2015).
+7. K. J. Callaghan, S. Virtanen, Revised models of the “rally phenomenon”: The case of
+the Carter presidency. J. Polit. 55, 756–764 (1993).
+
+8. W. D. Baker, J. R. Oneal, Patriotism or opinion leadership?: The nature and origins of
+the “rally ’round the flag” effect. J. Conflict Resolut. 45, 661–687 (2001).
+9. J. M. Jones, Obama approval rallies six points to 52% after bin Laden death.
+Gallup.com, 5 May 2011. https://news.gallup.com/poll/147437/obama-approval-ralliessix-points-bin-laden-death-aspx. Accessed 30 April 2020.
+10. J. T. Jost, O. Hunyady, Antecedents and consequences of system-justifying ideologies.
+Curr. Dir. Psychol. Sci. 14, 260–265 (2005).
+11. J. T. Jost, M. R. Banaji, B. A. Nosek, A decade of system justification theory: Accumulated evidence of conscious and unconscious bolstering of the status quo. Polit.
+Psychol. 25, 881–919 (2004).
+12. J. van der Toorn et al., A sense of powerlessness fosters system justification: Implications for the legitimation of authority, hierarchy, and government. Polit. Psychol.
+36, 93–110 (2015).
+13. J. van der Toorn, P. R. Nail, I. Liviatan, J. T. Jost, My country, right or wrong: Does
+activating system justification motivation eliminate the liberal-conservative gap in
+patriotism? J. Exp. Soc. Psychol. 54, 50–60 (2014).
+14. J. Henrich, The Secret of Our Success: How Culture Is Driving Human Evolution, Domesticating Our Species, and Making Us Smarter, (Princeton University Press, 2017).
+15. M. J. Gelfand et al., Differences between tight and loose cultures: A 33-nation study.
+Science 332, 1100–1104 (2011).
+
+Downloaded by guest on January 13, 2021
+
+POLITICAL
+SCIENCES
+
+Data Availability. Data and code have been deposited in the Open Science Framework database (https://osf.io/utqz5/?view_only=c4559d4b72da4d5fa0baeee4c307af24).
+
+ACKNOWLEDGMENTS. We thank Hong Kong Public Opinion Research
+Institute and Morning Consult for sharing these data with us. This research
+is supported by the Singapore Ministry of Education Tier 1 Grant R-317-000154-115 awarded to K.C.Y. and the National Natural Science Foundation of
+China Grants 71872190 and 71502179S awarded to X.Q.
+
+Yam et al.
+
+PNAS Latest Articles | 5 of 5
+
+

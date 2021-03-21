@@ -1,0 +1,1657 @@
+NBER WORKING PAPER SERIES
+
+THE HAMMER AND THE SCALPEL:
+ON THE ECONOMICS OF INDISCRIMINATE
+VERSUS TARGETED ISOLATION POLICIES DURING PANDEMICS
+Varadarajan V. Chari
+Rishabh Kirpalani
+Christopher Phelan
+Working Paper 27232
+http://www.nber.org/papers/w27232
+
+NATIONAL BUREAU OF ECONOMIC RESEARCH
+1050 Massachusetts Avenue
+Cambridge, MA 02138
+May 2020
+
+Chari and Phelan are Advisors to the Federal Reserve Bank of Minneapolis. The views expressed
+herein are those of the authors and not necessarily those of the Federal Reserve Bank of
+Minneapolis, the Federal Reserve System, or the National Bureau of Economic Research.
+NBER working papers are circulated for discussion and comment purposes. They have not been
+peer-reviewed or been subject to the review by the NBER Board of Directors that accompanies
+official NBER publications.
+© 2020 by Varadarajan V. Chari, Rishabh Kirpalani, and Christopher Phelan. All rights reserved.
+Short sections of text, not to exceed two paragraphs, may be quoted without explicit permission
+provided that full credit, including © notice, is given to the source.
+
+The Hammer and the Scalpel: On the Economics of Indiscriminate versus Targeted Isolation
+Policies during Pandemics
+Varadarajan V. Chari, Rishabh Kirpalani, and Christopher Phelan
+NBER Working Paper No. 27232
+May 2020
+JEL No. E69,H41,Q59
+ABSTRACT
+We develop a simple dynamic economic model of epidemic transmission designed to be
+consistent with widely used SIR biological models of the transmission of epidemics, while
+incorporating economic benefits and costs as well. Our main finding is that targeted testing and
+isolation policies deliver large welfare gains relative to optimal policies when these tools are not
+used. Specifically, we find that when testing and isolation are not used, optimal policy delivers a
+welfare gain equivalent to a 0.6% permanent increase in consumption relative to no intervention.
+The welfare gain arises because under the optimal policy, the planner engineers a sharp recession
+that reduces aggregate output by about 40% for about 3 months. This sharp contraction in
+economic activity reduces the rate of transmission and reduces cumulative deaths by about 0.1%.
+When testing policies are used, optimal policy delivers a welfare gain equivalent to a 3%
+permanent increase in consumption. The associated recession is milder in that aggregate output
+declines by about 15% and cumulative deaths are reduced by .3%. Much of this welfare gain
+comes from isolating infected individuals. When individuals who are suspected to be infected are
+isolated without any testing, optimal policy delivers a welfare gain equivalent to a 2% increase in
+permanent consumption.
+Varadarajan V. Chari
+Department of Economics
+University of Minnesota
+1035 Heller Hall
+271 - 19th Avenue South
+Minneapolis, MN 55455
+and NBER
+varadarajanvchari@gmail.com
+Rishabh Kirpalani
+Department of Economics
+University of Wisconsin-Madison
+Madison, WI 53706
+rishabh.kirpalani@wisc.edu
+
+Christopher Phelan
+Department of Economics
+University of Minnesota
+1925 4th Avenue South, 4-101 Hanson Hall
+Minneapolis, MN 55455-0462
+and NBER
+cphelan@umn.edu
+
+1. Introduction
+Pandemics force households, firms, and governments to make cruel choices between
+unhappy alternatives. Much economic activity is enhanced by close person-to-person contact.
+Unfortunately, this kind of contact typically allows viruses to be more easily transmitted
+from person to person. Much of the economic literature on epidemics studies the tradeoffs between the losses to economic activity associated with limiting contact and the gains
+from reduced transmission of the virus, including reduced healthcare costs, lower strains on
+hospitals, and fewer deaths. The response to the coronavirus epidemic in most Western
+countries has been to limit contacts by limiting economic activity. Some countries—most
+notably, South Korea, Singapore, Hong Kong, and Taiwan—have limited economic activity
+to a lesser extent and have supplemented the modest limitations with aggressive policies of
+targeted testing, contact tracing, and isolation. In this paper, we develop a version of a fairly
+standard macroeconomic model of epidemics, incorporate testing and isolation policies into
+it, and ask to what extent testing policies of targeted testing and isolation can achieve better
+outcomes. In a quantitative version of our model, we find that even a policy of targeted
+testing and isolation that is substantially less aggressive than that conducted in South Korea
+can yield substantial welfare gains. If testing and isolation policies are optimally designed,
+economic activity must be curtailed to a much more limited extent, and the number of deaths
+is substantially smaller than if testing and isolation policies are not available. We argue that
+relative to no testing, untargeted testing yields only modest benefits. We also argue that,
+even if testing resources are not available, targeted isolation without testing yields about
+two-thirds of the welfare gains from a targeted testing and isolation policy.
+This paper develops a simple dynamic economic model of epidemic transmission. The
+model is designed to be consistent with widely used SIR biological models of the transmission
+of epidemics (see Atkeson (2020b) for a primer), while incorporating economic benefits and
+costs as well. We choose a formulation that makes it possible to analyze the benefits and costs
+of various policies. The main stand we take is that social proximity has benefits by allowing for
+economic activity to take place. We have in mind that certain types of production activities
+require groups of people to work in close proximity to one other. The obvious example of
+such an activity is assembly line production. In other activities, individuals derive value from
+
+social proximity in consumption. Examples of such activities are watching live performances
+of plays or rock concerts. While substitutes are available for production and consumption with
+social proximity (artisanal production as opposed to assembly line production, or televised
+rock concerts versus live ones), revealed preference shows that people value social proximity
+in many aspects of production and consumption. Social proximity has costs when such
+proximity allows viruses to be transmitted relatively easily.
+The standard SIR model in epidemiology has three types of agents: susceptible (or not
+yet infected) agents, infected agents, and recovered agents (who may be alive or dead). To
+allow for testing, we extend the model to allow for two types of infected agents: those known
+to be infected and those not known to be infected. In our economic model, agents engage in
+a variety of economic activities. Each economic activity is associated with a given number
+of “meetings” with other agents. These activities are combined to produce a final output
+good. The virus is transmitted with an exogenous activity-specific probability in a meeting
+between an infected and susceptible agent. We assume that activities with low transmission
+probabilities also have low economic value.
+The planner seeks to maximize the present discounted utility of consumption net
+of costs of treating infected agents and of death costs. In our model, absent any testing,
+the planner excludes agents who are known to be infected from any activity and allocates
+some of the agents whose types are not known to the activity with the lowest probability of
+transmission. Since the lowest probability of transmission activity has the lowest economic
+value, this policy tends to reduce output, but it saves lives. The quantitative version of our
+model generates output declines and death reductions broadly similar to those in Eichenbaum
+et al. (2020b) and Glover et al. (2020). We measure the welfare gains from optimal policy
+as the permanent percentage increase in consumption that would give the planner the same
+utility as under no policy. For reference, we note that the loss in welfare in the no-intervention
+economy relative to the no-pandemic economy is 6.66%. We show that the optimal policy
+yields a welfare gain of roughly .6% relative to no intervention. We then introduce a costly
+testing technology. The planner can choose to test a fraction of the population whose types
+are not known. We assume the test perfectly reveals whether an agent is infected. We show
+that optimal policy with this type of untargeted testing yields a welfare gain of .7% relative
+2
+
+to no intervention. That is, untargeted testing delivers gains of only .1% relative to welfare
+under optimal policy with no testing.
+We allow for targeted testing by assuming that each agent whose type is not known is
+associated with a signal that he is infected. We think of this signal as combining information
+from a variety of sources. One example is contact tracing, which involves tracing people an
+infected person has come into contact with, persons whom these contacts contacted, and so
+on. This signal is informative in the sense that the probability of receiving the signal is higher
+for infected agents than for susceptible agents. We assume the signal is not perfectly revealing
+in that the probability an infected person receives the signal is strictly less than one. Out of
+these agents with the signal, the planner chooses the fraction to test. We choose the signal
+probabilities to be consistent with data from South Korea. That data suggests that 38%
+of infected people and 0.44% of susceptible people are associated with the signal. We show
+that the welfare gain from optimal policy with targeted testing relative to no intervention is
+roughly 3% of consumption forever. That is, targeted testing allows for a dramatic gain in
+welfare relative to a no-intervention policy.
+In our model, targeted testing allows the planner to very precisely target some agents
+in order to isolate them. We separate out the effects of isolation from the informational
+gains to testing by considering a version of the model in which the planner cannot test after
+receiving the signal.1 The planner simply chooses the fraction of individuals with a signal
+to isolate. We show that under optimal isolation, the welfare gains are 2% of consumption
+forever. That is, roughly 2/3 of the gains from optimal testing can be realized by forgoing
+testing and simply isolating agents suspected of being infected.
+We conduct a variety of sensitivity exercises by varying the probability of receiving the
+signal. We show that if 60% of infected agents and 3% of susceptible agents are associated
+with the signal, the welfare gains relative to no intervention are about 5.5%. That is, the
+welfare loss from the pandemic is only about 1% of consumption. We also show that if a
+relatively small fraction of infected agents receives the signal, then the welfare gains are also
+smaller.
+1
+
+Testing can, of course, be very valuable in learning about the current state of the system and the
+parameters governing its evolution. Our focus here is on testing to isolate infected individuals, rather than
+testing as a learning device.
+
+3
+
+These findings provide additional quantitative support for the policies advocated by
+Romer and Garber (2020), Romer (2020), and Holtemöller (2020).
+Relation to other recent papers.
+Here, we present a discrete-time version of the standard continuous-time SIR (Susceptible, Infected, Recovered) epidemiology model outlined (for economists) by Atkeson (2020b).2
+A long (and growing) list of papers emphasizes the trade-offs between the losses from restrictions on economic activity and the losses from allowing the virus to spread. See, among
+many others, Alvarez et al. (2020), Atkeson (2020b), Atkeson (2020a), Azzimonti et al. (2020),
+Baqaee et al. (2020), Bodenstein et al. (2020), Eichenbaum et al. (2020b), Farboodi et al.
+(2020), Garriga et al. (2020), Guerrieri et al. (2020), Hall et al. (2020), Jones et al. (2020),
+Kaplan et al. (2020), Krueger et al. (2020), Moser and Yared (2020), Rampini (2020), and
+Toxvaerd (2020). While none of these papers focuses on the role of testing, some other recent
+papers do. See, for example, Eichenbaum et al. (2020a), Berger et al. (2020), Acemoglu et al.
+(2020), and Piguillem et al. (2020). Our findings complement the results in this literature
+regarding the desirability of testing. In particular, Eichenbaum et al. (2020a) and Piguillem
+et al. (2020) also emphasize the critical role of isolation.
+
+2. An Economic Model with SIR Contagion
+Consider a discrete time infinite horizon model with a continuum of individuals on the
+unit interval. At any date, an individual is either susceptible S, infected I (and thus contagious), or recovered R, (where recovered can be either dead or alive). Of the infected, I − I˜
+agents are known to be infected, and I˜ agents are not known to be infected (hereafter unknown infected ). Let (St , It , I˜t , Rt ) denote the fraction of agents who are susceptible, infected,
+unknown infected, and recovered (dead or alive) at date t. We assume that the planner knows
+which agents are recovered and which are known to be infected, but the planner cannot tell
+apart susceptible and unknown infected agents.
+An infected person dies with probability γδ, stays alive with probability γ(1 − δ),
+and stays infected with probability (1 − γ). We assume, as is conventional in much of the
+2
+
+Atkeson (2020b), like other models in epidemiology, allows also for an Exposed state. Such models are
+referred to as SEIR models.
+
+4
+
+literature, that infection confers permanent immunity so that a recovered person always stays
+recovered—again, either dead or alive. If S0 + I0 = 1 (all individuals start as susceptible or
+infected), this assumption ensures that, for all t, (1 − δ)Rt fraction of initially alive people
+are alive and δRt fraction of initially alive people are dead.
+In our model, economic activity is associated with meetings or interactions. Our
+economy has N types of intermediate goods labeled i ∈ {1, . . . , N }. Good i is produced using
+activity i. Each activity of type i requires Mi meetings for each person engaged in that
+activity. The technology for producing good i is given by
+(1)
+
+yit = bi L̄it ,
+
+where yit is the amount of good i, bi is a technology parameter that depends on activity i and
+the number of meetings, and L̄it is the amount of effective labor allocated to good i. Type S
+and type R agents each supply one unit of effective labor, and infected agents supply ξ units
+of effective labor. The intermediate goods are combined into a final consumption good by a
+CES aggregator, so that the amount of the final good Yt produced in period t is
+(2)
+
+Yt =
+
+σ−1
+
+X
+i
+
+σ
+
+(yit σ ) σ−1 .
+
+In the presence of a pandemic, meetings also lead to type-specific transmission of
+the virus. The purpose of indexing meetings by type i and allowing the transmission rate
+to depend on meeting type i is to allow the framework to consider multiple types of policy
+interventions, such as prohibiting or decreasing particular types of meetings. For instance, the
+probability of transmission while chatting on a sidewalk can depend on whether both people
+are wearing masks. Meeting while wearing masks can be considered a different type of meeting
+than meeting while not wearing masks. Meetings that occur only after each participant has
+had his temperature checked can be considered a different type of meeting from meetings
+where such temperature checks do not occur. Further, we later consider the costs of various
+policy interventions. While the rate of transmission for two workers standing next to each
+other might be the same regardless of what they are producing, the cost to society of reducing
+such meetings may very well depend on whether they are producing ventilators or academic
+5
+
+papers (since the latter can be more easily moved online). In such a case, these two activities
+would be considered different types of meetings.
+Model with No Testing
+To make the exposition easier, we begin by considering a version of the model with no
+testing and then introduce testing. In our model, economic activity induces infections and
+thereby the resulting laws of motion for the state variables. Let Lit denote the mass of people
+assigned to activity i, λit denote the fraction of agents assigned to activity i whose types are
+unknown (these consist of S and I˜ type agents), and µit the fraction of recovered agents who
+are assigned to activity i. We assume that agents who are known to be infected are assigned to
+activity N . Each activity i is characterized by the probability that a susceptible person who
+meets an infected person gets infected, pi . Within an activity, meetings are independently
+drawn. Since the mass of people assigned to activity i is Lit , and the mass of infected people
+assigned to activity i is λit I˜t , a susceptible person in a single meeting meets an infected person
+with probability λit I˜t /Lit and gets infected with probability pi λit I˜t /Lit . The probability of
+being infected in Mi meetings is then
+
+(3)
+
+1−
+
+λit I˜t
+1 − pi
+Lit
+
+!M i
+,
+
+where
+(4)
+
+Lit = λit (St + I˜t ) + µit Rt .
+
+Since the mass of susceptible people assigned to activity i is λit St , the law of motion for the
+mass of susceptible people in the population is
+
+(5)
+
+St+1 = St −
+
+X
+i
+
+λit St 1 −
+
+λit I˜t
+1 − pi
+Lit
+
+!Mi 
+.
+
+6
+
+Taking a Taylor series expansion of this law around I˜t = 0, we obtain a law of motion similar
+to that in the SIR models, given by
+"
+(6)
+
+St+1 = 1 −
+
+X
+i
+
+λit I˜t
+λit π i
+Lit
+
+!#
+St ,
+
+where π i = pi Mi . We use this approximation in our quantitative assessment of policies.
+˜ we assume that a person of type I˜ becomes known
+In terms of the law of motion for I,
+to be infected with exogenous probability τ̃ . Since an infected person stays infected with
+probability 1 − γ, the law of motion for I˜ is
+
+(7)
+
+I˜t+1 = (1 − γ) (1 − τ̃ )I˜t + St
+
+X
+i
+
+λit I˜t
+λit π i
+Lit
+
+!
+,
+
+and the law of motion for R is
+(8)
+
+Rt+1 = Rt + γ (1 − St − Rt ) .
+
+Together with the adding up constraint that is St + It + Rt = 1, the system of equations, (5),
+(7), and (8) describe the dynamics of the system. This dynamical system has a continuum of
+steady states, indexed by S, the steady state fraction of susceptible individuals, with R, the
+steady state fraction of recovered individuals equal to 1−S (and thus I = 0). For expositional
+convenience, we describe the problem the planner solves below.
+Given an initial state of the system (I˜0 , R0 , S0 ) and the policy variables λit and µit ,
+the approximate dynamical system, with (5) replaced by (6), is identical to the familiar
+SIR models from epidemiology. A key variable in these models is R0,t — the number of
+new infections per susceptible person per infected person, multiplied by the mean number
+of periods an infected person is infected. (The variable R0,t is not to be confused with Rt ,
+the fraction of recovered people in the population.) From equation (6), using the observation
+
+7
+
+that the mean number of periods infected is 1/γ, we have
+
+(9)
+
+R0t ≈
+
+1
+St
+γ
+
+P 
+i
+
+˜
+
+λit π i λLititIt
+It St
+
+
+.
+
+Model with Testing
+Next, we introduce testing into the model. At the beginning of each period, each
+person whose type is not known is associated with a public signal that he is infected. Let θX ,
+˜ denote the probability this signal is received regarding an individual of type X.
+X ∈ {S, I}
+That is, the signal is useful information to the extent that θI > θS . With this formulation, the
+mass of agents who are associated with a signal of infection is θS S + θI I. The planner chooses
+to test the fraction τ of these individuals. We assume the test perfectly reveals whether an
+agent is infected. The planner then isolates all those who test positive. Thus, the law of
+motion for I˜ is now
+"
+(10) I˜t+1 = (1 − τ θI ) (1 − γ) (1 − τ̃ )I˜t + St
+
+X
+i
+
+λit I˜t
+λit π i
+Lit
+
+!#
+,
+
+where Lit is given by
+
+
+(11) Lit = λit St + (1 − τ θI ) I˜t + µit Rt ,
+and output in activity i is given by
+
+
+(12) yit = bi L̄it = bi λit (St + (1 − τ θI ) ξ I˜t ) + µit Rt .
+The cost of testing is C(τ t (θS St + θI It )), where C(·) is the testing cost function. The role
+of testing is to remove some of the infected agents whose type is not known from current
+and future economic activity until they recover. This policy of removing some of the infected
+agents prevents them from infecting others, in both current and future periods. In addition to
+the testing cost, removing these agents is costly since they cannot engage in useful economic
+activity.
+Aggregate consumption is given by Yt − C(τ t (θS St + θI It )). The planner’s preferences
+8
+
+over consumption are given by
+
+P∞
+
+t=0
+
+β t U (Yt − C(τ t (θS St + θI It )). In addition, infection is
+
+associated with a utility cost ZIt , where Z denotes the healthcare and related costs of being
+infected, and deaths are associated with a utility cost DγδIt , where we note that the mass of
+agents who die in period t is γδIt , and the parameter D measures the cost of a life.
+The planning problem is then to choose a testing policy τ t and labor allocation policies
+λit and µit to solve
+max
+
+∞
+X
+
+β t [U (Yt − C (τ t (θS St + θI It ))) − Zt (It ) − Dt (γδIt ) , ]
+
+t=0
+
+subject to (1), (2), (4), (6), (8), (10), given the initial conditions (S0 , I0 , I˜0 , R0 ). We
+will refer to the version of the model with θI = θS = 1 as the model with untargeted testing
+and the model with θI > θS as the model with targeted testing. Note that the programming
+problem for the model without testing is simply this programming problem with τ t = 0 for
+all t.
+In order to understand how policy can be used to affect the course of the infection,
+consider a simple version of the model with two activities, work and home. Suppose that work
+produces higher output but is also associated with higher infection than the home activity,
+so that bwork > bhome = 0 and π work > π home = 0. Without any testing, it is optimal in
+general to assign some agents whose types are not known to stay home. This policy reduces
+economic activity but also reduces the rate of transmission of the virus. We refer to this
+policy as indiscriminate isolation, since the policy does not discriminate between infected
+and susceptible agents. Consider next the role of targeted testing in this simple model.
+Targeted testing allows the planner to isolate some of the infected agents by requiring them
+to stay at home. In this sense, targeted testing allows for a form of targeted isolation.
+Model with Isolation and No Testing
+As before, agents receive signals at the beginning of the period. In this version of the
+model, however, the planner does not test but simply isolates some fraction of the agents
+who have received signals in the current period. In particular, we assume that the planner
+does not use past signals in isolating individuals. This assumption implies that welfare under
+
+9
+
+the policy is a lower bound for a more elaborate policy that uses the entire history of past
+signals. The law of motion for I˜ is now
+(13) I˜t+1 = (1 − γ) (1 − τ̃ )I˜t + (1 − τ θS ) St
+
+X
+i
+
+λit (1 − τ θI ) I˜t
+λit π i
+Lit
+
+!
+,
+
+where Lit is now given by
+(14) Lit = λit
+
+
+
+
+˜
+(1 − τ θS ) St + (1 − τ θI ) It + µit Rt ,
+
+and output in activity i is given by
+ 
+
+
+(15) yit = bi Mi λit (1 − τ θS ) St + (1 − τ θI ) ξ I˜t + µit Rt .
+Note that as in the case with testing, the role of isolation is to remove some fraction of the
+infected people from economic activities where these people may infect others. One advantage
+of this policy is that it does not require the use of testing resources. A disadvantage of this
+policy is that some fraction of susceptible people is also removed from productive economic
+activities. Throughout our analysis of isolation policies we will assume that θI > θS .
+Since it is always possible to set τ = 0 with either testing or isolation, it immediately
+follows that welfare is higher than it is when these instruments are not available. In our next
+result, we show that isolation and testing are policies that are typically used in their entirety
+before the planner resorts to reducing labor allocation in productive economic activities with
+high rates of infection. In order to understand this result, it is useful to consider a special
+case with only two activities: work and home. Suppose that bwork = 1, bhome = 0, π work >
+0, π home = 0. In this case, absent a pandemic, all agents would be assigned to the work
+activity. With a pandemic and no testing or isolation, it can be optimal to assign some of
+the workers of unknown type to stay at home. The trade-off of this policy is that assigning
+a larger number of agents to stay home reduces output but also reduces the rate at which
+the virus spreads. If only isolation policies are available, then it is possible to show that it
+is optimal to exhaust all isolation possibilities before assigning any workers of unknown type
+to stay home. We formalize this result in the following proposition.
+10
+
+˜ λwork < 1
+Proposition 1. Suppose that π home = 0, bhome = 0 and ξ = 1. Then if S > I,
+only if τ = 1.
+The proof of this result is in the appendix. This result also implies that if the cost of
+testing is sufficiently small, it is optimal to exhaust all testing possibilities. By continuity it
+follows also that if π home and bhome are not too different from zero, the same result applies.
+In summary, these results imply that in general, welfare under a regime with testing
+or isolation will be higher than welfare under a regime with no testing or no isolation.
+Returns to Testing: A Simple Example
+To illustrate the sense in which the gains from targeted testing are potentially large,
+consider the following simple example. Suppose there are two activities, home and work,
+and bhome = 0. Suppose also that the transmission rate of the virus at home is zero. For
+simplicity, assume that the utility function is linear. A planner who desires to reduce R0
+from its unrestricted value of 2.5 to a value of 1 can do so by setting λwork = 0.4. Note here
+bwork λwork is GDP per time period. If a time period is two weeks, the cost of this policy is
+0.6 × $800B = $480B per two-week period.
+If one could identify 60% of the infected agents and assign them all to stay at home,
+then R0 drops from 2.5 to 1 without reducing GDP very much. One method to do this would
+be to test 60% of the population every week, if possible, and require those who test positive
+to stay home. It is straightforward to show that this indiscriminate method has a break-even
+cost of $1200 per test. If we could instead achieve the same 60% reduction in the number of
+infected people in the workplace by testing z × 0.6 fraction of population (contact tracing,
+testing targeted in areas of outbreaks), the break-even cost becomes $1200/z.
+
+3. Dynamics and the Effects of Social Distancing
+In this section, in order to obtain intuition about the trade-offs that optimal policy
+must confront, we illustrate the behavior of our dynamical system for some simple cases.
+Suppose now that the fraction of agents who are known to be infected relative to the mass of
+˜
+infected agents is constant. Let this fraction be denoted by q = 1 − I/I.
+Suppose also that
+λit = µit = 1/N for all t. Then, it is easy to show that the law of motion for the mass of
+
+11
+
+infected agents is given by
+
+(16) It+1 = It (1 − γ) + St
+
+
+Mi !
+1 X
+(1 − q) It
+1−
+1 − pi
+,
+N i
+St + (1 − q) It + Rt
+
+and that for the mass of susceptible people is given by
+
+Mi !
+(1 − q) It
+1 X
+1 − pi
+1−
+.
+N i
+St + (1 − q) It + Rt
+
+(17) St+1 = St − St
+
+In Figure 1, we display the evolution of this dynamical system in state space form,
+with It on the y-axis and St on the x-axis. Note that equation (17) implies that if It > 0,
+St+1 − St < 0. That is, S moves to the left, or west, in Figure 1. To see how It evolves,
+we partition (S, I) space into those points to the right and left of the upsloping locus of
+(S, I) points such that I is constant. We derive this locus by setting It+1 = It = I, St = S,
+delivering
+
+(18) γI =
+
+
+ Mi !
+1 X
+(1 − q) I
+1 − pi
+S.
+1−
+N i
+1 − qI
+
+Note that this locus intersects the horizontal axis at
+γI
+
+lim 
+
+I→0
+
+1−
+
+1
+N
+
+P 
+i
+
+1 − pi
+
+1
+γ
+Mi  = (1 − q) 1 P p M = R ,
+0
+(1−q)I
+i i i
+N
+1−qI
+
+as indicated in the figure. To the right of this locus, the dynamics of the system are northwest. That is, St+1 < St from (17) and I > 0, and It+1 > It from S being greater than that
+associated with I being constant (and It+1 being an increasing function of St in (16)). To the
+left of this locus, the dynamics of the system are south-west. Here, again, St+1 < St when
+It > 0, and It+1 < It from S being less than that associated with I being constant.
+This implies that if the initial (S0 , I0 ) is to the left of the locus, (St , It ) converges to
+a steady state on the horizontal axis following a south-west path. If the initial (S0 , I0 ) is
+to the right of the locus, (St , It ) converges to a steady state on the horizontal following an
+arc-pattern, with It increasing as St decreases until (St , It ) crosses the locus, converging again
+12
+
+Figure 1: (S, I) Phase Diagram
+0.6
+0.5
+0.4
+
+South-West Region
+
+North-West Region
+
+0.3
+0.2
+0.1
+0.0
+0.0
+
+0.2
+
+0.4
+
+0.6
+
+0.8
+
+1.0
+
+to a steady state on the horizontal axis. Note that this implies all steady states reachable
+from an initial state with I0 > 0 have S < 1/R0 . That is, assuming I0 > 0, regardless of
+the initial state, the system converges to a steady state where, at most, 1/R0 agents avoid
+infection. In particular, as R0 → ∞, the fraction of individuals who never get infected goes
+to zero (and the fraction of individuals who eventually become infected goes to one). Figure
+2 presents some computed examples of (St , It ) paths starting from (S0 , I0 ) = (0.999, 0.001)
+with only two activities, home and work, and under the assumption that phome = 0, q = 0,
+γ = 1/18, and M ∈ {25γ, 16.6667γ, 12.5γ, 10γ}, pwork is chosen so that the corresponding
+R0 ∈ {2.5, 1.67, 1.25, 1.0}. Here, we show the effect of reducing R0 by decreasing M from
+a high of M = 25γ (implying R0 = 2.5, or approximately what epidemiologists consider
+R0 to be without social distancing) to a low of M = 10γ (implying R0 = 1). For the high
+M = 25γ, I increases very quickly, and in a short number of periods, almost all people have
+recovered, or (S, I) ≈ (0.1, 0). For the low M = 10γ, I and S decrease slowly, and the system
+approaches a steady state with nearly all people having never been infected.
+
+13
+
+Figure 2: The Effects Differing Constant Economic Lockdowns For One Year
+0.30
+0.25
+0.20
+0.15
+0.10
+0.05
+0.00
+0.0
+
+0.2
+
+0.4
+
+0.6
+
+0.8
+
+1.0
+
+1.2
+
+4. Lifting a Lockdown
+The previous example gives rise to the sobering possibility that a lockdown must go on
+forever, otherwise the system returns to one where R0 is high and I0 > 0, although S0 < 1.
+The following example starts with (S0 , I0 ) = (0.999, 0.001) and has M = 10γ (and thus
+R0 = 1) for 365 periods (or one year, assuming a one day period length), then permanently
+relaxes the lockdown to M = 25γ (and R0 = 2.5). Here, the path after lifting the lockdown
+is essentially the same as if the lockdown had never been enforced. Figure 3 shows the result
+of this exercise in (S, I) space, and Figure 4 graphs the same exercise showing the infection
+rate, It , over time.
+
+14
+
+Figure 3: The Effect of a One Year Lockdown in (S, I) Space.
+0.5
+
+0.4
+
+0.3
+
+0.2
+
+0.1
+
+0.0
+0.0
+
+0.2
+
+0.4
+
+0.6
+
+0.8
+
+1.0
+
+1.2
+
+Figure 4: The Effect of a One Year Lockdown in (S, I) Space.
+
+0.20
+
+0.15
+
+0.10
+
+0.05
+
+0.00
+0
+
+100
+
+200
+
+300
+
+400
+
+500
+
+600
+
+700
+
+5. Calibration
+We assume that the utility function U is the log function. We parameterize the testing
+cost function as c(T )1+ν /(1 + ν). We assume that the economy has two activities: work and
+15
+
+home. This formulation allows us to relate our results to those in the literature, particularly
+Eichenbaum et al. (2020b) and Glover et al. (2020).
+We set the parameter values to be very similar to equivalent parameter values in
+Eichenbaum et al. (2020b) and Glover et al. (2020). The parameter values are reported in
+Table 1. We set the time period to be one week and set the discount factor β assuming that
+the vaccine is expected to arrive in 18 months and the annualized discount rate for the planner
+is 4%. We set the exit rate γ assuming that the expected length of infection of recovery is 18
+days. We set the exogenous rate at which unknown infected people become known, τ̃ , using
+the observation that infected agents are asymptomatic for the first five days of the infection
+and roughly half of all infected agents never display symptoms (see Glover et al. (2020)). We
+set the productivity of infected people ξ, following Eichenbaum et al. (2020b). The mortality
+rate δ is set at 0.5%; see Ferguson et al. (2020). We set the elasticity of substitution at 2 and
+normalize the productivity in the work sector to be 1 and that in the home sector be 0.1. We
+set the curvature parameter on the testing cost function, ν, at 1 and choose the parameter c
+so that the marginal cost of testing is $50 if 1% of the population is tested. We follow Glover
+et al. (2020) in setting the cost of treating the infected, Z, so that the cost of treating an
+infected person is $7500 over the course of infection. We set the cost of death parameter, D,
+so that the value of a life is equal to the present discounted value of 15 years of consumption.
+We set π home = 0.01 and set π work so that the reproduction rate R0 without any policy has
+an average value of approximately 3 in the first four weeks.
+Since the main focus of our analysis is the role of testing and isolation, we experimented
+with a number of values for the signal probabilities, θS and θI . For our baseline calibration,
+we set θI = 0.38 and θS = 0.0044. To arrive at these numbers, we start with the view that
+South Korea was particularly effective at pursuing an aggressive test, trace, and isolate policy.
+In South Korea, about 1.8% of tests return a positive result, compared with a population
+infection rate of 0.021%. That is, conditional on having a reason to be tested (a signal in
+our model), a South Korean had a probability of testing 86 times higher than if tests were
+done randomly. Thus, the South Korean data suggest a value of θI /θS = 86, implying a very
+informative signal. In the South Korean data, 1.2% of the population has been tested. Since
+
+16
+
+Table 1: Model Parameters
+β
+γ
+τ̃
+b1
+b2
+ξ
+δ
+σ
+ν
+c
+Z
+D
+π1
+π2
+θI
+θS
+
+Discount rate
+Weekly model. Vaccine arrival 18 months
+Exit rate
+18 day infection period
+Prob. of becoming symptomatic
+5 day incubation, 1/2 asymptomatic
+Productivity of work
+Productivity of home
+Infected productivity loss
+Eichenbaum et al. (2020b)
+Death rate
+Ferguson et al. (2020)
+CES parameter
+Testing cost parameter
+Testing cost parameter
+MC of testing $50 when 1% tested
+Treatment cost
+Glover et al. (2020)
+Death cost
+Value of life 2.8 million dollars
+Infection rate at home
+Infection rate at work
+R0 with no policy 2.5
+Signal prob. infected
+θI /θS = 86 and 1.2% tested (SK)
+Signal prob. susceptible
+θI /θS = 86 and 1.2% tested (SK)
+
+0.99
+7/18
+13
+× 21
+18
+1
+0.1
+0.8
+0.05%
+2
+1
+4.17
+6.25
+1.84
+0.01
+1.5
+0.38
+0.0044
+
+we initially set the proportion of infected at 2%, we find θI = 0.38 and θS = 0.0044 as the
+solution to
+θS S + θI I = 0.012, I = 0.02,
+
+θI
+= 86.
+θS
+
+6. Findings
+Here, we report on the findings from our quantitative model. Our measure of welfare
+is the standard compensating variation in consumption widely used in the macroeconomics
+literature. Specifically, we ask what permanent percentage increase in consumption relative to
+the no-intervention economy would give the planner the same utility as under our experiments.
+We report all welfare calculations relative to the no-intervention economy. For reference, we
+note that the loss in welfare in the no-intervention economy relative to the no-pandemic
+economy is 6.66%. The welfare changes in our experiments relative to the no-policy case
+arise from changes in the time paths of output, testing costs, infection costs, and death costs.
+In Table 2, we report on the welfare measure in our experiments as well as a partial
+
+17
+
+decomposition of the change in welfare induced by changes in output and death costs. To
+measure the change in welfare induced by the changes in output, we compute the annuity
+value of the present discounted value of output in our experiments. To measure the changes
+in welfare induced by death, we report the cumulative fraction of the population that dies
+at the end of 52 weeks. In Figures 5, 6, and 7, we report on the time paths of the fraction
+of the population infected It , the fraction of population susceptible St , cumulative deaths,
+the reproduction rate R0t , the fraction of the population infected but not known to be so I˜t ,
+consumption, the mass tested, and the marginal cost of testing.
+We begin by comparing outcomes in the no-policy case, optimal policy with no testing,
+and optimal policy with untargeted testing. We see that optimal policy with no testing
+yields a welfare gain of roughly 0.6%, and an optimal policy with untargeted testing yields
+a welfare gain of 0.7% relative to no intervention. That is, untargeted testing delivers very
+modest welfare gains. From Figure 5, we see that in all 3 cases, the economy goes through a
+severe recession that lasts about 3 months. We see that optimal policy reduces output at its
+trough by roughly 40% and by about 20% with no policy intervention. The primary gains to
+welfare relative to no policy come from a sharp reduction in the cumulative number of deaths.
+With no policy intervention, roughly 0.5% of the population dies, while with optimal policy,
+roughly 0.35% of the population dies. In all three experiments, the population eventually
+reaches herd immunity, though the steady state fractions are very different with and without
+optimal policy. The figure also shows that the main mechanism by which optimal policy
+reduces the cumulative death rate is by inducing a sharper recession, which in turn reduces
+the effective reproduction rate R0t below 1 and thereby induces a reduction in the proportion
+of the population that is infected. The findings regarding optimal policy with no testing are
+broadly similar to the findings in Eichenbaum et al. (2020b) and Glover et al. (2020). Figure
+5 also shows that with untargeted testing, as much as 15% of the population is tested. Note
+that at its peak, the marginal cost of testing is roughly $800. In this sense, a relatively small
+fraction of aggregate resources is allocated to testing. The main reason is that untargeted
+testing is not very valuable.
+Next, we compare outcomes in our benchmark targeted testing model with outcomes
+under optimal policy with no testing and untargeted testing. Table 2 shows that the welfare
+18
+
+gains to targeted testing are substantial. In particular, welfare rises by 2.5% relative to
+optimal policy with no testing and 3% relative to no policy. This table also shows that the
+cumulative deaths are about 0.15% lower once we allow for targeted testing and that the
+output loss is moderated by about 0.8% relative to no testing. Figure 6 shows that welfare
+rises dramatically mainly because a targeted testing policy ensures an initial decline in the
+effective reproduction rate R0t and then keeps that rate at around 1. This way of controlling
+the reproduction rate ensures that the cumulative death rate is substantially lower. Figure 6
+shows that even at the peak of targeted testing, only about 1.5% of the population is tested.
+The marginal cost of testing, even at its peak, is only about $70. These results show that
+relative to untargeted testing, targeted testing is both inexpensive and immensely valuable.
+Next, we compare outcomes under our benchmark targeted testing model with our
+benchmark targeted isolation model. We see that targeted isolation alone generates roughly
+two-thirds of the welfare gains that come from targeted testing. In this sense, targeted
+isolation is a very valuable tool if testing is not available.
+We also conduct sensitivity analyses to the values of our signal probabilities. Table
+3 shows that if θI = 0.6, then welfare rises by about 5.7% relative to the no-policy case.
+Recalling that the pandemic with no policy delivers a welfare loss of 6.7%, we see that if the
+technology for tracking infected individuals is sufficiently effective, the welfare loss from the
+pandemic is only about 1%. For this parameter value we also see that the cumulative deaths
+are reduced very significantly to 0.04% from 0.35%. Figure 7 also shows that the recession
+that arises from the pandemic is mild. Table 3 also shows that if the technology for tracking
+infected individuals is much less effective than our benchmark case (θI = 0.15), then the
+welfare, output, and death gains are modest relative to no targeted testing. The message of
+these findings is that the returns to improving the technology for tracking infected individuals
+can be exceptionally large.
+Finally, we conduct sensitivity analyses (available upon request) on the initial fraction
+of infected agents I0 . We find the relative gains of testing and isolation policies continue to
+be substantial. We view this finding as suggesting that even if the pandemic is well under
+way and testing and isolation policies have not so far been conducted, it is not too late to
+implement such policies.
+19
+
+Table 2: Results on welfare, deaths, and output loss
+Experiment
+
+No intervention
+Opt policy: no testing
+Opt policy: untargeted testing
+Targ Test (θs = .0044, θI = .38)
+Targ Isolation (θs = .0044, θI = .38)
+
+Welfare gain
+relative to
+no-intervention
+0
+0.59%
+0.71%
+3.07%
+2.12%
+
+Cumulative deaths
+
+Output loss
+
+0.48%
+0.35%
+0.3%
+0.15%
+0.26%
+
+1.3%
+1.94%
+2.06%
+1.28%
+1.66%
+
+Figure 5: Time paths for no policy, no testing, and untargeted testing
+
+3
+
+30
+
+0.4
+
+60
+
+0.3
+
+2.5
+
+%
+
+20
+
+1
+
+10
+
+0.1
+
+20
+
+5
+30
+
+40
+
+50
+
+10
+
+25
+20
+15
+10
+5
+
+20
+
+30
+
+40
+
+50
+
+0.5
+
+10
+
+20
+
+30
+
+40
+
+50
+
+10
+
+20
+
+30
+
+40
+
+50
+
+10
+
+20
+
+30
+
+40
+
+50
+
+600
+-10
+10
+-20
+
+%
+
+20
+
+% Dev. from steady state
+
+10
+
+%
+
+1.5
+
+0.2
+
+40
+
+15
+
+2
+
+Dollars
+
+%
+
+25
+
+80
+
+%
+
+no policy
+no testing
+untargeted
+
+35
+
+400
+
+5
+
+-30
+
+200
+
+-40
+0
+10
+
+20
+
+30
+
+40
+
+50
+
+10
+
+20
+
+30
+
+40
+
+50
+
+0
+10
+
+20
+
+20
+
+30
+
+40
+
+50
+
+Table 3: Sensitivity analysis with respect to signal parameters
+Experiment
+
+Targeted Test (θs = .03, θI = .4)
+Targeted Isolation (θs = .03, θI = .4)
+Targeted Test (θs = .03, θI = .6)
+Targeted Isolation (θs = .03, θI = .6)
+Targeted Test (θs = .03, θI = .15)
+Targeted Isolation (θs = .03, θI = .15)
+
+Welfare gain
+relative to
+no-intervention
+3.39%
+1.75%
+5.7%
+3.99%
+0.78%
+0.71%
+
+Cumulative deaths
+
+Output loss
+
+0.14%
+0.28%
+0.04%
+0.09%
+0.3%
+0.34%
+
+1.10%
+1.79%
+0.19%
+1.56%
+2.03%
+1.99%
+
+Figure 6: Time paths for no testing, untargeted testing, and targeted testing
+30
+no testing
+untargeted
+targeted
+
+25
+
+3
+
+90
+
+0.3
+2.5
+
+80
+
+0.25
+
+20
+
+2
+
+10
+
+0.15
+
+1.5
+
+50
+
+5
+
+0.1
+
+40
+
+0.05
+
+%
+
+0.2
+
+60
+
+%
+
+%
+
+70
+15
+
+1
+0.5
+
+40
+
+50
+
+10
+
+20
+
+%
+
+15
+
+10
+
+5
+
+20
+
+30
+
+40
+
+50
+
+10
+
+20
+
+30
+
+40
+
+50
+
+10
+
+20
+
+30
+
+40
+
+50
+
+10
+
+20
+
+30
+
+40
+
+50
+
+600
+-10
+10
+-20
+
+Dollars
+
+30
+
+%
+
+20
+
+% Dev. from steady state
+
+10
+
+400
+
+5
+
+-30
+
+200
+
+-40
+0
+10
+
+20
+
+30
+
+40
+
+50
+
+10
+
+20
+
+30
+
+40
+
+0
+10
+
+50
+
+21
+
+20
+
+30
+
+40
+
+50
+
+Figure 7: Time paths for untargeted testing, targeted testing, and isolation
+3
+
+25
+untargeted
+targeted
+isolate
+
+%
+
+15
+
+%
+
+0.25
+
+80
+
+2.5
+
+0.2
+
+70
+
+%
+
+20
+
+90
+
+2
+
+0.15
+1.5
+
+10
+
+60
+
+0.1
+
+50
+
+0.05
+
+1
+5
+
+0.5
+10
+
+20
+
+30
+
+40
+
+50
+
+10
+
+20
+
+30
+
+40
+
+50
+
+10
+
+20
+
+30
+
+40
+
+50
+
+10
+
+20
+
+30
+
+40
+
+50
+
+10
+
+20
+
+30
+
+40
+
+50
+
+10
+
+5
+
+600
+-10
+10
+-20
+
+Dollars
+
+%
+
+15
+
+%
+
+% Dev. from steady state
+
+20
+
+400
+
+5
+
+-30
+
+200
+
+-40
+0
+10
+
+20
+
+30
+
+40
+
+50
+
+10
+
+20
+
+30
+
+40
+
+0
+10
+
+50
+
+20
+
+30
+
+40
+
+50
+
+7. Conclusion
+We have argued that testing and isolation policies can deliver substantial welfare gains
+in the presence of pandemics. These welfare gains come from a reduced number of cumulative
+deaths and a shallower recession. Our model can readily be extended to allow for exogenous
+inflows of agents, some of whom may be infected. Such an extension is useful because we
+think of our model as one of a particular region or state, rather than of the world. In this
+context, inter-regional and international migration then introduces new sources of infections.
+In many situations, the new entering agents can be identified, and the testing and isolation
+of these agents is clearly valuable. Our findings also suggest that even if a pandemic is well
+under way, testing and isolation policies are very valuable.
+
+22
+
+References
+Acemoglu, D., V. Chernozhukov, I. Werning, and M. D. Whinston (2020): “A
+Multi-Risk SIR Model with Optimally Targeted Lockdown,” Working Paper 27102, National Bureau of Economic Research.
+Alvarez, F. E., D. Argente, and F. Lippi (2020): “A simple planning problem for
+covid-19 lockdown,” Tech. rep., National Bureau of Economic Research.
+Atkeson, A. (2020a): “How Deadly Is COVID-19? Understanding The Difficulties With
+Estimation Of Its Fatality Rate,” Tech. rep., National Bureau of Economic Research.
+——— (2020b): “What will be the economic impact of COVID-19 in the US? Rough estimates
+of disease scenarios,” Tech. rep., National Bureau of Economic Research.
+Azzimonti, M., A. Fogli, F. Perri, and M. Ponder (2020): “Social Distance Policies
+in Network Cities,” Tech. rep., National Bureau of Economic Research.
+Baqaee, D., E. Farhi, M. Mina, and J. Stock (2020): “Evaluation the Economics and
+Epidemiology of Strategies for Reopening the Economy,” Tech. rep.
+Berger, D. W., K. F. Herkenhoff, and S. Mongey (2020): “An seir infectious disease
+model with testing and conditional quarantine,” Tech. rep., National Bureau of Economic
+Research.
+Bodenstein, M., G. Corsetti, and L. Guerrieri (2020): “Social Distancing and Supply Disruptions in a Pandemic,” .
+Eichenbaum, M., S. Rebelo, and M. Trabandt (2020a): “The Macroeconomics of
+Testing During Epidemics,” .
+Eichenbaum, M. S., S. Rebelo, and M. Trabandt (2020b): “The macroeconomics of
+epidemics,” Tech. rep., National Bureau of Economic Research.
+Farboodi, M., G. Jarosch, and R. Shimer (2020): “Internal and external effects of
+social distancing in a pandemic,” Tech. rep., National Bureau of Economic Research.
+
+23
+
+Ferguson, N., D. Laydon, G. Nedjati Gilani, N. Imai, K. Ainslie, M. Baguelin,
+S. Bhatia, A. Boonyasiri, Z. Cucunuba Perez, G. Cuomo-Dannenburg, et al.
+(2020): “Report 9: Impact of non-pharmaceutical interventions (NPIs) to reduce COVID19
+mortality and healthcare demand,” .
+Garriga, C., R. Manuelli, and S. Sanghi (2020): “Optimal Management of an Epidemic: Lockdown, Vaccine and Value of Life,” Working paper.
+Glover, A., J. Heathcote, D. Krueger, and J.-V. Rı́os-Rull (2020): “Health
+versus wealth: On the distributional effects of controlling a pandemic,” Tech. rep., National
+Bureau of Economic Research.
+Guerrieri, V., G. Lorenzoni, L. Straub, and I. Werning (2020): “Macroeconomic
+Implications of COVID-19: Can Negative Supply Shocks Cause Demand Shortages?” Tech.
+rep., National Bureau of Economic Research.
+Hall, R. E., C. I. Jones, and P. J. Klenow (2020): “Trading off consumption and
+covid-19 deaths,” Tech. rep., Working Paper.
+Holtemöller, O. (2020): “Integrated assessment of epidemic and economic dynamics,”
+Tech. rep., IWH Discussion Papers.
+Jones, C. J., T. Philippon, and V. Venkateswaran (2020): “Optimal mitigation
+policies in a pandemic: Social distancing and working from home,” Tech. rep., National
+Bureau of Economic Research.
+Kaplan, G., B. Moll, and G. Violante (2020): “Pandemics according to HANK,” .
+Krueger, D., H. Uhlig, and T. Xie (2020): “Macroeconomic dynamics and reallocation
+in an epidemic,” Tech. rep., National Bureau of Economic Research.
+Moser, C. A. and P. Yared (2020): “Pandemic Lockdown: The Role of Government
+Commitment,” Tech. rep., National Bureau of Economic Research.
+Piguillem, F., L. Shi, et al. (2020): “The optimal covid-19 quarantine and testing
+policies,” Tech. rep., Einaudi Institute for Economics and Finance (EIEF).
+24
+
+Rampini, A. A. (2020): “Sequential Lifting of COVID-19 Interventions with Population
+Heterogeneity,” Tech. rep., Federal Reserve Bank of Minneapolis.
+Romer, P. (2020): “The road to responsibly reopen america,” Tech. rep.
+Romer, P. and A. Garber (2020): “Will Our Economy Die From Coronavirus,” The New
+York Times.
+Toxvaerd, F. (2020): “Equilibrium social distancing,” Cambridge-INET Working Paper
+Series.
+
+25
+
+Appendix
+Proof of Proposition 1
+Consider the recursive formulation of the programming problem in the model with
+isolation:
+
+
+n
+
+
+
+o
+˜ S, R = max log Y − Z I − I˜ − D (γδI) + βV I˜0 , S 0 , R0
+V I,
+λi µi ,τ
+
+subject to
+(19) I˜0 = (1 − τ̃ ) (1 − γ) I˜ + (1 − τ θS ) S
+
+X
+i
+
+"
+(20) S 0 = 1 − (1 − τ θS )
+
+X
+i
+
+λi (1 − τ θI ) I˜
+λi π i
+Li
+
+λi (1 − τ θI ) I˜
+λi π i
+Li
+
+!
+
+!#
+S,
+
+where R0 is given by (8), Li is given by (14), Y is given by the CES aggregator over yi given
+by (15), and I = 1 − S − R.
+Clearly, the continuation value is decreasing in I˜0 . We will use this result in the proof.
+Let λ = λwork . Suppose, by way of contradiction, that λ < 1 and τ < 1. We will construct
+a variation that increases λ and τ while keeping current output constant. We will show that
+this variation reduces I˜0 and thereby raises welfare. This contradiction establishes the proof.
+To this end, totally differentiate output with respect to τ and λ holding all other variables
+fixed. We have that
+h
+i
+λ Sθs + θI I˜
+i.
+(21) dλ = dτ h
+S (1 − τ θs ) + [1 − τ θI ] I˜
+Note that since ξ = 1, output equals L. Since output is held constant, the rate of infections
+is now determined solely by
+(1 − τ θs ) λ2 (1 − τ θI ) .
+Differentiating this expression, substituting from (21), and simplifying, we get that the sign
+26
+
+of the rate of infections is given by the sign of
+λ2 dτ
+
+h
+
+h
+i
+i (1 − τ θs ) (1 − τ θs ) [θI − θs ] −S + I˜ ,
+S (1 − τ θs ) + [1 − τ θI ] I˜
+
+which is negative. Q.E.D.
+
+27
+
+

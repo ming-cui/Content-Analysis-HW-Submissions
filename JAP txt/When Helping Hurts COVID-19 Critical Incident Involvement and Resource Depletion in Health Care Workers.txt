@@ -1,0 +1,3423 @@
+Journal of Applied Psychology
+© 2020 American Psychological Association
+ISSN: 0021-9010
+
+2021, Vol. 106, No. 1, 29 – 47
+https://doi.org/10.1037/apl0000850
+
+When Helping Hurts: COVID-19 Critical Incident Involvement and
+Resource Depletion in Health Care Workers
+Miguel P. Caldas1, Kathryn Ostermeier2, and Danielle Cooper3
+
+This document is copyrighted by the American Psychological Association or one of its allied publishers.
+This article is intended solely for the personal use of the individual user and is not to be disseminated broadly.
+
+1
+
+Department of Management and Marketing and Soules College of Business, University of Texas at Tyler
+2
+Department of Management and College of Business, Bryant University
+3
+Department of Management and G. Brint Ryan College of Business, University of North Texas
+A focus on helping others is generally lauded, particularly in medicine, but in the context of a pandemic
+when health care professionals are facing increased risk, loss, and trauma, this focus can potentially be
+detrimental. In this study, we sought to (a) examine if health care workers intensely involved in the
+coronavirus 2019 (COVID-19) pandemic are experiencing negative psychological and emotional outcomes, and (b) investigate if helping related factors (prosocial motivation and perceived prosocial
+impact) exacerbate and mitigate relationships to negative outcomes in a crisis situation. Using data
+collected from doctors and nurses before and during the COVID-19 pandemic, we examine the
+relationship between intensity of involvement in the COVID-19 pandemic response and emotional
+exhaustion and depression, as well as the moderating effects of prosocial motivation and perceived
+prosocial impact. Data was collected at three time points (T1 and T2 prepandemic, and T3 during
+COVID-19), with prosocial motivation and controls collected at T1/T2 and predictors and outcomes
+collected during the pandemic. We find that intensity of involvement does associate with emotional
+exhaustion at work and that higher prosocial motivation exacerbates this relationship. Supplemental
+analyses suggest that the exposure to self-dimension of involvement is positively associated with
+emotional exhaustion and depression. Understanding the roles of prosocial motivation and prosocial
+impact in managing regulatory resources has important ramifications for health care workers on the
+frontlines of health crises responses, as these resources are necessary to manage the associated trauma.
+Keywords: COVID-19, resource depletion, prosocial motivation, prosocial impact, emotional exhaustion
+
+United States, of which at least 702 had died (CDC, 2020).
+Globally, more than 450,000 health care workers are estimated to
+have contracted the virus (Mantovani, 2020). Higher case numbers
+and a growing list of victims are reported daily. While the physical
+cost to health care workers is being quantified, more research is
+needed on the psychological and emotional cost. Anecdotal evidence suggests that health care workers on the frontlines of the
+pandemic are at increased risk for depression, suicide, and other
+negative outcomes (e.g., Glenza, 2020; Hoffman, 2020; Watkins et
+al., 2020). In this study, we sought to understand if this anecdotal
+evidence was supported by quantitative research and, if so, to what
+extent involvement with COVID-19 among health care workers is
+associated with these negative outcomes. And, second, using doctors and nurses as an empirical referent in the context of a global
+pandemic, we sought to understand if prosocial motivation and
+perceived prosocial impact affect these relationships to explore
+how a focus on helping others hurts and how it helps professionals
+facing a crisis situation.
+Following Bacharach and Bamberger (2007), who explored how
+critical incident involvement in 9/11 by first responders influenced
+negative emotional states, we examine critical incident involvement in the COVID-19 pandemic response and its association with
+both emotional exhaustion at work and depression. Critical incidents are time-limited events that are often unexpected and potentially life-threatening (Flannery, 1999), and exposure to critical
+incidents has been linked to depression, anxiety, and stress (Ver-
+
+According to the World Health Organization (WHO), as of
+September 12th, 2020, more than 28 million cases had been
+confirmed worldwide, including over 911,000 fatalities, resulting
+from the emergence of a new strain in the coronavirus family
+called SARS-Cov-2 or, more commonly, coronavirus 2019
+(COVID-19; World Health Organization, 2020). While individuals
+all over the world are facing increased pressure and stress because
+of lockdowns, travel restrictions, social distancing, massive job
+loss, and the closure of schools and childcare centers (e.g., Orgilés
+et al., 2020; Rajkumar, 2020), perhaps no profession has been
+harder hit than health care; whose workers are on the frontlines of
+the pandemic response. According to the Center for Disease Control and Prevention (CDC), by September 12th, 2020, at least
+159,300 health care personnel had contracted COVID-19 in the
+
+This article was published Online First December 3, 2020.
+Miguel P. Caldas X https://orcid.org/0000-0003-4858-4730
+Kathryn Ostermeier X https://orcid.org/0000-0001-5635-3807
+Danielle Cooper X https://orcid.org/0000-0003-4898-251X
+Miguel P. Caldas is also now Adjunct at the Department of Organization, People and Strategy, FGV EAESP.
+Correspondence concerning this article should be addressed to Danielle
+Cooper, Department of Management and G. Brint Ryan College of Business, University of North Texas, 1155 Union Circle #305429, Denton, TX
+76203, United States. Email: danielle.cooper@unt.edu
+29
+
+This document is copyrighted by the American Psychological Association or one of its allied publishers.
+This article is intended solely for the personal use of the individual user and is not to be disseminated broadly.
+
+30
+
+CALDAS, OSTERMEIER, AND COOPER
+
+metten & Bremner, 2002). To examine why critical incident involvement should relate to emotional exhaustion and depression,
+we draw from ego depletion theory. According to ego depletion
+theory (cf. Baumeister et al., 1998), when individuals modify the
+way they think, feel, or behave to adapt to societal norms and
+expectations, they draw from a limited pool of regulatory resources
+(Muraven & Baumeister, 2000). If individuals draw from this pool
+too much, this results in resource depletion that ultimately “renders
+the self temporarily less able and less willing to function normally
+or optimally” (Baumeister & Vohs, 2007, p. 2).
+Recent research exploring how helping affects the well-being of
+helpers finds that this relationship depends on whether helping
+increases or depletes the helper’s resources (Bamberger et al.,
+2017). We argue that a higher level of involvement in the
+COVID-19 pandemic response is associated with resource depletion for health care workers, as they suppress their personal fears
+while serving their patients. Health care workers must push aside
+their concerns for themselves, their coworkers, and their family
+members (who they may expose to the virus because of their work)
+to do their job and provide the best care for their patients. This care
+is provided in the context of a shortage of personal protective
+equipment, or PPE (Orecchio-Egresitz et al., 2020), constantly
+changing CDC guidelines (Kavanagh et al., 2020), a lack of
+leadership at the federal level of government (McCarthy, 2020),
+and with no end in sight to the pandemic (Hauser, 2020). This
+resource depletion may ultimately lead to increased emotional
+exhaustion—feelings of being overextended and exhausted by
+emotional demands at work (Demerouti et al., 2001)—and greater
+susceptibility to negative emotional states, such as depression.
+To understand which health care workers may be most at risk
+and to identify a potential mitigating factor of these negative
+outcomes, we propose two factors that affect the extent of resource
+depletion from involvement in the crisis. Research finds that
+prosocially motivated individuals are more likely to become depleted from helping coworkers (Lanaj et al., 2016). We build on
+this work and suggest that a crisis situation, particularly one
+involving a direct threat to one’s self, is likely to cause more
+depletion for prosocially motivated individuals who use psychological resources stifling personal concerns to push themselves to
+help others. We argue, however, that while prosocial motivation
+likely exacerbates the association between involvement in the
+pandemic response and negative emotional and psychological outcomes, a potential replenishing factor also exists: perceived prosocial impact. Perceived prosocial impact, or the extent to which
+individuals perceive that they are making a positive impact
+through their work during the crisis, could mitigate the negative
+association between critical incident involvement and both emotional exhaustion and depression. The belief that one is helping
+others can help to replenish personal resources and reduce emotional exhaustion (Grant & Sonnentag, 2010) and could allow
+more satisfaction from sacrifices, improving emotional well-being
+(Glomb et al., 2011).
+The ego depletion model has not been devoid of criticism, which
+tends to fall in two broad categories (Baumeister, 2020): first,
+those who offer alternate explanations for ego-depletion phenomena, and second, those who question the mere existence of egodepletion effects. In the former, some scholars have refuted the
+limited-energy hypothesis and substitute it with more conventional
+psychological categories, such as variations in motivation and
+
+attention (e.g., Inzlicht & Schmeichel, 2012). In the second group,
+theoretical and empirical analyses, commonly using replication
+studies, have disputed resource depletion explanations for selfregulatory failures found in ego-depletion experiments, casting
+doubts on the existence of a strong or even moderate ego-depletion
+effect (e.g., Carter et al., 2015; Hagger et al., 2016). Ego depletion
+theorists (e.g., Baumeister et al., 2018; Baumeister & Vohs, 2016)
+have counterargued that replications such as Hagger et al.’s failed
+in their design (e.g., they argue the manipulation failed to create
+ego depletion), procedures (used an untested set of procedures and
+did not operationalize core constructs), and could not invalidate
+ego depletion as it would constitute a single study with null results
+(Baumeister et al., 2018, p. 143). Given the volume of research on
+ego depletion, these recent defenses, and its relevance to our
+research questions, we utilize this theoretical lens.
+Better understanding the negative emotional effects of individual involvement in crises, as well as the intensifying effects of
+prosocial motivation, contribute to both theory and practice. Theoretically, such understanding extends existing theory on critical
+incident involvement (Bacharach & Bamberger, 2007; Monnier et
+al., 2002), ego depletion theory (e.g., Baumeister et al., 1998;
+Muraven & Baumeister, 2000), and the “dark side” of prosocial
+motivation (e.g., Bolino & Turnley, 2005; Lanaj et al., 2016). To
+practice, such questions are relevant to devise protection and
+coping strategies for professionals facing time-limited crises, including— but not limited to—pandemics and health care emergencies.
+
+Critical Incident Involvement, Emotional Exhaustion,
+and Depression
+Critical incidents are traumatic time-limited events that are
+faced by individuals in the course of doing their jobs (Monnier et
+al., 2002). These events, conceptualized as severe job-related stressors, affect those involved at the time and, potentially, even years
+after the critical incident has passed (Bacharach & Bamberger,
+2007; Monnier et al., 2002). Intensity of involvement in a critical
+incident captures the extent of exposure to different sources of
+trauma within the event, such as observing injury to others and
+being exposed to direct personal harm. Because of the nature of
+these events, individuals are forced to utilize psychological resources to cognitively process the event and generate a new mental
+model to restore feelings of invulnerability and security (Bacharach & Bamberger, 2007; Nishith et al., 2001).
+Critical incident involvement is particularly problematic in the
+health care industry, as exposure to a traumatic event (such as the
+response to the COVID-19 pandemic) could exacerbate the already
+intense job demands of doctors and nurses (cf. Broetje et al., 2020)
+for those who are intensely involved. Intense job demands deplete
+psychological resources and breed emotional exhaustion (Demerouti et al., 2001; Hobfoll, 2002). When individuals view their tasks
+negatively, they are more likely to focus on undesirable aspects of
+their job, which both consumes psychological resources and reduces energy levels (Grant & Sonnentag, 2010). This makes it
+more exhausting for individuals to devote time and effort in their
+work (Fritz & Sonnentag, 2006). Additionally, affect regulation, in
+which individuals are required to suppress emotions, drains personal resources, fostering fatigue and focusing attention on feelings of fatigue (Baumeister, 2014; Baumeister et al., 1998). Cou-
+
+WHEN HELPING HURTS
+
+pled with intense job demands, involvement in the pandemic is
+likely to consume psychological resources as individuals manage
+their own negative emotions, including fears of contagion, support
+fearful and grieving patients and their family members, and adjust
+to new frustrations in doing their work such as wearing cumbersome protective equipment (without the certainty it may fully
+protect them).
+
+This document is copyrighted by the American Psychological Association or one of its allied publishers.
+This article is intended solely for the personal use of the individual user and is not to be disseminated broadly.
+
+Hypothesis 1: Higher levels of critical incident involvement
+are associated with increased emotional exhaustion.
+Emotional exhaustion at work is a core feature of burnout and
+results from work-related stress, whereas depression is more diffuse across life domains and is characterized by loss of interest,
+feelings of worthlessness, and impaired concentration (Bianchi et
+al., 2015; Maslach et al., 2001). In other words, emotional exhaustion and depression differ regarding their contextual specificity—
+the former is centered on the individual’s social and organizational
+work context and the latter is more global and reflects general
+personal feelings and beliefs (Leiter & Durup, 1994). While there
+is debate about whether job burnout (and, therefore, emotional
+exhaustion) is distinct from depression (cf. Bianchi et al., 2015),
+the two constructs have been found to be empirically distinct (e.g.,
+Bakker et al., 2000; Glass & McKnight, 1996; Iacovides et al.,
+2003).
+We theorize that critical incident involvement is also correlated
+with increased depression. It has been found that as negative life
+events lead to resource loss, they can foster symptoms of depression (Holahan et al., 1999). Individuals with intense or sustained
+job demands may become depressed as they are unable to replenish their personal resources and lack energy for other life activities.
+Prior work has found that job demands can increase depression
+(Ahola & Hakanen, 2007; Bakker et al., 2000), including among
+health care workers (Baba et al., 1999). Individuals who are
+intensely involved in the pandemic may also lack the resources
+needed to effectively process the trauma they have experienced at
+work, leading to increased depression (Baumeister et al., 1999).
+Hypothesis 2: Higher levels of critical incident involvement is
+associated with increased depression.
+
+The Intensifying Effect of Prosocial Motivation
+Monnier and colleagues (2002) argued that individuals differ in
+the resource loss they experience resulting from critical incidents
+and that individuals who experience greater resource losses suffer
+greater negative psychological outcomes. We propose that prosocial motivation is an important individual difference that is related
+to how individuals are affected by involvement in a critical incident. Prosocial motivation refers to performing work based on “the
+desire to benefit others or expend effort out of concern for others”
+(Bolino & Grant, 2016, p. 4), and following others, we conceptualize it as a stable tendency regarding a concern for others (Bolino
+& Grant, 2016).
+In general, evidence suggests that having prosocial employees is beneficial to organizations as these individuals tend to be
+motivated to contribute (Kim et al., 2013; Lester et al., 2008;
+Miles et al., 1989). While organizations benefit from these contributions, the effects of helping on individuals’ well-being varies (Bamberger et al., 2017). Individuals who are motivated by prosocial
+
+31
+
+motivation are driven to act according to their values, relying on
+conscious self-regulation to accomplish their tasks, and tend to focus
+their attention on the outcomes of their work (Grant, 2008a). When
+helping feels volitional and achieves helping goals, prosocially motivated individuals improve their well-being through helping, which
+increases their feelings of competence and relatedness to others
+(Weinstein & Ryan, 2010). However, when prosocial motivation is
+based on pressure and when the benefits of helping are less visible, it
+can drain personal resources and lead to negative emotional outcomes
+(Bamberger et al., 2017; Gebauer et al., 2008).
+We argue that rather than benefiting health care workers
+dealing with COVID-19, higher prosocial motivation will actually serve to exacerbate the relationship between intensity of
+involvement and experienced emotional exhaustion and depression, as highly prosocial doctors and nurses will use more
+regulatory resources managing their responses to the crisis.
+Because of the lack of treatment options, the crisis has reduced
+the ability to improve patients’ health and achieve helping
+goals. It also poses a direct threat to health care workers’
+personal safety. Rather than feeling natural and voluntary,
+attempting to help patients requires health care workers to push
+past their own fears of exposure to themselves (and indirectly,
+their families). In the face of these risks, prosocial individuals
+will put internal pressure on themselves to prioritize others,
+relying on self-control and taxing their personal resources to
+provide help (Lanaj et al., 2016). Prosocial individuals are also
+more likely to risk negative outcomes to themselves to help
+others (Graziano et al., 2007), suggesting that prosocial individuals may put themselves into riskier and more emotionally
+demanding situations with patients. These actions foster resource depletion, which may lead to emotional exhaustion and
+depression.
+This theorizing is aligned with recent research on the dark
+side of prosocial motivation, which posits that whereas prosocial motivation may be beneficial for organizations, it may not
+always be beneficial for the individuals themselves. For example, research has found that highly prosocial individuals may
+take on too much work, leading to stress, work overload, and
+reduced performance (Bergeron, 2007; Bolino & Turnley, 2005;
+Kibler et al., 2019). Highly prosocial employees are also susceptible to “white knight syndrome,” where they rush to rescue
+and offer help that is not wanted or needed (Oakley et al.,
+2011). Because highly prosocial individuals are more likely to
+respond to the crisis by putting internal pressure on themselves
+to help more and to try to suppress concerns about the personal
+risks, the crisis is likely to take a greater toll on their personal
+resources and have a stronger association with emotional exhaustion and depression for these individuals.
+Hypothesis 3: Prosocial motivation moderates the relationship
+between critical incident involvement and emotional exhaustion such that this relationship is stronger when prosocial
+motivation is higher.
+Hypothesis 4: Prosocial motivation moderates the relationship
+between critical incident involvement and depression such
+that this relationship is stronger when prosocial motivation is
+higher.
+
+CALDAS, OSTERMEIER, AND COOPER
+
+32
+
+This document is copyrighted by the American Psychological Association or one of its allied publishers.
+This article is intended solely for the personal use of the individual user and is not to be disseminated broadly.
+
+The Mitigating Effect of Perceived Prosocial Impact
+While prosocial motivation refers to the desire to benefit others,
+perceived prosocial impact is defined as the experience of making
+a positive difference in the lives of others through one’s work
+(Bolino & Grant, 2016). While having higher prosocial motivation
+illustrates how a focus on helping can hurt, we theorize that having
+higher perceived prosocial impact can mitigate these effects and
+provide some protection for health care workers against these
+negative outcomes. As Grant and Sonnentag (2010, p. 13) found,
+“doing good buffers against feeling bad.” Grant and Sonnentag
+(2010) found that perceived prosocial impact buffered against the
+costs of emotional exhaustion, as the experience of helping others
+allowed employees to focus their attention on how their work led
+to positive outcomes for others, rather than spending time dwelling
+on the negative aspects of their work.
+Similarly, perceived prosocial impact should allow health care
+workers to focus their attention on how their work has had a
+positive impact on their patients. When health care workers believe
+they positively impact others, they should be better able to replenish regulatory resources because of the positive emotions and
+self-affirmation (Schmeichel & Vohs, 2009; Tice et al., 2007)
+associated with having helped others (Glomb et al., 2011). Consequently, perceived prosocial impact should help to mitigate the
+association between involvement in the crisis and both exhaustion
+and depression for frontline health care workers. Therefore, we
+predict:
+Hypothesis 5: Prosocial impact moderates the relationship
+between critical incident involvement and emotional exhaustion such that this relationship is weaker when prosocial
+impact is higher.
+Hypothesis 6: Prosocial impact moderates the relationship
+between critical incident involvement and depression such
+that this relationship is weaker when prosocial impact is
+higher.
+
+A visual representation of our model and hypotheses is found in
+Figure 1.
+
+Method
+Participants and Procedure
+We distributed an online survey to currently working health care
+professionals who were either enrolled in a health care MBA
+program in the southwestern United States or recruited by students
+of such program (IRB #2020 – 0426, “COVID-19 and Health Care
+Workers”). Data was collected across three time points to minimize issues with common method bias (cf. Podsakoff et al., 2003).
+Prosocial motivation and control variables were collected prepandemic. However, given the nature and time sensitivity of doing
+COVID-19 research, variables related to the pandemic experience,
+specifically involvement, perceived prosocial impact, and the outcome variables were collected at Time 3 (T3). Although such
+design may raise concerns about common method bias and some
+of the causal inferences, design techniques were used to reduce
+such risks, and furthermore, it is known that interaction effects are
+not biased by common method variance (Siemsen et al., 2010).
+Data was collected from two cohorts of MDs and RNs, and each
+cohort participated in three waves of data collection. The first
+cohort (67.8% of the sample) completed Time 1 (T1) and Time 2
+(T2) in February 2019; the second (32.2% of the sample) completed T1 and T2 between late January and early February 2020.
+T1 and T2 were collected 2 weeks apart for both cohorts. T3 was
+completed by all respondents between April 28th and May 8th,
+2020. The data collected during T1 and T2 were developed as part
+of a different study; however, because of the pandemic, we decided to collect more data from such respondents, to explore the
+effects of COVID-19. All individuals who either participated or
+recruited participants in the T1 and T2 data collection were contacted about the opportunity to participate in T3 to explore the
+
+Figure 1
+Theoretical Model
+Prosocial Motivation (T1)
+
+Emotional Exhaustion at Work (T3)
+
+Intensity of
+Critical Incident
+Involvement in
+COVID-19 (T3)
+
+Depression (T3)
+
+Perceived Prosocial
+Impact (T3)
+
+Note. COVID-19 ⫽ coronavirus 2019.
+
+WHEN HELPING HURTS
+
+effects of COVID-19 on health care workers. Of the 274 doctors
+and nurses who had participated, 172 (62.8%) were located and
+agreed to participate in T3, and 126 participants followed through.
+Of the 126, 118 were currently working and these responses were
+used in the analysis (N ⫽ 118). Demographic data for these
+participants is displayed in Tables 1 and 2.
+
+Measures
+
+This document is copyrighted by the American Psychological Association or one of its allied publishers.
+This article is intended solely for the personal use of the individual user and is not to be disseminated broadly.
+
+Tables 3 and 4 display the scale information for all of the
+variables examined in this study (with the exception of the intensity of involvement scale and the control variables) and the descriptive statistics and correlations.
+
+Intensity of Involvement in Pandemic Response
+We adapted Monnier and colleagues’ (Monnier et al., 2002)
+“Critical Incident Inventory” or CII, following Bacharach and
+Bamberger’s (2007) adaptation to 9/11 involvement. Our adaptation of the CII to the COVID-19 pandemic response includes 19
+total items across six subdimensions. Following Bacharach and
+Bamberger (2007), our CII adaptation required respondents to
+focus on the COVID-19 pandemic and respond with it as their
+frame of reference. In line with both Bacharach and Bamberger
+(2007) and Monnier et al. (2002), we generated a total score for the
+intensity of involvement in the pandemic response by summing the
+item-specific scores. Respondents noted whether they had experienced (“1”) or not experienced (“0”) the particular situation during
+the pandemic (at the time data was collected, this meant 2 to 3
+weeks to most respondents, according to information gathered
+during recruitment). The response options mirrored the dichotomous design of the original scale, and the five items in the “trauma
+to self” category were scored higher (from 2–5), following Bacharach and Bamberger (2007), because of the different order of
+magnitude for these items. The potential total measure score
+ranged from 0 –30, with the mean response score of 5.71 (actual
+range of total scores was 0 –20). Our adaptation of CII to
+COVID-19 can be seen in the Appendix and was collected in T3.
+Table 5 highlights the breakdown of the “experienced” versus “not
+experienced” response per item for our sample.
+
+Controls
+We followed Becker’s (2005) recommendations for selecting
+controls. First, we identified demographic and work-related variables that could influence the proposed relationships. We identified gender, age, and ethnicity, which have been shown to relate to
+
+Table 1
+Respondent Demographic Information (Continuous)
+Demographic variable
+Age
+Health care industry experience
+(years)
+Organizational tenure (years)
+Organizational size (no. of
+employees)
+
+Range
+
+M
+
+SD
+
+24–71
+
+41.99
+
+10.58
+
+2–50
+1–38
+
+16.77
+7.67
+
+10.15
+7.74
+
+13,607.95
+
+52,192.24
+
+5–500,000
+
+Note. N ⫽ 101–118 (some respondents opted to not include certain
+demographic data).
+
+33
+
+Table 2
+Respondent Demographic Information (Categorical)
+Demographic variable
+Gender
+Male
+Female
+Ethnicity
+White or Caucasian
+Black or African-American
+Hispanic or Latino
+Asian
+Native American
+Other
+Type of organization
+Single hospital
+Hospital system
+Surgery center
+Outpatient center
+Physician clinic
+Other
+Not-for-profit
+For-profit
+Position type
+Medical Doctor (MD or DO)
+Nurse (LVN, RN, or APRN)
+Directly involved in pandemic response
+Yes
+No
+Workload change
+Workload has not changed
+Workload has been reduced
+Workload has increased
+Pay change
+Pay has not changed
+Pay has been reduced
+Pay has increased
+I have the resources needed to complete my duties
+(e.g., PPE, testing equipment,
+or supportive staff)
+Strongly agree
+Agree
+Neutral
+Disagree
+Strongly disagree
+Employment status
+Full-time
+Part-time
+Contract
+Note.
+
+N (%)
+37 (31.4%)
+81 (68.6%)
+68 (57.6%)
+25 (21.2%)
+11 (9.3%)
+12 (10.2%)
+0 (0%)
+2 (1.7%)
+7 (5.9%)
+62 (52.5%)
+1 (0.8%)
+9 (7.6%)
+8 (6.8%)
+31 (26.3%)
+58 (49.2%)
+60 (50.8%)
+32 (27.1%)
+86 (72.9%)
+87 (73.7%)
+31 (26.3%)
+25 (21.2%)
+51 (43.2%)
+42 (35.6%)
+100 (84.7%)
+16 (13.6%)
+2 (1.7%)
+
+25 (21.2%)
+39 (33.1%)
+23 (19.5%)
+18 (15.3%)
+13 (11%)
+107 (90.7%)
+7 (5.9%)
+4 (3.4%)
+
+N ⫽ 118. PPE ⫽ personal protective equipment.
+
+depression (Riolo et al., 2005), tenure, which has been show to
+relate to exhaustion for health care workers (Kelly et al., 2015),
+profession (doctor or nurse), because these professions can differ
+in levels of emotional exhaustion (Sorenson et al., 2016), and
+workload increases, which could increase the burden of the crisis.
+Second, following Becker (2005), we retained the controls that
+correlated with at least one of our dependent variables, specifically
+profession (doctor or nurse), age, and increased workload (see
+Table 4 for correlations). We included these three variables as
+controls in all models. We also controlled for the year in which the
+participant participated in T1 and T2 (2019 or 2020).
+
+Data Analysis
+To test the hypothesized model, we used SPSS for hierarchical
+regression analysis and the Preacher and Hayes (2004, 2008) based
+
+CALDAS, OSTERMEIER, AND COOPER
+
+34
+Table 3
+Scale Information
+Variable
+
+Scale
+
+Likert No. of items
+
+Prosocial motivation
+Grant (2008a)
+Perceived prosocial impact Grant (2008b)
+
+This document is copyrighted by the American Psychological Association or one of its allied publishers.
+This article is intended solely for the personal use of the individual user and is not to be disseminated broadly.
+
+Perceived social worth
+Depression
+Emotional exhaustion
+
+␣
+
+Time collected
+
+Sample item
+“Because I care about benefiting others through my work.”
+“I am very aware of the ways in which my work is
+benefiting others.”
+“I feel that others appreciate my work.”
+“Unable to become enthusiastic.”
+“Feeling run-down.”
+
+1–5
+1–5
+
+4
+3
+
+0.97
+0.94/0.83
+
+Time 1
+Time 2/3
+
+Grant (2008b)
+1–5
+DASS-21
+1–4
+Pugh et al. (2011) 1–5
+
+2
+7
+5
+
+0.86/0.86
+0.87
+0.91
+
+Time 2/3
+Time 3
+Time 3
+
+PROCESS macro Version 3.4 for moderation analysis. The process macro allowed us to examine the relationship of intensity of
+involvement with the outcome variables at different levels of
+prosocial motivation and perceived prosocial impact. Following
+Cohen et al.’s (2013) recommendation for models with interactions, interaction variables were centered. Regression results are
+reported in Table 6.
+
+Results
+Supporting Hypothesis 1, intensity of involvement in the pandemic positively related to emotional exhaustion (B ⫽ .05, p ⬍
+.01; 95% confidence interval [CI: .019, .074]). In contrast, it did
+not relate to depression (B ⫽ .01, ns), and Hypothesis 2 was not
+supported. Prosocial motivation significantly moderated the relationship between involvement and emotional exhaustion (B ⫽ .07,
+p ⬍ .01; 95% CI [.017, .117]) but not between involvement and
+depression (B ⫽ .02, ns), in support of Hypotheses 3 (see Figure
+2) but not Hypothesis 4. For emotional exhaustion, when prosocial
+motivation was lower (3.88), the effect ⫽ ⫺.008, ns, and when
+prosocial motivation was higher (5.00), the effect ⫽ .07 (p ⬍ .001;
+95% CI [.036, .100]). Perceived prosocial impact did not significantly moderate the relationships between involvement and emotional exhaustion (B ⫽ .001, ns) or depression (B ⫽ .01, ns), and
+hence Hypotheses 5 and 6 were not supported.
+
+Supplemental Analyses and Results
+We conducted a number of additional analyses to further explore these variables and relationships (see Tables 7–13). These
+analyses extend our primary analysis by exploring potential threeway interactions among the main variables, examining how incident involvement affected perceptions of impact, deepening our
+understanding of the critical incident scale and its effects, and
+providing additional checks on the robustness of our findings.
+
+Three-Way Interactions
+In the first supplemental analysis, we examined potential threeway interactions among intensity of involvement, prosocial motivation, and prosocial impact on both our outcome variables (see
+Table 7). While we did not find that prosocial impact moderated
+the relationship between involvement and outcomes, we considered it plausible that prosocial impact may be particularly important for prosocial individuals, given their desire to benefit others.
+Specifically, with lower perceived prosocial impact, prosocial individuals may be even more depleted. The three-way interaction
+among involvement, prosocial motivation, and prosocial impact
+was not related to emotional exhaustion (B ⫽ ⫺.05, ns) but did
+
+relate to depression (B ⫽ ⫺.04, p ⬍ .05; 95% CI [⫺.076, ⫺.002],
+see Figure 3). Specifically, the effects on depression were as
+follows for higher/lower prosocial motivation (5.00/3.88) and
+higher/lower prosocial impact (4.84/3.71): higher prosocial motivation, lower prosocial impact (effect ⫽ .03, ns), higher prosocial
+motivation, higher prosocial impact (effect ⫽ .02, ns), lower
+prosocial motivation, lower prosocial impact (effect ⫽ ⫺.03, p ⬍
+.05; 95% CI [⫺.064, ⫺.002]), lower prosocial motivation, higher
+prosocial impact (effect ⫽ .01, ns).
+
+Involvement, Prosocial Impact, and Perceived Social
+Worth
+The above analysis suggests that perceived prosocial impact
+may influence responses to crisis involvement. To better understand how the pandemic is affecting these perceptions, we evaluated the effect of intensity of involvement on perceived prosocial
+impact (see Table 8). Controlling for levels of prosocial impact as
+reported in T2 as a baseline, we examined how intensity of
+involvement related to prosocial impact in T3. The effect of
+involvement on perceived prosocial impact in T3 was insignificant
+(B ⫽ ⫺.002, ns). While involvement did not increase individuals’
+own sense of impact, we explored if it related to how participants
+felt others perceived their contributions. Perception of social
+worth, or how much individuals believe their work is appreciated
+by others, is a related relational benefit of helping (Grant, 2008b).
+Intensity of involvement did not significantly relate to perceived
+social worth in T3 within a 95% CI (B ⫽ ⫺.02, ns), see Table 8.
+
+Subdimensions of the CII Scale
+Because our CII scale was significantly adapted to this context,
+we conducted an exploratory factor analysis to better understand
+its factor structure. Factors loaded similarly to the dimensions
+originally identified by Monnier and colleagues (2002) (see Table
+9). In the main analysis we followed the precedent of Bacharach
+and Bamberger (2007) and used the full scale to examine the
+overall effect of being involved in the crisis. To identify which
+aspects of the crisis experience were influencing outcomes, we
+also examined how these subdimensions (with each event coded as
+not experienced ⫽ 0 and experienced ⫽ 1), related to our two
+outcome variables. Of the subdimensions identified in Table 9,
+exposure to self significantly related to emotional exhaustion (B ⫽
+.09, p ⬍ .05; 95% CI [.002, .173]) and depression (B ⫽ .08, p ⬍
+.01; 95% CI [.030, .123]; see Table 10).
+
+Additional Analyses Checks
+We performed three additional checks on our findings. First, we
+examined if the year in which the T1/T2 data was collected (2019
+
+SD
+
+1
+
+Doctor/nurse
+1.73 0.45
+T1/T2 year
+1.32 0.47 ⫺0.03
+Age
+41.99 10.58 ⫺0.23ⴱ
+Gender
+1.69 0.47
+0.57ⴱⴱ
+Ethnicity (White)
+0.58 0.50 ⫺0.06
+Tenure
+7.67 7.74 ⫺0.08
+Increased pay
+0.02 0.13
+0.08
+Increased workload
+0.36 0.48
+0.29ⴱⴱ
+Directly involved in pandemic response 1.74 0.44 ⫺0.15
+Prosocial motivation
+4.59 0.71
+0.15
+Perceived prosocial impact
+4.28 0.56
+0.07
+Perceived prosocial worth
+4.10 0.65 ⫺0.10
+Emotional exhaustion
+2.61 0.91
+0.25ⴱⴱ
+Depression
+1.36 0.45 ⫺0.02
+Intensity of involvement
+5.76 5.25
+0.02
+
+M
+
+⫺0.03
+⫺0.12
+0.04
+⫺0.20ⴱ
+0.05
+⫺0.02
+0.08
+0.04
+⫺0.03
+⫺0.16
+0.10
+0.13
+0.10
+
+2
+
+⫺0.17
+0.10
+0.50ⴱⴱ
+0.16
+⫺0.03
+⫺0.01
+⫺0.05
+0.23ⴱ
+0.25ⴱⴱ
+⫺0.24ⴱ
+⫺0.18ⴱ
+⫺0.09
+
+3
+
+⫺0.03
+⫺0.06
+0.09
+0.27ⴱⴱ
+⫺0.20ⴱ
+0.22ⴱ
+0.05
+⫺0.06
+0.03
+⫺0.05
+⫺0.07
+
+4
+
+⫺0.02
+⫺0.02
+0.06
+0.07
+⫺0.03
+⫺0.20ⴱ
+⫺0.09
+0.13
+0.16
+0.05
+
+5
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+⫺0.05
+⫺0.10
+0.18
+⫺0.03
+0.08
+0.12
+0.001 ⫺0.02
+0.25ⴱⴱ ⫺0.02
+0.09
+0.17
+0.13
+⫺0.01
+0.14
+0.15
+0.08
+⫺0.03
+⫺0.05
+0.004
+0.55ⴱⴱ
+ⴱⴱ
+⫺0.15
+0.16
+0.33
+0.12
+⫺0.18 ⫺0.05
+⫺0.18ⴱ
+⫺0.16
+0.02
+0.07
+0.15
+⫺0.15 ⫺0.21ⴱ ⫺0.23ⴱ 0.51ⴱⴱ
+⫺0.09
+0.35ⴱⴱ
+0.19ⴱ
+0.36ⴱⴱ ⫺0.04 ⫺0.08
+⫺0.20ⴱ 0.37ⴱⴱ 0.18ⴱ
+
+6
+
+Item
+
+N ⫽ 118. COVID-19 ⫽ coronavirus 2019.
+
+Infection and illness of self with COVID-19.
+Threat of infection and illness of self with COVID-19 (that did not result in actual infection/illness).
+Death of a fellow health care worker infected with COVID-19 at work.
+Serious infection and illness of fellow health care worker with COVID-19 (that did not result in death).
+Threat of infection and illness of fellow health care worker with COVID-19 (that did not result in serious infection/illness).
+Suicide or attempted suicide by fellow health care worker.
+Cases involving three or more COVID-19 deaths in the same shift.
+Cases involving one or two COVID-19 deaths in the same shift.
+Incident requiring police protection while on duty.
+Verbal of physical threat by public while on duty.
+Cases involving serious COVID-19 infection or death to children due to COVID-19.
+Incident involving severe COVID-19-related threat to children (that did not result in actual death to children).
+COVID-19 victim(s) known to you.
+Close contact with COVID-19 fatal victim.
+Removing dead body or bodies of COVID-19 victims.
+Case necessitating treatment involving serious COVID-19 risk to yourself.
+Direct exposure to extremely hazardous COVID-19 materials.
+Direct exposure to contaminated blood and body fluids.
+Critical equipment failure or lack of medical supplies in any of the above situations.
+
+Note.
+
+1.
+2.
+3.
+4.
+5.
+6.
+7.
+8.
+9.
+10.
+11.
+12.
+13.
+14.
+15.
+16.
+17.
+18.
+19.
+
+Table 5
+Intensity of Involvement Descriptive Statistics
+
+Trauma to Self
+Trauma to Self
+Victims Known to Health Care Worker
+Victims Known to Health Care Worker
+Victims Known to Health Care Worker
+Victims Known to Health Care Worker
+Multiple Causalities
+Multiple Causalities
+Unusual or Problematic Tactical Operations
+Unusual or Problematic Tactical Operations
+Incidents Involving Children
+Incidents Involving Children
+Victims Known to Health Care Worker
+Exposure to Severe Medical Trauma
+Exposure to Severe Medical Trauma
+Trauma to Self
+Trauma to Self
+Trauma to Self
+Unusual or Problematic Tactical Operations
+
+Sub-category
+
+8 (6.8%)
+60 (50.8%)
+4 (3.4%)
+23 (19.5%)
+68 (57.6%)
+2 (1.7%)
+5 (4.2%)
+17 (14.4%)
+7 (5.9%)
+14 (11.9%)
+2 (1.7%)
+6 (5.1%)
+53 (44.9%)
+14 (11.9%)
+5 (4.2%)
+16 (13.6%)
+26 (22%)
+33 (28%)
+32 (27.1%)
+
+Experienced N (%)
+
+Note. N ⫽ 118. Doctor coded as 1, nurse as 2. T1/T2 year coded as 1 ⫽ 2019, 2 ⫽ 2020. Gender coded 1 ⫽ male, 2 ⫽ female. Ethnicity coded as 0 ⫽ ethnic minority. Increased workload coded
+as 0 ⫽ no, 1 ⫽ yes. Directly involved in pandemic response coded as 1 ⫽ no, 2 ⫽ yes.
+ⴱ
+p ⬍ .05. ⴱⴱ p ⬍ .01.
+
+1.
+2.
+3.
+4.
+5.
+6.
+7.
+8.
+9.
+10.
+11.
+12.
+13.
+14.
+15.
+
+Variable
+
+Table 4
+Descriptive Statistics and Correlations
+
+This document is copyrighted by the American Psychological Association or one of its allied publishers.
+This article is intended solely for the personal use of the individual user and is not to be disseminated broadly.
+
+WHEN HELPING HURTS
+
+35
+
+CALDAS, OSTERMEIER, AND COOPER
+
+36
+Table 6
+Regression Results
+
+Depression
+
+Emotional exhaustion
+
+Step 1
+Doctor/nurse
+T1/T2 year
+Increased workload
+Age
+Prosocial motivation
+Perceived prosocial impact
+Step 2
+Doctor/nurse
+T1/T2 year
+Increased workload
+Age
+Prosocial motivation
+Perceived prosocial impact
+Intensity of involvement
+Step 3
+Doctor/nurse
+T1/T2 year
+Increased workload
+Age
+Prosocial motivation
+Perceived prosocial impact
+Intensity of involvement
+Intensity of Involvement ⫻ Prosocial Motivation
+Intensity of Involvement ⫻ Prosocial Impact
+R2
+
+B
+
+SE
+
+t
+
+0.31†
+0.19
+0.67ⴱⴱⴱ
+⫺0.02ⴱ
+⫺0.38ⴱⴱ
+⫺0.03
+
+0.18
+0.16
+0.17
+0.01
+0.11
+0.14
+
+1.70
+1.22
+4.05
+⫺2.24
+⫺3.50
+⫺0.19
+
+0.34†
+0.14
+0.55ⴱⴱ
+⫺0.02ⴱ
+⫺0.35ⴱⴱ
+0.004
+0.05ⴱⴱ
+
+0.17
+0.15
+0.16
+0.01
+0.10
+0.13
+0.01
+
+1.95
+0.89
+3.37
+⫺2.07
+⫺3.34
+0.03
+3.34
+
+0.24
+0.12
+0.55ⴱⴱ
+⫺0.01ⴱ
+⫺0.32ⴱⴱ
+⫺0.04
+0.04ⴱⴱ
+0.07ⴱⴱ
+0.001
+0.38
+
+0.17
+0.15
+0.16
+0.01
+0.10
+0.13
+0.01
+0.03
+0.02
+
+1.38
+0.81
+3.46
+⫺2.02
+⫺3.10
+⫺0.29
+2.97
+2.67
+0.01
+
+⌬ R2
+0.26ⴱⴱⴱ
+
+0.07ⴱⴱ
+
+0.05ⴱ
+
+B
+
+SE
+
+t
+
+⫺0.06
+0.12
+0.14
+⫺0.01†
+⫺0.10†
+⫺0.12
+
+0.10
+0.09
+0.09
+0.004
+0.06
+0.07
+
+⫺0.66
+1.40
+1.59
+⫺1.71
+⫺1.76
+⫺1.64
+
+⫺0.06
+0.11
+0.12
+⫺0.01
+⫺0.10
+⫺0.12
+0.01
+
+0.10
+0.09
+0.09
+0.004
+0.06
+0.07
+0.01
+
+⫺0.59
+1.25
+1.26
+⫺1.60
+⫺1.64
+⫺1.56
+1.33
+
+⫺0.09
+0.11
+0.11
+⫺0.01
+⫺0.09
+⫺0.15†
+0.01
+0.02
+0.01
+0.16
+
+0.10
+0.09
+0.09
+0.004
+0.06
+0.08
+0.01
+0.01
+0.01
+
+⫺0.90
+1.23
+1.23
+⫺1.57
+⫺1.49
+⫺1.94
+0.99
+1.57
+0.94
+
+⌬ R2
+0.11ⴱ
+
+0.01
+
+0.04
+
+Note. N ⫽ 118. Doctor coded as 1, nurse as 2. T1/T2 year coded as 1 ⫽ 2019, 2 ⫽ 2020. Increased workload coded as 0 ⫽ no, 1 ⫽ yes.
+p ⬍ .10. ⴱ p ⬍ .05. ⴱⴱ p ⬍ .01. ⴱⴱⴱ p ⬍ .001.
+
+†
+
+or 2020) moderated effects of intensity of involvement on
+outcomes or the effects of the interaction between involvement
+and prosocial motivation (that was collected at T1) on outcomes. These interactions were not significant for emotional exhaustion (B ⫽ ⫺.04, ns; B ⫽ ⫺.10, ns, respectively) or depression
+(B ⫽ .01, ns; B ⫽ .05, ns, respectively, see Table 11). We also
+examined if the two data collection cohorts differed significantly
+on demographic or study variables. Independent-samples t tests
+showed they were not significantly different in terms of profession
+as doctor or nurse (t ⫽ .30), age (t ⫽ .30), gender (t ⫽ 1.26),
+
+workload increases (t ⫽ .22), minority ethnicity (t ⫽ .44), intensity
+of involvement (t ⫽ ⫺1.15), prosocial motivation (t ⫽ ⫺.48), or
+perceived prosocial impact (t ⫽ .37). They did differ in terms of
+tenure, t ⫽ 2.64, p ⬍ .01, such that average tenure at T1 was higher
+in the 2019 cohort (M ⫽ 8.71 years) than in the 2020 cohort (M ⫽
+5.44 years).
+Second, we examined the hypothesized relationships for emotional exhaustion while controlling for depression and the relationships for depression while controlling for exhaustion, given the
+high correlation between these two outcomes. The results showed
+
+Figure 2
+Involvement, Prosocial Motivation, and Emotional Exhaustion
+3.5
+3
+
+Emotional Exhasution
+
+This document is copyrighted by the American Psychological Association or one of its allied publishers.
+This article is intended solely for the personal use of the individual user and is not to be disseminated broadly.
+
+Variables
+
+2.5
+2
+
+Lower Prosocial Motivation
+Higher Prosocial Motivation
+
+1.5
+1
+0.5
+
+0.5
+
+1Intensity of1 .Involvement
+5
+2
+
+2.5
+
+WHEN HELPING HURTS
+
+37
+
+Table 7
+Supplementary Analyses–Three-Way Interactions
+Depression
+
+Emotional exhaustion
+
+This document is copyrighted by the American Psychological Association or one of its allied publishers.
+This article is intended solely for the personal use of the individual user and is not to be disseminated broadly.
+
+Variables
+Step 1
+Doctor/nurse
+T1/T2 year
+Increased workload
+Age
+Prosocial motivation
+Perceived prosocial impact
+Step 2
+Doctor/nurse
+T1/T2 year
+Increased workload
+Age
+Prosocial motivation
+Perceived prosocial impact
+Intensity of involvement
+Step 3
+Doctor/nurse
+T1/T2 year
+Increased workload
+Age
+Prosocial motivation
+Perceived prosocial impact
+Intensity of involvement
+Intensity of Involvement ⫻ Prosocial Motivation
+Intensity of Involvement ⫻ Prosocial Impact
+Prosocial Motivation ⫻ Prosocial Impact
+Step 4
+Doctor/nurse
+T1/T2 year
+Increased workload
+Age
+Prosocial motivation
+Perceived prosocial impact
+Intensity of involvement
+Intensity of Involvement ⫻ Prosocial Motivation
+Intensity of Involvement ⫻ Prosocial Impact
+Prosocial Motivation ⫻ Prosocial Impact
+Intensity of Involvement ⫻ Prosocial Motivation ⫻ Prosocial
+Impact
+2
+R
+
+B
+
+SE
+
+t
+
+0.31†
+0.19
+0.67ⴱⴱⴱ
+⫺0.02ⴱ
+⫺0.38ⴱⴱ
+⫺0.03
+
+0.18
+0.16
+0.17
+0.01
+0.11
+0.14
+
+1.70
+1.22
+4.05
+⫺2.24
+⫺3.50
+⫺0.19
+
+0.34†
+0.14
+0.55ⴱⴱ
+⫺0.02ⴱ
+⫺0.35ⴱⴱ
+0.004
+0.05ⴱⴱ
+
+0.17
+0.15
+0.16
+0.01
+0.10
+0.13
+0.01
+
+1.95
+0.89
+3.37
+⫺2.07
+⫺3.34
+0.03
+3.34
+
+0.25
+0.13
+0.53ⴱⴱ
+⫺0.01ⴱ
+⫺0.31ⴱⴱ
+⫺0.03
+0.04ⴱⴱ
+0.06ⴱ
+⫺0.003
+⫺0.21
+
+0.17
+0.15
+0.16
+0.01
+0.10
+0.13
+0.01
+0.03
+0.02
+0.19
+
+1.46
+0.85
+3.36
+⫺2.06
+⫺3.01
+⫺0.19
+3.11
+2.12
+⫺0.12
+⫺1.08
+
+0.27
+0.10
+0.52ⴱⴱ
+⫺0.01†
+⫺0.35ⴱⴱ
+⫺0.06
+0.05ⴱⴱ
+0.06ⴱ
+⫺0.01
+⫺0.19
+⫺0.05
+
+0.17
+0.15
+0.16
+0.01
+0.10
+0.13
+0.01
+0.03
+0.02
+0.19
+0.03
+
+1.58
+0.68
+3.34
+⫺1.87
+⫺3.32
+⫺0.44
+3.46
+2.15
+⫺0.47
+⫺0.96
+⫺1.60
+
+⌬ R2
+0.26ⴱⴱⴱ
+
+0.07ⴱⴱ
+
+0.05ⴱ
+
+0.02
+
+0.40
+
+B
+
+SE
+
+t
+
+⫺0.06
+0.12
+0.14
+⫺0.01†
+⫺0.10†
+⫺0.12
+
+0.10
+0.09
+0.09
+0.004
+0.06
+0.07
+
+⫺0.66
+1.40
+1.59
+⫺1.71
+⫺1.76
+⫺1.64
+
+⫺0.06
+0.11
+0.12
+⫺0.01
+⫺0.10
+⫺0.12
+0.01
+
+0.10
+0.09
+0.09
+0.004
+0.06
+0.07
+0.01
+
+⫺0.59
+1.25
+1.26
+⫺1.60
+⫺1.64
+⫺1.56
+1.33
+
+⫺0.10
+0.10
+0.12
+⫺0.01
+⫺0.09
+⫺0.16ⴱ
+0.01
+0.03ⴱ
+0.01
+0.18
+
+0.10
+0.09
+0.09
+0.004
+0.06
+0.08
+0.01
+0.02
+0.01
+0.11
+
+⫺1.03
+1.19
+1.37
+⫺1.51
+⫺1.62
+⫺2.10
+0.72
+2.05
+1.14
+1.61
+
+⫺0.09
+0.08
+0.12
+⫺0.01
+⫺0.12ⴱ
+⫺0.18ⴱ
+0.01
+0.03ⴱ
+0.01
+0.20†
+⫺0.04ⴱ
+
+0.10
+0.08
+0.09
+0.004
+0.06
+0.08
+0.01
+0.02
+0.01
+0.11
+0.02
+
+⫺0.88
+0.98
+1.33
+⫺1.28
+⫺2.08
+⫺2.43
+1.28
+2.10
+0.67
+1.80
+⫺2.06
+
+⌬ R2
+0.11ⴱ
+
+0.01
+
+0.06†
+
+0.03ⴱ
+
+0.22
+
+Note. N ⫽ 118. Doctor coded as 1, nurse as 2. T1/T2 year coded as 1 ⫽ 2019, 2 ⫽ 2020. Increased workload coded as 0 ⫽ no, 1 ⫽ yes.
+†
+p ⬍ .10. ⴱ p ⬍ .05. ⴱⴱ p ⬍ .01. ⴱⴱⴱ p ⬍ .001.
+
+a similar pattern of hypothesis support as the main analysis.
+Intensity of involvement in the pandemic positively related to
+emotional exhaustion (B ⫽ .04, p ⬍ .01; 95% CI [.013, .063]) but
+not depression (B ⫽ ⫺.002, ns). Prosocial motivation significantly
+moderated the relationship between involvement and emotional
+exhaustion (B ⫽ .05, p ⬍ .05; 95% CI [.004, .095]) but not
+between involvement and depression (B ⫽ .01, ns). For emotional
+exhaustion, when prosocial motivation was lower (3.88), the effect ⫽ ⫺.001, ns, and when prosocial motivation was higher
+(5.00), the effect ⫽ .05 (p ⬍ .001; 95% CI [.026, .084]). Perceived
+prosocial impact did not significantly moderate the relationships
+between involvement and emotional exhaustion (B ⫽ ⫺.01, ns) or
+depression (B ⫽ .01, ns; see Table 12).
+Third, given the attrition between T1 and T3, we examined the
+relationships while controlling for selection bias at T3 using inverse probability weighting (IPW; Thoemmes & Ong, 2016). We
+
+conducted a logistic regression with participation in our T3 survey
+(yes ⫽ 0/no ⫽ 1) as the dependent variable (e.g., Lang & Kell,
+2020) and prosocial motivation, age, gender, doctor/nurse, ethnicity, and tenure in T1 as the independent variables. We used the
+logistic regression results to create propensity scores and calculated weights using the inverse of these scores (1/PS). We included
+these weights in our regression analyses, removing differences
+between the follow-up T3 sample and the full sample regarding
+these demographic attributes and prosocial motivation in T1. The
+pattern of significance for hypothesized relationships did not differ
+from the primary analysis (see Table 13).
+
+Discussion
+Understanding the negative emotional and psychological outcomes experienced by health care workers during a crisis such as
+
+CALDAS, OSTERMEIER, AND COOPER
+
+38
+
+Table 8
+Supplementary Analyses–Prosocial Impact and Prosocial Worth
+T3 perceived social worth
+
+T3 perceived prosocial impact
+
+This document is copyrighted by the American Psychological Association or one of its allied publishers.
+This article is intended solely for the personal use of the individual user and is not to be disseminated broadly.
+
+Variables
+Step 1
+Doctor/nurse
+T1/T2 year
+Increased workload
+Age
+Prosocial motivation
+T2 perceived prosocial impact
+T2 perceived social worth
+Step 2
+Doctor/nurse
+T1/T2 year
+Increased workload
+Age
+Prosocial motivation
+T2 Perceived prosocial impact
+T2 perceived social worth
+Intensity of involvement
+R2
+
+B
+
+SE
+
+t
+
+0.09
+0.01
+0.05
+0.01†
+⫺0.02
+0.40ⴱⴱⴱ
+
+0.11
+0.10
+0.10
+0.01
+0.07
+0.09
+
+0.76
+0.11
+0.48
+1.72
+⫺0.23
+4.68
+
+⌬ R2
+0.24ⴱⴱⴱ
+
+0.11
+0.10
+0.11
+0.01
+0.07
+0.09
+
+0.74
+0.14
+0.52
+1.69
+⫺0.24
+4.60
+
+⫺0.002
+0.24
+
+0.01
+
+⫺0.25
+
+SE
+
+t
+
+0.13
+0.12
+0.12
+0.01
+0.09
+
+⫺0.19
+⫺1.58
+⫺0.71
+2.43
+⫺0.92
+
+0.09
+
+3.81
+
+⫺0.04
+⫺0.17
+⫺0.04
+0.01ⴱ
+⫺0.09
+
+0.13
+0.12
+0.13
+0.01
+0.09
+
+⫺0.29
+⫺1.40
+⫺0.31
+2.26
+⫺1.07
+
+0.33ⴱⴱⴱ
+⫺0.02†
+0.22
+
+0.09
+0.01
+
+3.78
+⫺1.74
+
+⫺0.03
+⫺0.19
+⫺0.09
+0.01ⴱ
+⫺0.08
+0.34ⴱⴱⴱ
+
+0.001
+0.08
+0.01
+0.06
+0.01†
+⫺0.02
+0.39ⴱⴱⴱ
+
+B
+
+⌬ R2
+0.19ⴱⴱⴱ
+
+0.02†
+
+Note. N ⫽ 118. Doctor coded as 1, nurse as 2. T1/T2 year coded as 1 ⫽ 2019, 2 ⫽ 2020. Increased workload coded as 0 ⫽ no, 1 ⫽ yes.
+p ⬍ .10. ⴱ p ⬍ .05. ⴱⴱⴱ p ⬍ .001.
+
+†
+
+the COVID-19 pandemic is critical and timely. Moreover, while
+the majority of research on prosocial motivation has highlighted its
+benefits, we demonstrate how prosocial motivation may intensify
+the detrimental effects of a crisis. Focusing on the potential dark
+side of prosocial motivation is important because individuals have
+limited regulatory resources and, in some cases, prosocial motivation can lead to greater resource depletion and subsequently increase the risk of negative outcomes. Through our survey completed by doctors and nurses at two time points before the
+COVID-19 pandemic and one time point during the pandemic,
+consistent with our expectations, we found that (a) intensity of
+involvement is associated with higher emotional exhaustion at
+work and (b) prosocial motivation exacerbated the positive relationship between intensity of involvement and emotional exhaustion at work. Supplemental analyses suggested that the exposure to
+self-subdimension of involvement associated with higher exhaustion and depression. Our findings offer several important implications for theory and practice on prosocial motivation, emotional
+exhaustion, and depression in the context of involvement in an
+intense crisis such as the COVID-19 pandemic.
+
+Theoretical Contributions
+Our central contributions lie in exploring (a) the ramifications of
+intense involvement in a crisis for frontline health care workers,
+through the COVID-19 response, and (b) how helping related
+factors can exacerbate or mitigate the relationship of involvement
+with negative psychological and emotional outcomes. Prior work
+has established that health care workers are at risk for “compassion
+fatigue,” an exhaustion that develops from caring for others experiencing trauma, and has differentiated it from the direct experience of trauma to oneself (Figley, 2002). Health care workers
+intensely involved in the COVID-19 pandemic are facing both the
+indirect trauma experienced by patients and their families, as well
+as the direct threat of personal harm from the virus itself. Indeed,
+
+our supplementary analysis suggests that the threat of exposure is
+a key driver of negative emotional outcomes. Given this dual
+threat, the COVID crisis is creating an intense strain on health care
+workers’ ability to regulate their personal resources as they seek to
+manage their own fears while providing care to others, putting
+them at risk for emotional exhaustion and depression.
+Building on prior work on prosocial motivation and the risk of
+depletion (Lanaj et al., 2016) and contributing to our understanding of the dark side of prosocial motivation (Bolino & Grant,
+2016), we explain why prosocial individuals are particularly vulnerable during this crisis. Specifically, we demonstrate how intense job demands and impediments to successful outcomes for
+beneficiaries may take a stronger toll on individuals with higher
+prosocial motivation. These individuals are likely to take on more
+work and enter more risky situations as they attempt to achieve
+their helping goals, and they are likely to expend more resources
+managing their emotions when these goals are difficult to reach.
+While we focus on health care workers, this phenomenon may also
+occur in other fields in which prosocial individuals may encounter
+extreme obstacles to their ability to achieve their goals to help
+others, such as in social work, education, and in nonprofit organizations.
+In crisis situations, it can be difficult to experience positive
+outcomes of one’s work. With the United States death toll over
+192,300 on September 12, 2020 and rising (CDC, 2020), many
+health care workers are facing the loss of patients despite their best
+efforts. Despite the role they played in the pandemic response, our
+supplemental analysis suggests that intensity of involvement did
+not increase health care workers’ sense of impact or how much
+workers felt valued for their work. In this study, perceived prosocial impact did not significantly correlate with whether individuals
+were doctors or nurses, their type of facility (hospital vs. clinic),
+whether they worked for a profit or nonprofit organization, job
+tenure, or whether their workload was affected by the crisis. This
+
+Note. N ⫽ 118. COVID-19 ⫽ coronavirus 2019. Extraction method: Principal component analysis. Rotation method: Varimax with Kaiser Normalization. Factor 1 ⫽ Exposure to Severe Medical
+Trauma; Factor 2 ⫽ Unusual Operations; Factor 3 ⫽ Exposure to Self, Factor 4 ⫽ Victims Known; Factor 5 ⫽ Cases Involving Children; Factor 6 ⫽ Trauma to Self; Factor 7 ⫽ Known Suicide.
+
+.80
+.63
+.58
+.77
+.87
+.85
+.55
+.72
+.56
+.72
+.62
+.78
+.58
+.65
+.77
+.71
+.60
+.74
+.78
+Cases involving one or two COVID-19 deaths in the same shift.
+Close contact with COVID-19 fatal victim.
+Removing dead body or bodies of COVID-19 victims.
+Cases involving three or more COVID-19 deaths in the same shift.
+Incident requiring police protection while on duty.
+Verbal of physical threat by public while on duty.
+Direct exposure to extremely hazardous COVID-19 materials.
+Direct exposure to contaminated blood and body fluids.
+Critical equipment failure or lack of medical supplies in any of the above situations.
+Death of a fellow health care worker infected with COVID-19 at work.
+Serious infection and illness of fellow health care worker with COVID-19 (that did not result in death).
+Threat of infection and illness of fellow health care worker with COVID-19 (that did not result in serious infection/illness).
+COVID-19 victim(s) known to you.
+Cases involving serious COVID-19 infection or death to children because of COVID-19.
+Incident involving severe COVID-19-related threat to children (that did not result in actual death to children).
+Infection and illness of self with COVID-19.
+Threat of infection and illness of self with COVID-19 (that did not result in actual infection/illness).
+Case necessitating treatment involving serious COVID-19 risk to yourself.
+Suicide or attempted suicide by fellow health care worker.
+8.
+14.
+15.
+7.
+9.
+10.
+17.
+18.
+19.
+3.
+4.
+5.
+13.
+11.
+12.
+1.
+2.
+16.
+6.
+
+Factor 1 Factor 2 Factor 3 Factor 4 Factor 5 Factor 6 Factor 7
+Item
+
+Table 9
+Supplementary Analyses–Exploratory Factor Analysis of the CII Scale (Intensity of Involvement)
+
+This document is copyrighted by the American Psychological Association or one of its allied publishers.
+This article is intended solely for the personal use of the individual user and is not to be disseminated broadly.
+
+WHEN HELPING HURTS
+
+39
+
+suggests that perceived prosocial impact may be more locally
+influenced by specific job design features and work contexts
+(Grant, 2007) and varies within occupation. Even those in helpingoriented professions serving in a once-in-a-century crisis may need
+support to see that they are making a positive difference in the
+lives of others. Furthermore, the supplemental three-way interaction for depression was suggestive that prosocial impact may have
+a different influence on responses to crisis involvement for individuals with different levels of prosocial motivation. Future research could further explore these dynamics to better understand
+the interplay of these two factors, particularly in situations when
+impact may associate with personal risk.
+Our adaptation of the classical CII scale (Bacharach & Bamberger, 2007; Monnier et al., 2002) to the COVID-19 pandemic
+can also be useful to future research on problematic and traumatic
+events in the health care industry. The exploratory factor analysis
+indicated that our 19-item adapted CII scale loaded similarly to the
+six subdimensions identified by Monnier and colleagues (2002).
+This adapted scale could be utilized in future studies as a measure
+of health care workers’ exposure to crises, traumatic events, or
+infectious diseases in general. Our adapted CII scale followed the
+dichotomous design of the original scale, with respondents indicating whether they had experienced (“1”) or not experienced
+(“0”) the particular situation. This approach is appropriate in
+shorter or more recent events; however, if a crisis extends over a
+longer time period, individuals may experience multiple exposures. Hence, for future studies of extended crises with potential
+for recurring traumas, the CII scale could be further adapted to
+capture the frequency of exposures.
+
+Practical Implications
+Our research offers meaningful insights for health care organizations and health care workers. First, as our model highlights,
+when a health care worker is intensively involved in the response
+to COVID-19 —that can include exposure to infected materials,
+risk of infection to self, and the loss of multiple patients per
+shift—they will experience negative outcomes. Realistically, experiencing some negative outcomes is unavoidable given the magnitude of the pandemic. These negative outcomes experienced by
+health care workers are highlighted by some qualitative comments
+provided by our respondents:
+This crisis has caused stress to my colleagues to the point where we
+lost five nurses in 2 weeks. Morale is low and our patients are easily
+angered and have become verbally/physically aggressive.
+[I go] to work not knowing what to expect. Always scared about
+COVID-19.
+PPE access is intermittent and always seems to downplay our exposure risk . . . Management and leadership are not understanding of the
+stress caused by being at the bedside daily with these patients.
+
+Thus, the question shifts from how can we prevent these negative outcomes to how can we mitigate them? First, by recognizing
+who is most at risk—specifically, health care workers with higher
+prosocial motivation, those clearly driven to do their work by their
+concern for others. Second, given that fear of exposure is an
+important factor in negative emotional outcomes, medical organizations need to ensure that substantial resources are invested into
+
+CALDAS, OSTERMEIER, AND COOPER
+
+40
+
+Table 10
+Supplementary Analyses–Subdimensions of CII and Outcome Variables
+Depression
+
+Emotional exhaustion
+
+This document is copyrighted by the American Psychological Association or one of its allied publishers.
+This article is intended solely for the personal use of the individual user and is not to be disseminated broadly.
+
+Variables
+Step 1
+Doctor/nurse
+T1/T2 year
+Increased workload
+Age
+Prosocial motivation
+Perceived prosocial impact
+Step 2
+Doctor/nurse
+T1/T2 year
+Increased workload
+Age
+Prosocial motivation
+Perceived prosocial impact
+Exposure to severe medical trauma
+Unusual operations
+Exposure to self
+Known victims
+Cases involving children
+Trauma to self
+R2
+
+⌬ R2
+
+B
+
+SE
+
+t
+
+0.31†
+0.19
+0.67ⴱⴱⴱ
+⫺0.02ⴱ
+⫺0.38ⴱⴱ
+⫺0.03
+
+0.18
+0.16
+0.17
+0.01
+0.11
+0.14
+
+1.70
+1.22
+4.05
+⫺2.24
+⫺3.50
+⫺0.19
+
+0.33†
+0.13
+0.47ⴱⴱ
+⫺0.01
+⫺0.32ⴱⴱ
+⫺0.06
+0.15
+0.08
+0.09ⴱ
+0.02
+0.09
+0.01
+0.36
+
+0.18
+0.16
+0.17
+0.01
+0.11
+0.14
+0.14
+0.13
+0.04
+0.07
+0.24
+0.03
+
+1.90
+0.81
+2.78
+⫺1.55
+⫺3.03
+⫺0.42
+1.10
+0.63
+2.03
+0.23
+0.38
+0.23
+
+0.26ⴱⴱⴱ
+
+0.09ⴱ
+
+B
+
+SE
+
+t
+
+⫺0.06
+0.12
+0.14
+⫺0.01†
+⫺0.10†
+⫺0.12
+
+0.10
+0.09
+0.09
+0.004
+0.06
+0.07
+
+⫺0.66
+1.40
+1.59
+⫺1.71
+⫺1.76
+⫺1.64
+
+⫺0.02
+0.04
+0.11
+⫺0.004
+⫺0.08
+⫺0.16ⴱ
+⫺0.04
+⫺0.04
+0.08ⴱⴱ
+0.05
+⫺0.01
+⫺0.02
+0.22
+
+0.10
+0.09
+0.09
+0.004
+0.06
+0.08
+0.08
+0.07
+0.02
+0.04
+0.13
+0.02
+
+⫺0.16
+0.46
+1.17
+⫺0.87
+⫺1.37
+⫺2.09
+⫺0.57
+⫺0.61
+3.26
+1.19
+⫺0.09
+⫺1.59
+
+⌬ R2
+0.11ⴱ
+
+0.10ⴱ
+
+Note. N ⫽ 118. CII ⫽ Critical Incident Inventory. Doctor coded as 1, nurse as 2. T1/T2 year coded as 1 ⫽ 2019, 2 ⫽ 2020. Increased workload coded
+as 0 ⫽ no, 1 ⫽ yes.
+†
+p ⬍ .10. ⴱ p ⬍ .05. ⴱⴱ p ⬍ .01. ⴱⴱⴱ p ⬍ .001.
+
+equipment and training to support worker safety. While access to
+PPE has proven challenging (Orecchio-Egresitz et al., 2020), acquiring and providing masks to their frontline health care workers
+should be a top priority of health care organizations, even if it
+means continuing to postpone more lucrative elective procedures.
+Additionally, health care organizations should consider investing
+significant capital into new rapid testing approaches (e.g., Wu,
+2020) to facilitate testing with high frequency. Increasing the
+availability of testing and providing a quick turn-around time
+should help mitigate these fears of exposure.
+Finally, given our findings that intensity of involvement in the
+pandemic response is associated with increased emotional exhaustion, it is important that health care workers have opportunities to
+recover from these draining experiences. Even though there are
+shortages of some health care professionals (Spetz, 2020), it is
+important to not overschedule health care workers and to allow
+recovery days, especially after traumatic shifts, or this will lead to
+resource depletion and, in the long run, exacerbate shortages.
+During crises, interventions may also be needed to enrich health
+care workers’ perceptions of prosocial impact and social worth,
+which have been show to relate to positive outcomes (Grant,
+2008b; Grant & Sonnentag, 2010). Health care organizations
+should strive to communicate to their employees how their work,
+no matter how small, is making a positive impact on patients—
+especially in situations where hospitalization numbers and the
+death toll are high. In fact, one documented intervention to help
+manage job burnout included an intervention centered on the
+meaning of work (de Oliveira et al., 2019). Other examples of how
+organizations can communicate the importance of work to their
+employees includes formal recognition by the organization for
+their service and changes to pay and time off (e.g., hazard pay) to
+
+recognize the importance of the work provided by frontline health
+care professionals.
+While these implications are specific to crises and are illustrated
+by the COVID-19 context, there are several takeaways for other
+organizations and nonpandemic contexts. Namely, this work draws
+attention to the need to support prosocial individuals when the
+context limits their ability to achieve helping goals, which converges with efforts in health care education and training to balance
+“detached concern” with empathy (Halpern, 2001). Additionally,
+these findings provide evidence that interventions are needed to
+bolster employee mental health in occupations in which individuals risk personal harm.
+
+Limitations and Future Directions
+Despite the strengths of our study (temporal separation of measures, ability to compare pre-COVID and COVID data with frontline health care workers), there are some limitations to our study
+that can be leveraged to create opportunities for future research.
+First, because of the length of time between the pre-COVID time
+points (for the majority of respondents) and the COVID time
+period, recruiting enough respondents to have appropriate statistical power to detect significance effect sizes was challenging.
+While a post hoc analysis indicated that our sample size was
+appropriate to detect medium effect sizes with statistical power
+above 0.80, indicating a low likelihood of making a Type II error
+(cf. Cohen, 1992; Cohen et al., 2013; Hair et al., 2010), we were
+precluded from some analyses. Specifically, because of sample
+size limitations (cf. Marsh et al., 1988) and the use of previously
+validated scales, we did not conduct a confirmatory factor analysis.
+Second, data on intensity of involvement, emotional exhaustion,
+
+WHEN HELPING HURTS
+
+41
+
+Table 11
+Supplementary Analyses–T1/T2 Year as a Potential Moderator
+Depression
+
+Emotional exhaustion
+
+This document is copyrighted by the American Psychological Association or one of its allied publishers.
+This article is intended solely for the personal use of the individual user and is not to be disseminated broadly.
+
+Variables
+Step 1
+Doctor/nurse
+T1/T2 year
+Increased workload
+Age
+Prosocial motivation
+Perceived prosocial impact
+Step 2
+Doctor/nurse
+T1/T2 year
+Increased workload
+Age
+Prosocial motivation
+Perceived prosocial impact
+Intensity of involvement
+Step 3
+Doctor/nurse
+T1/T2 year
+Increased workload
+Age
+Prosocial motivation
+Perceived prosocial Impact
+Intensity of Involvement
+Intensity of Involvement ⫻ Prosocial Motivation
+Intensity of Involvement ⫻ Prosocial Impact
+Intensity of Involvement ⫻ T1/T2 Year
+Prosocial Motivation ⫻ T1/T2 Year
+Step 4
+Doctor/nurse
+T1/T2 year
+Increased workload
+Age
+Prosocial motivation
+Perceived prosocial impact
+Intensity of involvement
+Intensity of Involvement ⫻ Prosocial Motivation
+Intensity of Involvement ⫻ Prosocial Impact
+Intensity of Involvement ⫻ T1/T2 Year
+Prosocial Motivation ⫻ T1/T2 Year
+Intensity of Involvement ⫻ Prosocial Motivation ⫻ T1/T2 Year
+R2
+
+B
+
+SE
+
+t
+
+0.31†
+0.19
+0.67ⴱⴱⴱ
+⫺0.02ⴱ
+⫺0.38ⴱⴱ
+⫺0.03
+
+0.18
+0.16
+0.17
+0.01
+0.11
+0.14
+
+1.70
+1.22
+4.05
+⫺2.24
+⫺3.50
+⫺0.19
+
+0.34†
+0.14
+0.55ⴱⴱ
+⫺0.02ⴱ
+⫺0.35ⴱⴱ
+0.004
+0.05ⴱⴱ
+
+0.17
+0.15
+0.16
+0.01
+0.10
+0.13
+0.01
+
+1.95
+0.89
+3.37
+⫺2.07
+⫺3.34
+0.03
+3.34
+
+0.25
+0.13
+0.49ⴱⴱ
+⫺0.01ⴱ
+⫺0.79ⴱ
+⫺0.08
+0.09ⴱ
+0.07ⴱ
+0.01
+⫺0.04
+0.43
+
+0.17
+0.15
+0.16
+0.01
+0.35
+0.13
+0.04
+0.03
+0.02
+0.03
+0.30
+
+1.44
+0.88
+3.07
+⫺2.02
+⫺2.26
+⫺0.58
+2.22
+2.64
+0.35
+⫺1.30
+1.44
+
+0.28
+0.12
+0.49ⴱⴱ
+⫺0.01ⴱ
+⫺0.86ⴱ
+⫺0.09
+0.07†
+0.17†
+0.01
+⫺0.03
+0.50
+⫺0.10
+0.40
+
+0.17
+0.15
+0.16
+0.01
+0.35
+0.13
+0.04
+0.09
+0.02
+0.04
+0.31
+0.08
+
+1.63
+0.77
+3.09
+⫺2.09
+⫺2.42
+⫺0.70
+1.69
+1.91
+0.57
+⫺0.71
+1.63
+⫺1.22
+
+⌬ R2
+0.26ⴱⴱⴱ
+
+0.07ⴱⴱ
+
+0.07ⴱ
+
+0.01
+
+B
+
+SE
+
+t
+
+⫺0.06
+0.12
+0.14
+⫺0.01†
+⫺0.10†
+⫺0.12
+
+0.10
+0.09
+0.09
+0.004
+0.06
+0.07
+
+⫺0.66
+1.40
+1.59
+⫺1.71
+⫺1.76
+⫺1.64
+
+⫺0.06
+0.11
+0.12
+⫺0.01
+⫺0.10
+⫺0.12
+0.01
+
+0.10
+0.09
+0.09
+0.004
+0.06
+0.07
+0.01
+
+⫺0.59
+1.25
+1.26
+⫺1.60
+⫺1.64
+⫺1.56
+1.33
+
+⫺0.08
+0.09
+0.08
+⫺0.01†
+⫺0.58ⴱⴱ
+⫺0.17ⴱ
+0.001
+0.02
+0.01
+0.01
+0.45ⴱ
+
+0.10
+0.08
+0.09
+0.004
+0.20
+0.08
+0.02
+0.01
+0.01
+0.02
+0.17
+
+⫺0.86
+1.03
+0.88
+⫺1.70
+⫺2.95
+⫺2.27
+0.05
+1.33
+1.19
+0.32
+2.62
+
+⫺0.10
+0.10
+0.08
+⫺0.01
+⫺0.55ⴱⴱ
+⫺0.16ⴱ
+0.01
+⫺0.04
+0.01
+⫺0.003
+0.41ⴱ
+0.05
+0.22
+
+0.10
+0.08
+0.09
+0.004
+0.20
+0.08
+0.03
+0.05
+0.01
+0.02
+0.17
+0.05
+
+⫺1.04
+1.12
+0.88
+⫺1.64
+⫺2.75
+⫺2.14
+0.41
+⫺0.68
+0.97
+⫺0.15
+2.39
+1.10
+
+⌬ R2
+0.11ⴱ
+
+0.01
+
+0.09ⴱ
+
+0.01
+
+Note. N ⫽ 118. Doctor coded as 1, nurse as 2. T1/T2 year coded as 1 ⫽ 2019, 2 ⫽ 2020. Increased workload coded as 0 ⫽ no, 1 ⫽ yes.
+p ⬍ .10. ⴱ p ⬍ .05. ⴱⴱ p ⬍ .01. ⴱⴱⴱ p ⬍ .001.
+
+†
+
+and depression were provided by the same source at the same time,
+raising concerns of common method bias and about some of the
+causal inferences. However, a few key elements may mitigate such
+risks. First, recent studies (e.g., Siemsen et al., 2010) have shown
+that interaction effects are not biased by common method variance.
+Second, methods were taken a priori to reduce these risks through
+design techniques, such as protecting respondent anonymity to
+reduce overinflation of the self-reports (Podsakoff et al., 2003).
+Third, we did not collect data on other individual differences
+beyond prosocial motivation and were unable to control for the
+effects of underlying predispositions such as negative affectivity (Watson & Clark, 1984), which would make individuals
+more susceptible to negative psychological outcomes such as
+depression (Watson et al., 1988). Similarly, prosocial motivation could be masking for other individual differences that also
+predict helping, such as conscientiousness, agreeableness, and
+
+positive affectivity (Podsakoff et al., 2000). Fourth, while we
+argue that prosocial motivation can be detrimental to health
+care workers because of their unrealized helping goals and
+increased resource depletion, we do not have data on helping
+behaviors. However, prosocial motivation correlated with increased workload during the pandemic, which is suggestive that
+prosocially motivated health care workers volunteered for more
+work during the crisis period. Additionally, these arguments are
+consistent with prior theory and findings on resource depletion
+and the dark side of prosocial motivation (Kibler et al., 2019;
+Lanaj et al., 2016).
+Fifth, because we only collected our emotional exhaustion and
+depression scales in T3, we could not control for the effects of
+these variables pre-COVID and some of our respondents may have
+already been experiencing both emotional exhaustion and depression. According to the kindling hypothesis (Mcfarlane, 1998),
+
+CALDAS, OSTERMEIER, AND COOPER
+
+42
+
+Table 12
+Supplementary Analyses–Controlling for Other Outcomes
+Depression
+
+Emotional exhaustion
+
+This document is copyrighted by the American Psychological Association or one of its allied publishers.
+This article is intended solely for the personal use of the individual user and is not to be disseminated broadly.
+
+Variables
+Step 1
+Doctor/nurse
+T1/T2 year
+Increased workload
+Age
+Depression
+Emotional exhaustion
+Prosocial motivation
+Perceived prosocial impact
+Step 2
+Doctor/nurse
+T1/T2 year
+Increased workload
+Age
+Depression
+Emotional exhaustion
+Prosocial motivation
+Perceived prosocial impact
+Intensity of involvement
+Step 3
+Doctor/nurse
+T1/T2 year
+Increased workload
+Age
+Depression
+Emotional exhaustion
+Prosocial motivation
+Perceived prosocial impact
+Intensity of involvement
+Intensity of Involvement ⫻ Prosocial Motivation
+Intensity of Involvement ⫻ Prosocial Impact
+2
+R
+
+B
+
+SE
+
+t
+
+0.36ⴱ
+0.09
+0.54ⴱⴱⴱ
+⫺0.01
+0.89ⴱⴱⴱ
+
+0.16
+0.14
+0.15
+0.01
+0.16
+
+2.28
+0.61
+3.69
+⫺1.60
+5.72
+
+⫺0.29ⴱⴱ
+0.08
+
+0.10
+0.12
+
+⫺2.98
+0.67
+
+0.38ⴱ
+0.05
+0.45ⴱⴱ
+⫺0.01
+0.83ⴱⴱⴱ
+
+0.15
+0.14
+0.15
+0.01
+0.15
+
+2.50
+0.34
+3.11
+⫺1.47
+5.50
+
+⫺0.27ⴱⴱ
+0.10
+0.04ⴱⴱ
+
+0.09
+0.12
+0.01
+
+⫺2.87
+0.84
+3.04
+
+0.31†
+0.04
+0.46ⴱⴱ
+⫺0.01
+0.78ⴱⴱⴱ
+
+0.16
+0.14
+0.14
+0.01
+0.15
+
+1.96
+0.30
+3.21
+⫺1.45
+5.11
+
+⫺0.25ⴱⴱ
+0.08
+0.04ⴱⴱ
+0.05ⴱ
+⫺0.01
+0.50
+
+0.09
+0.12
+0.01
+0.02
+0.02
+
+⫺2.68
+0.62
+2.79
+2.17
+⫺0.45
+
+⌬ R2
+0.43ⴱⴱⴱ
+
+0.05ⴱⴱ
+
+0.02†
+
+B
+
+SE
+
+t
+
+⫺0.14
+0.07
+⫺0.03
+⫺0.003
+
+0.09
+0.08
+0.08
+0.004
+
+⫺1.65
+0.92
+⫺0.37
+⫺0.70
+
+0.26ⴱⴱⴱ
+⫺0.01
+⫺0.12†
+
+0.05
+0.05
+0.07
+
+5.72
+⫺0.09
+⫺1.76
+
+⫺0.15
+0.07
+⫺0.03
+⫺0.003
+
+0.09
+0.08
+0.09
+0.004
+
+⫺1.66
+0.94
+⫺0.34
+⫺0.71
+
+0.26ⴱⴱⴱ
+⫺0.004
+⫺0.12†
+⫺0.002
+
+0.05
+0.05
+0.07
+0.01
+
+5.50
+⫺0.08
+⫺1.77
+⫺0.25
+
+⫺0.15
+0.07
+⫺0.03
+⫺0.003
+
+0.09
+0.08
+0.09
+0.004
+
+⫺1.66
+0.96
+⫺0.32
+⫺0.74
+
+0.25ⴱⴱⴱ
+⫺0.01
+⫺0.14ⴱ
+⫺0.003
+0.01
+0.01
+0.33
+
+0.05
+0.06
+0.07
+0.01
+0.01
+0.01
+
+5.11
+⫺0.12
+⫺2.01
+⫺0.34
+0.41
+1.04
+
+⌬ R2
+0.32ⴱⴱⴱ
+
+0.001
+
+0.01
+
+Note. N ⫽ 118. Doctor coded as 1, nurse as 2. T1/T2 year coded as 1 ⫽ 2019, 2 ⫽ 2020. Increased workload coded as 0 ⫽ no, 1 ⫽ yes.
+†
+p ⬍ .10. ⴱ p ⬍ .05. ⴱⴱ p ⬍ .01. ⴱⴱⴱ p ⬍ .001.
+
+preexisting levels of depression (and arguably emotional exhaustion) pre-COVID would have exacerbated the effects of involvement in the pandemic response. Our sixth and last limitation has to
+do with the dichotomous nature of the CII measure, which captured the intensity of the involvement in the pandemic response.
+
+Specifically, this approach reduces its sensitivity in a prolonged
+incident such as the response to COVID-19, as individuals who
+noted that they have experienced a certain event likely might have
+experienced it several times. However, this limitation is also a
+strength of our research. As the kindling hypothesis suggests,
+
+Table 13
+Supplementary Analyses–Inverse Probability Weighting (IPW)
+Emotional exhaustion
+Variables
+
+R2
+
+Doctor/nurse
+T1/T2 year
+Increased workload
+Age
+Prosocial motivation
+Perceived prosocial impact
+Intensity of involvement
+Intensity of Involvement ⫻ Prosocial Motivation
+Intensity of Involvement ⫻ Prosocial Impact
+
+Estimated
+coefficients
+0.23
+0.16
+0.53ⴱⴱ
+⫺0.01ⴱ
+⫺0.42ⴱⴱⴱ
+⫺0.01
+0.04ⴱⴱ
+0.06ⴱ
+0.01
+0.43
+
+Depression
+
+SE
+
+t
+
+Estimated
+coefficients
+
+0.16
+0.15
+0.16
+0.01
+0.09
+0.14
+0.01
+0.02
+0.02
+
+1.48
+1.10
+3.30
+⫺2.14
+⫺4.77
+⫺0.06
+2.93
+2.63
+0.59
+
+⫺0.07
+0.13
+0.13†
+⫺0.01ⴱ
+⫺0.15
+⫺0.17†
+0.01
+0.01
+0.02†
+0.22
+
+SE
+
+t
+
+0.09
+0.09
+0.08
+0.01
+0.11
+0.10
+0.01
+0.02
+0.01
+
+⫺0.76
+1.49
+1.71
+⫺2.03
+⫺1.39
+⫺1.67
+1.05
+0.23
+1.72
+
+Note. N ⫽ 118. Doctor coded as 1, nurse as 2. T1/T2 year coded as 1 ⫽ 2019, 2 ⫽ 2020. Increased workload coded as 0 ⫽ no, 1 ⫽ yes.
+p ⬍ .10. ⴱ p ⬍ .05. ⴱⴱ p ⬍ .01. ⴱⴱⴱ p ⬍ .001. Sample weights based on IPW procedure.
+
+†
+
+WHEN HELPING HURTS
+
+43
+
+Figure 3
+Involvement, Prosocial Motivation, Perceived Prosocial Impact, and Depression
+2.5
+2.3
+2.1
+
+This document is copyrighted by the American Psychological Association or one of its allied publishers.
+This article is intended solely for the personal use of the individual user and is not to be disseminated broadly.
+
+Depression
+
+1.9
+1.7
+
+Lower Prosocial Motivation, Higher
+Prosocial Impact
+
+1.5
+
+Higher Prosocial Motivation, Higher
+Prosocial Impact
+
+1.3
+
+Higher Prosocial Motivation, Lower
+Prosocial Impact
+
+1.1
+
+Lower Prosocial Motivation, Lower
+Prosocial Impact
+
+0.9
+0.7
+0.5
+
+Intensity of Involvement
+
+individuals do not normalize to repeat events; rather, these events
+serve as “kindling” for subsequent distress at a higher level of
+severity. Consequently, this suggests that our effect sizes are likely
+to be conservative or downwardly biased.
+Despite the potential limitations discussed previously, we believe that our initial findings can be built upon in future research,
+which could test our model with other critical incidents and in
+other high stress occupations. Additionally, future research should
+explore the effects of critical incident involvement after the pandemic is over, to test whether the effects of the involvement linger
+and contribute to negative mental health outcomes. Researchers
+should investigate how individual differences (e.g., compassion,
+conscientiousness, trait resilience, or negative affectivity) influence the effect of intensity of involvement on outcomes involving
+health care workers and other essential workers. Lastly, researchers should explore cross-level models and the effects of unit
+climates on resource depletion.
+
+Conclusion
+Overall, the findings highlighted above are consistent with our
+theory of resource depletion, indicating that involvement in critical
+incidents—such as the COVID-19 pandemic—associates with
+higher emotional exhaustion. Wanting to help can hurt; higher
+prosocial motivation exacerbated the positive relationship between
+intensity of involvement in the pandemic response and emotional
+exhaustion. Furthermore, concerns about personal harm during
+critical incidents—in this case, exposure to the virus— can associate with higher levels of exhaustion and depression. The insights
+provided on the nuances of prosocial motivation in the context of
+resource depletion in critical incidents advance both theory and
+practice.
+
+References
+Ahola, K., & Hakanen, J. (2007). Job strain, burnout, and depressive
+symptoms: A prospective study among dentists. Journal of Affective
+Disorders, 104(1–3), 103–110. https://doi.org/10.1016/j.jad.2007.03
+.004
+
+Baba, V. V., Galperin, B. L., & Lituchy, T. R. (1999). Occupational mental
+health: A study of work-related depression among nurses in the Caribbean. International Journal of Nursing Studies, 36(2), 163–169. https://
+doi.org/10.1016/S0020-7489(99)00002-4
+Bacharach, S. B., & Bamberger, P. A. (2007). 9/11 and New York City
+firefighters’ post hoc unit support and control climates: A context theory
+of the consequences of involvement in traumatic work-related events.
+Academy of Management Journal, 50(4), 849 – 868. https://doi.org/10
+.5465/amj.2007.26279180
+Bakker, A. B., Schaufeli, W. B., Demerouti, E., Janssen, P. P., Van Der
+Hulst, R., & Brouwer, J. (2000). Using equity theory to examine the
+difference between burnout and depression. Anxiety, Stress & Coping,
+13(3), 247–268. https://doi.org/10.1080/10615800008549265
+Bamberger, P. A., Geller, D., & Doveh, E. (2017). Assisting upon entry:
+Helping type and approach as moderators of how role conflict affects
+newcomer resource drain. Journal of Applied Psychology, 102(12),
+1719 –1732. https://doi.org/10.1037/apl0000243
+Baumeister, R. F. (2014). Self-regulation, ego depletion, and inhibition.
+Neuropsychologia, 65, 313–319. https://doi.org/10.1016/j.neuropsychologia.2014.08.012
+Baumeister, R. (2020). Self-control, ego depletion, and social psychology’s
+replication crisis. In A. R. Mele (Ed.), Surrounding self-control. Oxford
+University Press. https://doi.org/10.31234/osf.io/uf3cn
+Baumeister, R. F., Bratslavsky, E., Muraven, M., & Tice, D. M. (1998).
+Ego depletion: Is the active self a limited resource? Journal of Personality and Social Psychology, 74(5), 1252–1265. https://doi.org/10.1037/
+0022-3514.74.5.1252
+Baumeister, R. F., Faber, J. E., & Wallace, H. M. (1999). Coping and ego
+depletion. In C. R. Snyder (Ed.), Coping: The psychology of what works
+(pp. 50 – 69). Oxford University Press.
+Baumeister, R. F., Tice, D. M., & Vohs, K. D. (2018). The strength model
+of self-regulation: Conclusions from the second decade of willpower
+research. Perspectives on Psychological Science, 13, 141–145. https://
+doi.org/10.1177/1745691617716946
+Baumeister, R. F., & Vohs, K. D. (2007). Self-Regulation, ego depletion,
+and motivation. Social and Personality Psychology Compass, 1(1),
+115–128. https://doi.org/10.1111/j.1751-9004.2007.00001.x
+Baumeister, R. F., & Vohs, K. D. (2016). Misguided effort with elusive
+implications. Perspectives on Psychological Science, 11(4), 574 –575.
+https://doi.org/10.1177/1745691616652878
+
+This document is copyrighted by the American Psychological Association or one of its allied publishers.
+This article is intended solely for the personal use of the individual user and is not to be disseminated broadly.
+
+44
+
+CALDAS, OSTERMEIER, AND COOPER
+
+Becker, T. E. (2005). Potential problems in the statistical control of
+variables in organizational research: A qualitative analysis with recommendations. Organizational Research Methods, 8(3), 274 –289. https://
+doi.org/10.1177/1094428105278021
+Bergeron, D. M. (2007). The potential paradox of organizational citizenship behavior: Good citizens at what cost? Academy of Management
+Review, 32(4), 1078 –1095. https://doi.org/10.5465/amr.2007.26585791
+Bianchi, R., Schonfeld, I. S., & Laurent, E. (2015). Burnout– depression
+overlap: A review. Clinical Psychology Review, 36, 28 – 41. https://doi
+.org/10.1016/j.cpr.2015.01.004
+Bolino, M. C., & Grant, A. M. (2016). The bright side of being prosocial
+at work, and the dark side, too: A review and agenda for research on
+other-oriented motives, behavior, and impact in organizations. The
+Academy of Management Annals, 10(1), 599 – 670. https://doi.org/10
+.5465/19416520.2016.1153260
+Bolino, M. C., & Turnley, W. H. (2005). The personal costs of citizenship
+behavior: The relationship between individual initiative and role overload, job stress, and work-family conflict. Journal of Applied Psychology, 90(4), 740 –748. https://doi.org/10.1037/0021-9010.90.4.740
+Broetje, S., Jenny, G. J., & Bauer, G. F. (2020). The key job demands and
+resources of nursing staff: An integrative review of reviews. Frontiers in
+Psychology, 11, 84. https://doi.org/10.3389/fpsyg.2020.00084
+Carter, E. C., Kofler, L. M., Forster, D. E., & McCullough, M. E. (2015).
+A series of meta-analytic tests of the depletion effect: Self-control does
+not seem to rely on a limited resource. Journal of Experimental Psychology: General, 144(4), 796 – 815. https://doi.org/10.1037/
+xge0000083
+Centers for Disease Control and Prevention. (2020). United States coronavirus (COVID-19) death toll surpasses 100,000. Retrieved from https://
+www.cdc.gov/media/releases/2020/s0528-coronavirus-death-toll
+.html. Daily updated tally retrieved from https://www.cdc.gov/corona
+virus/2019-ncov/cases-updates/cases-in-us.html
+Cohen, J. (1992). A power primer. Psychological Bulletin, 112(1), 155–
+159. https://doi.org/10.1037/0033-2909.112.1.155
+Cohen, J., Cohen, P., West, S. G., & Aiken, L. S. (2013). Applied multiple
+regression/correlation analysis for the behavioral sciences. Routledge.
+https://doi.org/10.4324/9780203774441
+Demerouti, E., Bakker, A. B., Nachreiner, F., & Schaufeli, W. B. (2001).
+The job demands-resources model of burnout. Journal of Applied Psychology, 86(3), 499 –512. https://doi.org/10.1037/0021-9010.86.3.499
+de Oliveira, S. M., de Alcantara Sousa, L. V., Gadelha, M. D. S. V., & do
+Nascimento, V. B. (2019). Prevention actions of burnout syndrome in
+nurses: An integrating literature review. Clinical Practice and Epidemiology in Mental Health, 15, 64 –73. https://doi.org/10.2174/
+1745017901915010064
+Figley, C. R. (Ed.), (2002). Treating compassion fatigue. Routledge.
+Flannery, R. B. (1999). Psychological trauma and posttraumatic stress
+disorder: A review. International Journal of Emergency Mental Health,
+1(2), 135–140.
+Fritz, C., & Sonnentag, S. (2006). Recovery, well-being, and performancerelated outcomes: The role of workload and vacation experiences. Journal of Applied Psychology, 91(4), 936 –945. https://doi.org/10.1037/
+0021-9010.91.4.936
+Gebauer, J. E., Riketta, M., Broemer, P., & Maio, G. R. (2008). Pleasure
+and pressure based prosocial motivation: Divergent relations to subjective well-being. Journal of Research in Personality, 42(2), 399 – 420.
+https://doi.org/10.1016/j.jrp.2007.07.002
+Glass, D. C., & McKnight, J. D. (1996). Perceived control, depressive
+symptomatology, and professional burnout: A review of the evidence.
+Psychology & Health, 11(1), 23– 48. https://doi.org/10.1080/
+08870449608401975
+Glenza, J. (2020, May 15). What coronavirus is doing to stressed U.S.
+health workers—And why it will be felt for years. The Guardian.
+
+https://www.theguardian.com/us-news/2020/may/15/us-nurses-doctorsmental-health-coronavirus
+Glomb, T. M., Bhave, D. P., Miner, A. G., & Wall, M. (2011). Doing good,
+feeling good: Examining the role of organizational citizenship behaviors
+in changing mood. Personnel Psychology, 64(1), 191–223. https://doi
+.org/10.1111/j.1744-6570.2010.01206.x
+Grant, A. M. (2007). Relational job design and the motivation to make a
+prosocial difference. Academy of Management Review, 32(2), 393– 417.
+https://doi.org/10.5465/amr.2007.24351328
+Grant, A. M. (2008a). Does intrinsic motivation fuel the prosocial fire?
+Motivational synergy in predicting persistence, performance, and productivity. Journal of Applied Psychology, 93(1), 48 –58. https://doi.org/
+10.1037/0021-9010.93.1.48
+Grant, A. M. (2008b). The significance of task significance: Job performance effects, relational mechanisms, and boundary conditions. Journal
+of Applied Psychology, 93(1), 108 –124. https://doi.org/10.1037/00219010.93.1.108
+Grant, A. M., & Sonnentag, S. (2010). Doing good buffers against feeling
+bad: Prosocial impact compensates for negative task and selfevaluations. Organizational Behavior and Human Decision Processes,
+111(1), 13–22. https://doi.org/10.1016/j.obhdp.2009.07.003
+Graziano, W. G., Habashi, M. M., Sheese, B. E., & Tobin, R. M. (2007).
+Agreeableness, empathy, and helping: A person ⫻ situation perspective.
+Journal of Personality and Social Psychology, 93(4), 583–599. https://
+doi.org/10.1037/0022-3514.93.4.583
+Hagger, M. S., Chatzisarantis, N. L., Alberts, H., Anggono, C. O., Batailler, C., Birt, A. R., Brand, R., Brandt, M. J., Brewer, G., Bruyneel, S.,
+Calvillo, D. P., Campbell, W. K., Cannon, P. R., Carlucci, M., Carruth,
+N. P., Cheung, T., Crowell, A., De Ridder, D. T. D., Dewitte, S., . . .
+Zwienenberg, M. (2016). A multilab preregistered replication of the
+ego-depletion effect. Perspectives on Psychological Science, 11(4),
+546 –573. https://doi.org/10.1177/1745691616652873
+Hair, J. F., Anderson, R. E., Babin, B. J., & Black, W. C. (2010).
+Multivariate data analysis: A global perspective (Vol. 7). Pearson.
+Halpern, J. (2001). From detached concern to empathy: Humanizing medical practice. Oxford University Press. https://doi.org/10.1093/acprof:
+osobl/9780195111194.001.0001
+Hauser, T. (2020, May 14). Coronavirus causing public health, economic
+crisis with no end in sight. Retrieved from https://kstp.com/politics/
+coronavirus-causing-public-health-economic-crisis-with-no-end-insight-may-14-2020/5729937/
+Hobfoll, S. E. (2002). Social and psychological resources and adaptation.
+Review of General Psychology, 6(4), 307–324. https://doi.org/10.1037/
+1089-2680.6.4.307
+Hoffman, J. (2020, May 16). ‘I can’t turn my brain off’: PTSD and burnout
+threaten medical workers. Retrieved from https://www.nytimes.com/
+2020/05/16/health/coronavirus-ptsd-medical-workers.html?auth⫽loginfacebook
+Holahan, C. J., Moos, R. H., Holahan, C. K., & Cronkite, R. C. (1999).
+Resource loss, resource gain, and depressive symptoms: A 10-year
+model. Journal of Personality and Social Psychology, 77(3), 620 – 629.
+https://doi.org/10.1037/0022-3514.77.3.620
+Iacovides, A., Fountoulakis, K. N., Kaprinis, S., & Kaprinis, G. (2003).
+The relationship between job stress, burnout and clinical depression.
+Journal of Affective Disorders, 75(3), 209 –221. https://doi.org/10.1016/
+S0165-0327(02)00101-5
+Inzlicht, M., & Schmeichel, B. J. (2012). What is ego depletion? Toward
+a mechanistic revision of the resource model of self-control. Perspectives on Psychological Science, 7, 450 – 463. https://doi.org/10.1177/
+1745691612454134
+Kavanagh, K., Diamond, F., Gallagher, G. M., Ward, A., & Spaulding, L.
+(2020, April 15). Viewpoint: CDC’s changing guidance underscores
+how COVID-19 keeps winning. Retrieved from https://www.infection
+
+This document is copyrighted by the American Psychological Association or one of its allied publishers.
+This article is intended solely for the personal use of the individual user and is not to be disseminated broadly.
+
+WHEN HELPING HURTS
+controltoday.com/covid-19/viewpoint-cdcs-changing-guidance-under
+scores-how-covid-19-keeps-winning
+Kelly, L., Runge, J., & Spencer, C. (2015). Predictors of compassion
+fatigue and compassion satisfaction in acute care nurses. Journal of
+Nursing Scholarship, 47(6), 522–528. https://doi.org/10.1111/jnu.12162
+Kibler, E., Wincent, J., Kautonen, T., Cacciotti, G., & Obschonka, M.
+(2019). Can prosocial motivation harm entrepreneurs’ subjective wellbeing? Journal of Business Venturing, 34(4), 608 – 624. https://doi.org/
+10.1016/j.jbusvent.2018.10.003
+Kim, Y. J., Van Dyne, L., Kamdar, D., & Johnson, R. E. (2013). Why and
+when do motives matter? An integrative model of motives, role cognitions, and social support as predictors of OCB. Organizational Behavior
+and Human Decision Processes, 121(2), 231–245. https://doi.org/10
+.1016/j.obhdp.2013.03.004
+Lanaj, K., Johnson, R. E., & Wang, M. (2016). When lending a hand
+depletes the will: The daily costs and benefits of helping. Journal of
+Applied Psychology, 101(8), 1097–1110. https://doi.org/10.1037/
+apl0000118
+Lang, J. W., & Kell, H. J. (2020). General mental ability and specific
+abilities: Their relative importance for extrinsic career success. Journal
+of Applied Psychology, 105(9), 1047–1061. https://doi.org/10.1037/
+apl0000472
+Leiter, M. P., & Durup, J. (1994). The discriminant validity of burnout and
+depression: A confirmatory factor analytic study. Anxiety, Stress, and
+Coping, 7(4), 357–373. https://doi.org/10.1080/10615809408249357
+Lester, S. W., Meglino, B. M., & Korsgaard, M. A. (2008). The role of
+other orientation in organizational citizenship behavior. Journal of Organizational Behavior, 29(6), 829 – 841. https://doi.org/10.1002/job.504
+Mantovani, C. (2020, June 3). COVID-19 death toll among nurses doubled
+in past month, says nurses group. Retrieved from https://www.reuters
+.com/article/us-health-coronavirus-nurses/covid-19-death-toll-amongnurses-doubled-in-past-month-says-nurses-group-idUSKBN23A1KY
+Marsh, H. W., Balla, J. R., & McDonald, R. P. (1988). Goodness-of-fit
+indexes in confirmatory factor analysis: The effect of sample size.
+Psychological Bulletin, 103(3), 391– 410. https://doi.org/10.1037/00332909.103.3.391
+Maslach, C., Schaufeli, W. B., & Leiter, M. P. (2001). Job burnout. Annual
+Review of Psychology, 52(1), 397– 422. https://doi.org/10.1146/annurev
+.psych.52.1.397
+McCarthy, T. (2020, May 2). No leadership and no plan: Is Trump about
+to fail the U.S. on coronavirus testing? Retrieved from https://www
+.theguardian.com/us-news/2020/may/02/donald-trump-us-coronavirustesting
+Mcfarlane, A. C. (1998). Epidemiological evidence about the relationship
+between PTSD and alcohol abuse: The nature of the association. Addictive Behaviors, 23(6), 813– 825. https://doi.org/10.1016/S03064603(98)00098-7
+Miles, E. W., Hatfield, J. D., & Huseman, R. C. (1989). The equity
+sensitivity construct: Potential implications for worker performance.
+Journal of Management, 15(4), 581–588. https://doi.org/10.1177/
+014920638901500407
+Monnier, J., Cameron, R. P., Hobfoll, S. E., & Gribble, J. R. (2002). The
+impact of resource loss and critical incidents on psychological functioning in fire-emergency workers: A pilot study. International Journal of
+Stress Management, 9(1), 11–29.
+Muraven, M., & Baumeister, R. F. (2000). Self-regulation and depletion of
+limited resources: Does self-control resemble a muscle? Psychological
+Bulletin, 126(2), 247–259. https://doi.org/10.1037/0033-2909.126.2.247
+Nishith, P., Resick, P. A., & Mueser, K. T. (2001). Sleep difficulties and
+alcohol use motives in female rape victims with posttraumatic stress
+disorder. Journal of Traumatic Stress, 14(3), 469 – 479. https://doi.org/
+10.1023/A:1011152405048
+
+45
+
+Oakley, B., Knafo, A., Madhavan, G., & Wilson, D. S. (Eds.). (2011).
+Pathological altruism. Oxford University Press. https://doi.org/10.1093/
+acprof:oso/9780199738571.001.0001
+Orecchio-Egresitz, H., Canalas, K., & Lee, J. L. (2020, May 3). American
+hospitals have lost dozens of medical workers to the coronavirus. Here
+are some of their stories. Retrieved from https://www.businessinsider
+.com/healthcare-workers-who-died-with-the-coronavirus-2020-4
+Orgilés, M., Morales, A., Delvecchio, E., Mazzeschi, C., & Espada, J. P.
+(2020). Immediate psychological effects of the COVID-19 quarantine in
+youth from Italy and Spain. Advance online publication. https://doi.org/
+10.31234/osf.io/5bpfz
+Podsakoff, P. M., MacKenzie, S. B., Lee, J. Y., & Podsakoff, N. P. (2003).
+Common method biases in behavioral research: A critical review of the
+literature and recommended remedies. Journal of Applied Psychology,
+88(5), 879 –903. https://doi.org/10.1037/0021-9010.88.5.879
+Podsakoff, P. M., MacKenzie, S. B., Paine, J. B., & Bachrach, D. G.
+(2000). Organizational citizenship behaviors: A critical review of the
+theoretical and empirical literature and suggestions for future research.
+Journal of Management, 26(3), 513–563. https://doi.org/10.1177/
+014920630002600307
+Preacher, K. J., & Hayes, A. F. (2004). SPSS and SAS procedures for
+estimating indirect effects in simple mediation models. Behavior Research Methods, Instruments & Computers, 36(4), 717–731. https://doi
+.org/10.3758/BF03206553
+Preacher, K. J., & Hayes, A. F. (2008). Asymptotic and resampling
+strategies for assessing and comparing indirect effects in multiple mediator models. Behavior Research Methods, 40(3), 879 – 891. https://doi
+.org/10.3758/BRM.40.3.879
+Pugh, S. D., Groth, M., & Hennig-Thurau, T. (2011). Willing and able to
+fake emotions: A closer examination of the link between emotional
+dissonance and employee well-being. Journal of Applied Psychology,
+96(2), 377.
+Rajkumar, R. P. (2020). COVID-19 and mental health: A review of the
+existing literature. Asian Journal of Psychiatry, 52, 102066. https://doi
+.org/10.1016/j.ajp.2020.102066
+Riolo, S. A., Nguyen, T. A., Greden, J. F., & King, C. A. (2005). Prevalence
+of depression by race/ethnicity: Findings from the National Health and
+Nutrition Examination Survey III. American Journal of Public Health,
+95(6), 998 –1000. https://doi.org/10.2105/AJPH.2004.047225
+Schmeichel, B. J., & Vohs, K. (2009). Self-affirmation and self-control:
+Affirming core values counteracts ego depletion. Journal of Personality and
+Social Psychology, 96(4), 770 –782. https://doi.org/10.1037/a0014635
+Siemsen, E., Roth, A., & Oliveira, P. (2010). Common method bias in
+regression models with linear, quadratic, and interaction effects. Organizational Research Methods, 13, 456 – 476. https://doi.org/10.1177/
+1094428109351241
+Sorenson, C., Bolick, B., Wright, K., & Hamilton, R. (2016). Understanding compassion fatigue in healthcare providers: A review of current
+literature. Journal of Nursing Scholarship, 48(5), 456 – 465. https://doi
+.org/10.1111/jnu.12229
+Spetz, J. (2020, March 31). There are not nearly enough nurses to handle
+the surge of coronavirus patients: Here’s how to close the gap quickly.
+Retrieved from https://www.healthaffairs.org/do/10.1377/hblog
+20200327.714037/full/
+Thoemmes, F., & Ong, A. D. (2016). A primer on inverse probability of
+treatment weighting and marginal structural models. Emerging Adulthood, 4(1), 40 –59. https://doi.org/10.1177/2167696815621645
+Tice, D. M., Baumeister, R. F., Shmueli, D., & Muraven, M. (2007).
+Restoring the self: Positive affect helps improve self-regulation following ego depletion. Journal of Experimental Social Psychology, 43(3),
+379 –384. https://doi.org/10.1016/j.jesp.2006.05.007
+Vermetten, E., & Bremner, J. D. (2002). Circuits and systems in stress. II.
+Applications to neurobiology and treatment in posttraumatic stress dis-
+
+CALDAS, OSTERMEIER, AND COOPER
+
+46
+
+This document is copyrighted by the American Psychological Association or one of its allied publishers.
+This article is intended solely for the personal use of the individual user and is not to be disseminated broadly.
+
+order. Depression and Anxiety, 16(1), 14 –38. https://doi.org/10.1002/da
+.10017
+Watkins, A., Rothfeld, M., Rashbaum, W. K., & Brian. (2020, April 27).
+Top E. R. doctor who treated virus patients dies by suicide. Retrieved
+from https://www.nytimes.com/2020/04/27/nyregion/new-york-citydoctor-suicide-coronavirus.html
+Watson, D., & Clark, L. A. (1984). Negative affectivity: The disposition to
+experience aversive emotional states. Psychological Bulletin, 96(3),
+465– 490. https://doi.org/10.1037/0033-2909.96.3.465
+Watson, D., Clark, L. A., & Carey, G. (1988). Positive and negative
+affectivity and their relation to anxiety and depressive disorders. Journal
+of Abnormal Psychology, 97(3), 346 –353. https://doi.org/10.1037/0021843X.97.3.346
+
+Weinstein, N., & Ryan, R. M. (2010). When helping helps: Autonomous
+motivation for prosocial behavior and its influence on well-being for the
+helper and recipient. Journal of Personality and Social Psychology,
+98(2), 222–244. https://doi.org/10.1037/a0016984
+World Health Organization. (2020, August 1). Coronavirus disease
+(COVID-19) pandemic. Retrieved from https://www.who.int/emergen
+cies/diseases/novel-coronavirus-2019?gclid⫽CjwKCAjwztL2BRA
+TEiwAvnALcjiXQTYci0EEOAT8bMZgAQJ2xiUEHoGk9VkFF_g7nOlfHHuz6jZMRoCZZUQAvD_BwE
+Wu, K. J. (2020, July 6). A new generation of fast coronavirus tests in
+coming. New York Times. Retrieved from https://www.nytimes
+.com/2020/07/06/health/fast-coronavirus-tests.html
+
+Appendix
+Adapted Critical Incident Inventory
+Please respond with either “not experienced” if you have not
+been exposed to the following situations during COVID-19 pandemic or “experienced” if you have been exposed to the following
+situations during the COVID-19 pandemic.
+
+4.
+
+Serious infection and illness of fellow health care
+worker with COVID-19 (that did not result in death).
+
+5.
+
+Threat of infection and illness of fellow health care
+worker with COVID-19 (that did not result in serious
+infection/illness).
+
+6.
+
+Suicide or attempted suicide by fellow health care
+worker.
+
+Trauma to Self
+1.
+
+Infection and illness of self with COVID-19.
+
+2.
+
+Threat of infection and illness of self with COVID-19
+(that did not result in actual infection/illness).
+
+13.
+
+COVID-19 victim(s) known to you.
+
+Multiple Causalities
+16.
+
+17.
+
+18.
+
+Case necessitating treatment
+COVID-19 risk to yourself.
+
+involving
+
+serious
+
+Direct exposure to extremely hazardous COVID-19
+materials.
+Direct exposure to contaminated blood and body
+fluids.
+
+7.
+
+Cases involving three or more COVID-19 deaths in the
+same shift.
+
+8.
+
+Cases involving one or two COVID-19 deaths in the
+same shift.
+
+Incidents Involving Children
+11.
+
+Cases involving serious COVID-19 infection or death
+to children due to COVID-19.
+
+12.
+
+Incident involving severe COVID-19-related threat to
+children (that did not result in actual death to children).
+
+Victims Known to Health Care Worker
+3.
+
+Death of a fellow health care worker infected with
+COVID-19 at work.
+
+(Appendix continues)
+
+WHEN HELPING HURTS
+
+Unusual or Problematic Tactical Operations
+9.
+
+Incident requiring police protection while on duty.
+
+10.
+
+Verbal or physical threat by public while on duty.
+
+19.
+
+Critical equipment failure or lack of medical supplies
+in any of the above situations.
+
+47
+
+If participants selected “not experienced,” they received a “0”
+score for that item. If “experienced” was selected, a score of “1”
+was assigned, with the exception of the “Trauma to Self” items
+where scores ranging from 2–5 were assigned if the participant
+experienced the item. Item 1 was given a score of “5,” Item 2 was
+given a score of “3,” Item 16 was given a score of “4,” Item 17 was
+given a score of “3,” and Item 18 was given a score of “2.”
+
+This document is copyrighted by the American Psychological Association or one of its allied publishers.
+This article is intended solely for the personal use of the individual user and is not to be disseminated broadly.
+
+Exposure to Severe Medical Trauma
+14.
+
+Close contact with COVID-19 fatal victim.
+
+15.
+
+Removing dead body or bodies of COVID-19 victims.
+
+Received June 16, 2020
+Revision received September 13, 2020
+Accepted September 25, 2020 䡲
+
+

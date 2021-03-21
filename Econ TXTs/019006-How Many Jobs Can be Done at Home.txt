@@ -1,0 +1,805 @@
+NBER WORKING PAPER SERIES
+
+HOW MANY JOBS CAN BE DONE AT HOME?
+Jonathan I. Dingel
+Brent Neiman
+Working Paper 26948
+http://www.nber.org/papers/w26948
+
+NATIONAL BUREAU OF ECONOMIC RESEARCH
+1050 Massachusetts Avenue
+Cambridge, MA 02138
+April 2020
+
+We thank Menglu Xu for research assistance. We are grateful to Megan Fasules for invaluable feedback.
+Dingel thanks the James S. Kemper Foundation Faculty Research Fund at the University of Chicago
+Booth School of Business. Neiman thanks the William Ladany Faculty Foundation at the University
+of Chicago Booth School of Business and the Becker Friedman Institute at the University of Chicago
+for financial support. The views expressed herein are those of the authors and do not necessarily reflect
+the views of the National Bureau of Economic Research.
+NBER working papers are circulated for discussion and comment purposes. They have not been peerreviewed or been subject to the review by the NBER Board of Directors that accompanies official
+NBER publications.
+© 2020 by Jonathan I. Dingel and Brent Neiman. All rights reserved. Short sections of text, not to
+exceed two paragraphs, may be quoted without explicit permission provided that full credit, including
+© notice, is given to the source.
+
+How Many Jobs Can be Done at Home?
+Jonathan I. Dingel and Brent Neiman
+NBER Working Paper No. 26948
+April 2020
+JEL No. D24,J22,J61,O30,R12,R32
+ABSTRACT
+Evaluating the economic impact of "social distancing" measures taken to arrest the spread of COVID-19
+raises a fundamental question about the modern economy: how many jobs can be performed at home?
+We classify the feasibility of working at home for all occupations and merge this classification with
+occupational employment counts. We find that 37 percent of jobs in the United States can be performed
+entirely at home, with significant variation across cities and industries. Applying our occupational
+classifications to 85 other countries reveals that lower-income economies have a lower share of jobs
+that can be done at home.
+
+Jonathan I. Dingel
+Booth School of Business
+University of Chicago
+5807 South Woodlawn Avenue
+Chicago, IL 60637
+and NBER
+jdingel@chicagobooth.edu
+Brent Neiman
+University of Chicago
+Booth School of Business
+5807 South Woodlawn Avenue
+Chicago, IL 60637
+and NBER
+brent.neiman@chicagobooth.edu
+
+A Replication package is available at https://github.com/jdingel/DingelNeiman-workathome/
+
+How Many Jobs Can be Done at Home?∗
+Jonathan I. Dingel
+
+Brent Neiman
+
+University of Chicago, Booth School of Business, NBER, and CEPR
+April 16, 2020
+
+Abstract
+Evaluating the economic impact of “social distancing” measures taken to arrest the
+spread of COVID-19 raises a fundamental question about the modern economy: how
+many jobs can be performed at home? We classify the feasibility of working at home
+for all occupations and merge this classification with occupational employment counts.
+We find that 37 percent of jobs in the United States can be performed entirely at
+home, with significant variation across cities and industries. Applying our occupational
+classifications to 85 other countries reveals that lower-income economies have a lower
+share of jobs that can be done at home.
+
+1
+
+Introduction
+
+Evaluating the economic impact of “social distancing” measures taken to arrest the spread
+of COVID-19 raises a number of fundamental questions about the modern economy: How
+many jobs can be performed at home? What share of total wages are paid to such jobs?
+How does the scope for working from home vary across cities, industries, and countries?
+To answer these questions, we classify the feasibility of working at home for all occupations and merge this classification with occupational employment counts for the United
+States. Our feasibility measure is based on responses to two Occupational Information
+Network (O*NET) surveys covering “work context” and “generalized work activities.” For
+example, if answers to those surveys reveal that an occupation requires daily “work outdoors” or that “operating vehicles, mechanized devices, or equipment” is very important to
+that occupation’s performance, we determine that the occupation cannot be performed from
+home.1
+∗
+
+We thank Menglu Xu for research assistance. We are grateful to Megan Fasules for invaluable feedback.
+Dingel thanks the James S. Kemper Foundation Faculty Research Fund at the University of Chicago Booth
+School of Business. Neiman thanks the William Ladany Faculty Foundation at the University of Chicago
+Booth School of Business and the Becker Friedman Institute at the University of Chicago for financial
+support. jdingel@chicagobooth.edu and brent.neiman@chicagobooth.edu.
+1
+See the Appendix for a more detailed description of our classification based on O*NET survey responses.
+Using our replication package, researchers can modify this classification scheme to produce results based on
+their own assessment of the plausibility of working at home for each type of job.
+
+We start in Section 2 by merging this classification of O*NET occupations with information from the U.S. Bureau of Labor Statistics (BLS) on the prevalence of each occupation in
+the aggregate U.S. economy as well as in particular metropolitan statistical areas and 2-digit
+NAICS industries. In Section 3, we then merge our classification with occupational employment data for many countries provided by the International Labour Organization (ILO) to
+reveal an increasing relationship between the share of jobs that can be done at home and
+the level of a country’s economic development. Section 4 reviews the related literature, and
+Section 5 concludes.
+
+2
+
+Results for the United States
+
+Our classification implies that 37 percent of U.S. jobs can plausibly be performed at home.
+We obtain our estimate by identifying job characteristics that clearly rule out the possibility
+of working entirely from home, neglecting many characteristics that would make working
+from home difficult.2 Our estimate is therefore an upper bound on what might be feasible
+and greatly exceeds the share of jobs that in fact have been performed entirely at home in
+recent years. According to the 2018 American Time Use Survey, less than a quarter of all
+full-time workers work at all from home on an average day, and even those workers typically
+spend well less than half of their working hours at home. Workers in occupations that can
+be performed at home typically earn more. If we assume all occupations involve the same
+number of hours of work, the 37 percent of U.S. jobs that can plausibly be performed at
+home account for 46 percent of all wages.
+There is significant variation in this percentage across cities and industries. Table 1
+reports the top five and bottom five metropolitan statistical areas (from among the 100
+largest, by employment) in terms of the share of jobs that could be done at home. More
+than 45 percent of jobs in San Francisco, San Jose, and Washington, DC could be performed
+at home, whereas this is the case for 30 percent or less of the jobs in Fort Myers, Grand
+Rapids, and Las Vegas. Figure 1 depicts the geographic distribution of our unweighted
+measure of the share of jobs that can be done at home across metropolitan areas. As
+shown in Table 2, whereas most jobs in finance, corporate management, and professional
+and scientific services could plausibly be performed at home, very few jobs in agriculture,
+hotels and restaurants, or retail could be. The full results for all metropolitan areas and
+industries, together with our classifications of occupations, are available at https://github.
+com/jdingel/DingelNeiman-workathome.
+As an alternative to our baseline classification, we each manually assigned values of 0,
+0.5, or 1 to each 5-digit SOC code based on introspection. Averaging our two judgments
+resulted in values of 0, 0.25, 0.5, 0.75, and 1.3 Using this alternative measure, we find the
+following: Approximately 32 percent of all U.S. jobs, accounting for 42 percent of overall
+2
+
+For example, our classification codes 98 percent of the 8.8 million teachers in the U.S. as able to work
+from home, which seems sensible given the large number of schools currently employing remote learning.
+Re-coding these teaching jobs as unable to be performed from home would, in the aggregate, reduce our
+estimate of the share of jobs that can be done at home by about six percentage points.
+3
+Our two assessments about whether an occupation could be done at home or not agreed in about 85
+percent of the cases, and our disagreements were only rarely greater than 0.5.
+
+2
+
+Table 1: Share of jobs that can be done at home, by metropolitan area
+Unweighted
+
+Weighted by wage
+
+Top five
+San Jose-Sunnyvale-Santa Clara, CA
+Washington-Arlington-Alexandria, DC-VA-MD-WV
+Durham-Chapel Hill, NC
+Austin-Round Rock, TX
+San Francisco-Oakland-Hayward, CA
+
+0.51
+0.50
+0.46
+0.46
+0.45
+
+0.66
+0.64
+0.57
+0.58
+0.58
+
+Bottom five
+Grand Rapids-Wyoming, MI
+Lancaster, PA
+Bakersfield, CA
+Stockton-Lodi, CA
+Cape Coral-Fort Myers, FL
+
+0.29
+0.29
+0.29
+0.29
+0.28
+
+0.37
+0.36
+0.36
+0.33
+0.34
+
+Figure 1: Share of jobs that can be done at home
+
+0.378 − 0.519
+0.347 − 0.378
+0.315 − 0.347
+
+0.299 − 0.315
+0.276 − 0.299
+0.193 − 0.276
+
+No data
+
+wages, can be performed almost entirely at home.
+The city- and industry-level results generated by this alternative classification, which are
+included in our replication package, are very similar to those presented in Table 1, Table 2,
+3
+
+Table 2: Share of jobs that can be done at home, by industry
+Unweighted
+
+Weighted by wage
+
+Top five
+Educational Services
+Professional, Scientific, and Technical Services
+Management of Companies and Enterprises
+Finance and Insurance
+Information
+
+0.83
+0.80
+0.79
+0.76
+0.72
+
+0.71
+0.86
+0.86
+0.85
+0.80
+
+Bottom five
+Transportation and Warehousing
+Construction
+Retail Trade
+Agriculture, Forestry, Fishing and Hunting
+Accommodation and Food Services
+
+0.19
+0.19
+0.14
+0.08
+0.04
+
+0.25
+0.22
+0.22
+0.13
+0.07
+
+Table 3: Share of jobs that can be done at home, by occupation’s major group
+O*NET-derived
+Manual
+baseline
+alternative
+
+Occupation
+15
+25
+23
+13
+11
+27
+43
+17
+19
+21
+41
+39
+33
+29
+53
+31
+45
+51
+49
+47
+35
+37
+
+Computer and Mathematical Occupations
+Education, Training, and Library Occupations
+Legal Occupations
+Business and Financial Operations Occupations
+Management Occupations
+Arts, Design, Entertainment, Sports, and Media Occupations
+Office and Administrative Support Occupations
+Architecture and Engineering Occupations
+Life, Physical, and Social Science Occupations
+Community and Social Service Occupations
+Sales and Related Occupations
+Personal Care and Service Occupations
+Protective Service Occupations
+Healthcare Practitioners and Technical Occupations
+Transportation and Material Moving Occupations
+Healthcare Support Occupations
+Farming, Fishing, and Forestry Occupations
+Production Occupations
+Installation, Maintenance, and Repair Occupations
+Construction and Extraction Occupations
+Food Preparation and Serving Related Occupations
+Building and Grounds Cleaning and Maintenance Occupations
+
+4
+
+1.00
+0.98
+0.97
+0.88
+0.87
+0.76
+0.65
+0.61
+0.54
+0.37
+0.28
+0.26
+0.06
+0.05
+0.03
+0.02
+0.01
+0.01
+0.01
+0.00
+0.00
+0.00
+
+1.00
+0.85
+0.84
+0.92
+0.84
+0.57
+0.51
+0.88
+0.36
+0.50
+0.21
+0.00
+0.00
+0.06
+0.00
+0.00
+0.00
+0.00
+0.00
+0.00
+0.00
+0.00
+
+and Figure 1. Table 3 reports the share of jobs that can be performed at home by major
+group of occupation for both measures. The reported shares are generally quite similar across
+the two methods.
+For a small set of occupations, however, the two methodologies do reach opposite conclusions. Appendix Table A.1 reports the 5-digit occupation codes for which the two measures
+differ by 0.8 or more.4 Our baseline classification based on O*NET survey responses says
+that fundraisers, for example, cannot work from home, whereas our manual classification
+says that they can. Our baseline classification codes mail clerks as able to work from home,
+whereas the manual classification says that they cannot.
+
+3
+
+Results for countries other than the United States
+
+To produce estimates for other countries, we merge our classification of whether each 6-digit
+SOC can be done at home based on the U.S. O*NET surveys with the 2008 edition of the
+international standard classification of occupations (ISCO) at the 2-digit level. The ISCO
+standard for classifying occupations was adopted by the ILO, which compiles information on
+employment in each 2-digit ISCO for a large number of countries. We employ a crosswalk
+between the SOC and ISCO schemes from the U.S. BLS.
+The mapping of (6-digit) SOCs to (2-digit) ISCOs is many-to-many, so determining the
+share of jobs that can be done from home in any ISCO is not trivial. To summarize, our
+classification of whether a 6-digit SOC can be done at home is determined entirely using
+only U.S. data, our mapping of 6-digit SOCs to 2-digit ISCOs is common to all countries,
+and the weighted average for each 2-digit ISCO is country-specific. For more details, see the
+Appendix and the replication package.
+Figure 2 plots our measure of the share of jobs that can be done at home in each country
+against its per capita income. We compute the jobs share using the most recent employment
+data available from the ILO after restricting attention to countries that report employment
+data for 2015 or later.5 The income measure is GDP per capita (at current prices and
+translated into international dollars using PPP exchange rates) in 2019, obtained from the
+International Monetary Fund. The figure reveals a clear positive relationship between income
+levels and the shares of jobs that can be done from home. While fewer than 25 percent of jobs
+in Mexico and Turkey could be performed at home, this share exceeds 40 percent in Sweden
+and the United Kingdom.6 Note that our classification assesses the ability to perform a
+particular occupation from home based on U.S. data and that the nature of an occupation
+likely varies across economies with different income levels. With that caveat, the striking
+pattern in Figure 2 suggests that developing economies and emerging markets may face an
+even greater challenge in continuing to work during periods of stringent social distancing.
+4
+
+Since the O*NET-derived measure is defined for 6-digit occupations, this measure is not necessarily 0
+or 1 at the 5-digit level. We aggregate 6-digit occupations weighting by employment counts.
+5
+The full table of results is available as a CSV file in our replication package.
+6
+The share for the United States in Figure 2 is 41 percent. This differs from the 37 percent reported in
+the main text due to the different weights implicit in our use of ILO data rather than BLS data.
+
+5
+
+Figure 2: Share of jobs that can be done at home, by GDP (PPP) per capita
+
+.4
+.3
+.2
+.1
+
+Share of jobs that can be done at home
+
+.5
+
+LUX
+
+CHE
+SWE
+GBR
+BEL
+MLT DNKISL
+NLD USA
+EST
+FIN
+SVN
+CYP FRA AUT
+DEU
+MDV
+LVA LTU
+ITA
+RUS
+POL
+PRT CZE
+PLW
+MNE HRVGRC
+ESP
+HUN
+SYC
+SVK
+BGR
+EGY
+URY
+WSM
+MUS
+TONPHL BRA
+CHL
+SRB
+PAN
+MNG
+MKD
+GEO
+FJI
+TUR
+MEX ROU
+KIR LAO
+LKA
+BIH
+DOM
+SWZ
+GUY
+ZMBBLZ
+THA
+NPL
+KGZ SLV
+TGOGHA
+NER
+BOLECU
+HND
+GTM
+PAK
+CIV
+UGA
+LBR
+BGD
+AFG
+KHM
+RWA
+SLE MMR
+
+NOR
+IRL
+
+ARE
+
+0
+
+MDG
+MOZ
+
+0
+
+15000
+
+30000
+
+45000
+
+60000
+
+75000
+
+90000
+
+105000
+
+120000
+
+GDP per capita (purchasing power parity)
+
+4
+
+Related literature
+
+Our coding of occupational characteristics to determine how flexibly certain jobs can be
+relocated has clear roots in the exercise in Blinder (2009) that assessed the “offshorability”
+of jobs. While our approach is similar, we cannot simply use Blinder’s index because the
+feasibility of working from home is quite distinct from offshorability. For example, Blinder
+and Krueger (2013) write, “we know that all textile manufacturing jobs in the United States
+are offshorable.” Textile manufacturing jobs, of course, cannot be performed at home using
+current production technologies.
+Our work also relates to Mas and Pallais (2020), who offer a detailed and helpful overview
+of the prevalence, features, and demand for alternative working arrangements, including the
+ability to work from home. Citing the Quality of Worklife Survey and the Understanding
+American Study, they report that less than 13 percent of full- and part-time jobs have a
+formal “work-from-home” arrangement, even though twice that amount work often from
+home.7 According to Mas and Pallais, the “median worker reports that only 6 percent of
+their job could be feasibly done from home,” but plenty of jobs, including those in “computer
+and mathematical” and “business and financial operations” can do a majority of their work
+7
+
+A recently released paper by the United Kingdom Office for National Statistics (2020) reports that while
+27 percent of the U.K. workforce said they’ve previously worked from home, only about 5 percent said they
+mainly work from home. Whether people have actually worked from home differs conceptually from the
+focal question of this paper, which is whether these people could feasibly work from home.
+
+6
+
+from home. We note that, in the context of the response to COVID-19, there is an important
+distinction between being able to do most and all of one’s work at home.
+Saltiel (2020) estimates the share of jobs that can be done from home in ten developing
+economies using surveys of occupations in those ten lower-income contexts. Following our
+approach, he uses information on workers’ tasks in the Skills Toward Employability and
+Productivity (STEP) survey to define the feasibility of working from home. The advantage
+of using these data is that it addresses the concerns raised by defining the feasibility of
+performing a job at home based on the U.S. economic context.8 Saltiel (2020) finds that few
+jobs can be done at home, ranging from 5 to 23 percent across the ten economies, and reports
+a positive correlation between this share and GDP per capita. Five of the economies covered
+by Saltiel (2020) also appear in our Section 3 results. Our results for Bolivia, Georgia, and
+Macedonia are within a few percentage points of the numbers Saltiel reports. Our results
+for Ghana and Laos are notably higher, 14 and 21 percent versus roughly 5 and 9 percent,
+respectively. In addition to differences in the O*NET and STEP survey questions, these
+differences may be attributable to the ILO data and STEP survey differing in temporal
+(2017 vs 2012-2013) and geographic (national vs urban) coverage.
+Mongey and Weinberg (2020) use our occupational classification to study the characteristics of individuals who cannot work at home. They find that these individuals are more likely
+to be non-white, lower-income, rent their dwellings, lack a college degree, and lack employerprovided health insurance. Baker (2020) and Koren and Pető (2020) also use O*NET survey
+data to construct measures of which occupations cannot be done at home or will be affected
+by social distancing.
+Two recent papers use online surveys to produce real-time measures of working from
+home for the United States during the first week of April 2020. Brynjolfsson et al. (2020)
+report that nearly half of the individuals they surveyed said they were working from home.
+Bick and Blandin (2020) report that more than 60 percent of their respondents’ work hours
+were performed at home. Though these figures are higher than our estimate of the share
+of U.S. jobs that can be performed entirely at home, these numbers are not necessarily
+comparable: in the short run, we expect many employees to perform parts of their jobs at
+home rather than being wholly furloughed or laid off. In addition, those who can work from
+home may be overrepresented in online surveys.
+8
+
+Gottlieb, Grobovsek and Poschke (2020) apply our classifications of occupations to labor force and
+household surveys in 57 countries. In line with our findings, they report that smaller shares of jobs can
+be done at home in poorer economies. They note, however, that small family farms in principle could
+operate while limiting social interactions and obeying stay-at-home orders. Classifying all farming jobs as
+such substantially increases the estimated share of jobs that can be done at home in some poor economies
+with large agricultural employment shares. Stratton (2020) applies our classifications to data for Australia.
+Barbieri, Basso and Scicchitano (2020) use the Italian equivalent of the O*NET surveys and a similar set of
+questions to produce a work-from-home measure for Italy. Boeri, Caiumi and Paccagnella (2020) combine
+O*NET information, a survey of the Italian Statistical Office and INAP, and their own assessment to estimate
+how many jobs can potentially be carried out remotely for six European economies.
+
+7
+
+5
+
+Conclusion
+
+Due to COVID-19, many employees are unable to travel to work. Identifying which jobs
+cannot be performed from home may be useful as policymakers try to target social insurance
+payments to those that most need them. Likewise, the share of jobs that could be performed
+at home is an important input to predicting the economy’s performance during this or
+subsequent periods of social distancing. We note, however, that it is not straightforward to
+use these values to estimate the share of output that would be produced under stringent stayat-home policies. An individual worker’s productivity may differ considerably when working
+at home rather than her usual workplace. More importantly, there are likely important
+complementarities between jobs that can be performed at home and those that cannot.
+Incorporating our measures together with these richer considerations is a fruitful avenue for
+future research.
+
+References
+Baker, Marissa G. 2020. “Characterizing occupations that cannot work from home: a means
+to identify susceptible worker groups during the COVID-19 pandemic.” medRxiv.
+Barbieri, Teresa, Gaetano Basso, and Sergio Scicchitano. 2020. “Italian Workers at Risk
+during the COVID-19 Epidemic.” http://dx.doi.org/10.2139/ssrn.3572065.
+Bick, Alexander, and Adam Blandin. 2020. “Real Time Labor Market Estimates During the
+2020 Coronavirus Outbreak.”
+Blinder, Alan. 2009. “How Many US Jobs Might be Offshorable?”
+10(2): 41–78.
+
+World Economics,
+
+Blinder, Alan S., and Alan B. Krueger. 2013. “Alternative Measures of Offshorability: A
+Survey Approach.” Journal of Labor Economics, 31(S1): 97–128.
+Boeri, Tito, Alessandro Caiumi, and Marco Paccagnella. 2020. “Mitigating the work-safety
+trade-off.” Covid Economics: Vetted and Real-Time Papers, 1(2): 60–66.
+Brynjolfsson, Erik, John Horton, Adam Ozimek, Daniel Rock, Garima Sharma, and Hong
+Yi Tu Ye. 2020. “COVID-19 and Remote Work: An Early Look at US Data.” 8 April
+mimeo.
+Gottlieb, Charles, Jan Grobovsek, and Markus Poschke. 2020. “Working From Home across
+Countries.” 15 April mimeo.
+Koren, Miklós, and Rita Pető. 2020. “Business disruptions from social distancing.” Covid
+Economics: Vetted and Real-Time Papers, 1(2): 13–31.
+Mas, Alexandre, and Amanda Pallais. 2020. “Alternative Work Arrangements.” Annual Review of Economics.
+
+8
+
+Mongey, Simon, and Alex Weinberg. 2020. “Characteristics of Workers in Low Work-FromHome and High Personal-Proximity Occupations.” Becker Friedman Institute white paper.
+Saltiel, Fernando. 2020. “Who Can Work From Home in Developing Countries?” 6 April
+mimeo.
+Stratton, James. 2020. “How Many Australians Can Work From Home? An Application of
+Dingel and Neiman (2020) to Australian Occupation Data.”
+United Kingdom Office for National Statistics. 2020. “Coronavirus and homeworking in the
+UK labour market: 2019.” Working Paper.
+
+9
+
+Appendix for
+“How Many Jobs Can be Done at Home?”
+Jonathan I. Dingel
+
+Brent Neiman
+
+This Appendix describes how we classified U.S. occupations base on O*NET survey
+responses and how we mapped our classifications to other countries via the international
+standard classification of occupations.
+
+A.1
+
+Classifying occupations based on O*NET surveys
+
+Our baseline U.S. results use the responses to two O*NET surveys to designate any given
+occupation, based on the standard occupational classification (SOC) code, as able or unable
+to be performed at home. We then merge this information with BLS data on the number
+and wages of workers in each SOC in the country as a whole as well as in metropolitan areas
+and industries.
+If any of the following conditions in the “Work Context” survey responses are true, we
+code the occupation as one that cannot be performed at home:
+• Average respondent says they use email less than once per month (Q4)
+• Majority of respondents say they work outdoors every day (Q17)
+• Average respondent says they deal with violent people at least once a week (Q14)
+• Average respondent says they spent majority of time wearing common or specialized
+protective or safety equipment (Q43)
+• Average respondent says they spent majority of time walking or running (Q37)
+• Average respondent says they are exposed to minor burns, cuts, bites, or stings at least
+once a week (Q33)
+• Average respondent says they are exposed to diseases or infection at least once a week
+(Q29)
+If any of the following conditions in the “Generalized Work Activities” survey responses are
+true, we code the occupation as one that cannot be performed at home:
+• Performing General Physical Activities is very important (Q16A)
+• Handling and Moving Objects is very important (Q17A)
+• Controlling Machines and Processes [not computers nor vehicles] is very important
+(Q18A)
+• Operating Vehicles, Mechanized Devices, or Equipment is very important (Q20A)
+• Performing for or Working Directly with the Public is very important (Q32A)
+• Repairing and Maintaining Mechanical Equipment is very important (Q22A)
+• Repairing and Maintaining Electronic Equipment is very important (Q23A)
+• Inspecting Equipment, Structures, or Materials is very important (Q4A)
+A.1
+
+Table A.1: Occupations for which survey-derived and alternative measures differ considerably
+O*NET-derived
+Manual
+baseline
+alternative
+
+Occupation
+13-1130
+13-2080
+19-3050
+41-3040
+43-2020
+43-4180
+13-2070
+17-3020
+39-3010
+25-2050
+27-2020
+25-2010
+25-4020
+25-4030
+27-4020
+33-9020
+39-3030
+39-9010
+39-9040
+43-1010
+43-5020
+43-9050
+43-9070
+
+A.2
+
+Fundraisers
+Tax Examiners, Collectors and Preparers, and Revenue Agents
+Urban and Regional Planners
+Travel Agents
+Telephone Operators
+Reservation and Transportation Ticket Agents and Travel Clerks
+Credit Counselors and Loan Officers
+Engineering Technicians, Except Drafters
+Gaming Services Workers
+Special Education Teachers
+Athletes, Coaches, Umpires, and Related Workers
+Preschool and Kindergarten Teachers
+Librarians
+Library Technicians
+Photographers
+Private Detectives and Investigators
+Ushers, Lobby Attendants, and Ticket Takers
+Childcare Workers
+Residential Advisors
+First-Line Supervisors of Office and Administrative Support Workers
+Couriers and Messengers
+Mail Clerks and Mail Machine Operators, Except Postal Service
+Office Machine Operators, Except Computer
+
+0.00
+0.00
+0.00
+0.00
+0.00
+0.00
+0.10
+0.17
+0.85
+0.92
+0.93
+1.00
+1.00
+1.00
+1.00
+1.00
+1.00
+1.00
+1.00
+1.00
+1.00
+1.00
+1.00
+
+1
+1
+1
+1
+1
+1
+1
+1
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+
+Mapping to international occupational codes
+
+This section describes how we map 6-digit SOCs to 2-digit ISCOs. Ideally, each SOC would
+map to a unique ISCO, so that we could simply calculate the ISCO share as a weighted
+average of SOC shares, using the SOCs’ U.S. employment counts as the weights. However,
+given the many-to-many mapping, this approach would put disproportionate weight on those
+SOCs that happen to map to a larger number of ISCOs. To address this issue, when an SOC
+maps to multiple ISCOs, we allocate the SOC’s U.S. employment weight across the ISCOs
+in proportion to the ISCOs’ employment shares in the “target” country.1 Since 2-digit ISCO
+employment shares vary by country, the reported share of jobs that can be done from home
+in each 2-digit ISCO differs across countries.
+
+1
+
+For instance, if a particular SOC has 100 U.S. employees and is associated with two ISCOs that have
+respective totals of 3000 and 1000 employees in a country, we allocate 75 of the SOC’s U.S. employees to the
+larger ISCO and 25 to the smaller one. Those values of 75 and 25 are then used as that SOC’s weight when
+calculating the average across all SOCs within each ISCO for that country.
+
+A.2
+
+

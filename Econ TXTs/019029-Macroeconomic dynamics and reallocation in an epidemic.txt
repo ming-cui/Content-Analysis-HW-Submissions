@@ -1,0 +1,2325 @@
+NBER WORKING PAPER SERIES
+
+MACROECONOMIC DYNAMICS AND REALLOCATION IN AN EPIDEMIC
+Dirk Krueger
+Harald Uhlig
+Taojun Xie
+Working Paper 27047
+http://www.nber.org/papers/w27047
+
+NATIONAL BUREAU OF ECONOMIC RESEARCH
+1050 Massachusetts Avenue
+Cambridge, MA 02138
+April 2020
+
+We thank virtual seminar participants at the University of Chicago for many helpful comments.
+Krueger and Uhlig thank the NSF for continued support. The views expressed herein are those of
+the authors and do not necessarily reflect the views of the National Bureau of Economic
+Research.
+At least one co-author has disclosed a financial relationship of potential relevance for this
+research. Further information is available online at http://www.nber.org/papers/w27047.ack
+NBER working papers are circulated for discussion and comment purposes. They have not been
+peer-reviewed or been subject to the review by the NBER Board of Directors that accompanies
+official NBER publications.
+© 2020 by Dirk Krueger, Harald Uhlig, and Taojun Xie. All rights reserved. Short sections of
+text, not to exceed two paragraphs, may be quoted without explicit permission provided that full
+credit, including © notice, is given to the source.
+
+Macroeconomic Dynamics and Reallocation in an Epidemic
+Dirk Krueger, Harald Uhlig, and Taojun Xie
+NBER Working Paper No. 27047
+April 2020
+JEL No. E20,E30,E52
+ABSTRACT
+In this paper we argue that endogenous shifts in private consumption behavior across sectors of
+the economy can act as a potent mitigation mechanism during an epidemic or when the economy
+is re-opened after a temporary lockdown. Extending the theoretical framework proposed by
+Eichenbaum-Rebelo-Trabandt (2020), we distinguish goods by their degree to which they can be
+consumed at home rather than in a social (and thus possibly contagious) context. We demonstrate
+that, within the model the "Swedish solution" of letting the epidemic play out without
+government intervention and allowing agents to shift their sectoral behavior on their own can lead
+to a substantial mitigation of the economic and human costs of the COVID-19 crisis, avoiding
+more than 80 of the decline in output and of number of deaths within one year, compared to a
+model in which sectors are assumed to be homogeneous. For different parameter configurations
+that capture the additional social distancing and hygiene activities individuals might engage in
+voluntarily, we show that infections may decline entirely on their own, simply due to the
+individually rational re-allocation of economic activity: the curve not only just flattens, it gets
+reversed.
+Dirk Krueger
+Economics Department
+University of Pennsylvania
+The Ronald O. Perelman Center
+for Political Science and Economics
+133 South 36th Street
+Philadelphia, PA 19104
+and NBER
+dkrueger@econ.upenn.edu
+Harald Uhlig
+Dept. of Economics
+University of Chicago
+1126 E 59th Street
+Chicago, IL 60637
+and CEPR
+and also NBER
+huhlig@uchicago.edu
+
+Taojun Xie
+Asia Competitiveness Institute
+Lee Kuan Yew School of Public Policy
+National University of Singapore
+18 Evans Road
+Singapore 259364
+Singapore
+tjxie@nus.edu.sg
+
+1
+
+Introduction
+
+The COVID-19 pandemic of 2020 has the world in its grip. Policy makers must wrestle with a serious
+trade-o↵: how much economic activity should one allow, possibly risking hundreds of thousands additional deaths as a result? Our paper contributes to the quickly growing literature of understanding this
+trade-o↵. Our specific focus is on the question how people can deal with that trade-o↵ on their own
+already: how much will each individual seek to mitigate economic interactions that carry the risk of
+infection, given the potentially disastrous consequences for their health?
+Our starting point is a simple macroeconomic model, where agents consume and work, combined with
+a SIR (“Susceptible-Infected-Recovered”) model standard in the epidemiology literature. Our analysis
+is inspired by and shares many features with the model of Eichenbaum et al. (2020), ERT for short from
+now on. As in their model infections can occur in the market place by consuming together or working
+together. We also share with these authors, that participating agents are aware of the resulting infectionand death-risks, and thus may alter their consumption and work patterns as the epidemic unfolds, but
+do not take into account the externality of their behavior on the infection risks of others. Like them,
+we view the endogenous response in behaviour of people, motivated by their own interest in preserving
+their health and avoiding the possibility of dying, as key in understanding the spread of a pandemic and,
+ultimately, its economic costs, a significant advance from the purely epidemiological models beautifully
+summarized in Atkeson (2020).
+We depart from ERT in one crucial dimension, however. In contrast to them we assume the economy
+is composed of several heterogeneous sectors that di↵er technologically in their infection probabilities.
+There are two interpretations of this assumption. One is, that very similar goods can be consumed in
+privacy at home ( Pizza delivery ) rather than in the market place (Pizza restaurant). Likewise, very
+similar work may be performed remotely rather than in an office, e.g. writing a report online at home
+rather than in the community of co-workers. Leibovici et al. (2020) provide evidence for very substantial
+heterogeneity across sectors of the U.S. in the degree of social interaction to facilitate the production of
+goods and services, and Dingel and Neimann (2020) as well as Mongey and Weinberg (2020) assess what
+share of jobs can be performed at home, and Toxvaerd (2020) provides an equilibrium in which social
+distancing is an equilibrium outcome emerging from individually rational behavior. Consistent with our
+main mechanism, Farboodi et al. (2020) provide evidence from US micro-data for a large reduction in
+social activity by private household even prior to the implementation of public stay-at-home-orders and
+lockdowns of economic activity.
+The elasticity of substitution across goods (or work activities), denoted by ⌘ in our paper, can
+reasonably assumed to be fairly high: we choose ⌘ = 10 as our benchmark, following Fernandez-Villaverde
+
+2
+
+(2010). An alternative interpretation is that these are rather distinct goods and distinct lines or work,
+and that substitutability may be lower: for that interpretation, we choose ⌘ = 3, following Adhmad
+and Riker (2019). Furthermore, in our benchmark parameterization, the infection probability in the
+most infectious sector (for the same consumption or work intensity) is nine times as high as in the least
+infectious sector.
+We interpret the term “consumption” in this paper broadly and applicable to non-market social
+activities as well. The substitution discussion above is relevant just as much for partying together
+with friends as opposed to talking online, for congregating in parks as opposed to staying at home,
+to demonstrating against some cause together in the streets rather than sending petitions per e-mail.
+Viewed from that perspective, infection is inexorably linked to consumption or work place interaction,
+and we shall assume as much in our analysis.
+We show that the resulting economic and health outcomes di↵er dramatically as a result. In the
+economy with homogeneous sectors, we obtain a deep decline of economic activity of ten percent, precisely
+as in ERT (in a calibration chosen to make our analysis exactly comparable to theirs). In contrast, more
+than eighty percent of that decline is mitigated in our benchmark economy with heterogeneous sectors.
+Likewise 80 percent of the deaths are avoided after the first year, compared to the homogeneous sector
+version. Despite the lack of any government intervention, the “curve” is flattened substantially. For
+di↵erent parameter configurations that capture the additional social distancing and hygiene activities
+which individuals might engage in voluntarily, we show that infections may decline entirely on their own,
+simply due to the re-allocation of economic activity: the curve does not just flattens, it gets reversed.
+One may view our results as the prediction for the “Swedish” solution: Sweden has largely avoided
+government restrictions on economic activity, allowing people to make their own choices. The outcomes
+in terms of the disease spread nonetheless are largely in line with other European countries, which have
+imposed far more Draconian measures, while the output decline is considerably mitigated. One may also
+view our results as telling a cautiously optimistic tale about the potential for re-opening economies after
+a temporary lock down. Put di↵erently, private incentives and well-functioning labor markets as well as
+social insurance policies or markets (that serve to insure those for which transition into di↵erent sectors
+in the economy takes time or is costly) may solve the COVID-19 spread rather e↵ectively on their own,
+mitigating the decline in economic activity and in human costs.
+Our results are stark, partially because our analysis assumes smoothly functioning labor markets
+where workers can quickly reallocate to the sectors now in demand: waiters at restaurants deliver food
+instead, for example. It is easy to argue that the world is not as frictionless as assumed here and that
+the message of our paper is perhaps a bit too Panglossian. We do not wish to argue that the substantial
+mitigation happens as easily on its own. The analysis here does show, however, that recognition of
+3
+
+substitution possibilities and recognition of private incentives of agents to become infected is potentially
+an important aspect in thinking about the current pandemic, both its onset but also its evolution as the
+economy is again opened to activity following the lock-down implemented in many countries.
+Our analysis relates to other recent work that has emphasized the need to think about a multisector
+economy for the purpose of analyzing the economic e↵ect of the recent epidemic, such as Alvarez et al.
+(2020), Glover et al. (2020), Guerrieri et al. (2020) or Kaplan et al. (2020). However, these authors
+do not feature the feedback from the di↵erential infection probabilities across sectors into the private
+reallocation decision making of agents. A second very active literature evaluates the impact of publicly
+enforced mobility restrictions and social distancing measures on the dynamics of an epidemic, see e.g.
+Correia et al. (2020), Fang et al. (2020) or Greenstone and Nigam (2020). Complementary to this work
+we emphasize that private incentives to redirect consumption behavior might go a long way towards
+mitigating or even averting the epidemic, even in the absence of mobility restrictions or publicly enforced
+social distancing measures.
+This paper is meant to clarify the key forces, rather than painting a nuanced and detailed picture of
+the quantities. We therefore focus first, in the model developed in section 2, on the infection risk in the
+consumption sector only. In section 3 we provide theoretical results that demonstrate the importance of
+the elasticity of substitution across sectors, and also argue that the same mechanism is at work if the risk
+of infections is located in the labor market rather than the consumption goods market, though one may
+wish to argue that the relevant elasticity of substitution is lower in that case. In section 4 we examine the
+optimal choices of a social planner who can observe which agents are infected and which are not, akin to
+the planning problem studied by Alvarez et al. (2020) One may think of this as a strong government with
+wide testing capabilities1 of individuals, or a sufficiently powerful appeal to in particular the infected
+agents to do what is good for the country. Section 5 contains the quantitative results, showing how
+individually rational reallocation of economic activity across sectors is a strong mitigating force of the
+crisis even in the absence of explicit government intervention. It also shows that the social planner can
+stop the pandemic in its tracks early and quickly. This should not be all that surprising: the social
+planner simply prevents infected agents from co-mingling with the susceptible part of the population (by
+separating consumption of both groups across sectors), even if this imposes considerable, additional pain
+on the infected agents, which the social planner of course takes into account. What is more surprising,
+though, is that the decentralized solution with its substitution possibilities can get us there already 80
+percent of the way on its own.
+1 In
+
+this sense our social planner analysis is akin in spirit to the focus on testing in Berger et al. (2020).
+
+4
+
+2
+
+Model
+
+2.1
+
+The macroeconomic environment
+
+Our framework builds on Eichenbaum-Rebelo-Trabandt (2020) or ERT for short, and shares some key
+model components. Time is discrete, t = 0, 1, 2, . . ., measuring weeks. There is a continuum j 2 [0, 1] of
+individuals, maximizing the objective function
+
+U = E0
+
+1
+X
+
+t
+
+u(cjt , njt )
+
+t=0
+
+where
+
+denotes the discount factor, cjt denotes consumption of agent j and njt denotes hours worked,
+
+and where expectations E0 are taken with respect to stochastic health transitions describe delow in
+detail. Like ERT, we assume that preferences are given by
+
+u(c, n) = ln c
+
+✓
+
+n2
+2
+
+In contrast to ERT, we assume that consumption cjt takes the form of a bundle across a continuum of
+sectors k 2 [0, 1],
+cjt =
+where ⌘
+
+✓Z
+
+(cjtk )1
+
+1/⌘
+
+dk
+
+◆⌘/(⌘
+
+1)
+
+(1)
+
+0 denotes the elasticity of substitution across goods and cjtk is the consumption of individual
+
+j at date t of sector k goods. Workers can split their work across all sectors and earn a wage Wt in units
+of a numeraire good2 for a unit of labor, regardless where they work. As the choice of the numeraire is
+arbitrary, we let a unit of labor denote that numeraire: thus, wages are equal to unity, Wt = 1.
+Goods of sector k are priced at Ptk in terms of the numeraire, i.e. in units of labor. We suppose
+that production of goods in sector k is linear in labor, i.e. total output of goods in sector k equals the
+total number of hours worked there times some aggregate productivity factor A, and that pricing in each
+sector is competitive. Thus, prices equal marginal costs and are the same across all sectors,
+
+Ptk = Pt = 1/A
+2 The
+
+presentation of the model is easier assuming a numeraire rather than payment in a bundle of consumption goods.
+We will not examine sticky prices or sticky wages in this model.
+
+5
+
+The date-t budget constraint of the household is therefore3
+Z
+
+2.2
+
+cjtk dk = Anjt
+
+(2)
+
+The epidemic
+
+As in ERT, we assume that the population will be divided into four groups: the “susceptible” people
+of mass St , who are not immune and may still contract the disease but are not currently infected, the
+“infected” people of mass It , the “recovered” people of mass Rt and the dead of mass Dt . We assume
+that the risk of becoming infected, and the rate of death or recovery do not depend on the sector of
+work, but exclusively depend on consumption interactions. Our focus here is on the sectoral shift in
+consumption: for simplicity and in contrast to ERT, we assume that infected individuals continue to
+work at full productivity, but that the disease can only spread due to interacting consumers. We show
+in subsection 3.2, that this is similar to a model, where the infection can only spread via the workplace.
+In our robustness analysis, we also allow for the additional, purely mechanical possibility of autonomous
+transmissions from infected to susceptible individuals, regardless of their choices.
+Di↵erent goods or, perhaps better, di↵erent ways of consuming rather similar goods di↵er in the
+contagiousness. To that end, we assume that there is an increasing function
+
+: [0, 1] ! [0, 1], where
+
+(k) measures the degree of social interaction or relative contagiousness of consumption in sector k (or
+variety k of a consumption good). We normalize this function to integrate to unity,
+Z
+
+(k)dk = 1
+
+(3)
+
+Consider an agent j, who is still “susceptible”: we denote this agent therefore with “s” rather than
+j. This agent is consuming the bundle (cstk )k2[0,1] at date t. Symmetrically, let (citk )k2[0,1] denote the
+consumption bundle of infected people. Extending ERT, we assume that the probability ⌧ts for an agent
+of type s to become infected depends on his own consumption bundle, on the total mass of infected
+people and their consumption choices, and the degree (k) to which infection can be spread per unit of
+consumption in sector k,
+
+⌧ t = ⇡s I t
+
+Z
+
+(k)cstk citk dk + ⇡a It ,
+
+(4)
+
+where ⇡s is a parameter for the social-interaction infection risk. For the robustness exercise later on, we
+have also included the autonomous infection risk parameter ⇡a . With (4), the total number of newly
+3 Di↵erent from ERT, we do not feature a tax-like general consumption discouragement and thus no government transfers.
+We also abstract from capital and thus from intertemporal savings decisions, at they do.
+
+6
+
+infected people is given by
+
+T t = ⌧t S t
+
+(5)
+
+The dynamics of the four groups now evolves as in a standard SIR epidemiological model,
+St+1
+
+=
+
+St
+
+Tt
+
+(6)
+
+It+1
+
+=
+
+I t + Tt
+
+Rt+1
+
+=
+
+R t + ⇡r I t
+
+(8)
+
+Dt+1
+
+=
+
+D t + ⇡d I t
+
+(9)
+
+Popt+1
+
+=
+
+Popt
+
+(⇡r + ⇡d )It
+
+(7)
+
+Dt
+
+(10)
+
+where ⇡r is the recovery rate and ⇡d is the death rate, and where Popt denotes the mass of the total
+population at date t. As in ERT, we assume that the epidemic starts from initial conditions I0 = ✏ and
+S0 = 1
+
+2.3
+
+✏, as well as R0 = D0 = 0.
+
+Choices
+
+We proceed to analyze the choices of the individuals.
+Susceptible people:
+
+Denote as Uts (Uti ) the lifetime utility, from period t on, of a currently susceptible
+
+(infected) individual. As in ERT, the lifetime utility Uts follows the recursion
+Uts = u(cst , nst ) + [(1
+
+s
+i
+⌧t )Ut+1
++ ⌧t Ut+1
+]
+
+(11)
+
+where the probability ⌧t is given in equation (4) and depends on the choice of the consumption bundle
+(cstk )k2[0,1] . An s-person maximizes the right hand side of (11) subject to the budget constraint (2) and
+the infection probability constraint (4), by choosing labor nst , the consumption bundle (cstk )k2[0,1] and
+the infection probability ⌧t .
+The first-order condition for consumption of cstk is
+u1 (cst , nst ) ·
+where
+
+s
+bt
+
+and
+
+✓
+
+⌧t
+
+cst
+cstk
+
+◆1/⌘
+
+=
+
+s
+bt
+
++
+
+⌧ t ⇡s I t
+
+(k)citk
+
+(12)
+
+are the Lagrange multipliers associated with the constraints (2) and (4). This equation
+
+7
+
+can be rewritten as
+u1 (cst , nst ) ·
+
+✓
+
+cst
+cstk
+
+◆1/⌘
+
+=
+
+s
+bt
+
++ ⌫t (k)citk
+
+(13)
+
+where
+
+⌫ t = ⇡s I t
+
+(14)
+
+⌧t
+
+Equation (13) reveals, that the risk of becoming infected induces an additional goods-specific component,
+scaled with the aggregate multiplicator ⌫t , compared to the usual first order conditions for Dixit-Stiglitz
+consumption aggregators (at constant prices across goods). In the absence of the impact of consumption
+on infection
+
+rt
+
+= ⌫t = 0 and there is no consumption heterogeneity across sectors, cstk = cst for all k, as
+
+in the standard model. In the presence of this e↵ect, then susceptible households shift their consumption
+to sectors with low risk of infection (i.e. those with a low (k)citk ).
+Taking the consumption profile of infected households (citk ) as given, by choosing her consumption
+portfolio a susceptible individual e↵ectively chooses her infection probability ⌧t . As in ERT, the first-order
+condition for ⌧t reads as
+s
+(Ut+1
+
+i
+Ut+1
+)=
+
+(15)
+
+⌧t
+
+The first-order condition with respect to labor is completely standard and reads as
+u2 (cst , nst ) + A
+
+s
+bt
+
+=0
+
+(16)
+
+Note that we have excluded the workplace infection, in contrast to ERT. We examine this possibility in
+subsection 3.2 below. With the chosen utility function, this first order condition simplifies to:
+✓nst = A
+
+s
+bt
+
+(17)
+
+Infected people and recovered people:
+Uti = u(cit , nit ) + [(1
+
+⇡r
+
+As in ERT, the lifetime utility of an infected person is
+
+i
+r
+⇡d )Ut+1
++ ⇡r Ut+1
++ ⇡d ⇥ 0]
+
+8
+
+(18)
+
+Taking first order conditions with respect to the consumption choices and labor results in
+u1 (cst , nst ) ·
+where
+
+i
+bt
+
+✓
+
+cit
+citk
+
+◆1/⌘
+
+=
+
+i
+bt ,
+
+(19)
+
+is the Lagrange multiplier on (2) for an infected person. This is the usual Dixit-Stiglitz CES
+
+first order condition at constant prices, with solution
+citk ⌘ cit
+
+(20)
+
+That is, as long as ⌘ 2 (0, 1), infected individuals find it optimal to spread their consumption evenly
+across sectors, given that all sector goods have the same price, are imperfect substitutes, and di↵erential
+infection probabilities across sectors are irrelevant for already infected individuals. Exploiting this result
+and the specific form of the period utility function (which implies u1 (c, n) = 1/c) in equation (19) yields
+1/cit =
+
+i
+bt .
+
+For labor, we obtain the standard first order condition
+
+✓nit = A
+
+i
+bt
+
+=
+
+A
+cit
+
+(21)
+
+Finally, exploiting the budget constraint (2), we arrive at the equilibrium allocations for infected people
+given by
+1
+A
+nit = p , cit = p
+✓
+✓
+Likewise, the lifetime utility for a recovered person is
+r
+Utr = u(crt , nrt ) + Ut+1
+
+(22)
+
+Given our assumptions, the optimal decision for both the i group and r group is the same4 : we will
+therefore use cit , cit,k , nit and
+
+i
+bt
+
+to also denote the choices of recovered individuals.
+
+4 Note here that we implicitly assume that infected people will be fully at work. One might alternatively wish to assume
+that only a fraction of them are at work instead. Given our assumptions about excluding infections in the work place, this
+does not a↵ect the infection rate via that channel. However, lowering the amount of income of infected people lowers their
+consumption and thus lowers their ability to infect others in the consumption market. We do not wish to emphasize this
+channel, though: in a somewhat richer model, people will have a bu↵er stock of savings, and an infected person would then
+draw on these savings to finance consumption rather than respond to the temporary decline in labor income. Alternatively,
+income may fall considerably less in practice than the model would otherwise imply here, due to various social insurance
+policies.
+
+9
+
+2.4
+
+Equilibrium Characterization
+
+In equilibrium, each individual solves her or his maximization problem, and the labor and goods market
+has to clear in every period. Let ntk be total labor employed in sector k. The market clearing conditions
+then read as:
+St cstk + (It + Rt )citk
+Z
+ntk dk
+
+=
+
+Antk
+
+(23)
+
+=
+
+St nst + (It + Rt )nit
+
+(24)
+
+Given the solution to the problem of infected and recovered people, this can be simplified to
+A
+St cstk + (It + Rt ) p
+✓
+Z
+ntk dk
+
+=
+
+Antk
+
+=
+
+1
+St nst + (It + Rt ) p
+✓
+
+The equations can be simplified further to a set of aggregate variables as well as an equation determining
+the sectoral allocation, see appendix section B.
+
+3
+3.1
+
+Theoretical Results
+Two extremes
+
+It is instructive to consider extreme values for the elasticity of substitution ⌘. The first extreme is an
+elasticity of substitution of zero such that the consumption aggregator is of the Leontie↵ form.
+Proposition 1. Suppose that ⌘ = 0, i.e. that the consumption aggregation in (1) is Leontie↵. In that
+case, the multisector economy is equivalent to a multisector economy with a -function, which is constant
+and equal to 1,
+Proof. With Leontie↵ consumption aggregation, consumption is sector independent, cjtk ⌘ cjt . Equations
+(4) and (5) now become
+
+⌧ t = ⇡s I t
+
+Z
+
+(k)cst cit dk = ⇡s It cst cit
+
+Z
+
+(k)dk = ⇡s It cst cit
+
+(25)
+
+and
+
+T t = ⇡s S t I t
+
+Z
+
+(k)cstk citk dk = ⇡s St It cst cit
+
+(26)
+
+10
+
+Equations (25) and (26) furthermore show, that the Leontie↵ version is equivalent to the one-sector
+economy in ERT.
+The other extreme is the case where goods are perfect substitutes.
+Proposition 2. Suppose that ⌘ ! 1, i.e. that the sector-level consumption goods in (1) are perfect
+substitutes in the limit, Let k = supk {k | (k) = (0)}. Assume that k > 0, i.e. that there is a nonzero
+mass of sectors with the lowest level of infection interaction. Suppose that I0 > 0. Then there is a limit
+consumption cjtk for j 2 {s, i, r} as ⌘ ! 1, satisfying
+
+cstk =
+
+and
+
+8
+>
+< cs /k
+t
+>
+:
+
+0
+
+for k < k
+
+(27)
+
+for k > k
+
+cjtk ⌘ cjt for j 2 {i, r}
+
+(28)
+
+Equations (4) and (5) are replaced by
+⌧t = ⇡s (0)It cst cit
+
+(29)
+
+Tt = ⇡s (0)St It cst cit
+
+(30)
+
+and
+
+That is, susceptible individuals only consume in the lowest infection-prone sectors with (k) = (0),
+and infected (as well as recovered) individuals consume uniformly across all sectors.
+Proof. Equation (28) is just equation (20), which also holds for recovered agents: it will therefore also
+hold, when taking5 the limit ⌘ ! 1. Equation (27) follows from (14) together with (1), taking ⌘ ! 1.
+Define the consumption distribution of type j 2 {s, i, r} as jt (k) = cjtk /cjt and note that
+Z
+
+jt (k)dk = 1
+
+(31)
+
+and that
+jt (k)
+
+0, all k
+
+(32)
+
+5 Note that it does not necessarily hold at the limit, as infected and recovered agents there are indi↵erent as to which
+goods to consume
+
+11
+
+Rewrite (4) and (5) as
+⌧t = ⇡s It cst cit
+
+Z
+
+(k)st (k)it (k)dk
+
+(33)
+
+Therefore and analogously to ERT, the total number of newly infected people is given by
+
+T t = ⇡s S t I t
+
+Z
+
+(k)st (k)it (k)dk
+
+(34)
+
+Equations (29) and (30) now follow from observing that it (k) ⌘ 1 and st (k) = 1/k for k 2 [0, k] and
+zero elsewhere as well as noting that (k) = (0) for k 2 [0, k].
+Equations (29) and (30) also show, that the limit is equivalent to the one-sector economy in ERT,
+with ⇡s replaced by ⇡s (0). Infection only takes place in the sector with lowest infection hazard, thus
+introducing the extra factor
+
+(0). The size of the sector, however, does not enter. With a smaller
+
+size of that sector and with equal distribution of infected agents across all sectors, susceptible agents
+meet a smaller fraction of infected agents in that sector on the one hand, a mitigating force. On the
+other hand, the consumption activity of susceptible agents in these sectors rises, an enhancing force.
+These two exactly cancel. Given that the size of the sector with lowest infection hazard does not matter
+at both extreme ends given in propositions 1 and 2, one might conjecture that it is never relevant.
+However, numerical simulations indicate, that larger rates of infection occur if that sector is smaller, for
+substitution elasticies 0 < ⌘ < 1.
+Proposition 2 above exploits the fact that infected agents wish to spread their consumption equally
+across all sectors for any finite value of ⌘. At the limit ⌘ = 1, infected agents are entirely indi↵erent,
+though. At the one extreme, they might consume rather large portions of the low-k goods. At the other
+extreme, they stick to each other in the high-infection-risk segments, and not consume the low-k-goods
+at all. In that latter case, the infection probabilities become zero and the spread of the disease is stopped
+entirely. The following proposition provides the resulting range for the infection probabilities.
+Proposition 3. Suppose that ⌘ = 1, i.e. that the sector-level consumption goods in (1) are perfect
+substitutes. Let µt be any function of time satisfying
+
+0  µt  µ̄
+where µ̄ is defined as
+
+µ̄ = R
+
+1
+
+(35)
+
+1
+(k) dk
+
+12
+
+and note that it satisfies
+
+(0)  µ̄  1
+
+(36)
+
+Then there is an equilibrium with equations (4) and (5) replaced by
+⌧t = ⇡s µt It cst cit
+
+(37)
+
+Tt = ⇡s µt St It cst cit
+
+(38)
+
+and
+
+Proof. We first show (36). For the lower bound, note that
+Z
+
+1
+
+(k)
+
+Z
+
+1
+1
+=
+(0)
+(0)
+
+The upper bound follows from Jensen’s inequality and (3). We next shall show, that there is an equilibrium, when µt equals one of the two bounds. Given the consumption distribution function it , note that
+the problem of the susceptible agents is to choose their own consumption distribution function st so as
+to minimize (33), subject to the constraints (31) and (32). The Kuhn-Tucker first order condition imply
+that st (k) = 0, unless
+k 2 {k | (k)it (k) = min (k)it (k)}
+For µt = 0, let infected agents consume zero, it (k) = 0 for all k in some subset K of [0, 1]. In that case
+and per the argument just provided, susceptible people choose st (k) > 0 only if k 2 K. Conversely, the
+worst case scenario in terms of infection arises, if (k)it (k) is constant. Given (31), this yields
+it (k) =
+
+µ̄
+(k)
+
+(39)
+
+Given this it function, susceptible agents are now indi↵erent in their consumption choice. Any st
+function satisfying (31) and (32) then results in
+Z
+
+st (k)it (k)dk = µ̄
+
+and thus (37) and (38) at µt = µ̄, i.e. the upper bound. Finally, let 0 < µt < µ̄ and let
+
+13
+
+= µt /µ̄. Let K
+
+be a measurable subset of [0, 1] with mass strictly between 0 and 1. Set
+
+it (k) =
+
+8
+>
+<
+
+>
+: ˜
+
+µ̄
+(k) ,
+
+for k 2 K
+
+µ̄
+(k) ,
+
+for k 2 [0, 1]\K
+
+where ˜ is chosen such that (31) holds. Then, susceptible agents will choose st (k) = 0 for all k 2 [0, 1]\K,
+are indi↵erent between k 2 K, and (37) and (38) hold true for the chosen µt .
+The proposition shows, that the perfect substitutability might be nearly as bad as the Leontie↵
+case, if infected people behave particularly badly and distribute their consumption according to (39).
+Equations (37) and (38) are then the same equations as in the ERT model with ⇡s replaced by ⇡s µ̄. On
+the other hand, perfect substitutability can also result in the most benign scenario of a zero spread of
+consumption, if infected and susceptible people simply consume di↵erent goods.
+There are fascinating policy lessons in here. Given that infected people will end up seeking services
+and consumption, it might be best to encourage them to seek out those types, where the degree of
+interaction is high, rather than forcing all agents, including the infected agents, into the low infection
+transmission segments. The model here shows that this can have dramatic consequences for the spread
+of the disease.
+
+3.2
+
+Infections in the Labor Market
+
+Thus far we have assumed that infections can take place when acquiring consumption goods. We could
+have similarly allowed for heterogeneity in labor and assumed that it is at work in the labor market where
+individuals face the risk of contracting the virus. We explore this possibility in this section, o↵ering two
+alternative approaches, and shall show that the formal analysis is conceptually similar and, for the first
+approach, actually equivalent to the model analyzed above. In economic terms and interpretation, the
+key distinction is arguably less in the formal di↵erences between both versions of the model, but rather
+in the empirically plausible choice for the elasticity of substitution ⌘: while it may be possible to easily
+substitute between di↵erent types of similar consumption goods (“Pizza at home” versus “Pizza in a
+restaurant”), the same may not be true for work (restaurants will still have to produce the to-be-delivered
+pizza in the restaurant kitchen, rather than having their workers stay at home and produce in their own
+kitchens). Our results for the lower elasticity of substitution ⌘ = 3 may thus be more appropriate for the
+analysis of infection-at-the-work-place. In the extreme without substitution possibilities, we are back at
+the homogeneous sector case.
+
+14
+
+As for the formal analysis, maintain the assumption that the period utility function is given by
+
+u(c, n) = log(c)
+
+✓
+
+n2
+2
+
+(40)
+
+but now assume that consumption c is a homogeneous good, while household labor n is a composite of
+di↵erentiated sector-specific labor nk , k 2 [0, 1]. For the first, production-based approach to aggregation,
+assume that labor supplied by the household to the market is a CES composite of sector-specific labor,
+R
+i.e. that n = nk dk as far as preferences are concerned, but that the budget constraint reads
+c=A
+
+✓Z
+
+1 (1/↵)
+
+nk
+
+dk
+
+◆↵/(↵
+
+1
+
+(41)
+
+Assume now, that infections occur in the labor market instead of per joint consumption, i.e. assume
+that the probability of a susceptible individual to become infected is given by
+
+⌧t = ⇡
+˜ s It
+
+Z
+
+(k)nitk nstk dk + ⇡a It
+
+(42)
+
+In Appendix C we establish the following result.
+Proposition 4. Suppose that ⇡
+˜s = A2 ⇡s and that ↵ = ⌘. In that case, the production-based labor aggregation with infection in the labor market is equivalent to the consumption-infection economy described
+above, i.e. all aggregates remain the same, while nstk /nst = cstk /cst , when comparing the ratio of sectorspecific labor to the labor aggregate in the labor-market-infection economy to the ratio of sector-specific
+constumption to the consumption aggregate in the consumption-infection economy.
+For this formal equivalence, it is important that the aggregation (41) takes place at the household level
+and not at the firm level, i.e. in firms hiring labor from di↵erent households. The latter would provide
+an interesting alternative environment for studying the sectoral shift issues raised here, but requires
+additional restrictions to preclude complete separation of infected and susceptible agents in equilibrium.
+The household-level labor aggregation described above may be be hard to envision as an environment
+for sector-specific contagion risk. We therefore o↵er a second, preference-based approach. For that, think
+of the household as composed of individual workers, each specialized to work in sector k, and that total
+household leisure, described by ` = f (n) for some strictly decreasing and di↵erentiable function6 f is a
+CES-aggregate of worker-specific leisure,
+
+f (n) =
+6 Useful
+
+✓Z
+
+f (nk )1
+
+1/↵
+
+dk
+
+◆↵/(↵
+
+specifications are f (n) = L̄
+
+1)
+
+(43)
+
+n for some time endowment L̄ or f (n) = 1/n.
+
+15
+
+for some elasticity of substitution ↵
+
+R
+0. The household budget constraint is c = A nk dk. The proba-
+
+bility of infection is given by (42). This economy shares the the same basic forces as the heterogeneous
+
+consumption sector economy, although its analysis it is not exactly equivalent. In Appendix C we demonstrate this more formally. The remarks here are simply meant to show that the mechanisms in both types
+of labor-infection-based models are rather similar to our baseline consumption-based-infection economy
+indeed. We therefore skip a full quantitative analysis and do not to integrate this feature into the ensuing
+analysis.
+
+4
+
+Social Planning Problem
+
+It is instructive to compare our results to that of a social planner with the ability to test individuals,
+i.e. with full knowledge of who is susceptible, infected or recovered. However, in the same way the
+agents in our model the planner cannot separate the infected from the susceptible (and recovered), when
+they consume (that is, the planner cannot change the consumption technology). Therefore, as in the
+decentralized economy, the spread of the disease while consuming can at best be mitigated by allocating
+consumers to low-infectious sectors. The social planner maximizes date-0 aggregate social welfare W0 ,
+where
+
+W0 =
+
+1
+X
+
+t
+
+t=0
+
+⇥
+
+St u (cst , nst ) + It u cit , nit + Rt u (crt , nrt )
+
+⇤
+
+subject to the following constraints, and with the respective Lagrangian multipliers, after substituting
+out the infection risk for susceptible people, ⌧t , and the number of newly infected people, Tt :
+µf,t :
+µS,t :
+µI,t :
+µR,t :
+
+R
+
+St cstk + It citk + Rt crtk dk = A St nst + It nit + Rt nrt
+
+St = St 1 It + (1
+R
+I t = ⇡s S t 1 I t 1
+(k)cst 1,k cit
+R t = Rt
+
+1
+
+⇡r
+1,k dk
+
++ ⇡r I t
+
+⇡d ) I t
++ (1
+1
+
+(44)
+(45)
+
+1
+
+⇡r
+
+⇡d ) I t
+
+1
+
+(46)
+(47)
+
+The social planner takes S0 , I0 and R0 as given. It chooses the time paths of consumptions for susceptible,
+infected and recovered people cxkt for x 2 {s, i, r}, the path for labor supply nxt , x 2 {s, i, r}, and the
+paths for the mass of agents in the four groups St , It , and Rt . The first order conditions of the social
+planner’s problem are presented in Appendix D.
+
+16
+
+5
+
+Quantitative results
+
+5.1
+
+Computational Strategy
+
+The unknowns to be carried around (aside from the sector-specific consumption): Uts , cst , nst ,
+
+s
+bt , ⌫t , ⌧t .
+
+The equations determining these variables are the Bellman equation (11), the budget constraint (2), the
+infection constraint (B.8), the share constraint (B.5) replacing the original first order condition with
+respect to consumption, the first order condition with respect to labor (16) and the first order condition
+with respect to ⌧ (15) combined with (14). One can easily eliminate
+
+bt
+
+and nst , using (2) and (16),
+
+as well as eliminate ⌫t with (14) and (15): what remains then is a system in three unknowns Uts , cst , ⌧t
+and three equations, two of which are nonlinear integral equations, that would need to be solved. The
+s
+way to proceed is from a distant horizon, and working backwards. Knowing Ut+1
+allows one to compute
+
+⌫t with (14) and (15). Using the two integral equations (having substituted out
+
+s
+bt
+
+and nst ) allows
+
+one to compute cst and ⌧t . From there compute nt with (2) and Uts . We use Dynare to perform these
+calculations.
+
+5.2
+
+Parameterization
+
+We choose parameters much in line with Eichenbaum et al. (2020) and summarize them in Table 1.
+Given that our infection interaction only takes place in the consumption sector, we choose ⇡s so that we
+obtain their 10-percent decline in consumption in a homogeneous-sector economy, see Fig. 1. We mostly
+investigate a two-sector economy, where both sectors are of equal size, and sector 1 has infection intensity
+1
+
+satisfying 0 < (k) =
+
+1
+
+< 1 for k 2 [0, 0.5]. Given the maintained assumption that the average (k)
+
+is equal to one, this implies that
+calibration, implying
+
+2
+
+2
+
+= 2
+
+1
+
+for k 2 (0.5, 1]. We pick
+
+1
+
+= 0.2 for our benchmark
+
+= 1.8. We set ⌘ = 10 as well as, alternatively, ⌘ = 3. We also investigate higher
+
+values for ⌘, in order to compare to the limit case discussed in Proposition 2.
+In contrast to ERT, we shut down the autonomous infection possibility ⇡a for our benchmark calculations, resulting in a considerably lower number of ultimately recovered agents and a lower peak of
+infected agents, compared to their results. For comparison and robustness, we also provide a version of
+our main results, when allowing for autonomous infection possibility ⇡a , with parameters set so that the
+consumption decline in the homogeneous sector case remains at 10 percent at its bottom, but targeting
+a ratio of around 50 percent for the share of recovered people in the long run, as in their results.
+
+17
+
+Table 1: Parameter Values
+Parameter
+⇡s
+⇡r
+⇡d
+⇡a
+⌘
+✓
+A
+1
+1
+2
+2
+
+⇡=0
+4.05 ⇥ 10
+0.387
+1.944 ⇥ 10
+0.000
+10.000
+1.275 ⇥ 10
+39.835
+0.961/52
+0.200
+0.500
+1.800
+0.500
+
+7
+3
+
+3
+
+⇡ 6= 0
+
+1.77 ⇥ 10
+0.387
+1.944 ⇥ 10
+0.340
+10.000
+1.275 ⇥ 10
+39.835
+0.961/52
+0.200
+0.500
+1.800
+0.500
+
+Description
+7
+3
+
+3
+
+Infection intensity
+Recovery rate
+Death rate
+Autonomous Infection Intensity
+Elasticity of substitution
+Labor supply parameter
+Productivity
+Discount factor
+Intensity of interaction in the low-interaction sector
+Size of the low-interaction sector
+Intensity of interaction in the high-interaction sector
+Size of the high-interaction sector
+
+Figure 1: Comparison of our baseline model with a homogeneous-sector economy.
+
+18
+
+6
+
+Results
+
+We now present our results, starting in Section 6.1 with the findings for our benchmark economy with two
+sectors and contrasting them to the representative sector economy of ERT. We then explore, in Section
+6.2 the sensitivity of the results to the inclusion of more than two sectors, as well as the possibility
+that some infections occur through non-economic interactions. Finally, we contrast the findings from the
+decentralized economy with the allocations chosen by a social planner in Section 6.3.
+
+6.1
+
+Results for the Benchmark Economy
+
+Our simulations show that a heterogeneous-sector economy delivers a lower infection rate, as compared to
+a homogeneous-sector economy. Fig. 1 contains a comparison of the homogeneous-sector case
+
+⌘ 1 as in
+
+ERT (the doted black line) with our heterogeneous-sector case for our baseline elasticity of substitution
+⌘ = 10 (solid blue line) as well as the alternative value ⌘ = 3 (dashed green line). In the event of a virus
+outbreak, susceptible households are able to substitute consumption goods from the high-infection sector
+with goods from the low-infection sector, while maintaining a relatively stable consumption path. Such a
+behaviour lowers the risk of being infected from participating in high-infection activities. As a result, the
+infection rate is only a fraction of that in a homogeneous-sector economy. Both the consumption decline
+and the number of deaths are considerably mitigated. For our baseline parameterization of ⌘ = 10,
+consumption declines by no more than 2 percent, and even for ⌘ = 3, the consumption decline is a more
+modest 4 percent rather than 10 percent, at its steepest point. The results are actually stronger in
+terms of measured consumption rather than the consumption composite shown in the second panel at
+the bottom. From the resource constraint, measured consumption is equal to measured labor and thus,
+given the production technology, equal to measured output. The decline in labor for ⌘ = 10 is just 1.3%
+rather than 10%, i.e. 87% of the measured output loss is avoided due to the substitution of consumption
+across sectors. The infection curve is considerably flattened as well, compared to the homogeneous-sector
+case.
+For the deceased, the left panel of Fig. 9 shows the ratio of the heterogeneous sector scenario to that
+of the homogeneous sector case. Around week 50, i.e. around a year after the outbreak, the ratio declines
+to less than 20 percent for the ⌘ = 10 heterogeneous-sector scenario, compared to the homogeneous case.
+The ratio then starts climbing again and gradually. While we show these results, one probably wants to
+take into account that proper testing, vaccination and cures will likely be available two years from now,
+if needed. Therefore, the first 100 weeks is probably the truly relevant range of the simulations.
+The comparison of ⌘ = 3 to ⌘ = 10 in Fig. 1 shows the importance of the substitution mechanism
+between goods: with a higher elasticity of substitution, households are more willing to substitute into
+
+19
+
+Figure 2: Heterogeneous-sector economy: variations in ⌘.
+the low-infection-risk sectors. Fig. 2 contains a greater in-depth analysis of the role of ⌘. In cases where
+the elasticity of substitution is approaching infinity, i.e. ⌘ = 100 and ⌘ = 1000, the infection curve is
+not just flattened, it is reversed: the number of infected people decays on its own. This is consistent
+with Proposition 2. When goods from the two sectors are nearly perfectly substitutable, susceptible
+households consume exclusively from the low-infection sector, as depicted in Fig. 3.
+Fig. 1 already shows that the heterogeneous sector scenario with ⌘ = 10 predicts a considerable
+flattening of the infection curve. It does not take much of a parameter change to obtain a reversal of
+the infection curve. Fig. 2 has shown this already for higher values of ⌘, but a similar e↵ect holds with
+a slightly lower value for the infection parameter ⇡s . In Fig. 4, we decrease the value of ⇡s in the scale
+of 10
+
+9
+
+until the number of infected people is lower in period 1 than in period 0. This exercise results
+
+in a ⇡s value of 3.51 ⇥ 10
+
+7
+
+, or 87% of the calibrated value in Table 1. One can see how the number of
+
+infected agents declines on their own at the lower ⇡s value, shown in green dashed lines. Such a lower
+value for ⇡s might either reflect our still considerable uncertainty regarding the replication rate of the
+Coronavirus infection, or may reflect a modest success of non-economic policy measures, such as social
+distancing and enhanced personal hygiene.
+
+20
+
+Figure 3: Heterogeneous-sector economy: consumption dynamics.
+
+Figure 4: Reversal of the curve, when
+
+1
+
+= 0.2 and ⇡s at 87% of the calibrated value.
+
+21
+
+Figure 5: Consumption dynamics across
+
+6.2
+6.2.1
+
+1
+
+values.
+
+Sensitivity Analysis
+Varying infection risks
+
+Our choice of
+
+1
+
+= 0.2 implies a much lower risk of infection in the low-infection sector, as compared to
+
+the high-infection sector. In Fig. 5, we show the dynamics of aggregate consumption at varying values of
+1,
+
+with
+
+1
+
+= 0.1 representing the largest di↵erence in infection risk between the two sectors. Note that
+
+the average value of
+
+1
+
+and
+
+2
+
+is kept at 1. As the di↵erence in infection risks decreases, the decline in
+
+aggregate consumption is larger. It is also of interest to note that despite the larger decline, the economy
+recovers to a higher level in cases of larger
+that for smaller value of
+
+1,
+
+1
+
+values, two years after the epidemic. In Fig. 6, we show
+
+the deceased population is only a fraction of that in the homogeneous-sector
+
+scenario.
+6.2.2
+
+More than Two Sectors
+
+The model with two sectors is admittedly a stark (albeit transparent) representation of the U.S. economy.
+It is therefore of interest to examine the robustness of our findings in an economy with multiple sectors.
+Fig. 7 shows the outcome in an economy with nine sectors rather than just two, and the resulting shifts
+of economic activities across sectors. Sectors with lower infection, in general, experience an expansion as
+susceptible households substitute high-infection goods with low-infection ones. The e↵ect appears to be
+
+22
+
+Figure 6: Dynamics of deceased across
+
+1
+
+values.
+
+fairly linear rather than “heaping” all of the consumption on the lowest-infection sector. It is not quite
+linear, though: note that the distance of the lines increases with decreasing
+
+. Put di↵erently, some
+
+modest “heaping” does take place. Notably, the dynamics of aggregate consumption traces that of the
+two-sector economy rather closely.
+6.2.3
+
+Autonomous Infections
+
+For Fig. 8, we allow for the possibility of autonomous infections, outside the social consumption or labor
+activity, i.e. we allow for ⇡a 6= 0. For comparison with the results in ERT and the homogeneous sector
+case, we keep the target of a 10 percent consumption decline for the ERT economy, but now also impose
+the target of 50 percent recovered or deceased agents in the long run, see the black dotted line. Imposing
+⌘ = 10 now results in a consumption decline of 4 percent rather than the 2 percent calculated above. This
+is due to the infection dynamics, which keeps on going: given the autonomously large number of infected
+people in the economy, susceptible agents will choose to reduce their consumption more now. Likewise,
+the decline in the number of deaths is no longer quite as dramatic. The right panel of Fig. 9 shows the
+result: still, slightly more than 50 percent of the deaths (rather than 80 percent in the left panel) are
+avoided in the heterogeneous sector economy, compared to the homogeneous sector case, around 1 year
+after the outbreak. Given the considerable autonomous nature of the pandemic in this version of the
+model, we still view this as a remarkably large number. In any case and as argued in the introduction,
+23
+
+Figure 7: Consumption dynamics in a 9-sector economy.
+it is hard to think of a source of infection not related to social activity, and it is hard to think of social
+activity as not being some form of consumption or work, even if these activities are not accounted for in
+the National Income and Product Accounts. For these reasons, we view our results in Fig. 1 as ultimately
+more relevant.
+
+6.3
+
+Socially Optimal Allocations
+
+Lastly, we explore the solution to the social planner’s problem described in section 4. Fig. 10 shows the
+outcome of the social planner solution (green line) in comparison to our baseline decentralized economy
+with ⌘ = 10 (blue line) as well as the homogeneous-sector case (black-dotted line).7 The social planner
+essentially stops the outbreak dead in its tracks: the number of infected agents declines quickly, and
+is barely noticeable within a few weeks after the start of the outbreak. The social planner achieves
+this outcome by restricting consumption of infected agents in a Draconian manner, thereby hugely
+mitigating the infection risk and stopping the infection at the onset. Compared to the competitive
+equilibrium outcome, a planner with the power to distinguish between the health status of infected
+and susceptible therefore is even more successful in averting the epidemic. However, as we saw above,
+private incentives together with substitution possibilities across sectors makes the epidemic much more
+7 The social planner solution for the homogeneous sector case (not plotted) is practically indistinguishable from the
+planner solution for the heterogeneous sector economy: as far as aggregates chosen by a social planner are concerned,
+sector heterogeneity plays practically no role.
+
+24
+
+Figure 8: Dynamics with autonomous infection (⇡a 6= 0).
+
+Figure 9: Deceased as percentages of constant- scenario.
+
+25
+
+Figure 10: Heterogeneous-sector economy: social planning solution.
+benign already, relative to the one-sector economy studied in most of the literature. Thus, the wedge
+between equilibrium and socially optimal allocations is much smaller if private households are given more
+opportunity to shift activity away from highly infectious sectors. The additional powers a↵orded to the
+social planner are therefore less potent in our economy, relative to a world where private adjustments to
+the epidemic are more limited.
+Fig. 11 further illustrates how the consumption of infected people is restricted. In the baseline
+scenario, the per capita consumption of an infected household is restricted to less than 17% of its steady
+state of the non-infectious competitive equilibrium. In particular and due to the high substitutability
+between the goods in our baseline case of ⌘ = 10, nearly all the consumption of infected agents takes
+place in the low-infection sector. E↵ectively, the planner insulates with large infection risk from infected
+individuals. In an alternative case with lower elasticity of substitution, ⌘ = 3, the social planner does not
+impose quite as drastic a di↵erence across the sectors (since this would be very costly in terms of lifetime
+utility of the infected individuals, which the planner values), and rather lowers the total consumption
+of the infected agent to around 20% of the non-infectious steady state. In the homogeneous sector case,
+alternatively, the case for ⌘ = 0, consumption in both sectors is the same, as the dotted-black line shows:
+now, consumption for the infected is reduced to only 8 percent of the non-infectious steady state. It is
+in this treatment of the infected, where the sectoral substitution possibilities matter considerably.
+
+26
+
+Figure 11: Per capita consumption of infected people.
+One should take the social planner solution with a grain of salt, of course. Presumably, a really
+powerful social planner would entirely separate the infected and recovered people from the susceptible
+people. If this is technologically feasible, the disease cannot spread any further, and no consumption
+decline for the infected is needed. The formulation of our social planner problem precludes this possibility.
+In summary, our calculations and this remark shows that the possibility for containing the pandemic
+depends crucially on the tools available to the government, and they may involve imposing considerable
+hardship on a few (the initially infected) in order to rescue the many.
+
+7
+
+Conclusion
+
+Our paper is inspired by the macroeconomics-cum-SIR model of Eichenbaum et al. (2020). We depart
+from their analysis in that we permit substitution of consumption across sectors with di↵erent degrees
+of infection probabilities. We show that the resulting economic outcome di↵er dramatically as a result.
+With homogeneous sectors, we obtain a steep decline of economic activity, fully in line with ERT. If
+the substitution mechanism is activated, eighty percent of that decline is mitigated in our benchmark
+calibration and in the decentralized economy: the “curve” is flattened substantially, without much prolongation. Pushing the parameters a bit more and thus capturing that people practice additional social
+
+27
+
+distancing and hygiene, we show that infections may decline entirely on their own, simply due to the
+re-allocation of economic activity: the curve does not just get flattened, it gets reversed. One may view
+our results as the “Swedish” outcome: Sweden has largely avoided government restrictions on economic
+activity, allowing people to make their own choices. These private incentives and well-functioning laborand-social-insurance markets, we submit, may solve the COVID19-spread on their own, mitigating the
+decline in economic activity.
+
+References
+Adhmad, S. and D. Riker (2019, May). A method for estimating the elasticity of substitution and
+import sensitivity by industry. Economics WOrking Paper Series 2019-05-B, U.S. International Trade
+Commission.
+Alvarez, F., D. Argente, and F. Lippi (2020, April). A simple planning problem for covid-19 lockdown.
+Draft, University of Chicago.
+Atkeson, A. (2020, March). What will be the economic impact of covid-19 in the us? rough estimates of
+disease scenarios. NBER WP No. 26867.
+Berger, D., K. Herkenho↵, and S. Mongey (2020). An seir infectious disease model with testing and
+conditional quarantine. BFI Working Paper NO. 2020-25.
+Correia, S., S. Luck, and E. Verner (2020, March). Pandemics depress the economy, public health
+interventions do not: Evidence from the 1918 flu. Draft.
+Dingel, J. and B. Neimann (2020). How many jobs can be done at home? Covid Economics: Vetted and
+Real-Time Papers.
+Eichenbaum, M., S. Rebelo, and M. Trabandt (2020, March). The macroeonomics of epidemics. Draft,
+Northwestern University.
+Fang, H., L. Wang, and Y. Yang (2020, March). Human mobility restrictions and the spread of the novel
+coronavirus (2019-ncov) in china. Working Paper 26906, National Bureau of Economic Research.
+Farboodi, M., G. Jarosch, and R. Shimer (2020). Internal and external e↵ects of social distancing in a
+pandemic. Working Paper, University of Chicago.
+Fernandez-Villaverde, J. (2010). The econometrics of DSGE models. SERIEs 1, 3–49.
+Glover, A., J. Heathcote, D. Krüger, and J.-V. Rios-Rull (2020, April). Health versus wealth: On the
+distributional e↵ects of controlling a pandemic. Draft.
+28
+
+Greenstone, M. and V. Nigam (2020). Does social distancing matter? (March 30, 2020). University of
+Chicago, Becker Friedman Institute for Economics Working Paper No. 2020-26. Available at SSRN:
+https://ssrn.com/abstract=3561244 or http://dx.doi.org/10.2139/ssrn.3561244.
+Guerrieri, V., G. Lorenzoni, L. Straub, and I. Werning (2020, March). Macroeconomic implications of
+covid-19: Can negative supply shocks cause demand shortages? Draft, MIT.
+Kaplan, G., B. Moll, and G. Violante (2020, March). Pandemics according to HANK. Draft, University
+of Chicago.
+Leibovici, F., A. M. Santacreu, and M. Famiglietti (2020). Social distancing and contact-intensive
+occupations. On the economy, St. Louis FED.
+Mongey, S. and A. Weinberg (2020, March). Characteristics of workers in low work-from-home and high
+personal-proximity occupations. Draft, University of Chicago.
+Toxvaerd, F. (2020). Equilibrium social distancing. Cambridge-INET Working Paper 2020/08.
+
+29
+
+A
+
+Two-sector simulations
+
+The consumer interaction indicator (k) is defined piece-wisely as
+
+(k) =
+
+where
+
+8
+>
+>
+<
+>
+>
+:
+
+1
+
+k 2 [0, )
+
+2
+
+k 2 [ , 1]
+
+is the size of the sector with lower consumer interactions. For each sector j 2 {1, 2}, there is
+
+a first-order condition with respect to cxjt , where x 2 {s, i, r}. The equations for infected and recovered
+people are substituted out, because their consumption and labor are constant. The following equations
+consist the system delivering the paths of key variables.
+1/⌘ 1
+1
+cst
+1/⌘ 1
+2
+cst
+
+⇣
+⇣
+
+cst
+cs1t
+cst
+cs2t
+
+⌘1/⌘
+⌘1/⌘
+
+cs1t + cs2t
+cst
+⌧,t
+
+Uts
+Uti
+
+✓ s
+n + ⇡s I t
+A t
+✓
+= nst + ⇡s It
+A
+=
+
+= Anst
+h
+1/⌘
+= 1 cs1t 1
+
+A
+✓
+A
+2p
+✓
+
+⌧,t 1 p
+
+(A.1)
+
+⌧,t
+
+(A.2)
+(A.3)
+
+1/⌘
+
++
+
+s
+Ut+1
+⇥
+= u (cst , nst ) + (1
+
+1/⌘ s 1 1/⌘
+2 c2t
+
+i
+Ut+1
+
+=
+
+= u ci , ni +
+
+(1
+
+i ⌘⌘ 1
+
+s
+i
+⌧t ) Ut+1
++ ⌧t Ut+1
+i
+⇡d ) Ut+1
+
+(A.4)
+(A.5)
+⇤
+
+(A.6)
+(A.7)
+
+Tt
+
+A
+= p ⇡s I t (
+✓
+= ⌧t S t
+
+St
+
+=1
+
+It
+
+Rt
+
+= Rt
+
+1
+
++ ⇡r I t
+
+1
+
+(A.11)
+
+Dt
+
+= Dt
+
+1
+
++ ⇡d I t
+
+1
+
+(A.12)
+
+It
+
+= Tt
+
+⌧t
+
+1
+
+s
+1 c1t
+
+Rt
+
++ (1
+
++
+
+s
+2 c2t )
+
+(A.8)
+(A.9)
+
+Dt
+
+⇡d
+
+(A.10)
+
+⇡r ) I t
+
+1
+
++ 1t=1 "
+
+(A.13)
+
+Note that the time convention of disease dynamics is modified for implementation in Dynare. An MIT
+shock of size 0.001 is added to (A.13) in period 1. The paths of aggregate consumption and labor are
+given by
+A
+Ct = St cst + (It + Rt ) p
+✓
+1
+s
+Nt = St nt + (It + Rt ) p
+✓
+
+(A.14)
+(A.15)
+
+30
+
+B
+
+Eliminating cstk
+
+p
+Note that citk = A/ ✓. Let us reexamine (13) and write it as
+✓
+
+cst
+cstk
+
+◆1/⌘
+
+= xtk
+
+(B.1)
+
+where we define
+xtk = cst
+
+⇣
+
+s
+bt
+
+p ⌘
++ ⌫t (k)A/ ✓
+
+(B.2)
+
+Rewrite (B.1) as
+cstk = xtk⌘ cst
+
+(B.3)
+
+Thus
+(cstk )1
+
+1/⌘
+
+= x1tk ⌘ (cst )1
+
+1/⌘
+
+(B.4)
+
+and integrate
+Z
+
+(cstk )1
+
+1/⌘
+
+dk =
+
+Z
+
+x1tk ⌘ dk ⇥ (cst )1
+
+Taking this to the power ⌘/(⌘
+cst =
+
+✓Z
+
+x1tk ⌘ dk
+
+◆⌘/(⌘
+
+1/⌘
+
+1) finally yields
+
+1)
+
+cst
+
+or the constraint
+
+1=
+
+✓Z
+
+x1tk ⌘ dk
+
+◆⌘/(⌘
+
+1)
+
+This can be simplified to
+
+1=
+
+Z
+
+x1tk ⌘ dk
+
+(B.5)
+
+31
+
+or
+✓Z ⇣
+
+cst =
+
+s
+bt
+
+p ⌘1
++ ⌫t (k)A/ ✓
+
+⌘
+
+dk
+
+◆1/(1
+
+⌘)
+
+(B.6)
+
+Thus, (4) and (5) can be rewritten as
+⌧t
+
+=
+
+⇡s I t
+
+=
+
+⇡s It
+
+Z
+
+p
+(k)x⌘tk cst A/ ✓dk
+
+Z
+
+(k)
+
+⇣
+
+(B.7)
+
+p ⌘
+s
+bt + ⌫t (k)A/ ✓
+
+⌘
+
+(cst )1
+
+⌘
+
+p
+A/ ✓dk
+
+(B.8)
+
+and
+Tt
+
+=
+
+⇡s S t I t
+
+=
+
+C
+
+⇡s S t I t
+
+Z
+Z
+
+p
+(k)x⌘tk cst A/ ✓dk
+(k)
+
+⇣
+
+p ⌘
+s
+bt + ⌫t (k)A/ ✓
+
+(B.9)
+⌘
+
+(cst )1
+
+⌘
+
+p
+A/ ✓dk
+
+(B.10)
+
+Details for the Heterogeneous Labor Economy
+
+Proof of Proposition 4. To see the similarities and di↵erences between the heterogeneous consumptionand heterogeneous labor economy more formally, observe that the first order conditions for infected
+p
+p
+and recovered agents are unchanged. In particular, we obtain cit = citk ⌘ A/ ✓ and nit = nitk = 1/ ✓,
+regardless as to whether consumption or labor is heterogeneous and regardless of the particular approach
+taken for labor heterogeneity. It therefore suffices to examine the first order conditions for susceptible
+agents.
+For the consumption-infection baseline model, the first-order conditions can be summarized by
+1
+cst
+
+✓
+
+cst
+cstk
+
+◆1/⌘
+
+✓ s
+n = ⇡s
+A t
+
+A
+It
+✓
+
+k ⌧t p
+
+(C.1)
+
+while the aggregation constraint and budget constraint are
+cst
+
+=
+
+Anst
+
+=
+
+✓Z
+Z
+
+1 1/⌘
+(cstk )
+
+dk
+
+◆⌘/(⌘
+
+1)
+
+cstk dk
+
+Define nstk = cstk /A and rewrite these two equations equivalently as
+cst
+
+=
+
+nst
+
+=
+
+A
+Z
+
+✓Z
+
+(nstk )
+
+1 1/⌘
+
+dk
+
+◆⌘/(⌘
+
+1)
+
+(C.2)
+
+nstk dk
+
+(C.3)
+
+32
+
+Recall that the infection probability is given by equation (4). Substituting out the solution for cit as well
+as cstk with Anstk = cstk , it can be restated as
+⌧ t = ⇡s I t
+
+Z
+
+A
+(k)Anstk dk p + ⇡a It ,
+✓
+
+(C.4)
+
+For the production-based heterogeneous-labor model, the first-order conditions can be summarized
+by
+1
+cst
+
+✓
+
+nst
+nstk
+
+◆1/↵
+
+✓ s
+⇡
+˜s
+nt =
+A
+A
+
+1
+It
+✓
+
+k ⌧t p
+
+(C.5)
+
+while the aggregation constraint and budget constraint are
+cst
+
+=
+
+nst
+
+=
+
+A
+Z
+
+✓Z
+
+1 1/↵
+(nstk )
+
+dk
+
+◆↵/(↵
+
+1)
+
+(C.6)
+
+nstk dk
+
+(C.7)
+
+Recall that the infection probability is given by equation (42), which can be restated as
+
+⌧t = ⇡
+˜ s It
+
+Z
+
+1
+(k)nstk dk p + ⇡a It ,
+✓
+
+(C.8)
+
+For ↵ = ⌘, ⇡
+˜s = A2 ⇡s and nstk /nst = cstk /ct , equations (C.5) becomes (C.1), equations (C.6) become
+equations (C.2) and (C.8) becomes (C.4).
+For the preference-based heterogeneous-labor formulation, the first-order conditions can be summarized by
+1
+cst
+
+✓ s f 0 (nstk )
+n
+A t f 0 (nst )
+
+✓
+
+f (nst )
+f (nstk )
+
+◆1/↵
+
+=
+
+⇡
+˜s
+A
+
+1
+It
+✓
+
+k ⌧t p
+
+(C.9)
+
+while the aggregation constraint and budget constraint are
+Z
+
+cst
+
+=
+
+A
+
+nst
+
+=
+
+✓Z
+
+nstk dk
+(nstk )
+
+1 1/↵
+
+(C.10)
+dk
+
+◆↵/(↵
+
+1)
+
+(C.11)
+
+While there is considerable formal similarity, there no longer is a formal equivalence as in proposition 4.
+
+33
+
+D
+
+First Order Conditions of the Social Planner Problem
+
+The social planner’s problem in the main text yields the following first-order conditions:
+✓
+
+@
+@cst
+✓
+@
+@cit
+✓
+@
+@crt
+✓
+@
+@nst
+✓
+@
+@nit
+✓
+@
+@nrt
+✓
+@
+@St
+✓
+
+:
+:
+:
+:
+:
+:
+:
+
+@
+:
+@It
+
+◆
+◆
+◆
+◆
+◆
+◆
+◆
+◆
+
+us1,t
+ui1,t
+ur1,t
+
+⇣
+⇣
+⇣
+
+cst
+cstk
+cit
+citk
+crt
+crtk
+
+⌘1/⌘
+⌘1/⌘
+⌘1/⌘
+
++ µf,t
+
+= ⇡s µI,t+1 It citk
+
++ µf,t
+
+= ⇡s µI,t+1 St cstk
+
++ µf,t
+
+=0
+
+us2,t
+
+= µf,t A
+
+ui2,t
+
+= µf,t A
+
+ur2,t
+
+= µf,t A
+
+u (cst , nst ) + µf,t
+
+u cit , nit + µf,t
+
+R
+R
+
+cstk dk + µS,t
+
+citk dk + µI,t
+
+= µf,t Anst
+
+Z
++ µS,t+1 + µI,t+1 ⇡s It
+= µf,t Anit
+
+µS,t
+
++ [(µS,t+1 + µI,t+1 ) (1
++⇡r µR,t+1 + µI,t+1 ⇡s St
+
+✓
+
+@
+:
+@Rt
+
+◆
+
+u (crt , nrt ) + µf,t
+
+R
+
+crtk dk + µR,t
+
+= µf,t Anrt + µR,t+1
+
+34
+
+(k)cstk citk dk
+
+Z
+
+⇡r
+
+⇡d )
+(k)cstk citk dk
+
+

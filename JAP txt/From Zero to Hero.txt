@@ -1,0 +1,1527 @@
+Journal of Applied Psychology
+© 2020 American Psychological Association
+ISSN: 0021-9010
+
+2020, Vol. 105, No. 10, 1088 –1100
+http://dx.doi.org/10.1037/apl0000832
+
+This document is copyrighted by the American Psychological Association or one of its allied publishers.
+This article is intended solely for the personal use of the individual user and is not to be disseminated broadly.
+
+From Zero to Hero: An Exploratory Study Examining Sudden Hero Status
+Among Nonphysician Health Care Workers During the
+COVID-19 Pandemic
+Sophie Hennekam
+
+Jamie Ladge
+
+Audencia Business School
+
+Northeastern University and University of Exeter Business
+School
+
+Yuliya Shymko
+Audencia Business School
+The recent COVID-19 pandemic has raised the visibility of health care workers to the level of public
+heroes. We study this phenomenon by exploring how nonphysician health care workers, who traditionally
+believed they were invisible and undervalued, perceive their newfound elevated status during the
+pandemic. Drawing from a qualitative study of 164 health care workers, we find that participants
+interpreted the sudden visibility and social valorization of their work as temporary and treated it with
+skepticism, incredulity, and as devoid of genuinely transformative power. We seek to contribute to the
+recent call to develop novel approaches to understanding the contours of the paradoxical nature of
+invisibility in the workplace by offering insights into what makes “invisible” workers accept or reject
+publicly driven elevation in their sudden social valorization.
+Keywords: COVID-19 pandemic, social valorization of work, invisibility, health care, temporality
+
+search shows that other health care workers encounter similar challenges. For example, research has reported on the lack of status of
+midwives (Day-Stirk & Fauveau, 2012), the need for training for
+orderlies (Arnon, Ben-Arye, Attias, Levy, & Schiff, 2018), stress and
+exhaustion among hospital attendants (Bouillerce & Stoiber, 2018),
+and the invisibility of janitorial staff (Messing, 1998; Rabelo &
+Mahalingam, 2019).
+Despite the documented social marginalization of nonphysician
+health care workers inside (Brunetto et al., 2013) and outside their
+professional environments (Macdonald & Merrill, 2002), the
+COVID-19 pandemic has radically changed their condition of
+invisibility by putting all health care employees under the spotlight
+of public attention and high praise. The outpouring of support for
+their efforts during the pandemic has recast health care staff across
+all organizational ranks as “essential workers” and elevated them
+to the position of “heroes” (Booth, Adam, & Rolfe, 2020). This
+testimony of public recognition has not only come in the form of
+symbolic gestures of appreciation, such as rounds of applause
+(L’Express, 2020), mural paintings (McCann, Landau, & Mahieus,
+2020), and “honk for heroes” parades (Booth et al., 2020); it has
+also been manifested in material support for workers from nonprofit and for-profit organizations through food donations, airline
+tickets for future travel, and salary increases from the government
+in the form of “hazard pay” vouchers (Allen, 2020).
+Given the unprecedented nature of this shift in public perception
+of the social value of care work, we are interested in studying how
+nonphysician health care workers experienced and responded to
+their newfound and sudden visibility. Specifically, we seek to
+investigate how they experienced the social valorization of their
+
+In the health care sector, physicians are generally considered to
+be higher status than nonphysicians, making them highly visible
+and prominent within the health care system (Nembhard & Edmondson, 2006). As such, nonphysician health care workers often
+regard themselves and their work as invisible (Allen, 2014) and
+undervalued (Hewko et al., 2015). Indeed, the literature points to
+common issues associated with the perceived lower status within the
+organizational hierarchy that nonphysician health care workers face.
+These issues include economic vulnerability (Hartz & Wright, 2019),
+workplace bullying (Ariza-Montes, Muniz, Montero-Simó, &
+Araque-Padilla, 2013), a dearth of promotional prospects (Dill, Morgan, & Weiner, 2014), high workload, stress, difficult working conditions, and a lack of resources (Jones, Hocine, Salomon, Dab, &
+Temime, 2015). Although nurses have been studied extensively, re-
+
+This article was published Online First September 7, 2020.
+Sophie Hennekam, Department of Management, Audencia Business
+School; X Jamie Ladge, Management and Organizational Development
+Group, D’Amore-McKim School of Business, Northeastern University,
+and Department of Management, University of Exeter Business School;
+Yuliya Shymko, Department of Management, Audencia Business School.
+The authors are listed in alphabetic order and have contributed equally
+to the article.
+We acknowledge the tireless efforts of our participants and all health care
+workers for their everyday heroism. Authors declare no conflict of interest.
+Correspondence concerning this article should be addressed to Jamie
+Ladge, Management and Organizational Development Group, D’AmoreMcKim School of Business, Northeastern University, 112 Hayden Hall,
+Boston, MA 02115. E-mail: j.ladge@northeastern.edu
+1088
+
+SUDDEN HERO STATUS
+
+This document is copyrighted by the American Psychological Association or one of its allied publishers.
+This article is intended solely for the personal use of the individual user and is not to be disseminated broadly.
+
+work during the pandemic and their reactions to status elevation.
+We define social valorization as a process of mobilizing socially
+constructed attitudes in the collective elevation of the value and
+image of certain types of work (and the individuals performing it)
+that are traditionally devalued (Wolfensberger & Thomas, 2005).
+The rest of the paper is organized as follows: first, we present an
+overview of the current research on occupational invisibility and
+its social triggers; we then move to a description of the research
+context. Next, we outline our data collection and methodology. We
+then present an analysis of our findings and conclude with a
+discussion of how our study can enhance theoretical understanding
+of invisibility at work and its practical implications.
+
+Invisibility at Work
+Invisibility is defined as the experience of the members of a
+marginalized group who are overlooked or dismissed by the dominant group in terms of professional authority, potential, and recognition (Smith, Watkins, Ladge, & Carlton, 2019). The current
+literature suggests that invisibility is a stable attribute of specific
+kinds of work and the workers who perform it and that sudden
+visibility is something individuals will appreciate and embrace
+(Mahalingam, Jagannathan, & Selvaraj, 2019; Rabelo & Mahalingam, 2019). There are several research streams in distinct
+disciplinary domains of the social sciences (e.g., sociology of
+work, political philosophy, and business ethics) that focus on
+understanding the triggers of invisibility and individual experiences and strategies for coping with this predicament. In our study,
+we integrate the existing streams of literature to provide a comprehensive and symbiotic classification of the disparate accounts
+of invisibility. Our reading of the existing literature on invisibility
+suggests that we cannot make sense of these experiences separate
+from a discussion about the forms of their production. Thus,
+drawing from prior literature, we offer an original classification,
+which distinguishes between task-related (“dirty” work), skillrelated (social value of work), and status-related (position in the
+organizational hierarchy) individual experiences of invisibility.
+We make further use of this classification in generating secondorder themes in the analysis of our findings.
+
+Task-Related, Skill-Related, and Organizational
+Status-Related Invisibility
+Task-related conditions of invisibility often refer to dirty work,
+which includes occupations that are widely regarded as “physically, socially or morally beneath the dignity of the profession”
+(Hughes, 1958, p. 122). Work, and the individuals doing that work,
+may become invisible when linked to the performance of tasks that
+are stigmatized or degraded (Simpson, Slutskaya, Lewis, & Höpful, 2012), such as cleaning (Mahalingam et al., 2019). Certain
+occupations are, often unconsciously, rendered invisible as a result
+of sociocultural norms. Indeed, dirty work often has a stigmatizing
+effect on workers, particularly for those working in fields involving the handling of refuse, bodily fluids, death, and/or working in
+dangerous conditions (Ashforth & Kreiner, 1999). There is an
+inherent paradox in occupations that are considered dirty: Although they are perceived as being disgusting and undesirable,
+they are simultaneously viewed as necessary for society to function (Douglas, 1966).
+
+1089
+
+Skill-related conditions of invisibility permeate the experiences
+of those occupations that fall under the category of “unskilled
+labor”—work associated with the performance of activities that
+presumably do not require formal training, professional credentials, or vocational expertise (Braverman, 1974; O’Shea, 2019).
+For example, several historical studies raised questions about how
+the social value of work is constructed based on the perception of
+the skills that it requires (Gaskell, 1987). In this context, Vlasses
+(1997) drew from research on nurses to describe invisible work as
+that which “may or may not be visible but is not recognized . . .
+hidden, unrecognized, unaccounted-for or taken-for-granted”
+(p. 1). Prior studies have also found that many individuals prefer to
+refrain from mentioning work experience at McDonald’s, Amazon
+warehouses, or delivery services, as they are afraid of being
+perceived as lacking skills for more exigent employment (Shantz
+& Booth, 2014). The high degree of automation and the protocolization of labor in the convenience and service economy further
+contributes to the denigration of the social value of these occupations (Bronson, 2015; Steinberg, 1990).
+Finally, research on organizational structures indicates that an
+individual’s position in a workplace hierarchy shapes the condition
+of invisibility through power dynamics that divide members into
+lower and higher classes (Anderson, 2019). Despite ongoing efforts to democratize workplaces, most contemporary organizations
+retain a pyramid of rank and privilege. On the one hand, organizations enable individual fulfillment through the distribution of
+opportunities for professional development across various layers
+of activities. On the other, the practices of such distribution are
+carried out in accordance with the hierarchical principles of recognizing merit and assigning worthiness, thus establishing distinct
+regimes of status-related visibility within organizations (Kreiner,
+Ashforth, & Sluss, 2006). One’s position within an organizational
+hierarchy determines the amount of attention and praise that is attributed to one’s work effort, which further defines access to means such
+as autonomy, flexibility, and income that have a major impact on
+workers’ well-being. It also affects how organizational members take
+into account the reaction and validation of others in determining their
+self-esteem and identity in a work context (Ashforth, Kreiner, Clark,
+& Fugate, 2007; Dutton, Debebe, & Wrzesniewski, 2016; van
+Vuuren, Teurlings, & Bohlmeijer, 2012). For low-status health care
+workers, treatment by others, such as coworkers or patients, helps
+them determine a sense of their worth and importance (Dutton et al.,
+2016; Nembhard & Edmondson, 2006). Indeed, within the health care
+sector, power dynamics have an impact on how different workers are
+treated. For example, located at the lower layers of the organizational
+hierarchy, hospital cleaners report being ignored by doctors or disregarded by patients (Messing, 1998).
+In sum, we postulate that invisibility is a predicament that
+characterizes types of work associated with lower skills—work
+perceived as undignified and performed by employees positioned
+at the bottom of organizational hierarchies.
+
+Research Context
+This study was conducted in France and focused on nonphysician health care workers who were deemed “essential” during the
+COVID-19 pandemic. Nonphysician health care workers include
+nurses, hospital attendants, technicians, and other staff who maintain
+the safety, cleanliness, and administrative functions within hospital
+
+HENNEKAM, LADGE, AND SHYMKO
+
+1090
+
+settings. Although there is a growing demand in the health care sector
+for each of these types of worker due to the aging population (France
+Stratégie, 2015), hospitals and other medical facilities struggle to hire
+qualified nonphysician health care professionals. The difficult working conditions, intense workload, potential for harassment, lack of
+recognition, a dearth of career development opportunities, as well as
+low salaries, have been put forward as reasons for the lack of appeal
+of these occupations (Organization for Economic Cooperation and
+Development [OECD], 2020).
+
+This document is copyrighted by the American Psychological Association or one of its allied publishers.
+This article is intended solely for the personal use of the individual user and is not to be disseminated broadly.
+
+Method
+Sample
+The sample consisted of 164 individuals working in hospitals in
+France. Most of these individuals were nurses (51%), hospital attendants (32%), or technicians (7%). The remaining 10% comprised a
+range of occupations, as outlined in Table 1. Although we did not
+collect demographic data from our participants, we can estimate from
+public data that 87% of the nurses, 90% of the hospital attendants, and
+77% of the technicians were women with an average age of 40 across
+all categories (INSEE, 2020; OECD, 2017).1
+
+Procedure
+Our study was exploratory in nature, drawing from qualitative
+accounts of nonphysician health care workers who were employed
+during the COVID-19 pandemic. We were cognizant of our respondents’ limited availability and consequently devised a short
+survey of four open-ended questions to allow individuals to develop their answers in a way that suited them. The survey consisted
+of the following questions: (1) What is your occupation? (2) How
+do you think your occupation was perceived by society (before
+COVID-19)? (3) Do you feel COVID-19 has changed the way
+people perceive your occupation and, if so, in what way? (4) Do
+you think that COVID-19 will have a long-lasting effect on the
+way society values your occupation? Although the study was
+conducted at a University without an institutional review board,
+American Psychological Association ethical requirements were
+followed during data collection.
+The survey was put online using Qualtrics (Provo, UT) and two
+hospitals in France (one in Paris and one in Rennes) were contacted regarding participation. Participants were told that the aim
+Table 1
+Breakdown by Occupation of the Study Sample (N ⫽ 164)
+Occupation
+
+N
+
+n/%
+
+Nurse
+Hospital attendant
+Technician
+Administrative personnel
+Nurse supervisor
+Cleaner
+Socio-esthetician
+Social worker
+Physical therapist
+Midwife
+Occupational therapist
+Unknown
+
+84
+53
+11
+3
+2
+2
+1
+1
+1
+1
+1
+4
+
+51 (51.2)
+32 (32.3)
+6 (6.2)
+2 (1.8)
+1 (1.2)
+1 (1.2)
+1 (0.6)
+1 (0.6)
+1 (0.6)
+1 (0.6)
+1 (0.6)
+2 (2.4)
+
+of the study was “to examine whether COVID-19 has changed the
+perception of health care professionals who are not physicians.”
+The two hospitals were chosen because Paris has been strongly
+affected by COVID-19, whereas Rennes is among the least affected regions in France. Both hospitals were willing to participate
+and distributed the invitations internally. Two follow-up messages
+were sent out to encourage participation. Data collection took
+place between March 26, 2020 and April 17, 2020, when cases of
+COVID-19 were soaring in France and a nationally mandated
+lockdown had been put into effect. During this time, hospitals were
+besieged with record numbers of patients in need of care, protective personal equipment supply shortages, and increased distress
+and risk of illness among health care workers (Minder & Peltier,
+2020). The survey was sent to 333 employees and 180 returned the
+survey, constituting a response rate of 54%. We subsequently
+eliminated 19 surveys due to incomplete data or because they were
+completed by physicians who were inadvertently sent the survey.
+Three in-depth interviews were conducted between June 19 and
+June 24, 2020 to complement the 161 surveys analyzed.
+
+Data Analysis
+We used qualitative, inductive techniques to analyze the data
+(Charmaz, 2006; Strauss & Corbin, 1990). First, we read the responses several times to become familiar with the data and to develop
+an initial list of common themes. After we had identified several main
+themes, we coded the data. This was an iterative process involving
+moving back and forth between the data and the literature. We used
+a codebook for the codes and subcodes as the coding process advanced. Throughout the process, we added new codes, split some
+existing codes, and merged others. We then moved the codes to higher
+levels of abstraction, moving away from the words used by the
+participants and creating themes that were conceptually meaningful.
+We subsequently conducted three additional in-depth interviews with
+individuals representing each of the main nonphysician categories
+from our sample—a nurse, a hospital attendant, and a technician—to
+gain a more complete picture of their unique vantage points, discern
+differences across each group, and determine how well our initial
+analysis fit their experiences. We provide vignettes of each of these
+interviews in the Appendix to highlight similarities and differences in
+experiences across nonphysician categories.
+Following our primary coding process, we engaged in a secondary coding process to ensure the viability of our final codes and
+the overall fit with the data (Kreiner, Hollensbe, & Sheep, 2009).
+We enlisted the help of two research assistants, who had previously been trained in qualitative data analysis and NVivo software
+but were unfamiliar with the study (QSR International, 2020). We
+gave each of the coders the codebook, along with several blocks of
+text from the transcribed data representing each of the nonphysician categories. The coders coded the data independently. Using
+the coding comparison feature in NVivo, we calculated an average
+agreement rate of 94% with a weighted Cohen’s kappa of .72
+(Cohen, 1960). Our data structure, illustrated in Figure 1, shows
+the relationships between the first-order categories, second-order
+1
+French law prohibits the collection of any data based on race, ethnicity,
+or religion; therefore, the racial/ethnic distribution of our sample could not
+be estimated.
+
+SUDDEN HERO STATUS
+
+First-order categories
+
+1091
+Second-order
+themes
+
+- Perception that the task is unknown or seen as irrelevant.
+- Perception that tasks do not involve responsibility.
+- Perception that others see their tasks as undignified and dirty.
+- Feeling denigrated by patients and/or doctors.
+
+Task-related
+invisibility
+
+- Perception of stigma related to occupation or related to being a
+government worker.
+- Perception that it is a set of simple tasks for which you do not need any
+qualifications.
+- Perception that the work itself is not valued or that anyone can do this
+work.
+- Work conducted considered to be invisible, taken for granted, or involves
+skills that no one thinks about.
+
+This document is copyrighted by the American Psychological Association or one of its allied publishers.
+This article is intended solely for the personal use of the individual user and is not to be disseminated broadly.
+
+Aggregate
+dimensions
+
+Skill-related
+invisibility
+
+- Perception of being underpaid.
+- Aware of low position in hierarchy/feeling inferior compared to doctors.
+- Feeling invisible as an individual.
+- Perception of being non-existent, unknown, irrelevant, and ignored.
+- Perception that care work is more visible than non-care work.
+- Lack of resources and career opportunities/progression.
+
+Normative
+experiences
+of invisibility
+
+Statusrelated
+invisibility
+
+- Feeling they exist in the eyes of others/feeling important/feeling of being
+seen/feeling valued.
+- Role of the media in this enhanced visibility.
+
+Hypervisibility
+triggered by
+COVID-19
+
+- Increase in respect, recognition, gratitude, consideration, and admiration.
+- Applause, food donations.
+- Their work is perceived to be useful, necessary, or essential.
+- Statements about who values their work: the government, patients,
+colleagues, the public, the media, and/or the directors of the hospital.
+- Hospital hierarchy is broken down, social cohesion, and collaboration.
+
+Increase in
+respect,
+recognition, and
+consideration
+
+- Perception that they are valued only as long as they are needed.
+- Perception that people show recognition because they have nothing else
+to do.
+- Comparison with police and fire brigade during attacks, leading to the
+expectation that they will be quickly forgotten.
+- Perception that the government never keeps its promises.
+- Expectation that media attention will decrease and that economic
+concerns will take over.
+- Belief that current interest is driven by fear.
+
+Temporality of
+hero status
+
+- Feeling that nothing has changed/this is everyday life/this is their job.
+- Rejection of hero status to protect oneself from being hurt if it doesn’t
+last.
+- Perception that being called heroes is too much, fake, or insincere.
+- Sudden hero status makes them feel objectified, used, manipulated.
+- Seeing themselves differently from public perceptions.
+
+Rejection of
+hero status
+
+- Recognition is initially appreciated, but ultimately rejected.
+- Both accepting and rejecting attitudes toward sudden social valorization.
+- Having contradictory or “double” feelings about increased visibility and
+social valorization.
+
+Ambivalence
+toward hero
+status
+
+- Feeling they “finally” exist in the eye of others.
+- Perception that they get the recognition they deserve.
+- Appreciate feeling important/feel being seen/feeling valued.
+
+Embracing
+hero status
+
+Interpreting
+sudden hero
+status
+
+Reactions to
+sudden hero
+status
+
+Figure 1. Data analysis structure.
+
+themes, and aggregate theoretical dimensions (Gioia, Corley, &
+Hamilton, 2013).
+
+Findings
+The findings of our study point to three prevailing themes that
+emerged from the data: the normative experiences of workers’ invis-
+
+ibility before COVID-19; their interpretation of the sudden valorization of their activities triggered by the crisis, including the perceived
+temporal nature of the elevated status of their occupation; and their
+reactions to their newfound hero status. The participants described
+different types of invisibility to which they had grown accustomed
+and how they were making sense of their sudden hero status considering their normative experiences and in relation to others at work. As
+
+HENNEKAM, LADGE, AND SHYMKO
+
+1092
+
+such, they deemed their hero status as temporary and treated it with
+skepticism, incredulity, and as being devoid of genuinely transformative power. We discuss these findings below, supported by quotations
+from the participants. Table 2 provides additional quotations for
+illustration.
+
+Normative Experiences of Invisibility
+
+This document is copyrighted by the American Psychological Association or one of its allied publishers.
+This article is intended solely for the personal use of the individual user and is not to be disseminated broadly.
+
+It was evident from our analysis that feeling invisible was a
+common experience among nonphysician health care workers. The
+
+vast majority of those we surveyed reported that their jobs were
+devalued, that they felt marginalized, stigmatized, or nonexistent
+and they mentioned a lack of respect and recognition. Although
+these sentiments were not surprising, given the hierarchical nature
+of hospital settings and the power distance from physicians, our
+data revealed some differences in the types of invisibility experienced by participants and specified in our original classification of
+the previous literature on invisibility. Although all the participants
+expressed status-related invisibility, it appeared to be most salient
+
+Table 2
+Illustrative Quotations for Aggregate Theoretical Dimensions
+Theoretical dimension
+
+Quotation
+
+Normative experiences of invisibility
+
+[Before the COVID-19 pandemic, we were] non-existent. No one ever talked about us. Microbes just
+disappear as by magic as we enter a room. So why are we there? (Participant 78, cleaner).
+[We are] unknown, forgotten, but an important element in the healthcare system, just like all other
+professions (Participant 70, laboratory technician).
+We are a forgotten profession. Underestimated compared to nurses. Little hands in the shadow
+(Participant 53, hospital attendant).
+[My occupation] has a negative reputation. Some people told me: “Ah yes, you clean bottoms”
+(Participant 124, hospital attendant)!
+[It’s perceived] as a difficult profession, lots of people say they could never do this job. Still, few
+people are aware of our daily responsibilities, the downsides of the profession, the lack of resources,
+or our remuneration. We are perceived as those little hands that obey the orders of the doctor
+(Participant 45, nurse).
+[We are] ignored, denigrated, undervalued (Participant 143, hospital attendant).
+[I get] a lot of recognition from the neighborhood in the form of presents that they leave at my door as
+they hear me leave every morning at dawn. Families also send me emails thanking me (Participant 6,
+hospital attendant).
+Because of the media and the multiple documentaries on our profession since the outbreak of the
+COVID-19, people have become more aware of the importance of all the medical and paramedical
+professions and that, without us, the hospital cannot function (Participant 68, hospital attendant).
+They value us more, like other “essential” professions right now (Participant 54, nurse).
+Once this pandemic is over, this positiveness and recognition will fade and the profession will fall back
+in the shadows (Participant 153, nurse).
+People are going to forget us quickly and the government even faster (Participant 164, hospital
+attendant).
+I think that for the moment the profession is in the spotlight but that it will not last . . . Once the
+COVID has passed, things will re-establish themselves . . . it is like a fashion effect, our popularity
+will be ephemeral (Participant 143, nurse).
+Unfortunately, I think people have short memories. At the end of the crisis, people will thank us, then a
+few months later they will forget. Many things in history have shown us that Humanity has a short
+memory (Participant 124, hospital attendant).
+I don’t know . . . In the beginning [we will be more valued], but this will quickly run out of steam.
+I’m not sure that at the end of the day we will be valued more, despite all the efforts we’re putting
+in right now (Participant 102, nurse).
+I think we’ll quickly be forgotten, like the police with the terrorist attacks. People pay attention to
+professions that are useful to them at a given moment, so after the crisis, they’ll simply forget us as
+we are no longer needed (Participant 130, technician).
+The current recognition is a reaction to a temporary phenomenon that appeals to the emotions . . . a
+bond of solidarity is tied around this “enemy of the people.” We can therefore expect that this
+recognition will reduce over time. Humans have a tendency to forget (Participant 11, nurse).
+Healthcare workers are EVERY DAY confronted with distress, fear, suffering, sadness, illness, poverty,
+and loneliness. Being a healthcare worker is a choice, but it’s always difficult, not only during the
+COVID-19. I think that the majority of people only see those difficulties during this crisis. I don’t
+want to be considered as a hero either, because we’re just doing our job, like any other day of the
+year (Participant 71, nurse).
+I find it rather funny that we’re seen as “heroes” now as our work is the same as usual, under the same
+conditions, or even worse. We do our job in exactly the same way, we just have a bit more patients
+in a short period of time, but “heroes” as they call us, that’s what we are on a daily basis
+(Participant 35, nurse).
+We put our lives at risk, we’re perceived as heroes while we just do our work (Participant 135, hospital
+attendant).
+They treat us like heroes . . . while we just continue to do our job (Participant 82, nurse)!
+Today they call us heroes, because they need us more than ever (Participant 80, nurse).
+
+Interpreting sudden hero status
+
+Reacting to hero status
+
+SUDDEN HERO STATUS
+
+among nurses and technicians, who often compared their status
+relative to others:
+We’re seen as failed doctors, because we’re not intelligent enough to
+be doctors, but still come in handy when there’s no doctor around.
+(Participant 84, nurse)
+No one knows who we are or what we do. They often see us as nurses.
+(Participant 38, technician)
+
+This document is copyrighted by the American Psychological Association or one of its allied publishers.
+This article is intended solely for the personal use of the individual user and is not to be disseminated broadly.
+
+Hospital attendants most often expressed all three types of invisibility but emphasized task- and/or skill-related invisibility as most
+salient:
+
+1093
+
+Other participants linked an inevitable decay in their status as heroes
+to the short attention span of the media, which would seek to explore
+and capitalize on new “hot topics” such as the economic crisis and
+financial recovery. Finally, for some participants, there were more
+prosaic reasons to expect the temporality of their status elevation—in
+a rush to go back to “normal” and leave the anxieties and traumas of
+the pandemic behind, society will engage in a collective forgetting of
+painful experiences, thus inadvertently restoring the pre-crisis values
+of individualism. Moreover, the participants explained that they perceived the appreciation of others to be related to the fact that people
+were afraid and “needed” them during the pandemic but, once the
+sense of urgency and vulnerability evaporates, they will be forgotten:
+
+We’re an element at the hospital that no one sees. No one understands
+what functions we have. We’re a bit erased. (Participant 115, hospital
+attendant)
+
+Society is individualistic, once their needs are met, people go back
+home, and we will be forgotten. (Participant 106, nurse)
+
+We’re seen as professionals that do work you do not want to do.
+(Participant 162, hospital attendant)
+
+It seems to me that it is fear that drives people, for the moment it is
+still a bit far from us, but implicitly there is the fear of death, our own
+or that of our loved ones. This spurs the gratitude for all health care
+workers right now. (Participant 1, nurse supervisor)
+
+Differences in the types of invisibility experienced among the
+three primary groups of nonphysician health care workers are
+outlined in Table 3.
+
+Interpreting Sudden Hero Status
+As the media called attention to the “heroism” of health care
+workers who were deemed essential, participants reflected on how
+the pandemic had changed the way their work was viewed. They
+explained that the pandemic had changed the way society perceived their occupations and suddenly made them “hypervisible”:
+The pandemic has made our professions more visible and has highlighted its importance. Health care workers are the ramparts against
+the virus. (Participant 11, nurse)
+
+Participants were cognizant of the heightened consideration and
+sometimes even admiration for them. They reported feeling seen,
+acknowledged, and appreciated by others:
+There is respect, admiration, and gratitude in the form of applause and
+food donations. (Participant 114, hospital attendant)
+
+They interpreted the observed gestures of public support as recognition of the indispensability of their work for society and its
+collective well-being:
+The media talk a lot about our profession, which is a sign of recognition. It also shows to the public that we are irreplaceable at the
+hospital and that we are important for the well-being of the patients
+we look after on a daily basis, with or without COVID. (Participant
+147, hospital attendant)
+
+However, the participants almost unanimously expected their hero
+status to be temporary. They expressed doubt regarding their current
+hero status generating a meaningful and lasting change in the valorization of their work. Their skepticism rested on three sets of projections: the problems of technocratic logic in treating care work; the
+dwindling of media attention; and persistence of pre-crisis cultural
+norms. According to some participants, the economic efficiencydriven logic of health care management would be reinforced after the
+lockdown and impede the development of resource allocation
+schemes that would be more considerate of their occupational needs.
+
+In addition, they highlighted that the role of health care workers
+was highly salient, given the public health crisis and that people
+had the time to focus on them. However, they believed that once
+the pandemic was over, interest in and appreciation for their work
+would quickly fade:
+People have time to applaud us because they are at home. They think
+of us because they are at home. The government is thinking of us
+because it has no choice but to throw flowers at us so that we are ready
+to go to work without flinching. But in a few months, everything will
+be forgotten. No applause. No salary increase. No revaluation of
+professions. (Participant 81, social worker)
+
+In sum, participants believed that their elevated status would be
+temporary and that their working conditions, social marginalization, and subjugated organizational position would remain immune
+to meaningful modification:
+Once the crisis is over, the image people have of our profession will
+be again what it was before the COVID: devoted individuals who
+accept working under any circumstances “because we love our jobs.”
+(Participant 35, nurse)
+This brutal recognition is appreciated, but it is simultaneously incomprehensible for most of us whose workload and suffering have been
+ignored by our hierarchy and the authorities for too long. This valorization of our work right now will not last, probably. As soon as
+society no longer feels in danger, everyone’s interests and the economy will once again become the priority. (Participant 12, nurse)
+
+Reacting to Hero Status
+The participants reacted to their hero status either by embracing,
+expressing ambivalence, and/or rejecting it outright. Although it
+was not the most prevalent response, some participants embraced
+their sudden hero status by accentuating its benefits for their social
+standing and by making statements about how their enhanced
+visibility and social valorization were justified in their eyes. Moreover, they reported that they had finally found a sense of worthiness through recognition and interest from others:
+I feel that my work is important and now it finally gets the recognition
+it deserves. People finally realize that our work is very meaningful and
+
+HENNEKAM, LADGE, AND SHYMKO
+
+1094
+
+This document is copyrighted by the American Psychological Association or one of its allied publishers.
+This article is intended solely for the personal use of the individual user and is not to be disseminated broadly.
+
+Table 3
+Illustrative Quotations for Second-Order Themes Across Occupational Categories
+Occupation
+
+Nurses
+
+Hospital attendants
+
+Technicians
+
+Status-related invisibility
+
+Patients often behave as if they’re
+in a hotel without any form of
+politeness. We get very little
+consideration from patients or
+from some surgeons.
+
+Task-related invisibility
+
+People know the profession isn’t
+easy, but do not know why
+exactly (the rhythm, workload,
+lack of human and material
+resources).
+People think being a nurse is
+easy, while it isn’t always easy.
+You need a lot of practice and
+I think people also overlook the
+psychological difficulties.
+People believe that nursing is a
+profession that anyone can do,
+that you do not need any
+qualifications for this, while
+this is obviously not the case.
+We provide a lot of psychological
+support to both patients and
+their families and all that,
+people never think about it. I
+think it’s actually a big part of
+the job and you need to be able
+to handle that, it requires a lot
+of social skills, but no one
+seems to notice or realize it.
+Social skills aren’t valued, it’s
+all about your diplomas.
+During the pandemic everyone
+was clapping, we were
+everywhere, on the radio, on
+television, on social media, in
+the newspaper, every single
+person knew about our extreme
+efforts.
+During the COVID the whole
+world suddenly saw us as
+heroes, it was a little weird.
+You go from being no one, to
+being everything in only a few
+weeks’ time.
+During the pandemic, people
+showed so much recognition,
+so much consideration.
+
+No respect, both physically and verbally
+toward us. I feel like a doormat.
+Doctors devalue us . . . they look down
+on you and you really feel that
+hierarchy, this lower-than feeling
+hurts me, because I don’t think it’s
+justified.
+People think we basically clean poo
+from old people.
+We’re seen as professionals that do
+work you do not want to do.
+The work we do is constantly devalued
+or taken for granted by patients and
+doctors alike.
+
+I can feel lots of technicians are
+frustrated about the invisible nature of
+their work, they feel overshadowed by
+doctors, but also feel that others
+perceive their work to be less
+important than nurses’ and hospital
+attendants’.
+People don’t have a clue of what we do.
+They do not even know we exist.
+They think that a hospital only
+consists of individuals who provide
+direct care for patients.
+People do not even know our
+occupation exists. When I say I work
+at the hospital, they answer: “you’re a
+nurse”.
+
+I want my occupation to be recognized
+in terms of our knowledge and skills.
+There is this lack of recognition of the
+fact that many healthcare workers do
+have some level of qualification and
+that this is absolutely not seen by
+society.
+People see it as simple work that
+anyone can do and for which you do
+not need any qualifications.
+
+Most media do not mention us, because
+the radiologists interpret the X-rays
+that we make. It’s us who are close to
+the patients, who do all the tests.
+
+I suddenly became very visible, like
+hypervisible. We were being put in
+the spotlights all of a sudden. They
+even talked about us in the media.
+
+Since the COVID, the journals finally
+talk about us.
+We were supervisible, everyone was
+constantly asking about how it was to
+work at the hospital.
+
+The government and even patients show
+a lot more recognition toward the
+caring personnel and that feels good.
+People finally realize that our work is
+very meaningful and useful. So that
+was positive, it makes you feel
+valued.
+
+We’re getting out of the shadows and
+that highlights the importance and
+usefulness of our work.
+The government has really recognized
+our huge efforts. They really showed
+their recognition and that feels pretty
+good.
+
+Skill-related invisibility
+
+Increase in visibility
+
+Increase in respect,
+recognition and
+consideration
+
+SUDDEN HERO STATUS
+
+1095
+
+Table 3 (continued)
+
+This document is copyrighted by the American Psychological Association or one of its allied publishers.
+This article is intended solely for the personal use of the individual user and is not to be disseminated broadly.
+
+Occupation
+
+Nurses
+
+Hospital attendants
+
+Technicians
+
+Temporality of hero
+status
+
+Our valorization will last as long
+as the crisis lasts. Afterwards, I
+don’t think there will be any
+recognition or a revalorization
+of our salaries. Promises are
+never kept in France.
+
+The general public will remember, like
+usual, the nurses, the hospital
+attendants, and the doctors. The other
+professions will be quickly forgotten,
+especially if the public authorities do
+not valorize the profession.
+I hope things will change, like everyone
+else. Often they [the government] say
+a lot of things, but finally nothing
+really happens, it’s just words.
+
+Rejection of hero status
+
+I personally didn’t like it, because
+we’re paid to do this, we’ve
+chosen this career path, so
+we’re simply doing our duty.
+They think that we are “heroes.”
+But actually, this is what we do
+every day, certainly on a
+smaller scale, but every time
+we come to work we save
+lives. This is our daily life . . .
+So we are not heroes and this
+is our job, every day, with or
+without COVID.
+
+Embracing hero status
+
+Feeling suddenly respected and
+valued is pretty cool and I
+think that, although most of us
+thought it was too much, we
+also appreciated it. Of course
+it’s pleasant that the media
+talks about your efforts, that
+people ask how you’re doing,
+that people thank you, that
+patients show more patience
+and respect also, all this was
+definitely cool.
+I really got a lot of questions,
+which was a little tiring at
+some stage. People were
+curious, they wanted to know
+what my role was, whether it
+was hard, whether I worked a
+lot. So on the one hand it was
+interesting to share this
+experience and to tell others
+what we’re doing.
+
+I do not think that the COVID will have
+a long-lasting effect on the way
+society perceives our occupation.
+Over time, people always forget.
+Take the example of the heroic acts
+of the fire brigade and how badly
+they were treated in certain suburbs
+several months later.
+I didn’t expect this hero status to last. I
+clearly expected that over time,
+people would forget about our
+extreme efforts and devotion and that
+nothing would change.
+We were heroes because people didn’t
+really have a choice, they wanted us
+to look after all those patients and
+one way to encourage people to
+continue going to work, while
+running the risk of getting this virus
+ourselves, is obviously by
+overloading us with praise and
+compliments, so I think it’s basically
+the only thing they could do.
+I’m just doing my job. I’m asking for
+more recognition, some more
+consideration or respect, that’s true,
+but that does not make me a hero.
+That’s simply a step too far.
+I see why they [called us heroes] and I
+think that’s pretty accurate.
+
+Ambivalence toward
+hero status
+
+Don’t get me wrong, I did appreciate
+the recognition, of course, we all do,
+but because it felt insincere and
+because I’ve been around for long
+enough that I did not expect a real
+change, that you don’t really enjoy it,
+that you’re saying to yourself: look
+how kind they are, just because they
+need me. It makes you feel even less
+human.
+
+useful. So that was positive, it makes you feel valued, so that’s great.
+(Participant 163, technician)
+
+This type of response was, however, often followed by a qualifying statement disclosing an ultimate rejection of hero status.
+Indeed, although some participants welcomed this sudden
+change and enjoyed the elevation of their status, the vast
+majority rejected the notion of being a hero. More precisely,
+although they initially acknowledged the positive effect of the
+increased recognition, they ultimately rejected it, revealing
+ambivalence. Ambivalent reactions are thus defined as contradictory statements reflecting both acceptance and rejection:
+
+They were saying, they are heroes, they
+are heroes, and that every day. But
+we’re treating people every day, so
+we could be applauded every day. It
+was all of a sudden, we were
+suddenly being put in the spotlights,
+while we’ve always done what we
+were doing. So it was a bit too much.
+
+I think this hero status we got was
+justified somehow. We really did put
+in a considerable effort, we have
+never worked so hard before, we
+never gave so much.
+We indeed put in a lot of effort, so it
+was good that this was being
+recognized.
+
+It’s good that our efforts got recognized,
+but finally we’re just doing our work,
+we’re doing this out of vocation, out
+of passion, and not because we’re
+seen as heroes.
+
+I found that it was good to see and hear, because we indeed put
+in a lot of effort, so it was good that this was being recognized.
+But it was a little weird from the side of the media, I felt it was
+too much in-your-face, too demonstrative. (Participant 163,
+technician)
+
+Given that most of our participants ultimately rejected or expressed ambivalence with regard to their hero status, we decided to
+explore further why this was the case, as prior research suggests
+invisible workers often desire to be viewed in a positive light
+(Ashforth et al., 2007).
+
+HENNEKAM, LADGE, AND SHYMKO
+
+1096
+
+We found that there were three primary responses in terms of the
+participants ultimately rejecting their sudden hero status. First, they
+did not see their role as having changed. They critically reflected on
+the whimsical, exaggerated, and somewhat hypocritical character of
+these new social reactions, given that the nature and significance of
+their work activities remained largely unchanged:
+
+This document is copyrighted by the American Psychological Association or one of its allied publishers.
+This article is intended solely for the personal use of the individual user and is not to be disseminated broadly.
+
+[COVID-19] has unfortunately changed the way we are being perceived. We are considered to be heroes because we save lives . . . but
+that’s what we do all year round. (Participant 33, nurse)
+
+Apart from highlighting that they were simply doing their job, a
+second explanation for their rejection of hero status seemed to be
+related to their resistance to social objectification. They interpreted
+the sudden social support of their occupation as opportunistic or
+fake. Some participants seemed to feel used, rather than appreciated, thus interpreting their hero status as lacking sincerity and as
+an attempt by the public to feel better about themselves, rather than
+expressing genuine caring about health care workers:
+This whole notion of being a hero, of being oh-so-amazing, is just a
+manipulation. It is to make us work without complaining. It’s a trick,
+and we all got trapped. (Participant 164, nurse)
+
+A third response consisted of rejecting hero status as a defense
+mechanism. They rejected it because they did not see themselves
+in the way others saw them. One hospital attendant went so far as
+to explain it as a “form of protection” and a way of not letting
+themselves get carried away by the praise and recognition:
+I think that for me, not seeing myself as a hero is probably a form of
+protection, because I think everyone appreciates being recognized and
+respected, everyone. But, if you let yourself get absorbed into being this
+amazingly valued individual, it probably just hurts too much when at the
+end you go back to your place. I think it’s easier to not really believe and
+buy into this hero discourse, so that when attention and consideration
+fades, you do not feel disappointed. (Participant 162, hospital attendant)
+
+In sum, although some participants embraced their newfound
+hero status, most rejected it. Several reasons for the rejection of
+their elevated status emerged: the perception that they were simply
+doing their work; feeling objectified, used, and manipulated; and
+as a defense mechanism out of fear of being hurt, as they did not
+believe their elevated status would last.
+
+Discussion
+In this article, we respond to recent calls to develop novel approaches to studying invisibility in an effort to “further our understanding of the contours of invisibility in the workplace” (Mahalingam et al., 2019, p. 236). Feeling invisible or undervalued is
+important, as the feeling that one’s occupation matters has been
+related to greater self-esteem, lower levels of depression and anxiety,
+better immune functioning, and more positive affect (Baumeister &
+Leary, 1995; Rosenberg & McCullough, 1981). Although existing
+research assumes that (in)visibility of work roles is rather stable, we
+find that it can change suddenly during crisis periods but may not be
+embraced. Thus, our study calls attention to the “stickiness” of invisible work for individuals in organizational settings due to deeply
+rooted cultural norms and beliefs about their occupations.
+The calls for change through the social valorization of invisible
+work in the health care sector have explicitly broken down the
+established order of occupational worth by stressing the indispensability and significance of work carried out by all individuals
+
+employed in the health care sector during the COVID-19 pandemic. Although previous research indicates that radical alterations in public discourses and attitudes provoked by catastrophic
+events can move invisible workers to a position of hypervisibility
+(Mahalingam et al., 2019), we challenge the widely held assumptions that workers indiscriminately embrace seemingly favorable
+social valorization or use it to augment their identity and value.
+Our findings suggest that despite gaining recognition and visibility
+from being perceived as heroes, our participants do not necessarily
+relish their newfound elevated status. Interpreting this elevation as
+temporary seems to be an important factor in how they respond to
+it, leading to its eventual rejection. Therefore, we contend that it is
+important to understand the perceptual dynamics of the social
+valorization of such work as the pandemic eases.
+
+Theoretical Contributions
+We make three important contributions to the existing literature
+on invisibility, social marginalization, and dirty work. First, we
+build upon prior research that explores the challenges and opportunities presented when workers are navigating invisible and visible identities (e.g., Deery, Kolar, & Walsh, 2019; Smith et al.,
+2019) by considering how workers interpret and respond to a
+sudden rise in visibility. Thus, we contribute to the existing literature on invisible identities at work by drawing attention to the
+inherent paradox in invisibility that stems from established normative regimes of intersubjectivities that govern the dynamic
+interplay between work, social interaction, and embodied work
+identities (Rabelo & Mahalingam, 2019). Our participants may
+have welcomed the sudden appreciation of their work, but they
+were skeptical about its lasting effects. Contrary to research that
+suggests that feeling valued and appreciated elicits positive emotionality (Simpson, Hughes, Slutskaya, & Balta, 2014; Thiel,
+2007), we surmise from our exploratory study that any positive
+effects that arise from promotion to heroic status are provisional
+and the assumed temporality mitigates any positive impact.
+Further, our findings contradict prior literature on provisional
+selves that suggests that provisionality prompts individuals to “try on”
+different possible selves as a step toward identity adaptation (Ibarra,
+1999). Our results suggest that individuals may choose not to participate in temporary identity change, even when that provisional identity casts them in a positive light. Choosing not to engage in identity
+experimentation can inhibit their ability to see what is possible for
+themselves and their organizational role (Rogiers, De Stobbeleir, &
+Viaene, 2020), which can have a long-term negative impact. Those
+who embrace hero status, even partially, are more likely to imagine
+desired future selves and act upon this (Markus & Nurius, 1986),
+leading to positive outcomes in the long term. Given the exploratory
+nature of our study, we were unable to quantify the degree to which
+some workers experienced each type of invisibility. We suggest that
+a ripe area for future research would be to address how different forms
+of invisibility may elicit different types of response to distinct forms
+of social valorization and in what conditions provisional identities
+may be more likely to be embraced or rejected.
+Second, our findings demonstrate that hero status seemed for
+many of our participants, regardless of the type of invisibility they
+experienced in the past, to be too much of a stretch, as many noted
+they were simply doing their job and nothing more. Prior research
+suggests that workers doing a type of invisible work manage to
+surmount the everyday disregard of their work by appropriating
+momentary discursive resources of occupational heroism, continually reframing their work in preferred terms (e.g., firefighters;
+
+This document is copyrighted by the American Psychological Association or one of its allied publishers.
+This article is intended solely for the personal use of the individual user and is not to be disseminated broadly.
+
+SUDDEN HERO STATUS
+
+Tracy & Scott, 2006). However, this research also points out that
+workers in other categories (e.g., correctional officers) may struggle or be reluctant to do the same because of unintended or
+problematic consequences that such attempts at identity enhancement may provoke (Tracy & Scott, 2006). Our findings extend this
+reasoning by revealing several reasons for individuals rejecting
+sudden hero status. As we observe, the rejection of hero status can
+be driven by workers’ resistance to social objectification because
+they perceive it as masking the ongoing marginalization of their
+work. As one worker in an Amazon warehouse pointed out during
+the pandemic: “They call us ‘essential,’ they call us ‘heroes,’ but
+I am just going to say it: ‘we are expendable.’ We did not sign up
+to be someone’s hero” (Brown & Flowers, 2020).
+We also found that workers rejected hero status because they
+interpreted social valorization of their occupation as opportunistic.
+Some participants seemed to feel used, rather than appreciated,
+thus interpreting their hero status as lacking sincerity and an attempt
+by the public to feel better about themselves, rather than expressing
+genuine caring about health care workers. Last, some participants
+rejected their hero status because they did not see themselves in the
+way others viewed them. Thus, an unintended negative consequence
+of sudden hero status is potential internal suffering (Higgins, 1989), as
+it forms a mismatch in terms of how workers see themselves as
+opposed to how others view them. The temporality of this situation
+can make self-discrepancies less tenable because celebrated workers
+may resist social objectification and believe they are not only being
+held to unrealistic expectations, but that these expectations are also
+short-lived. Even a short-term mismatch between how individuals
+regard themselves compared with how others view them can have
+lasting effects on their emotional and psychological well-being, such
+as increased anxiety and lowered self-esteem (see Mason et al., 2019
+for a recent review of the range of effects of self-discrepancy on
+health and well-being).
+Third, we synthesize two distinct streams of literature: dirty
+work research and social/organizational marginalization literature.
+Prior research on dirty work has mainly focused on identity management strategies; that is, what individuals do to feel better about
+doing work that others deem “filthy” (physically tainted) or undignified (socially tainted), what normative and discursive resources they have available to do this, and what undermines their
+efforts to “untaint” themselves (e.g., Ashforth & Kreiner, 1999;
+Ashforth et al., 2007). Social marginalization literature is less
+interested in individual responses and more in how the valorization
+of work is socially constructed and put into practice through
+attribution of usefulness, merit, and recognition (Ashcraft, 2013;
+Sennett, 1998). Organizational structures of status incarnate these
+tendencies and norms by categorizing work and occupations as
+useful or useless, skillful or unskillful, and distributing resources
+of recognition and worth accordingly (Anderson, 2019; Sennett,
+2006). Thus, social marginalization literature is a useful lens for
+explaining where invisibility comes from and dirty work literature
+sheds light on agentic responses to invisibility. In bridging these
+two literatures, our theorizing suggests that sudden social valorization of certain occupations does not necessarily trigger changes
+in self-perception, and that workers have a choice regarding how to
+respond to the change in their social image. The response, however, is
+not, as some dirty work literature assumes, driven by purely “strategic” motives but involves a more critical reflection of occupational
+dignity, professional integrity, and societal hypocrisy. This critical
+reflection entails the possibility that workers may hold certain expectations about what genuine recognition of their work should look like
+
+1097
+
+and weigh these expectations against populist forms of social valorization. In this sense, workers do not act as opportunistic agents ready
+to seize any chance for status enhancement, but as morally conscious
+guardians of their sense of self-worth.
+
+Practical Implications
+The practical implications of our study go beyond the current
+pandemic. The experience of invisibility has a dual impact on an
+individual’s psychological well-being, as it affects two intricately
+connected yet distinct aspects of identity—in relation to others and
+in relation to oneself. Given the importance of feeling recognized
+and included, chronic invisibility may undermine well-being, especially among marginalized workers in stigmatized occupations
+(Rabelo & Mahalingam, 2019), and feel like chronic social devaluing (Dutton et al., 2016), leading to apathy and, eventually,
+distrust toward others and unwillingness to accept potentially
+positive change. The enduring perception of not being seen and
+acknowledged by others may ultimately result in social alienation,
+self-denigration, and an acute sense of social insignificance (Verhaeghe, 2012). To avert the negative consequences of chronic
+invisibility, we recommend that organizations in the public care
+sector (and beyond) engage in the design of what we call “invisible
+work dignification policies,” with a goal of elevating the social
+prestige of low-status and socially denigrated occupational categories inside and outside their professional environments. Such
+measures could pave the way for encouraging a collective occupational identity in which individuals can take pride. This would
+imply creating conditions that can enable invisible workers to step
+out of organizational obscurity, such as by actively acknowledging
+their role in the organization, granting them opportunities for
+upward mobility, increasing their earning potential, encouraging
+employee engagement, and reducing any power distance within
+and across organizational roles. For example, ongoing initiatives
+could be put in place to establish a level playing field whereby all
+employees could share ideas about creating a more egalitarian
+working environment, establish forums to get to know one another
+and the work they all do, and find opportunities to recognize the
+risks and rewards of all the different types of health care work. Put
+more succinctly, the dignification of invisible work is not about its
+valorization, but the social and organizational willingness to care
+genuinely about those who take care of us.
+
+References
+Allen, D. (2014). The invisible work of nurses: Hospitals, organisations,
+and health care. Abingdon, UK: Routledge. http://dx.doi.org/10.4324/
+9781315857794
+Allen, T. (2020, July 3). 7 facts on essential workers hazard pay that you
+need to know now. Forbes. Retrieved from https://www.forbes.com/
+sites/terinaallen/2020/05/20/7-facts-on-essential-workers-hazard-paythat-you-need-to-know-now/#466528541483
+Anderson, E. (2019). Private government: How employers rule our lives
+(and why we don’t talk about it). Trenton, NJ: Princeton University
+Press. Retrieved from https://press.princeton.edu/books/hardcover/
+9780691176512/private-government
+Ariza-Montes, A., Muniz, N. M., Montero-Simó, M. J., & Araque-Padilla,
+R. A. (2013). Workplace bullying among health care workers. International Journal of Environmental Research and Public Health, 10, 3121–
+3139. http://dx.doi.org/10.3390/ijerph10083121
+Arnon, Z., Ben-Arye, E., Attias, S., Levy, O., & Schiff, E. (2018). Integrative medicine as a change agent of hospital staff: From hospital
+
+This document is copyrighted by the American Psychological Association or one of its allied publishers.
+This article is intended solely for the personal use of the individual user and is not to be disseminated broadly.
+
+1098
+
+HENNEKAM, LADGE, AND SHYMKO
+
+orderlies to partners in health promotion. European Journal of Integrative Medicine, 18, 42– 46. http://dx.doi.org/10.1016/j.eujim.2018.01.004
+Ashcraft, K. L. (2013). The glass slipper: “Incorporating” occupational
+identity in management studies. Academy of Management Review, 38,
+6 –31. http://dx.doi.org/10.5465/amr.2010.0219
+Ashforth, B. E., & Kreiner, G. E. (1999). “How can you do it?” Dirty work
+and the challenge of constructing a positive identity. Academy of Management Review, 24, 413– 434. http://dx.doi.org/10.5465/AMR.1999
+.2202129
+Ashforth, B. E., Kreiner, G. E., Clark, M. A., & Fugate, M. (2007).
+Normalizing dirty work: Managerial tactics for countering occupational
+taint. Academy of Management Journal, 50, 149 –174. http://dx.doi.org/
+10.5465/amj.2007.24162092
+Baumeister, R. F., & Leary, M. R. (1995). The need to belong: Desire for
+interpersonal attachments as a fundamental human motivation. Psychological Bulletin, 117, 497–529. http://dx.doi.org/10.1037/0033-2909.117
+.3.497
+Booth, W., Adam, K., & Rolfe, P. (2020, July 5). In fight against coronavirus, the world gives medical heroes a standing ovation. Washington
+Post. Retrieved from https://www.washingtonpost.com/world/europe/
+clap-for-carers/2020/03/26/3d05eb9c-6f66-11ea-a156-0048b62cdb51_
+story.html
+Bouillerce, B., & Stoiber, C. (2018). Stress, émotions, épuisement chez
+l’aide-soignant: Pour lutter contre le burn-out. Amsterdam, the Netherlands:
+Elsevier Health Sciences. Retrieved from https://books.google.fr/
+books?hl⫽fr&lr⫽&id⫽x3VKDwAAQBAJ&oi⫽fnd&pg⫽PP1&dq⫽
+Bouillerce,⫹B.,⫹%26⫹Stoiber,⫹C.⫹(2018).⫹Stress,⫹%C3%A9
+motions,⫹%C3%A9puisement⫹chez⫹l%E2%80%99aide-soignant:⫹
+Pour⫹lutter⫹contre⫹le⫹burn-out.⫹Amsterdam,⫹The⫹Netherlands:⫹
+Elsevier⫹Health⫹Sciences&ots⫽Tgfs_zsfC2&sig⫽G3KE5oEqYqsqbt8xihCJwwJrUE&redir_esc⫽y#v⫽onepage&q&f⫽false
+Braverman, H. (1974). Labor and monopoly capital. New York, NY:
+Monthly Review Press.
+Bronson, B. (2015, October 1). Do we value low-skilled work? The New
+York Times. Retrieved from https://www.nytimes.com/2015/10/01/
+opinion/do-we-value-low-skilled-work.html
+Brown, C., & Flowers, J. (2020, May 29). We work in an Amazon
+warehouse. We didn’t sign up to be heroes. The New York Times.
+Retrieved from https://www.nytimes.com/2020/05/29/opinion/
+coronavirus-amazon-hazard-pay.html
+Brunetto, Y., Xerri, M., Shriberg, A., Farr-Wharton, R., Shacklock, K.,
+Newman, S., & Dienger, J. (2013). The impact of workplace relationships on engagement, well-being, commitment, and turnover for nurses
+in Australia and the USA. Journal of Advanced Nursing, 69, 2786 –2799.
+http://dx.doi.org/10.1111/jan.12165
+Charmaz, K. (2006). Constructing grounded theory: A practical guide through
+qualitative analysis. Thousand Oaks, CA: SAGE. Retrieved from https://
+books.google.fr/books?hl⫽fr&lr⫽&id⫽2ThdBAAAQBAJ&oi⫽fnd&
+pg⫽PP1&dq⫽Charmaz,⫹K.⫹(2006).⫹Constructing⫹grounded⫹
+theory:⫹A⫹practical⫹guide⫹through⫹qualitative⫹analysis.⫹
+Thousand⫹Oaks,⫹CA:⫹SAGE&ots⫽fZrYcJlGAY&sig⫽J197RXoOOPYz
+Yp51lmC5NuRkCTA&redir_esc⫽y#v⫽onepage&q⫽Charmaz%2C%20K
+.%20(2006).%20Constructing%20grounded%20theory%3A%20A%
+20practical%20guide%20through%20qualitative%20analysis
+.%20Thousand%20Oaks%2C%
+Cohen, J. (1960). A coefficient of agreement for nominal scales. Educational and Psychological Measurement, 20, 37– 46. http://dx.doi.org/10
+.1177/001316446002000104
+Day-Stirk, F., & Fauveau, V. (2012). The state of the world’s midwifery:
+Making the invisible visible. International Journal of Gynaecology and
+Obstetrics: The Official Organ of the International Federation of
+Gynaecology and Obstetrics, 119(Suppl. 1), S39 –S41. http://dx.doi.org/
+10.1016/j.ijgo.2012.04.003
+
+Deery, S., Kolar, D., & Walsh, J. (2019). Can dirty work be satisfying? A
+mixed method study of workers doing dirty jobs. Work, Employment and
+Society, 33, 631– 647. http://dx.doi.org/10.1177/0950017018817307
+Dill, J. S., Morgan, J. C., & Weiner, B. (2014). Frontline health care
+workers and perceived career mobility: Do high-performance work
+practices make a difference? Health Care Management Review, 39,
+318 –328. http://dx.doi.org/10.1097/HMR.0b013e31829fcbfd
+Douglas, M. (1966). Purity and danger: An analysis of concepts of pollution and taboo. Abingdon, UK: Routledge.
+Dutton, J. E., Debebe, G., & Wrzesniewski, A. (2016). Being valued and
+devalued at work: A social valuing perspective. In B. A. Bechky & K. D.
+Elsbach (Eds.), Qualitative organizational research: Best papers from
+the Davis Conference on Qualitative Research (Vol. III, pp. 9 –51).
+Charlotte, NC: Information Age Publishing. Retrieved from http://
+webuser.bus.umich.edu/janedut/High%20Quality%20Connections/
+Being%20valued%20%20final.pdf
+France Stratégie. (2015, April 28). Rapport les métiers en 2022 [Report:
+Trades in 2020]. Retrieved from https://www.strategie.gouv.fr/publi
+cations/metiers-2022-prospective-metiers-qualifications
+Gaskell, J. (1987). Gender and skill. In D. W. Livingstone (Ed.), Critical
+pedagogy and cultural power (pp. 137–153). London, UK. Palgrave.
+http://dx.doi.org/10.1007/978-1-349-18562-7_8
+Gioia, D. A., Corley, K. G., & Hamilton, A. L. (2013). Seeking qualitative
+rigor in inductive research: Notes on the Gioia methodology. Organizational Research Methods, 16, 15–31. http://dx.doi.org/10.1177/
+1094428112452151
+Hartz, M. R., & Wright, M. J. (2019). In demand and undervalued—The
+plight of American health care workers. American Journal of Public
+Health, 109, 209 –210. http://dx.doi.org/10.2105/AJPH.2018.304867
+Hewko, S. J., Cooper, S. L., Huynh, H., Spiwek, T. L., Carleton, H. L.,
+Reid, S., & Cummings, G. G. (2015). Invisible no more: A scoping
+review of the health care aide workforce literature. BMC Nursing, 14,
+38. http://dx.doi.org/10.1186/s12912-015-0090-x
+Higgins, E. T. (1989). Self-discrepancy theory: What patterns of selfbeliefs cause people to suffer? In L. Berkowitz (Ed.), Advances in
+experimental social psychology (Vol. 22, pp. 93–136). New York, NY:
+Academic Press. http://dx.doi.org/10.1016/S0065-2601(08)60306-8
+Hughes, E. C. (1958). Men and their work. New York, NY: Free Press.
+Retrieved from https://ixtheo.de/Record/1145738400
+Ibarra, H. (1999). Provisional selves: Experimenting with image and identity in professional adaptation. Administrative Science Quarterly, 44,
+764 –791. http://dx.doi.org/10.2307/2667055
+INSEE. (2020, July 25). Economic outlook. July 2020. Retrieved from
+https://www.insee.fr/fr/statistiques/4277748?sommaire⫽4318291
+Jones, G., Hocine, M., Salomon, J., Dab, W., & Temime, L. (2015).
+Demographic and occupational predictors of stress and fatigue in French
+intensive-care registered nurses and nurses’ aides: A cross-sectional
+study. International Journal of Nursing Studies, 52, 250 –259. http://dx
+.doi.org/10.1016/j.ijnurstu.2014.07.015
+Kreiner, G. E., Ashforth, B. E., & Sluss, D. M. (2006). Identity dynamics
+in occupational dirty work: Integrating social identity and system justification perspectives. Organization Science, 17, 619 – 636. http://dx.doi
+.org/10.1287/orsc.1060.0208
+Kreiner, G. E., Hollensbe, E. C., & Sheep, M. L. (2009). Balancing borders
+and bridges: Negotiating the work– home interface via boundary work
+tactics. Academy of Management Journal, 52, 704 –730. http://dx.doi
+.org/10.5465/amj.2009.43669916
+L’Express. (2020, March 18). Comme leurs voisins, les Français à leur
+fenêtre pour applaudir les soignants. Retrieved from https://www
+.lexpress.fr/actualite/societe/videos-comme-leurs-voisins-les-francais-aleur-fenetre-pour-applaudir-les-soignants_2121199.html
+Macdonald, C. L., & Merrill, D. A. (2002). “It shouldn’t have to be a
+trade”: Recognition and redistribution in care work advocacy. Hypatia,
+17, 67– 83. http://dx.doi.org/10.1111/j.1527-2001.2002.tb00766.x
+
+This document is copyrighted by the American Psychological Association or one of its allied publishers.
+This article is intended solely for the personal use of the individual user and is not to be disseminated broadly.
+
+SUDDEN HERO STATUS
+Mahalingam, R., Jagannathan, S., & Selvaraj, P. (2019). Decasticization,
+dignity, and “dirty work” at the intersections of caste, memory, and
+disaster. Business Ethics Quarterly, 29, 213–239. http://dx.doi.org/10
+.1017/beq.2018.34
+Markus, H., & Nurius, P. (1986). Possible selves. American Psychologist,
+41, 954 –969. http://dx.doi.org/10.1037/0003-066X.41.9.954
+Mason, T. B., Smith, K. E., Engwall, A., Lass, A., Mead, M., Sorby, M.,
+. . . Wonderlich, S. (2019). Self-discrepancy theory as a transdiagnostic
+framework: A meta-analysis of self-discrepancy and psychopathology.
+Psychological Bulletin, 145, 372–389. http://dx.doi.org/10.1037/
+bul0000186
+McCann, E., Landau, F., & Mahieus, L. (2020, June 3). COVID-19 murals
+express hope and help envision urban futures. The Conversation. Retrieved from https://theconversation.com/covid-19-murals-expresshope-and-help-envision-urban-futures-138706
+Messing, K. (1998). Hospital trash: Cleaners speak of their role in disease
+prevention. Medical Anthropology Quarterly, 12, 168 –187. http://dx.doi
+.org/10.1525/maq.1998.12.2.168
+Minder, R., & Peltier, E. (2020, March 24). Virus knocks thousands of
+health workers out of action in Europe. The New York Times. Retrieved
+from https://www.nytimes.com/2020/03/24/world/europe/coronaviruseurope-covid-19.html
+Nembhard, I. M., & Edmondson, A. C. (2006). Making it safe: The effects
+of leader inclusiveness and professional status on psychological safety
+and improvement efforts in health care teams. Journal of Organizational
+Behavior, 27, 941–966. http://dx.doi.org/10.1002/job.413
+Organization for Economic Cooperation and Development. (2017). Women
+make up most of the health sector workers but they are underrepresented in high-skilled jobs. Retrieved from https://www.oecd.org/
+gender/data/women-make-up-most-of-the-health-sector-workers-butthey-are-under-represented-in-high-skilled-jobs.htm
+Organization for Economic Cooperation and Development. (2020). Remuneration of health professionals. Retrieved from https://stats.oecd.org/
+index.aspx?queryid⫽30025
+O’Shea, L. (2019). Future histories: What Ada Lovelace, Tom Paine and
+the Paris Commune can teach us about digital technology. London, UK,
+Verso.
+QSR International. (2020). NVivo Qualitative Data Analysis Software.
+Retrieved from https://www.qsrinternational.com/nvivo-qualitativedata-analysis-software/home
+Rabelo, V. C., & Mahalingam, R. (2019). “They really don’t want to see
+us”: How cleaners experience invisible “dirty” work. Journal of Vocational Behavior, 113, 103–114. http://dx.doi.org/10.1016/j.jvb.2018.10
+.010
+Rogiers, P., De Stobbeleir, K., & Viaene, S. (2020). Stretch yourself:
+Benefits and burdens of job crafting that goes beyond the job. Academy
+of Management Discoveries. Advance online publication. http://dx.doi
+.org/10.5465/amd.2019.0093
+Rosenberg, M., & McCullough, B. C. (1981). Mattering: Inferred significance and mental health among adolescents. Research in Community
+and Mental Health, 2, 163–182. Retrieved from https://psycnet.apa.org/
+record/1983-07744-001
+Sennett, R. (1998). The corrosion of character: The personal consequences
+of work in the new capitalism. New York, NY: WW Norton. Retrieved
+from https://books.google.fr/books?hl⫽fr&lr⫽&id⫽os0U-hxtEfIC&
+oi⫽fnd&pg⫽PA15&dq⫽Sennett,⫹R.⫹(1998).⫹The⫹corrosion⫹
+of⫹character:⫹The⫹personal⫹consequences⫹of⫹work⫹in⫹the⫹
+
+1099
+
+new⫹capitalism.⫹New⫹York,⫹NY:⫹WW⫹Norton&ots⫽zPiKImGGi5&
+sig⫽BtACKHQla1jAhufiv4HlBnbBwCk&redir_esc⫽y#v⫽onepage&q⫽
+Sennett%2C%20R.%20(1998).%20The%20corrosion%20of%20character%3
+A%20The%20personal%20consequences%20of%20work%20in%20the%
+20new%20capitalism.%20New%20York%2C%20NY%3A%20WW%
+20Norton&f⫽false
+Sennett, R. (2006). The culture of the new capitalism. New Haven, CT:
+Yale University Press. Retrieved from https://books.google.fr/books?
+hl⫽fr&lr⫽&id⫽gCwnUBD4N3AC&oi⫽fnd&pg⫽PP11&dq⫽Sennett,⫹
+R.⫹(2006).⫹The⫹culture⫹of⫹the⫹new⫹capitalism.⫹New⫹Haven,⫹CT:
+⫹Yale⫹University⫹Press.&ots⫽_ADi3wQJFi&sig⫽PxwiCUVlgsRYX
+NGGaEWyhvV_85w&redir_esc⫽y#v⫽onepage&q&f⫽false
+Shantz, A., & Booth, J. E. (2014). Service employees and self-verification:
+The roles of occupational stigma consciousness and core selfevaluations. Human Relations, 67, 1439 –1465. http://dx.doi.org/10
+.1177/0018726713519280
+Simpson, R., Hughes, J., Slutskaya, N., & Balta, M. (2014). Sacrifice and
+distinction in dirty work: Men’s construction of meaning in the butcher
+trade. Work, Employment and Society, 28, 754 –770. http://dx.doi.org/
+10.1177/0950017013510759
+Simpson, R., Slutskaya, N., Lewis, P., & Höpful, H. (2012). Introducing
+dirty work, concepts and identities. In R. Simpson, N. Slutskaya, P.
+Lewis & H. Höpful (Eds.), Dirty work: Concepts and identities (pp.
+1–18). London, UK: Palgrave Macmillan. http://dx.doi.org/10.1057/
+9780230393530_1
+Smith, A. N., Watkins, M. B., Ladge, J. J., & Carlton, P. (2019). Making
+the invisible visible: Paradoxical effects of intersectional invisibility on
+the career experiences of executive Black women. Academy of Management Journal, 62, 1705–1734. http://dx.doi.org/10.5465/amj.2017.1513
+Steinberg, R. J. (1990). Social construction of skill: Gender, power, and
+comparable worth. Work and Occupations, 17, 449 – 482. http://dx.doi
+.org/10.1177/0730888490017004004
+Strauss, A., & Corbin, J. (1990). Basics of qualitative research. Thousand
+Oaks, CA: SAGE. http://dx.doi.org/10.5072/genderopen-develop-7
+Thiel, D. (2007). Class in construction: London building workers, dirty
+work and physical cultures. The British Journal of Sociology, 58, 227–
+251. http://dx.doi.org/10.1111/j.1468-4446.2007.00149.x
+Tracy, S., & Scott, C. (2006). Sexuality, masculinity and taint management
+among firefighters and correctional officers: Getting down and dirty
+with “America’s heroes” and the “scum of law enforcement”. Management Communication Quarterly, 20, 6 –38. http://dx.doi.org/10.1177/
+0893318906287898
+van Vuuren, M., Teurlings, J., & Bohlmeijer, E. (2012). Shared fate and
+social comparison: Identity work in the context of a stigmatized occupation. Journal of Management & Organization, 18, 263–280. http://dx
+.doi.org/10.5172/jmo.2012.18.2.263
+Verhaeghe, P. (2012). What about me? The struggle for identity in a
+market. London, UK: Scribe Publications. Retrieved from https://
+scribepublications.com.au/books-authors/books/what-about-me
+Vlasses, F. R. (1997). Too familiar for words: An analysis of “invisible”
+nursing work (Unpublished doctoral dissertation). Loyola University,
+Champaign, IL. http://dx.doi.org/10.1097/00004650-199707000-00005
+Wolfensberger, W., & Thomas, S. (2005). Introductory social role valorization workshop training package. Syracuse, NY: Training Institute
+for Human Service Planning, Leadership and Change Agentry, Syracuse
+University.
+
+(Appendix follows)
+
+1100
+
+HENNEKAM, LADGE, AND SHYMKO
+
+Appendix
+Vignettes of Interviews
+
+This document is copyrighted by the American Psychological Association or one of its allied publishers.
+This article is intended solely for the personal use of the individual user and is not to be disseminated broadly.
+
+Vignette 1 Hospital Attendant
+A 55-year-old hospital attendant in a public hospital reports that
+she perceived her work was invisible to others in multiple ways.
+She explains that her work is taken for granted by both doctors and
+patients, consists of tasks people prefer not to think about, and
+mentions that it is seen as simple work that anyone can do. She
+also highlights that she feels invisible as a person and stresses the
+hierarchy in her hospital and how she often feels inferior compared
+with nurses, technicians, and doctors. During the pandemic, she
+suddenly felt very visible and explained she was finally recognized
+and valued. However, she does not identify as a hero, as she feels
+she was just doing her job. She explains that she expects this hero
+status to be only temporary, as people had nothing better to do and
+she explains she thinks things will go back to how they were
+before. This expectation of the brevity of public appreciation
+turned out to be accurate in her opinion. She explains that the
+government never keeps its promises and that the lack of change
+made her feel that the sudden recognition during the pandemic had
+been insincere and that she was valued only because people needed
+her. Furthermore, she highlights that the sudden hero status and the
+subsequent lack of interest in real change made her feel worse—
+used and manipulated. Finally, she acknowledges that the most
+positive aspect of the pandemic is the cohesion and team spirit at
+the hospital. However, she reports that once the COVID had
+calmed down, the hierarchy was re-established and that everything
+had gone back to normal.
+
+Vignette 2 Technician
+A 24-year-old technician in a private hospital explains that her
+occupation is not well-known, as it does not directly involve care
+work, making it invisible. However, she mentions that the pandemic has made the public aware that non-care work is also
+important in providing care for patients. She explains that the
+sanitary crisis has led to a strong cohesion with others in the same
+vocation and that she enjoys being part of something bigger,
+
+highlighting her sense of belonging to the profession of biomedical
+engineer. Moreover, she stresses that the social cohesion at the
+hospital was also amplified by the pandemic, as all health care
+workers had the same goal. This also broke down hierarchies and
+enhanced collaboration. She explains that although she perceives
+that some of this cohesion remained after the crisis weakened, the
+direction of the hospital still did not recognize nonphysician health
+care workers. She perceives that the government and the general
+public showed more consideration and respect during the pandemic. Although she hopes this will lead to structural changes in
+the way her work and that of her nonphysician colleagues is
+treated, she is skeptical about the possibility of enduring change. In
+addition, she rejects the imposed hero status, as she feels it was too
+much and too demonstrative. She explains that this made her
+wonder whether the motives of the public were genuine.
+
+Vignette 3 Nurse
+A 44-year-old nurse working in a public hospital explains that
+before the pandemic she did not feel valued and that she was seen
+as inferior compared with physicians. However, she felt well
+regarded by patients. The crisis made her visible and appreciated
+but she reports that the sudden recognition during the pandemic
+was surreal and felt fake. She goes on to explain that she rejects the
+sudden hero status but that she appreciates the fact that her work
+was acknowledged. At the end of the confinement, the perception
+of being visible vanished and it was a painful experience. This
+made her think whether the public praise was genuine or whether
+people valued her because they had nothing else to do and because
+they needed her during the pandemic. The sudden hero status made
+her believe that it would trigger a shift in her social status and,
+when this did not occur, she felt manipulated and abused and
+engulfed in anger and frustration.
+Received June 9, 2020
+Revision received August 5, 2020
+Accepted August 6, 2020 䡲
+
+

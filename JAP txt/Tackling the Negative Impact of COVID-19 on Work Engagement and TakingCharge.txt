@@ -1,0 +1,1849 @@
+Journal of Applied Psychology
+Tackling the Negative Impact of COVID-19 on Work Engagement and Taking
+Charge: A Multi-Study Investigation of Frontline Health Workers
+Dong Liu, Yang Chen, and Nian Li
+Online First Publication, February 18, 2021. http://dx.doi.org/10.1037/apl0000866
+
+CITATION
+Liu, D., Chen, Y., & Li, N. (2021, February 18). Tackling the Negative Impact of COVID-19 on Work Engagement and Taking
+Charge: A Multi-Study Investigation of Frontline Health Workers. Journal of Applied Psychology. Advance online
+publication. http://dx.doi.org/10.1037/apl0000866
+
+Journal of Applied Psychology
+© 2021 American Psychological Association
+ISSN: 0021-9010
+
+https://doi.org/10.1037/apl0000866
+
+Tackling the Negative Impact of COVID-19 on Work Engagement and Taking
+Charge: A Multi-Study Investigation of Frontline Health Workers
+Dong Liu1, Yang Chen2, and Nian Li3
+1
+
+This document is copyrighted by the American Psychological Association or one of its allied publishers.
+This article is intended solely for the personal use of the individual user and is not to be disseminated broadly.
+
+2
+
+Scheller College of Business, Georgia Institute of Technology
+School of Business Administration, Southwestern University of Finance and Economics
+3
+Department of Medical Administration, West China Hospital, Sichuan University
+
+The COVID-19 pandemic, as a stressful event, has posed unprecedented challenges for employees worldwide.
+This research investigated whether and when an employee’s perceived COVID-19 crisis strength affected his or
+her work engagement and taking charge at work. In a time-lagged ﬁeld study of health workers on the
+coronavirus frontline (Study 1), we found that when work meaningfulness was lower, a health worker’s
+perceived COVID-19 crisis strength exerted a more negative effect on his or her work engagement and taking
+charge at work. In a longitudinal ﬁeld experiment (Study 2), we collaborated with a hospital to carry out two
+organizational interventions based on event system theory and work meaningfulness r esearch. The interventions signiﬁcantly decreased perceived COVID-19 crisis strength and increased work meaningfulness for
+medical staff in an intensive care unit (ICU), who were tasked with caring for COVID-19 patients in critical
+condition. The ﬁndings of Study 2 demonstrate the effectiveness of organizational training and interventions in
+alleviating the negative impact of COVID-19 on an employee’s work engagement and taking charge at work.
+Keywords: COVID-19 crisis, frontline health workers, work meaningfulness, work engagement, taking
+charge at work
+
+Training proves to be the key ingredient to handling any disaster.
+—Walter Maddox, Mayor of Tuscaloosa
+
+(e.g., energy and time) toward one’s work (Rich et al., 2010). As a
+type of proactive behavior, taking charge at work “entails voluntary
+and constructive efforts, by individual employees, to effect organizationally functional change with respect to how work is executed
+within the contexts of their jobs, work units, or organizations”
+(Morrison & Phelps, 1999, p. 403). In today’s rapidly evolving
+work environment, work engagement and taking charge at work
+are critical to individual effectiveness and organizational success
+(Bakker & Albrecht, 2018; Kim et al., 2015).
+The transactional model of stress suggests that the impact of a
+stressful event may depend on the extent to which individuals consider
+the event relevant or meaningful in a given context (Lazarus, 1966,
+1993; Lazarus & Folkman, 1984, 1987). A relevant stressful event is
+more likely to capture people’s attention and subsequently alter their
+behavior. In the workplace, work meaningfulness—that is, the perception that one’s daily job responsibilities have a broader signiﬁcance—
+may determine whether an employee views a stressful event as
+relevant and pays heed to it (Rosso et al., 2010). Finding meaning
+in work enables employees to concentrate on their jobs and reduces
+their susceptibility to stressful events in context (Soane et al., 2013;
+Tugade & Fredrickson, 2004). Work meaningfulness also broadens
+employees’ thought–action repertoires and enables them to reenergize
+and refocus on their work quickly (Soane et al., 2013; Tugade &
+Fredrickson, 2004). When confronted with a stressful event, which
+consumes one’s personal resources, employees with higher levels of
+work meaningfulness are better prepared to recover effectively and
+efﬁciently (Crawford et al., 2019; Folkman & Moskowitz, 2000).
+Accordingly, in this research, we also examine whether work meaningfulness may act as a moderator to buffer employees from the
+negative impact of the COVID-19 crisis on employees. Doing so can
+generate valuable theoretical and practical insights into when an
+employee’s perceived COVID-19 crisis strength will be more likely
+
+The COVID-19 pandemic is a stressful event that has substantially
+affected employees. Initial research has indicated that employee
+productivity has fallen by a dramatic 35% since the onset of this
+global health crisis (van Hoof, 2020). According to the stress literature, stressful events drain cognitive resources and drive emotional
+exhaustion, thereby disengaging employees from work and tempering
+their ability to be proactive (Eatough et al., 2011; Lazarus &
+Folkman, 1984). The transactional model of stress underscores the
+notion that one’s perception of a stressful event will shape one’s
+response to the event (Lazarus & Folkman, 1984, 1987). A major
+purpose of this research is thus to examine whether an employee’s
+perceived COVID-19 crisis strength will decrease an employee’s
+work engagement and taking charge at work. Work engagement
+reﬂects the extent to which one actively allocates personal resources
+
+Dong Liu
+https://orcid.org/0000-0001-9229-5421
+https://orcid.org/0000-0003-1137-6831
+Yang Chen
+Our heartfelt gratitude goes to health workers on the frontline against
+COVID-19, whose perseverance and sacriﬁce greatly inspired us to conduct
+this research.
+Yang Chen’s work on this article was supported in part by research grants
+from the National Natural Science Foundation of China (71502142,
+71725001) and International Cooperation Project of Sichuan Science and
+Technology Department (20GJHZ0222).
+Correspondence concerning this article should be addressed to Yang
+Chen, School of Business Administration, Southwestern University of
+Finance and Economics, No. 555, Liutai Road, Wenjiang District,
+Chengdu, Sichuan 611130, China. Email: chenyang@swufe.edu.cn
+1
+
+This document is copyrighted by the American Psychological Association or one of its allied publishers.
+This article is intended solely for the personal use of the individual user and is not to be disseminated broadly.
+
+2
+
+LIU, CHEN, AND LI
+
+to deteriorate the employee’s work engagement and taking charge at
+work (Colquitt & Zapata-Phelan, 2007).
+Currently, organizations around the world are designing and
+implementing training and intervention strategies to combat the
+negative effects of the COVID-19 crisis in the workplace (Alessi,
+2020). Brian Moynihan, the CEO of Bank of America, for example,
+recently argued that ﬁrms should prioritize actions that reduce the
+behavioral and psychological problems faced by employees amid
+COVID-19 (Alessi, 2020). Hence, in addition to demonstrating the
+harmful effects of the COVID-19 crisis on employees, we boost the
+practical implications of our research by developing and ﬁeldtesting two psychological interventions intended to foster work
+engagement and taking-charge behaviors in health workers on
+the frontline against COVID-19.
+
+Theory and Hypotheses
+The Main Effects of Perceived COVID-19 Crisis Strength
+on Work Engagement and Taking Charge at Work
+The transactional model of stress emphasizes that a stressful event
+should be considered in terms of its strength or severity to the
+individual, because “how a person construes an event shapes the
+emotional and behavioral response” (Lazarus & Folkman, 1984,
+p. 24). In other words, an individual’s perception of the strength of a
+stressful event directly leads to the individual outcomes. Accordingly, psychology scholars have begun to test the relationship
+between one’s perceived strength of stressful life events and
+well-being empirically (e.g., You & Conner, 2009). Curiously,
+there is still an insufﬁcient understanding of the inﬂuence of the
+perceived strength of macro events or crises on employee psychological states and behaviors in organizational settings (Liu et al.,
+2018; Morgeson et al., 2015).
+As suggested by the transactional model of stress, employees who
+perceive the COVID-19 crisis to be more severe will feel compelled
+to direct more personal attention and energy to protect their family,
+friends, and themselves from harm (Berjot & Gillet, 2011; Lazarus,
+1991). Consequently, these employees will then feel exhausted and
+have fewer resources available to devote to their work (Chen et al.,
+2013). They will experience a lack of control and have difﬁculty
+concentrating on their job tasks, which can cause them to disengage
+from their work roles (Leigh & Melwani, 2019) and be unable to
+exercise taking-charge behavior (Eatough et al., 2011; Sonnentag &
+Frese, 2003). Conversely, employees who consider the COVID-19
+crisis to be less severe will pay less attention and dedicate fewer
+resources to the crisis. COVID-19 will be less likely to hinder their
+ability to engage in work activities and go the extra mile to serve
+their organizations. Therefore, we propose:
+Hypothesis 1: An employee’s perceived COVID-19 crisis
+strength is negatively related to his or her work engagement.
+Hypothesis 2: An employee’s perceived COVID-19 crisis
+strength is negatively related to his or her taking charge at work.
+
+The Moderating Effects of Work Meaningfulness
+As argued above, in the framework of the transactional model of
+stress, the effect of a stressful event on subsequent outcomes
+
+depends on the degree to which individuals regard the event as
+relevant or meaningful in a given context (Lazarus & Folkman,
+1984, 1987). In organizations, work meaningfulness reﬂects the
+extent to which individuals interpret their work as personally
+meaningful relative to other stimuli, and may prompt employees
+to concentrate on their work and become less likely to have their
+attention diverted and resources exhausted by non-work cues (Rosso
+et al., 2010). Employees who ascribe a strong meaning to their work
+will continue to make signiﬁcant personal investments and exhibit
+high levels of engagement and taking-charge behaviors even in the
+midst of a crisis (Lips-Wiersma & Wright, 2012; Steger
+et al., 2012).
+Furthermore, employees with a strong sense of work meaningfulness will remain better positioned to recharge and refocus on their
+jobs, even when COVID-19 triggers emotional and cognitive
+exhaustion (Folkman & Moskowitz, 2000; Soane et al., 2013). In
+contrast, employees with low levels of work meaningfulness are
+more inclined to deprioritize their jobs and be distracted by the
+challenges and difﬁculties arising from the COVID-19 crisis (Steger
+et al., 2012). Such employees may not only be more prone to
+disengage from work and refrain from taking charge, but also
+require a longer recovery period during times of crisis (Arnold &
+Walsh, 2015; Park & Folkman, 1997). Studies have veriﬁed that
+work meaningfulness can buffer the impact of stressful conditions
+by reducing employees’ susceptibility to emotional exhaustion
+(Tummers & Den Dulk, 2013) and allowing them to cultivate better
+occupational well-being (Soane et al., 2013). Accordingly, work
+meaningfulness may mitigate the negative effects of perceived
+COVID-19 crisis strength on work engagement and taking charge
+at work (Figure 1). Speciﬁcally,
+Hypothesis 3: Work meaningfulness moderates the negative
+relationship between an employee’s perceived COVID-19 crisis strength and work engagement, such that the relationship
+will be less negative when work meaningfulness is higher.
+Hypothesis 4: Work meaningfulness moderates the negative
+relationship between an employee’s perceived COVID-19 crisis strength and taking charge at work, such that the relationship
+will be less negative when work meaningfulness is higher.
+
+Organizational Interventions to Ameliorate the
+Negative Impact of COVID-19
+Drawing on event system theory and the work meaningfulness
+literature, we further propose two interventions that organizations
+can adopt to mitigate the negative effects of COVID-19 on their
+employees’ work engagement and taking charge at work. According
+to event system theory, the perceived strength of an event or crisis is
+reﬂected in its novelty, disruption, and criticality (Morgeson et al.,
+2015). In this context, novelty is the extent to which employees
+consider COVID-19 new and unexpected; disruption reﬂects the
+extent to which they perceive that their existing tasks are interrupted
+by COVID-19; and criticality gauges the extent to which they
+believe that COVID-19 will signiﬁcantly affect their long-term
+development (Morgeson et al., 2015). Accordingly, organizations
+can reduce employees’ perceived COVID-19 crisis strength or
+severity by designing interventions to minimize perceptions of
+
+TACKLING THE NEGATIVE IMPACT OF COVID-19
+
+3
+
+This document is copyrighted by the American Psychological Association or one of its allied publishers.
+This article is intended solely for the personal use of the individual user and is not to be disseminated broadly.
+
+Figure 1
+Hypothesized Model
+
+the crisis’s novelty, disruption, and criticality. As noted in the
+literature on work meaningfulness, organizations can enhance
+work meaningfulness by strengthening the sense that their employees’ work makes signiﬁcant contributions to the organization’s
+goals, other people’s well-being, and the employees’ own personal
+growth and development (Carton, 2018; Frieder et al., 2018; Loi
+et al., 2018). As such, we collaborated with a hospital where
+COVID-19 patients were treated to implement a longitudinal ﬁeld
+experiment (Study 2) with the aims of examining the following
+research question and ultimately assisting organizations in their
+efforts to combat COVID-19:
+Research question: Can organizations boost employee work
+engagement and taking charge at work by implementing interventions to decrease perceived COVID-19 crisis strength and
+increase work meaningfulness among employees?
+
+Overview of Empirical Studies
+First, we tested our hypotheses by conducting a time-lagged ﬁeld
+survey of nurses, who provided care to COVID-19 patients (Study
+1). Next, we addressed the above research question by conducting a
+longitudinal ﬁeld experiment (Study 2) in an intensive care unit
+(ICU) for COVID-19 patients in critical condition. The combination
+of a ﬁeld survey and a ﬁeld experiment enabled us to verify both the
+internal and external validity of our research.1
+
+2020; Pearman et al., in press), making them an appropriate sample
+to test our hypotheses. Our research was conducted at a major
+hospital in Chengdu, China. To minimize disruptions to hospital
+operations, the human resources (HR) department of this hospital
+assisted us in randomly selecting 268 nurses and their direct leaders
+(26 head nurses), who were involved in caring for COVID-19
+patients and encouraging them to participate in our survey. The
+participants completed our on-site surveys over a 6-week period and
+returned the surveys directly to us. At time 1, we surveyed 268
+nurses regarding their perceived COVID-19 crisis strength, work
+meaningfulness, and demographic data and received responses from
+266 nurses (99.25% response rate). At time 2 (3 weeks after time 1),
+the 266 responding nurses were invited to rate their work engagement. We received responses from 258 nurses (96.99% response
+rate). At time 3 (3 weeks after time 2), the 26 head nurses rated the
+258 nurses’ taking-charge behaviors (100% response rate). Among
+the 258 nurses, 165 (63.95%) were younger than 30 years, 231
+(89.53%) held an associate’s degree or above, and 220 (85.27%)
+were female. On average, the nurses had 7.96 years of work
+experience (SD = 6.23). We compared our ﬁnal sample
+(n = 258) with the initial sample (n = 266) in terms of demographics, perceived COVID-19 crisis strength, and employee
+work meaningfulness. No signiﬁcant differences between the two
+groups were found in terms of age (F = .82, not signiﬁcant (ns)),
+gender (F = .03, ns), education (F = .40, ns), tenure (F = .07, ns),
+
+Study 1: Time-Lagged Field Survey
+1
+
+Sample and Procedure
+Frontline healthcare workers place themselves at high risk of
+contracting COVID-19 and encounter numerous physical and psychological challenges. For example, at least 22 healthcare workers in
+China had died of COVID-19 by the end of February 2020, and
+more than 3,300 had tested positive as of early March 2020 (The
+Lancet, 2020). Frontline health workers worldwide have regarded
+the COVID-19 crisis as an extraordinarily stressful event (Lu et al.,
+
+The data were collected by the second author, whose afﬁliated university
+in China does not have an Institutional Review Board (IRB) but requires its
+researchers to adhere to the rights granted to human subjects, including the
+participant’s rights to privacy, conﬁdentiality, informed consent, dignity,
+protection, and free choice. Researchers are also required to maintain the
+privacy of the data collected about human subjects, as declared in the
+Nuremberg Code, 1964 Declaration of Helsinki, and other international
+conventions on human rights. As an independent third party, the Associate
+Dean for Research of the business school with which the second author is
+afﬁliated has reviewed and approved the research materials. The entire data
+collection procedures fully complied with the above requirements.
+
+This document is copyrighted by the American Psychological Association or one of its allied publishers.
+This article is intended solely for the personal use of the individual user and is not to be disseminated broadly.
+
+4
+
+LIU, CHEN, AND LI
+
+perceived COVID-19 crisis strength (F = .07, ns), or work meaningfulness (F = 1.27, ns).
+
+‘situational strength’ reﬂects the extent to which situations can
+constrain behavior (Mischel, 1969).”
+
+Measures
+
+Work Meaningfulness (α = .94)
+
+All of the measures described below have been established and
+veriﬁed in previous studies. We applied the translation and backtranslation procedure to achieve a linguistic equivalence between
+the English and Chinese versions of the measures (Brislin, 1986).
+We invited two bilingual organizational behavior scholars to review
+the content validity and clarity of the measures. We then made
+several minor changes to the wordings of the items based on their
+feedback. Unless otherwise noted, ﬁve-point Likert scales ranging
+from 1 strongly disagree to 5 strongly agree were used (see
+Appendix A for all measurement items).
+
+The nurses rated their work meaningfulness using Spreitzer
+(1995) 3-item measure. A sample item is, “My job activities are
+personally meaningful to me.”
+
+Work Engagement (α = .93)
+The nurses rated their work engagement using the 9-item Work
+Engagement Scale from Schaufeli et al. (2006) on a scale from
+1 = never to 5 = always. A representative item is, “I am immersed
+in my work.”
+
+Taking Charge at Work (α = .94)
+
+Perceived COVID-19 Crisis Strength (α = .79)
+Consistent with research related to event system theory, the nurses
+rated their perceived COVID-19 crisis strength using an 11-item
+measure that included the three dimensions of novelty, disruption, and
+criticality (Morgeson, 2005; Morgeson & DeRue, 2006; Morgeson
+et al., 2015). A sample item is, “The COVID-19 crisis disrupts my
+ability to get my work done.” A second-order conﬁrmatory factor
+analysis (CFA) showed that all of the items signiﬁcantly loaded onto
+their corresponding three dimensions, which signiﬁcantly loaded onto
+an overall second-order factor that measured perceived COVID-19
+crisis strength. This second-order CFA model ﬁts the data well
+(χ2 (41) = 90.39, TLI = .94, CFI = .95, RMSEA = .07), suggesting
+that the items could be aggregated into a composite score for
+subsequent analyses (Wong et al., 2008). This ﬁnding is consistent
+with Morgeson et al. (2015, p. 522), who noted that, “although we
+have discussed each of the event characteristics separately, it is clear
+that all three are present in varying amounts in every event. A key
+question thus revolves around how they combine to inﬂuence behaviors, features, and events. We suggest that they combine in an
+additive fashion, where the conﬂuence of event characteristics determines the overall ‘strength’ of an event, much in the same way that
+
+The supervisors rated nurses’ taking-charge behaviors using a 5item scale (Grant et al., 2011). A sample item is, “This nurse tried to
+bring about improved procedures for the hospital.”
+
+Control Variables
+We included team size (natural logarithm of the number of team
+employees) and team age (years) as team-level controls (Sonnentag,
+2003). At the individual level, we controlled for an employee’s age,
+gender, years of work experience, and education level (Grant et al.,
+2011; Hartog & Belschak, 2007).
+
+Analytical Strategy and Results
+Table 1 reports the descriptive statistics and inter-correlations
+between the study variables. We conducted a CFA with AMOS 7 to
+verify the discriminant validity of the multiple-item variables. The
+hypothesized four-factor model (perceived COVID-19 crisis
+strength, work meaningfulness, work engagement, and taking
+charge at work) yielded an acceptable ﬁt to the data, and all of
+the factor loadings were signiﬁcant: χ2(338) = 554.40, CFI = .96,
+
+Table 1
+Individual-Level Descriptive Statistics, Reliabilities, and Inter-Correlations Among Measures (Study 1)
+Variables
+1.
+2.
+3.
+4.
+5.
+6.
+7.
+
+Team size (log) (time 3, level 2)
+Team age (time 3, level 2)
+Employee age (time 1, level 1)
+Employee gender (time 1, level 1)
+Employee education (time 1, level 1)
+Employee tenure (time 1, level 1)
+Perceived COVID-19 crisis strength
+(time 1, level 1)
+8. Work meaningfulness (time 1, level 1)
+9. Work engagement (time 2, level 1)
+10. Taking charge at work (time 3, level 1)
+
+Mean (SD)
+2.38
+1.96
+2.41
+0.15
+4.91
+7.96
+2.96
+
+(0.24)
+(0.93)
+(0.63)
+(0.36)
+(0.40)
+(6.23)
+(0.45)
+
+4.29 (0.60)
+3.90 (0.63)
+3.90 (0.82)
+
+1
+
+2
+
+3
+
+—
+−.29**
+−.13*
+.07
+−.04
+−.09
+−.06
+
+—
+.16*
+−.00
+.05
+.12*
+−.02
+
+—
+−.12
+.12
+.86**
+.06
+
+−.10
+−.02
+−.04
+
+.00
+−.07
+.07
+
+.13*
+.09
+.24**
+
+4
+
+—
+.09
+−.12
+.05
+−.05
+.16**
+.09
+
+5
+
+—
+.18**
+.08
+−.03
+.01
+.07
+
+6
+
+—
+.02
+.16**
+.15*
+.24**
+
+7
+
+8
+
+9
+
+10
+
+(.94)
+.33**
+.18**
+
+(.93)
+.29**
+
+(.94)
+
+(.79)
+.03
+−.16**
+−.01
+
+Note. n = 258 at the employee level (level 1); n = 26 at the team level (level 2). Reliabilities of the measures are boldfaced and noted in the diagonals. Data on
+variables 3–8 were collected from the nurses at time 1 and data on variable 9 was collected from the nurses at time 2 (3 weeks after time 1). Data on variables 1–2
+and 10 were collected from the nurses’ direct supervisors at time 3 (3 weeks after time 2). Employee age (1 = less than 21 years; 2 = between 21 and 30; 3 =
+between 31 and 40; 4 = between 41 and 50; 5 = between 51 and 60; 6 = above 60 years), employee gender (1 = male; 0 = female), employee education (1 =
+middle school or below; 2 = high school; 3 = secondary school; 4 = associate’s degree; 5 = bachelor’s degree; 6 = master’s degree; 7 = Ph.D. or above).
+* p < .05, ** p < .01 (two-tailed).
+
+5
+
+This document is copyrighted by the American Psychological Association or one of its allied publishers.
+This article is intended solely for the personal use of the individual user and is not to be disseminated broadly.
+
+TACKLING THE NEGATIVE IMPACT OF COVID-19
+
+TLI = .95, and RMSEA = .05. This model ﬁtted the data signiﬁcantly better than all six constrained models in which any two of the
+four variables were set to load on a single factor (122.85 ≤ Δχ2
+(Δdf = 1) ≤ 688.02).
+As our data were nested under teams, we tested a two-level
+random slope model using grand-mean centering with HLM 6.08
+(see Appendix B for a more detailed description of our analytical
+procedure). In support of Hypothesis 1, the results of Model 2 in
+Table 2 indicate that perceived COVID-19 crisis strength was
+negatively related to work engagement (γ = −.31, p < .01). The
+results of Model 5 in Table 2 reveal that perceived COVID-19 crisis
+strength was negatively but non-signiﬁcantly related to taking
+charge at work (γ = −.02, ns), thereby not supporting Hypothesis 2.
+In keeping with Hypothesis 3, the results of Model 3 in Table 2
+indicate that the interaction between perceived COVID-19 crisis
+strength and work meaningfulness was positively related to work
+engagement (γ = .41, p < .01). Figure 2 and slope tests show that
+the negative relationship between perceived COVID-19 crisis
+strength and work engagement became non-signiﬁcant when
+work meaningfulness was higher (γ = −.11, ns) versus lower
+(γ = −.53, p < .01). Consistent with Hypothesis 4, the results of
+Model 6 in Table 2 indicate that the interaction between perceived
+COVID-19 crisis strength and work meaningfulness was positively
+related to taking charge at work (γ = .40, p < .01). Figure 3 and
+slope tests demonstrate that the negative relationship between
+perceived COVID-19 crisis strength and taking charge at work
+became non-signiﬁcant when work meaningfulness was higher
+(γ = .18, ns) versus lower (γ = −.31, p < .01).
+
+Study 2: Longitudinal Field Experiment
+Sample and Procedure
+In Study 2, the targeted participants were the 64 medical professionals employed at an ICU for COVID-19 patients in critical
+
+condition. The ICU was located in the same hospital as in Study 1.
+Our interview with the hospital leaders revealed that mitigating the
+negative impact of COVID-19 on these medical professionals who
+were on the COVID-19 frontline was crucial for promoting
+employee morale and providing quality care for patients. Three
+medical professionals who agreed to participate dropped out of the
+study because of time constraints and did not complete the pre- and
+post-intervention assessments, leaving a ﬁnal sample of 61 participants. Of the 61 participants in the ﬁnal sample, 55 (90.16%) were
+younger than 40 years, 60 (98.36%) had an associate’s degree or
+above, and 40 (65.57%) were women. On average, the employees
+had 8.82 years of work experience (SD = 4.62). There were no
+signiﬁcant demographic differences across the experimental and
+control conditions.
+We adopted a 2 (COVID-19 crisis intervention or not) × 2 (work
+meaningfulness intervention or not) between-participant factorial
+design with repeated (pre- and post-intervention) measures
+(Campbell & Stanley, 2015). The studied ICU was staffed with
+nurses, doctors, and support staff (e.g., dieticians, phlebotomists,
+and radiologists). With the assistance of the hospital’s HR department, we sought to assign these three groups of employees randomly
+and uniformly to three experimental conditions and one control
+condition (Shadish et al., 2002). Finally, 15 participants (10 nurses,
+4 doctors, and 1 support staff) received both interventions, 15 (9
+nurses, 3 doctors, and 3 support staff) received the COVID-19 crisis
+intervention only, 16 (11 nurses, 2 doctors, and 3 support staff)
+received the work meaningfulness intervention only, and 15 (9
+nurses, 3 doctors, and 3 support staff) received neither intervention
+(control group). Medical professionals provided pre-intervention
+(early March 2020) and post-intervention (2 weeks after the intervention) data on perceived COVID-19 crisis strength, work meaningfulness, and work engagement. Their supervisors, who did
+not participate in the experiment and were blinded to the experimental versus control conditions, provided pre-intervention and
+
+Table 2
+HLM Results (Study 1): The Joint Effects of Perceived COVID-19 Crisis Strength and Work Meaningfulness on Work Engagement and Taking
+Charge at Work
+Work engagement (time 2)
+
+Taking charge at work (time 3)
+
+Variables
+
+Model 1
+
+Model 2
+
+Model 3
+
+Model 4
+
+Model 5
+
+Model 6
+
+Intercept
+Level 1 control variables
+Employee age (time 1)
+Employee gender (time 1)
+Employee education (time 1)
+Employee tenure (time 1)
+Level 2 control variables
+Team size (log) (time 3)
+Team age (time 3)
+Level 1 Independent variables
+Perceived COVID-19 crisis strength (time 1)
+Work meaningfulness (time 1)
+Perceived COVID-19 crisis strength ×
+work meaningfulness (time 1)
+Residual variance level-1
+Residual variance level-2
+
+3.90** (.04)
+
+3.91** (.04)
+
+3.90** (.04)
+
+3.91** (.13)
+
+3.91** (.13)
+
+3.90** (.13)
+
+−.12 (.12)
+.34** (.11)
+−.07 (.10)
+.03* (.01)
+
+−.05 (.11)
+.38** (.10)
+−.00 (.09)
+.02 (.01)
+
+−.05 (.11)
+.37** (.10)
+.01 (.09)
+.02 (.01)
+
+−.05 (.10)
+.11 (.09)
+.09 (.08)
+.03** (.01)
+
+−.02 (.10)
+.12 (.09)
+.11 (.08)
+.03** (.01)
+
+−.01 (.10)
+.09 (.08)
+.13 (.08)
+.02* (.01)
+
+−.14 (.17)
+−.07 (.04)
+
+−.15 (.16)
+−.07 (.04)
+
+−.08 (.16)
+−.06 (.04)
+
+.14 (.52)
+.05 (.15)
+
+.16 (.51)
+.04 (.15)
+
+.11 (.44)
+.03 (.13)
+
+−.31** (.10)
+.31** (.08)
+
+−.32** (.10)
+.29** (.09)
+.41** (.16)
+
+−.02 (.07)
+.17** (.06)
+
+−.06 (.07)
+.14* (.06)
+.40** (.11)
+
+.38
+.00
+
+.29
+.00
+
+.26
+.01
+
+.23
+.43
+
+.22
+.42
+
+.21
+.42
+
+Note. n = 258 at the employee level (level 1); n = 26 at the team level (level 2). Asymptotic standard errors are noted in parentheses where applicable.
+* p < .05, ** p < .01 (two-tailed).
+
+6
+
+LIU, CHEN, AND LI
+
+This document is copyrighted by the American Psychological Association or one of its allied publishers.
+This article is intended solely for the personal use of the individual user and is not to be disseminated broadly.
+
+Figure 2
+The Joint Inﬂuence of Perceived COVID-19 Crisis Strength and Work Meaningfulness on Work Engagement (Study 1)
+
+post-intervention data on these medical professionals’ taking-charge
+behaviors.
+In line with prior ﬁeld experiments (e.g., McNatt & Judge, 2004),
+we designed the two interventions described below (see Appendix C
+for additional details), which were then reviewed by the hospital’s
+vice president for training and development, as well as HR staff, to
+ensure their appropriateness and effectiveness. For the ﬁrst intervention, the vice president provided a counseling session to the
+groups receiving the COVID-19 crisis intervention (n = 15) and
+both interventions (n = 15). Event system theory suggests that an
+event’s perceived strength reﬂects how novel, disruptive, and critical it is perceived to be (Morgeson et al., 2015). Accordingly, during
+the session, the vice president attempted to reduce medical professionals’ perceived COVID-19 crisis strength by mitigating their
+
+perceived novelty, disruption, and criticality of COVID-19. For the
+second intervention, the vice president sent an ofﬁcial letter (via
+both email and mail) to each member in the groups receiving the
+work meaningfulness intervention (n = 16) and both interventions
+(n = 15). Consistent with the literature on work meaningfulness, the
+letter stressed the importance of the medical professionals’ work in
+three areas: fulﬁlling the hospital’s goal of providing excellent
+medical service to patients (Carton, 2018), enhancing patients’
+well-being and health (Frieder et al., 2018), and fostering personal
+growth and development (Robertson et al., 2020). The letter also
+stressed that these aspects had become particularly meaningful amid
+the COVID-19 crisis. After the experiment, a co-author who was a
+senior HR manager at the hospital interviewed ﬁve participants and
+asked them about their experiences during Study 2. None of them
+
+Figure 3
+The Joint Inﬂuence of Perceived COVID-19 Crisis Strength and Work Meaningfulness on Taking Charge at Work (Study 1)
+
+7
+
+TACKLING THE NEGATIVE IMPACT OF COVID-19
+
+Table 3
+Means by Intervention Condition (Study 2)
+Perceived COVID-19
+crisis strength α = .71
+(pretest) and
+.85 (posttest)
+Variable
+
+This document is copyrighted by the American Psychological Association or one of its allied publishers.
+This article is intended solely for the personal use of the individual user and is not to be disseminated broadly.
+
+Both interventions
+Work meaningfulness intervention
+COVID-19 crisis intervention
+Control
+
+Pre
+3.73
+3.52
+3.64
+3.64
+
+Work meaningfulness
+α = .93 (pretest) and
+.82 (posttest)
+
+Post
+
+(.43)
+(.54)
+(.47)
+(.49)
+
+3.20
+3.43
+2.63
+3.61
+
+Pre
+
+(.49)
+(.50)
+(.47)
+(.58)
+
+4.04
+4.48
+4.44
+4.40
+
+Work engagement
+α = .83 (pretest) and
+.82 (posttest)
+
+Post
+
+(.82)
+(.47)
+(.63)
+(.64)
+
+4.56
+4.92
+4.44
+4.49
+
+Pre
+
+(.43)
+(.15)
+(.54)
+(.45)
+
+3.67
+3.64
+3.75
+3.86
+
+Taking charge at work
+α = .94 (pretest) and
+.85 (posttest)
+
+Post
+
+(.56)
+(.53)
+(.53)
+(.54)
+
+4.68
+4.01
+3.93
+3.93
+
+(.37)
+(.42)
+(.46)
+(.60)
+
+Pre
+3.08
+3.15
+3.69
+3.71
+
+Post
+
+(.17)
+(.50)
+(.81)
+(.68)
+
+4.83
+4.06
+4.12
+3.93
+
+(.20)
+(.48)
+(.49)
+(.61)
+
+Note. n = 61. Standard deviations are in parentheses.
+
+show a signiﬁcant interactive effect of time (pre- vs. post-intervention)
+and condition (work meaningfulness intervention versus control) on
+work meaningfulness (F(1, 57) = 5.60, p < .05, η2 = .09, d = .63).
+Work meaningfulness increased signiﬁcantly in the work meaningfulness intervention group (t[15] = 3.63, p < .01) but not in the
+control group (t [14] = .47, ns). Thus, the work meaningfulness
+intervention was effective.
+
+realized that they had been part of an experiment intended to
+decrease perceived COVID-19 crisis strength and increase work
+meaningfulness.
+
+Measures
+The same measures and ﬁve-point Likert scales for Study 1 were
+used in Study 2. The reliabilities, means, and standard deviations by
+condition are displayed in Table 3. Correlations are presented in
+Table 4.
+
+Research Question Examination
+Work Engagement
+
+Manipulation Checks
+
+As shown in Table 5, the results of repeated-measures
+ANOVA reveal a signiﬁcant interactive effect of 2 (pre- vs. postintervention) × 2 (COVID-19 crisis strength intervention vs. control) × 2 (work meaningfulness intervention vs. control) ANOVA
+on work engagement (F(1, 57) = 4.49, p < .05, η2 = .07, d = .55).
+Among those who received the work meaningfulness intervention,
+medical professionals in the COVID-19 crisis strength intervention
+group (t[14] = 7.36, p < .01, mean increase = 1.01, 95% conﬁdence interval [CI] = [.72, 1.31]) experienced a larger increase
+in work engagement (F(1, 29) = 10.82, p < .01, η2 = .27, d = 1.22)
+than did those in the non-COVID-19 crisis strength intervention
+group (t[15] = 2.63, p < .05, mean increase = .37, 95% CI = [.07,
+.67]). Among those who did not receive the work meaningfulness
+intervention, medical professionals in the COVID-19 crisis strength
+intervention group (t[14] = 2.40, p < .05, mean increase = .19,
+
+Repeated-measures ANOVA, which can account for pre-intervention differences and post-intervention changes in the outcome
+variables, was applied to examine the intervention effectiveness as
+well as the research question (Martin et al., 2013). Table 5 displays
+the repeated-measures ANOVA results.
+The results of repeated-measures ANOVA show a signiﬁcant
+interactive effect of time (pre- versus post-intervention) and condition (COVID-19 crisis strength intervention vs. control) on perceived COVID-19 crisis strength (F(1, 57) = 20.05, p < .01, η2 = .26,
+d = 1.19). Perceived COVID-19 crisis strength decreased signiﬁcantly in the COVID-19 crisis strength intervention group
+(t[14] = 6.35, p < .01) but not in the control group (t [14] = .26, ns).
+These results support the effectiveness of the COVID-19 crisis
+strength intervention. The ﬁndings of repeated-measures ANOVA
+Table 4
+Inter-Correlations Among Measures (Study 2)
+Variables
+1.
+2.
+3.
+4.
+5.
+6.
+7.
+8.
+9.
+10.
+
+Employee age
+Employee gender
+Employee education
+Employee tenure
+COVID-19 crisis intervention condition
+Work meaningfulness condition
+Pre-intervention work engagement
+Post-intervention work engagement
+Pre-intervention take change at work
+Post-intervention take charge at work
+
+Mean (SD)
+2.70
+0.34
+5.41
+8.82
+0.49
+0.51
+3.73
+4.14
+3.40
+4.23
+
+(0.69)
+(0.48)
+(0.74)
+(4.62)
+(0.50)
+(0.50)
+(0.54)
+(0.55)
+(0.65)
+(0.58)
+
+1
+
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+—
+.06
+.37**
+.77**
+.18
+.01
+.04
+−.04
+.08
+.03
+
+—
+.16
+−.11
+.05
+−.25*
+.08
+−.13
+.18
+.10
+
+—
+−.01
+.17
+−.12
+.06
+−.03
+.07
+−.06
+
+—
+.18
+.04
+.04
+.03
+−.00
+.02
+
+—
+−.02
+−.04
+.31*
+−.03
+.41**
+
+—
+−.14
+.36**
+−.46**
+.35**
+
+—
+.39**
+.08
+.14
+
+—
+−.19
+.55**
+
+—
+.13
+
+Note. n = 61. Employee age (1 = less than 21 years; 2 = between 21 and 30; 3 = between 31 and 40; 4 = between 41 and 50; 5 = between 51 and 60; 6 = above
+60 years), employee gender (1 = male; 0 = female), employee education (1 = middle school or below; 2 = high school; 3 = secondary school; 4 = associate’s
+degree; 5 = bachelor’s degree; 6 = master’s degree; 7 = Ph.D. or above).
+* p < .05, ** p < .01 (two-tailed).
+
+8
+
+LIU, CHEN, AND LI
+
+Table 5
+Repeated-Measures ANOVA Results (Study 2)
+F
+
+η2
+
+d
+
+dfs
+
+20.05**
+5.60*
+
+.26
+.09
+
+1.19
+.63
+
+1, 57
+1, 57
+
+Time × COVID-19 crisis strength intervention × work meaningfulness intervention → work engagement
+COVID-19 crisis strength intervention → work engagement (work meaningfulness intervention)
+COVID-19 crisis strength intervention → work engagement (no work meaningfulness intervention)
+
+4.49*
+10.82**
+.50
+
+.07
+.27
+.02
+
+.55
+1.22
+.29
+
+1, 57
+1, 29
+1, 28
+
+Time × COVID-19 crisis strength intervention × work meaningfulness intervention → taking charge at work
+COVID-19 crisis strength intervention → taking charge at work (work meaningfulness intervention)
+COVID-19 crisis strength intervention → taking charge at work (no work meaningfulness intervention)
+
+4.70*
+26.59**
+.66
+
+.08
+.48
+.02
+
+.59
+1.92
+.29
+
+1, 57
+1, 29
+1, 28
+
+Manipulation checks
+Time × COVID-19 crisis strength intervention → perceived COVID-19 crisis strength
+Time × work meaningfulness intervention → work meaningfulness
+
+This document is copyrighted by the American Psychological Association or one of its allied publishers.
+This article is intended solely for the personal use of the individual user and is not to be disseminated broadly.
+
+Research question examination
+
+Note. n = 61.
+* p < .05, ** p < .01 (two-tailed).
+
+95% CI = [.02, .35]) did not experience a signiﬁcantly larger
+increase in work engagement (F (1, 28) = .50, ns, η2 = .02, d = .29)
+than did those in the control group receiving neither intervention
+(t [14] = .54, ns, mean increase = .07, 95% CI = [−.22, .37]). These
+ﬁndings support a signiﬁcant interactive effect of COVID-19 crisis
+strength and work meaningfulness on work engagement. A bar graph
+of these ﬁndings is presented in Figure 4, which shows that medical
+professionals who received both interventions reported a larger
+increase in work engagement than did medical professionals in the
+other three groups.
+
+Taking Charge at Work
+Similarly, the results in Table 5 indicate that a 2 (pre- vs. postintervention) × 2 (COVID-19 crisis strength intervention vs. control) × 2 (work meaningfulness intervention vs. control) ANOVA
+on taking charge at work was signiﬁcant (F(1, 57) = 4.70, p < .05,
+η2 = .08, d = .59). Among those who received the work meaningfulness intervention, medical professionals in the COVID-19 crisis
+
+strength intervention group (t[14] = 42.34, p < .01, mean
+increase = 1.75, 95% CI = [1.66, 1.84]) experienced a larger
+increase in taking-charge behaviors (F(1, 29) = 26.59, p < .01,
+η2 = .48, d = 1.92) than did those in the non-COVID-19 crisis
+strength intervention group (t[15] = 6.02, p < .01, mean increase =
+.91, 95% CI = [.59, 1.24]). Among those who did not receive the
+work meaningfulness intervention, medical professionals in the
+COVID-19 crisis strength intervention group (t[14] = 2.33,
+p < .05, mean increase = .43, 95% CI = [.03, .82]) did not experience a signiﬁcantly larger increase in taking-charge behaviors
+(F (1, 28) = .66, ns, η2 = .02, d = .29) than did those in the control
+group receiving neither intervention (t[14] = 1.38, ns, mean
+increase = .23, 95% CI = [−.13, .58]). These ﬁndings support a
+signiﬁcant interactive effect of COVID-19 crisis strength and work
+meaningfulness on taking charge at work. A bar graph of these
+ﬁndings is presented in Figure 5, which demonstrates that the
+medical professionals who received both interventions reported a
+larger increase in taking-charge behaviors than did the medical
+professionals in the other three groups.
+
+Figure 4
+Pre- and Post-Intervention Work Engagement by Condition (Study 2, the Figure
+Displays the Means as Well as the 95% Conﬁdence Intervals for the Pre- and PostIntervention Changes)
+
+TACKLING THE NEGATIVE IMPACT OF COVID-19
+
+9
+
+This document is copyrighted by the American Psychological Association or one of its allied publishers.
+This article is intended solely for the personal use of the individual user and is not to be disseminated broadly.
+
+Figure 5
+Pre- and Post-Intervention Taking Charge at Work by Condition (Study 2, the Figure
+Displays the Means as Well as the 95% Conﬁdence Intervals for the Pre- and PostIntervention Changes)
+
+Discussion
+This research, which included a time-lagged ﬁeld survey and a
+longitudinal ﬁeld experiment, yielded ﬁndings with meaningful
+theoretical and practical implications for investigating and combating stressful events or crises.
+
+workplace experiences. By reinforcing the value of the integrative
+theory-building approach, our research may enable a more comprehensive understanding of how an employee’s internal attributes can
+alleviate or exacerbate the effect of an exogenous event, such as the
+COVID-19 pandemic.
+
+Practical Implications
+Theoretical Implications
+From an event theory-building perspective, this research contributes
+to an emerging stream of behavioral research on the COVID-19 crisis
+and its consequences. As a major global health crisis, the COVID-19
+pandemic has posed numerous challenges to employees (Restubog
+et al., 2020). Whereas most psychological studies and theories have
+centered on the static features of contexts and individuals (Chen et al.,
+in press; Jiang et al., 2019; Johns, 2017), our ﬁndings suggest that
+research should be reﬁned by a greater focus on discrete and acute
+events that may also signiﬁcantly affect individuals in organizations.
+As Liu et al. (2018, p. 804) noted, “engaging events is not only
+important as a theoretical extension but also critical for promoting the
+empirical rigor in this line of research.”
+Based on the transactional model of stress (Lazarus, 1993;
+Lazarus & Folkman, 1984), this research conceptualizes the
+COVID-19 crisis as a stressful event and explores its substantial
+effects on employees’ psychological states (e.g., work engagement)
+and workplace behaviors (e.g., taking charge). Organizational studies have tended to overlook the fact that one’s internal attributes can
+unfold in tandem with events (Liu et al., 2018). Event system theory
+thus calls for an integrative theory-building approach to studying the
+interplay between external events and one’s internal state, which
+“may enable the development of more ﬁne-grained organizational
+theories, enhancing their explanatory power and impact” (Morgeson
+et al., 2015, p. 530). Accordingly, we have taken an integrative
+theory-building approach by highlighting the interplay between the
+strength of an external event (i.e., the COVID-19 crisis) and one’s
+psychological features (i.e., work meaningfulness). We found that
+an employee’s perceived work meaningfulness may function as a
+crucial buffer against the encroachment of a crisis on his or her
+
+Our research not only reveals the negative impact of COVID-19
+on employees, but also suggests viable solutions. First, our ﬁndings
+suggest that managers should continuously monitor employee work
+engagement and taking charge at work, especially when unexpected
+events (e.g., the COVID-19 crisis) arise. Any decline in employee
+work engagement and taking-charge behaviors should immediately
+be met with appropriate interventions, such as those veriﬁed in our
+ﬁeld experiment using a sample of frontline health workers tasked
+with providing care to COVID-19 patients (Study 2). These interventions represent a useful set of tools that can be used by
+organizations to grapple with the COVID-19 crisis.
+As demonstrated by this research, organizational leaders and HR
+staff can apply event system theory to design training and intervention programs intended to mitigate their employees’ perceived
+COVID-19 crisis strength by countering perceptions of the crisis
+as novel, disruptive, and critical (Morgeson et al., 2015). In addition, our work meaningfulness intervention tested in Study 2
+exempliﬁes a theoretically sound and empirically supported strategy
+that managers can use to promote work meaningfulness. Such a
+strategy can help employees understand their signiﬁcant contributions to organizational goals, the well-being of others, and their own
+personal growth (Florian et al., 2019; Loi et al., 2018).
+
+Limitations and Directions for Future Research
+Inevitably, this study has several limitations that point to promising future research avenues. First, we examined the effects of
+perceived COVID-19 crisis strength at the individual level. However, COVID-19 may affect the entire organizational hierarchy and
+even inter-organizational relationships (Liu et al., 2018). Future
+
+This document is copyrighted by the American Psychological Association or one of its allied publishers.
+This article is intended solely for the personal use of the individual user and is not to be disseminated broadly.
+
+10
+
+LIU, CHEN, AND LI
+
+research should therefore explore whether, how, and when COVID19 may induce changes across different organizational levels and
+between organizations. Second, from an employee-centric perspective, we proposed and tested work meaningfulness as the moderator
+that would attenuate the negative inﬂuence of perceived COVID-19
+crisis strength on work engagement and taking-charge behavior.
+However, other moderators regarding leaders, coworkers, and family
+members also warrant investigation. For example, spousal love may
+provide support to employees and enable them to solve the problems
+introduced by COVID-19. Third, probably due to our small sample
+size in each of the four conditions in the longitudinal ﬁeld experiment
+(Study 2), our analyses revealed strong manipulation effects, which
+were coupled with low levels of variance. As a result, the effect sizes
+may have been overestimated. Future research should adopt a larger
+sample size to further examine the effectiveness of our designed
+interventions (Gerber & Green, 2012). Finally, as per the studied
+hospital’s request, we switched from a 3-week time interval in Study 1
+to a 2-week time interval in Study 2. Previous work engagement
+studies have adopted 2- and 3-week time intervals (e.g., Karatepe
+et al., 2014; Vogel et al., 2016; Wang et al., 2019). In future studies,
+however, it would be interesting to explore whether our interventions
+may induce sufﬁciently persistent effects across different time frames.
+
+Conclusions
+Our event-oriented research increases scholarly understanding of
+whether and when the COVID-19 crisis impinges upon employees’
+psychological states and behaviors at work. While organizations are
+faced with heightened concerns and apprehensions regarding the
+repercussions of the COVID-19 pandemic, we demonstrate that
+organizations can soften the impact of this crisis on their employees
+by providing interventions designed to weaken perceived COVID-19
+crisis strength and strengthen work meaningfulness. We hope that this
+research will encourage scholars and practitioners to jointly come to
+grips with the challenges related to the COVID-19 pandemic.
+
+References
+Alessi, C. (2020). ‘All hands should be on deck’—key quotes from leaders on
+the ﬁght against COVID-19. Accessed date: 20 June 2020. https://www
+.weforum.org/agenda/2020/04/covid-19-action-call-8-apr/
+Arnold, K. A., & Walsh, M. M. (2015). Customer incivility and employee
+well-being: Testing the moderating effects of meaning, perspective taking
+and transformational leadership. Work & Stress, 29, 362–378. https://
+doi.org/10.1080/02678373.2015.1075234
+Bakker, A. B., & Albrecht, S. (2018). Work engagement: Current trends.
+Career Development International, 23, 4–11. https://doi.org/10.1108/
+CDI-11-2017-0207
+Berjot, S., & Gillet, N. (2011). Stress and coping with discrimination and
+stigmatization. Frontiers in Psychology, 2, 1–13. https://doi.org/10.3389/
+fpsyg.2011.00033
+Brislin, R. W. (1986). The wording and translation of research instruments.
+In W. J. Lonner, & J. W. Berry (Eds.) Field methods in cross-cultural
+research (pp. 137–164). Sage.
+Campbell, D. T., & Stanley, J. C. (2015). Experimental and quasi-experimental designs for research. Houghton Mifﬂin.
+Carton, A. M. (2018). “I’m not mopping the ﬂoors, I’m putting a man on the
+moon”: How NASA leaders enhanced the meaningfulness of work by
+changing the meaning of work. Administrative Science Quarterly, 63,
+323–369. https://doi.org/10.1177/0001839217713748
+
+Chen, Y., Ferris, D. L., Kwan, H. K., Yan, M., Zhou, M., & Hong, Y. (2013).
+Self-love’s lost labor: A self-enhancement model of workplace incivility.
+Academy of Management Journal, 56, 1199–1219. https://doi.org/10
+.5465/amj.2010.0906
+Chen, Y., Liu, D., Tang, G., & Hogan, T. M. (in press). Workplace events and
+employee creativity: A multistudy ﬁeld investigation. Personnel Psychology. Advance online publication. https://doi.org/10.1111/peps.12399
+Colquitt, J. A., & Zapata-Phelan, C. P. (2007). Trends in theory building and
+theory testing: A ﬁve-decade study of the Academy of Management
+Journal. Academy of Management Journal, 50, 1281–1303. https://
+doi.org/10.5465/amj.2007.28165855
+Crawford, W. S., Thompson, M. J., & Ashforth, B. E. (2019). Work-life
+events theory: Making sense of shock events in dual-earner couples. The
+Academy of Management Review, 44, 194–212. https://doi.org/10.5465/
+amr.2016.0432
+Eatough, E. M., Chang, C.-H., Miloslavic, S. A., & Johnson, R. E. (2011).
+Relationships of role stressors with organizational citizenship behavior: A
+meta-analysis. Journal of Applied Psychology, 96, 619–632. https://
+doi.org/10.1037/a0021887
+Florian, M., Costas, J., & Kärreman, D. (2019). Struggling with meaningfulness when context shifts: Volunteer work in a German refugee shelter.
+Journal of Management Studies, 56, 589–616. https://doi.org/10.1111/
+joms.12410
+Folkman, S., & Moskowitz, J. T. (2000). Positive affect and the other side of
+coping. American Psychologist, 55, 647–654. https://doi.org/10.1037/
+0003-066X.55.6.647
+Frieder, R. E., Wang, G., & Oh, I.-S. (2018). Linking job-relevant personality
+traits, transformational leadership, and job performance via perceived
+meaningfulness at work: A moderated mediation model. Journal of
+Applied Psychology, 103, 324–333. https://doi.org/10.1037/apl0000274
+Gavin, M. B., & Hofmann, D. A. (2002). Using hierarchical linear modeling
+to investigate the moderating inﬂuence of leadership climate. The Leadership Quarterly, 13, 15–33. https://doi.org/10.1016/S1048-9843(01)
+00102-3
+Gerber, A. S., & Green, D. P. (2012). Field experiments: Design, analysis,
+and interpretation. W.W. Norton & Company.
+Grant, A. M., Gino, F., & Hofmann, D. A. (2011). Reversing the extraverted
+leadership advantage: The role of employee proactivity. Academy of
+Management Journal, 54, 528–550. https://doi.org/10.5465/amj.2011
+.61968043
+Hannah, S. T., Schaubroeck, J. M., & Peng, A. C. (2016). Transforming
+followers’ value internalization and role self-efﬁcacy: Dual processes
+promoting performance and peer norm-enforcement. Journal of Applied
+Psychology, 101, 252–266. https://doi.org/10.1037/apl0000038
+Harman, R. P., Ellington, J. K., Surface, E. A., & Thompson, L. F. (2015).
+Exploring qualitative training reactions: Individual and contextual inﬂuences on trainee commenting. Journal of Applied Psychology, 100, 894–
+916. https://doi.org/10.1037/a0038380
+Hartog, D. N., & Belschak, F. D. (2007). Personal initiative, commitment and
+affect at work. Journal of Occupational and Organizational Psychology,
+80, 601–622. https://doi.org/10.1348/096317906X171442
+Hofmann, D. A., & Gavin, M. B. (1998). Centering decisions in hierarchical
+linear models: Implications for research in organizations. Journal of Management, 24, 623–641. https://doi.org/10.1177/014920639802400504
+Ilies, R., Liu, X.-Y., Liu, Y., & Zheng, X. (2017). Why do employees have
+better family lives when they are highly engaged at work?. Journal of
+Applied Psychology, 102, 956–970. https://doi.org/10.1037/apl0000211
+Jiang, L., Yin, D., & Liu, D. (2019). Can joy buy you money? The impact of
+the strength, duration, and phases of an entrepreneur’s peak displayed joy
+on funding performance. Academy of Management Journal, 62(6), 1848–
+1871. https://doi.org/10.5465/amj.2017
+Johns, G. (2017). Reﬂections on the 2016 decade award: Incorporating
+context in organizational research. The Academy of Management Review,
+42, 577–595. https://doi.org/10.5465/amr.2017.0044
+
+This document is copyrighted by the American Psychological Association or one of its allied publishers.
+This article is intended solely for the personal use of the individual user and is not to be disseminated broadly.
+
+TACKLING THE NEGATIVE IMPACT OF COVID-19
+Karatepe, O. M., Beirami, E., Bouzari, M., & Safavi, H. P. (2014). Does work
+engagement mediate the effects of challenge stressors on job outcomes?
+Evidence from the hotel industry. International Journal of Hospitality
+Management, 36, 14–22. https://doi.org/10.1016/j.ijhm.2013.08.003
+Kim, T. Y., Liu, Z. Q., & Diefendorff, J. M. (2015). Leader–member
+exchange and job performance: The effects of taking charge and organizational tenure. Journal of Organizational Behavior, 36, 216–231. https://
+doi.org/10.1002/job.1971
+Lam, C. F., Wan, W. H., & Roussin, C. J. (2016). Going the extra mile and
+feeling energized: An enrichment perspective of organizational citizenship
+behaviors. Journal of Applied Psychology, 101, 379–391. https://doi.org/
+10.1037/apl0000071
+Lazarus, R., & Folkman, S. (1984). Stress, appraisal, and coping. Springer.
+Lazarus, R. S. (1966). Psychological stress and the coping process.
+McGraw-Hill.
+Lazarus, R. S. (1991). Progress on a cognitive-motivational-relational theory
+of emotion. American Psychologist, 46, 819–834. https://doi.org/10.1037/
+0003-066X.46.8.819
+Lazarus, R. S. (1993). From psychological stress to the emotions: A history
+of changing outlooks. Annual Review of Psychology, 44, 1–22. https://
+doi.org/10.1146/annurev.ps.44.020193.000245
+Lazarus, R. S., & Folkman, S. (1987). Transactional theory and research on
+emotions and coping. European Journal of Personality, 1, 141–169.
+https://doi.org/10.1002/per.2410010304
+Leigh, A., & Melwani, S. (2019). Black employees matter: Mega-threats,
+identity fusion, and enacting positive deviance in organizations. The
+Academy of Management Review, 44, 564–591. https://doi.org/10.5465/
+amr.2017.0127
+Lips-Wiersma, M., & Wright, S. (2012). Measuring the meaning of meaningful work: Development and validation of the Comprehensive Meaningful Work Scale (CMWS). Group & Organization Management, 37,
+655–685. https://doi.org/10.1177/1059601112461578
+Liu, D., Fisher, G., & Chen, G. (2018). CEO attributes and ﬁrm performance:
+A sequential mediation process model. The Academy of Management
+Annals, 12, 789–816. https://doi.org/10.5465/annals.2016.0031
+Loi, R., Xu, A. J., Chow, C. W. C., & Kwok, J. M. L. (2018). Customer
+misbehavior and store managers’ work-to-family enrichment: The moderated mediation effect of work meaningfulness and organizational affective commitment. Human Resource Management, 57, 1039–1048. https://
+doi.org/10.1002/hrm.21883
+Lu, W., Wang, H., Lin, Y., & Li, L. (2020). Psychological status of medical
+workforce during the COVID-19 pandemic: A cross-sectional study.
+Psychiatry Research, 288, Article 112936. https://doi.org/10.1016/j
+.psychres.2020.112936
+Martin, S. L., Liao, H., & Campbell, E. M. (2013). Directive versus
+empowering leadership: A ﬁeld experiment comparing impacts on task
+proﬁciency and proactivity. Academy of Management Journal, 56, 1372–
+1395. https://doi.org/10.5465/amj.2011.0113
+McNatt, D. B., & Judge, T. A. (2004). Boundary conditions of the Galatea
+effect: A ﬁeld experiment and constructive replication. Academy of
+Management Journal, 47, 550–565. https://doi.org/10.5465/20159601
+Mischel, W. (1969). Continuity and change in personality. American Psychologist, 24, 1012–1018. https://doi.org/10.1037/h0028886
+Morgeson, F. P. (2005). The external leadership of self-managing teams:
+Intervening in the context of novel and disruptive events. Journal of
+Applied Psychology, 90, 497–508. https://doi.org/10.1037/0021-9010.90
+.3.497
+Morgeson, F. P., & DeRue, D. S. (2006). Event criticality, urgency, and
+duration: Understanding how events disrupt teams and inﬂuence team
+leader intervention. The Leadership Quarterly, 17, 271–287. https://
+doi.org/10.1016/j.leaqua.2006.02.006
+Morgeson, F. P., Mitchell, T. R., & Liu, D. (2015). Event system theory: An
+event-oriented approach to the organizational sciences. The Academy of
+
+11
+
+Management Review, 40, 515–537. https://doi.org/10.5465/amr
+.2012.0099
+Morrison, E. W., & Phelps, C. C. (1999). Taking charge at work: Extrarole
+efforts to initiate workplace change. Academy of Management Journal, 42,
+403–419. https://doi.org/10.5465/257011
+Park, C. L., & Folkman, S. (1997). Meaning in the context of stress and
+coping. Review of General Psychology, 1, 115–144. https://doi.org/10
+.1037/1089-2680.1.2.115
+Pearman, A., Hughes, M. L., Smith, B. A., & Neupert, S. D. (in press). Age
+differences in risk and resilience factors in COVID-19-related stress.
+Journal of Gerontology: Series B. Advance online publication. https://
+doi.org/10.1093/geronb/gbaa120
+Pratt, M. G., & Ashforth, B. E. (2003). Fostering meaningfulness in working
+and at work. In K. S. Cameron, J. E. Dutton, & R. E. Quinn (Eds.) Positive
+organizational scholarship: Foundations of a new discipline (pp. 309–
+327). Berrett-Koehler Publishers.
+Raudenbush, R., Bryk, T., & Congdon, R. (2004). HLM6. Scientiﬁc
+Software International.
+Raudenbush, S., & Bryk, A. (2002). Hierarchical linear models: Applications and data analysis methods. Sage Publications.
+Restubog, S. L. D., Ocampo, A. C. G., & Wang, L. (2020). Taking control
+amidst the chaos: Emotion regulation during the COVID-19 pandemic.
+Journal of Vocational Behavior, 119, Article 103440. https://doi.org/10
+.1016/j.jvb.2020.103440
+Rich, B. L., Lepine, J. A., & Crawford, E. R. (2010). Job engagement:
+Antecedents and effects on job performance. Academy of Management
+Journal, 53, 617–635. https://doi.org/10.5465/amj.2010.51468988
+Robertson, K. M., O’Reilly, J., & Hannah, D. R. (2020). Finding meaning in
+relationships: The impact of network ties and structure on the meaningfulness of work. The Academy of Management Review, 45, 596–619.
+https://doi.org/10.5465/amr.2015.0242
+Rosso, B. D., Dekas, K. H., & Wrzesniewski, A. (2010). On the meaning of
+work: A theoretical integration and review. Research in Organizational
+Behavior, 30, 91–127. https://doi.org/10.1016/j.riob.2010.09.001
+Schaubroeck, J. M., Lam, L. W., Lai, J. Y. M., Lennard, A. C., Peng, A. C., &
+Chan, K. W. (2018). Changing experiences of work dirtiness, occupational
+disidentiﬁcation, and employee withdrawal. Journal of Applied Psychology, 103, 1086–1100. https://doi.org/10.1037/apl0000330
+Schaufeli, W. B., Bakker, A. B., & Salanova, M. (2006). The measurement of
+work engagement with a short questionnaire: A cross-national study.
+Educational and Psychological Measurement, 66, 701–716. https://
+doi.org/10.1177/0013164405282471
+Shadish, W. J., Cook, T. D., & Campbell, D. T. (2002). Experimental and
+quasi-experimental design for generalized causal inference. Houghton
+Mifﬂin.
+Soane, E., Shantz, A., Alfes, K., Truss, C., Rees, C., & Gatenby, M. (2013).
+The association of meaningfulness, well-being, and engagement with
+absenteeism: A moderated mediation model. Human Resource Management, 52, 441–456. https://doi.org/10.1002/hrm.21534
+Sonnentag, S. (2003). Recovery, work engagement, and proactive behavior:
+A new look at the interface between nonwork and work. Journal of
+Applied Psychology, 88, 518–528. https://doi.org/10.1037/0021-9010.88
+.3.518
+Sonnentag, S., & Frese, M. (2003). Stress in organizations. In W. C. Borman,
+D. R. Ilgen, & R. J. Klimoski (Eds.), Comprehensive handbook of
+psychology: Industrial and organizational psychology (Vol. 12,
+pp. 453–491). Wiley. https://doi.org/10.1002/0471264385.wei1218
+Spreitzer, G. M. (1995). Psychological empowerment in the workplace:
+Construct deﬁnition, measurement, and validation. Academy of Management Journal, 17, 1442–1465. https://doi.org/10.5465/256865
+Steger, M. F., Dik, B. J., & Duffy, R. D. (2012). Measuring meaningful work:
+The work and meaning inventory (WAMI). Journal of Career Assessment,
+20, 322–337. https://doi.org/10.1177/1069072711436160
+
+This document is copyrighted by the American Psychological Association or one of its allied publishers.
+This article is intended solely for the personal use of the individual user and is not to be disseminated broadly.
+
+12
+
+LIU, CHEN, AND LI
+
+Taylor, S. G., Grifﬁth, M. D., Vadera, A. K., Folger, R., & Letwin, C. R.
+(2019). Breaking the cycle of abusive supervision: How disidentiﬁcation
+and moral identity help the trickle-down change course. Journal of Applied
+Psychology, 104, 164–182. https://doi.org/10.1037/apl0000360
+The Lancet. (2020). COVID-19: Protecting health-care workers. The Lancet,
+395, 922.
+Tugade, M. M., & Fredrickson, B. L. (2004). Resilient individuals use
+positive emotions to bounce back from negative emotional experiences.
+Journal of Personality and Social Psychology, 86, 320–333. https://
+doi.org/10.1037/0022-3514.86.2.320
+Tummers, L. G., & Den Dulk, L. (2013). The effects of work alienation on
+organisational commitment, work effort and work-to-family enrichment. Journal of Nursing Management, 21, 850–859. https://doi.org/10.1111/jonm.12159
+van Hoof, E. (2020). Lockdown is the world’s biggest psychological
+experiment—and we will pay the price. Accessed date: 20 June 2020.
+https://www.weforum.org/agenda/2020/04/this-is-the-psychological-sideof-the-covid-19-pandemic-that-were-ignoring/
+
+Vogel, R. M., Rodell, J. B., & Lynch, J. W. (2016). Engaged and productive
+misﬁts: How job crafting and leisure activity mitigate the negative effects
+of value incongruence. Academy of Management Journal, 59, 1561–1584.
+https://doi.org/10.5465/amj.2014.0850
+Wang, L., Law, K. S., Zhang, M. J., Li, Y. N., & Liang, Y. (2019). It’s mine!
+Psychological ownership of one’s job explains positive and negative
+workplace outcomes of job engagement. Journal of Applied Psychology,
+104, 229–246. https://doi.org/10.1037/apl0000337
+Wong, C. S., Law, K. S., & Huang, G. (2008). On the importance of
+conducting construct-level analysis for multidimensional constructs in
+theory development and testing. Journal of Management, 34, 744–764.
+https://doi.org/10.1177/0149206307312506
+You, S., & Conner, K. R. (2009). Stressful life events and depressive
+symptoms: Inﬂuences of gender, event severity, and depression history.
+Journal of Nervous and Mental Disease, 197, 829–833. https://doi.org/10
+.1097/NMD.0b013e3181be7841
+
+Appendix A
+Measurement Items of the Major Constructs in This Study
+Perceived COVID-19 crisis strength (1 = Strongly disagree to 5 = Strongly agree)
+Novelty
+
+1.
+2.
+3.
+4.
+
+There is a clear, known way to respond to this COVID-19 crisis (reversed item)
+There is an understandable sequence of steps that can be followed in responding to this COVID-19 crisis (reversed item)
+I can rely on established procedures and practices in responding to the COVID-19 crisis (reversed item)
+I had rules, procedures, or guidelines to follow when this COVID-19 crisis occurred (reversed item)
+
+Disruption
+
+1.
+2.
+3.
+4.
+
+This
+This
+This
+This
+
+Criticality
+
+1. This COVID-19 crisis is critical for my long-term success
+2. This COVID-19 crisis is of a priority to me
+3. This COVID-19 crisis is an important event for me
+
+COVID-19
+COVID-19
+COVID-19
+COVID-19
+
+crisis
+crisis
+crisis
+crisis
+
+disrupts my ability to get my work done
+causes me to stop and think about how to respond
+alters my normal way of responding
+requires me to change the way I do my work
+
+Work engagement (1 = Never to 5 = Always)
+1.
+2.
+3.
+4.
+5.
+6.
+7.
+8.
+9.
+
+At my work, I feel bursting with energy
+At my job, I feel strong and vigorous
+When I get up in the morning, I feel like going to work
+I am enthusiastic about my job
+My job inspires me
+I am proud of the work that I do
+I feel happy when I am working intensely
+I am immersed in my work
+I get carried away when I am working
+
+Work meaningfulness (1 = Strongly disagree to 5 = Strongly agree)
+1. The work I do on this job is very important to me
+2. My job activities are personally meaningful to me
+3. The work I do on this job is meaningful to me
+Taking charge at work (1 = Strongly disagree to 5 = Strongly agree)
+1.
+2.
+3.
+4.
+5.
+
+This
+This
+This
+This
+This
+
+nurse
+nurse
+nurse
+nurse
+nurse
+
+tried
+tried
+tried
+tried
+tried
+
+to
+to
+to
+to
+to
+
+bring about improved procedures for the hospital
+correct a faulty procedure or practice
+implement solutions to pressing organizational problems
+introduce new structures, technologies, or approaches to improve efﬁciency
+institute new work methods that are more effective for the hospital
+
+13
+
+TACKLING THE NEGATIVE IMPACT OF COVID-19
+
+Appendix B
+
+This document is copyrighted by the American Psychological Association or one of its allied publishers.
+This article is intended solely for the personal use of the individual user and is not to be disseminated broadly.
+
+Procedure of Data Analysis for Study 1
+We speciﬁed all of the hypothesized relationships at the individual level and tested the hypotheses using a two-level random-slope
+model, which allowed an estimated level-1 slope to vary randomly
+across teams and thus yielded more generalizable ﬁndings, compared to using a ﬁxed-slope model (Hannah et al., 2016;
+Raudenbush & Bryk, 2002). Previous studies that analyzed a model
+similar to ours have generally used grand-mean centering, wherein
+all the variables in the hypotheses reside at level 1 (e.g., Harman
+et al., 2015; Hofman & Gavin, 1998; Taylor et al., 2019).
+
+Table B1
+Formulas for Models 2, 3, and 6
+Model
+number
+Model #2
+
+Model #3
+
+Model #6
+
+Formula
+Level-1 model
+Y = B0 + B1*(Perceived COVID-19 crisis
+strength) + B2*(Work meaningfulness) +
+B3*(Employee age) + B4*(Employee
+gender) + B5*(Employee education) +
+B6*(Employee tenure) + R
+Level-2 model
+B0 = G00 + G01*(Team age) + G02*(Team size) + U0
+B1 = G10 + U1
+B2 = G20 + U2
+B3 = G30
+B4 = G40
+B5 = G50
+B6 = G60
+Level-1 model
+Y = B0 + B1*(Perceived COVID-19 crisis
+strength) + B2*(Work meaningfulness) +
+B3*(Perceived COVID-19 crisis strength × Work
+meaningfulness) + B4*(Employee age) +
+B5*(Employee gender) + B6*(Employee
+education) + B7*(Employee tenure) + R
+Level-2 model
+B0 = G00 + G01*(Team age) + G02*(Team size) + U0
+B1 = G10 + U1
+B2 = G20 + U2
+B3 = G30 + U3
+B4 = G40
+B5 = G50
+B6 = G60
+B7 = G70
+Level-1 model
+Y = B0 + B1*(Perceived COVID-19 crisis
+strength) + B2*(Work meaningfulness) +
+B3*(Perceived COVID-19 crisis strength × Work
+meaningfulness) + B4*(Employee age) +
+B5*(Employee gender) + B6*(Employee
+education) + B7*(Employee tenure) + R
+Level-2 model
+B0 = G00 + G01*(Team age) + G02*(Team size) + U0
+B1 = G10 + U1
+B2 = G20 + U2
+B3 = G30 + U3
+B4 = G40
+B5 = G50
+B6 = G60
+B7 = G70
+
+Note. All the variables were entered after grand-mean centering.
+
+Accordingly, we ﬁrst grand-mean centered all the variables to
+test the hypotheses (Table 2). In addition, following past multilevel
+research (e.g., Ilies et al., 2017; Schaubroeck et al., 2018), we
+speciﬁed random slopes for the variables in the hypotheses and
+ﬁxed the slopes for the control variables (see the formulas for models
+2, 3, and 6 in Table B1). Given the small sample size of level 2
+(n = 26), we reported the more conservative asymptotic standard
+error estimates (Raudenbush et al., 2004; Raudenbush & Bryk,
+2002). Although the centering method is a greater concern when
+testing a cross-level interaction (Gavin & Hofmann, 2002; Hofmann &
+Gavin, 1998), we also tested the model using group-mean centering
+to verify the robustness of our ﬁndings. Notably, using either
+centering approach, our hypotheses testing conclusions remained
+the same whether based on asymptotic standard errors or robust
+standard errors. The HLM results based on these two standard error
+estimation methods only differed in terms of some standard error
+estimates.
+
+Appendix C
+Intervention Materials for Study 2
+Perceived COVID-19 Crisis Strength Intervention
+During a counseling session, the vice president of the participating hospital delivered the following key points intended to decrease
+the perceived COVID-19 crisis strength among medical professionals who worked in the COVID-19 ICU, with reference to theory
+(Morgeson et al., 2015).
+
+Decreasing Perceived Novelty of COVID-19
+Although COVID-19 is clearly a novel disease to the public, it is
+not so new to us as medical professionals on the frontline in the
+battle against COVID-19. As a leading hospital in southwestern
+China, over the years we have accumulated rich experience and
+expertise in the treatment of contagious diseases (e.g., SARS, inﬂuenza, and avian inﬂuenza), especially during winter and spring. As
+we already know, the hospital has clear and effective rules, procedures, and guidelines to follow when a contagious disease occurs.
+Thus, our medical staff are well aware of the sequence of steps they
+should take to respond to COVID-19. We have also formed a special
+committee to familiarize you with the latest developments in the
+COVID-19 pandemic and address your related questions.
+
+Decreasing Perceived Disruption of COVID-19
+In response to the COVID-19 pandemic, our hospital has taken
+meticulous measures and established comprehensive contingency
+plans to minimize any disruptions caused by COVID-19. We also
+have sufﬁcient PPE and other resources available to protect our
+employees and avoid work interruptions. To date, there have been
+no signiﬁcant disruptions to hospital operations or employees’ work.
+None of the employees in our hospital have tested positive for the
+coronavirus or reported that they cannot fulﬁll their job duties. The
+leadership at all levels of our hospital will remain fully committed to
+
+14
+
+LIU, CHEN, AND LI
+
+addressing your concerns and assisting you in overcoming any
+disruptions to your work and life.
+
+This document is copyrighted by the American Psychological Association or one of its allied publishers.
+This article is intended solely for the personal use of the individual user and is not to be disseminated broadly.
+
+Decreasing Perceived Criticality of COVID-19
+Effective medical procedures for lowering the chance of infection
+and curing patients are being developed and implemented. The
+current mortality rate of COVID-19 in China is far lower than that of
+SARS in 2003. The number of patients diagnosed with COVID-19
+nationwide has dropped signiﬁcantly, from 80,695 to 20,533, while
+the number of patients in the Sichuan Province has decreased from
+539 to 79 as of March 7, 2020. Clearly, the crisis will be under
+control in the near future, as lockdown policies and effective testing
+and treatment have led to a substantial reduction in daily new
+COVID-19 cases in China.
+
+Work Meaningfulness Intervention
+In the letter to the COVID-19 ICU medical professionals, the vice
+president of the participating hospital stressed the following key
+points to promote work meaningfulness.
+
+Fulﬁlling the Hospital’s Goal (Carton, 2018;
+Rosso et al., 2010)
+As a COVID-19 ICU health worker, you are making a signiﬁcant
+contribution to the hospital’s goal of providing excellent medical
+services under the current circumstances. Without your unwavering
+contribution, our hospital would never have received so much
+appreciation and recognition. Your talent and caring manner are
+a credit to and pride of our hospital. Undoubtedly, our hospital’s
+future development and success will continue to rely on your hard
+work and dedication.
+
+Facilitating Patients’ Well-Being and Health
+(Frieder et al., 2018; Pratt & Ashforth, 2003)
+You have given your utmost effort to take great care of
+every patient and have demonstrated your exceptional medical
+skills. Your compassion and humility are always impressive.
+Our patients and their families are very grateful for the differences you have made in their lives. They call you and other
+ICU health workers “angels sent by God on Earth” because
+you have saved patients’ lives and preserved their health. Human
+life is so invaluable that your work truly deserves such beautiful
+praise!
+
+Fostering Personal Growth and Development
+(Lam et al., 2016; Robertson et al., 2020)
+The French writer Sir Thomas Browne once said, “you
+can’t extend the length of your life, but can grasp its width.”
+Undoubtedly, as a COVID-19 frontline health worker, you are not
+only providing great assistance to our hospital and patients, but are
+also enriching your own life. Your work creates meaning and
+purpose in life and fosters your personal growth and development.
+Our colleagues who were involved in the treatment of
+SARS patients found that they gained valuable experiences and
+skills, which were extremely beneﬁcial to their later career
+advancement. We look forward to seeing your continued success
+and prosperity in the most honorable and esteemed profession in
+the world!
+Received July 17, 2020
+Revision received October 08, 2020
+Accepted October 28, 2020 ▪
+
+

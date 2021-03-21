@@ -1,0 +1,1284 @@
+Journal of Applied Psychology
+© 2020 American Psychological Association
+ISSN: 0021-9010
+
+2021, Vol. 106, No. 1, 4 –14
+https://doi.org/10.1037/apl0000853
+
+How Critical Activities Within COVID-19 Intensive Care Units Increase
+Nurses’ Daily Occupational Calling
+Yue Zhu1, Tingting Chen2, Jie Wang3, Mo Wang4, Russell E. Johnson5, and Yanghua Jin1
+1
+
+This document is copyrighted by the American Psychological Association or one of its allied publishers.
+This article is intended solely for the personal use of the individual user and is not to be disseminated broadly.
+
+School of Business Administration, Zhejiang Gongshang University
+2
+Department of Management, Lingnan University
+3
+Nottingham University Business School China, University of Nottingham Ningbo China
+4
+Department of Management, Warrington College of Business, University of Florida
+5
+Department of Management, Broad College of Business, Michigan State University
+During normal and predictable circumstances, employees’ occupational calling (i.e., a transcendent
+passion to use their talent and competencies toward positive societal impact and a sense of meaningfulness derived from working in a chosen occupational domain) is observed to be relatively stable.
+However, with the onset of the COVID-19 pandemic, circumstances have become anything but normal
+and predictable, thus putting employees’ sense of occupational calling to the test. In this study, we
+investigate the possibility that occupational calling fluctuates across days during situations of crisis, and
+we identify antecedents and consequence of such fluctuations. To test our model, we conducted a daily
+diary study of 66 nurses working in intensive care units over 5 consecutive work days in a specialized
+Wuhan hospital that only admitted confirmed COVID-19 patients during the peak of the pandemic in
+China. We found that the daily number of code blue events (i.e., cardiopulmonary resuscitation efforts
+with the primary goal of patient revival) was positively related to daily occupational calling for nurses.
+Moreover, individual differences in prosocial motivation predicted the average level and variability of
+occupational calling over the 5 days, which subsequently related to the nurses’ job performance. Our
+study sheds light on how occupational calling enables people with the needed occupational knowledge
+and skills to function effectively in crisis situations.
+Keywords: occupational calling, COVID-19 pandemic, health care, prosocial motivation
+Supplemental materials: https://doi.org/10.1037/apl0000853.supp
+
+environment where they have been racing against the clock to save
+lives despite the personal risk of hospital-acquired (i.e., nosocomial) infection. To enable nurses to prevail in their battle against
+COVID-19, occupational calling—a transcendent passion to use
+one’s talent and competencies toward positive societal impact and
+a sense of meaningfulness derived from working in a chosen
+occupational domain (Dik & Shimizu, 2019)—is a critical psychological driving force that keeps nurses focused and motivated
+despite the tremendous challenges.
+To date, occupational calling has been empirically examined as
+a relatively stable construct that evolves slowly over long periods
+of time (e.g., across one’s career or life span; Dobrow, 2013;
+Dobrow & Heller, 2015). Yet qualitative studies hint at the possibility that occupational calling may also fluctuate during shorter
+periods of time, especially during situations of crisis (Singh, 2008;
+Wrzesniewski, 2002). In particular, salient societal needs during
+crises may incite a sense of occupational calling for people whose
+professional competencies are crucial for meeting those needs
+(Kent, 2019; Singh, 2008). The COVID-19 pandemic is an exemplar of such an unusual crisis situation (Rudolph & Zacher, 2020),
+which provides a unique opportunity to empirically examine fluctuations in employees’ occupational calling during short periods of
+time. When caring and treating COVID-19 patients in critical
+conditions, nurses must devote themselves to the work and apply
+
+The COVID-19 pandemic has created a global health crisis. To
+battle this crisis, intensive and critical care is an integral component (Murthy et al., 2020). In intensive care units (ICUs), nurses
+play a critical role by providing around-the-clock monitoring and
+treatment of critically ill patients (Lakanmaa et al., 2015). Nurses
+working in ICUs in the epicenter are in an unusual and extreme
+
+Editor’s Note. Jonas Lang served as action editor for this article.—LTE
+
+This article was published Online First November 5, 2020.
+Yue Zhu X https://orcid.org/0000-0002-4617-7042
+Tingting Chen X https://orcid.org/0000-0003-4467-0244
+Jie Wang X https://orcid.org/0000-0002-3201-0129
+Mo Wang X https://orcid.org/0000-0001-7004-3549
+Yanghua Jin X https://orcid.org/0000-0001-6902-720X
+This research was supported in part by a research grant from the National
+Science Foundation of China (Grant 71902092) and the Outstanding Researcher Support System at Nottingham University Business School China
+awarded to Jie Wang. We have no known conflict of interest to disclose.
+Correspondence concerning this article should be addressed to Yanghua
+Jin, School of Business Administration, Zhejiang Gongshang University,
+No. 18 Xuezheng Street, Xiasha University Town, Hangzhou, China.
+Email: jinyanghua@163.com
+4
+
+This document is copyrighted by the American Psychological Association or one of its allied publishers.
+This article is intended solely for the personal use of the individual user and is not to be disseminated broadly.
+
+CRITICAL ACTIVITIES AND DAILY OCCUPATIONAL CALLING
+
+their professional knowledge and skills at their highest level to, for
+example, vigilantly monitor and record vital signs, critically assess
+patient conditions and the evolution of the disease process, and
+immediately respond to emergency situations based on sound
+judgment and critical thinking. Yet despite undertaking these challenging activities, feedback that their occupational skills are highly
+valued and meaningful for treating COVID-19 patients is also
+more visible and salient (Barnes & Barnes, 2020). Undertaking
+these challenging yet meaningful activities is likely to impact
+nurses’ occupational calling (Dik & Shimizu, 2019; Singh, 2008).
+In this research, we examined whether the occupational calling
+of nurses working in COVID-19 ICUs fluctuates over time during
+the pandemic. Although it has been suggested that occupational
+calling may ebb and flow, especially during crises (Wrzesniewski,
+2002), this possibility has not been empirically verified. We also
+examined why such fluctuations may occur. It has been proposed
+that engaging in challenging yet meaningful activities bolsters
+occupational calling during crises (Dik & Shimizu, 2019; Singh,
+2008), which, for ICU nurses, are epitomized by “code blue”
+events (i.e., cardiopulmonary resuscitation efforts with the primary
+goal of patient revival; Vindigni et al., 2017). Such events are
+“characteristically unpredictable” and result in life/death differences (Rousek & Hallbeck, 2011, p. 197). During code blue
+events, the initiation, execution, and termination of resuscitation
+require nurses’ rapid assessment and treatment (Craig et al., 2020)
+and application of their full concentration and professional skills.
+We thus suspected that participating in code blue events reinforces
+nurses’ occupational calling.
+Although our primary focus was on within-person fluctuations
+in occupational calling, we nevertheless incorporated extant research on between-person differences in occupational calling (e.g.,
+Duffy et al., 2011; Gazica & Spector, 2015; Wrzesniewski et al.,
+1997). Merging these two perspectives led us to consider differences in the variability of nurses’ occupational calling over time
+(i.e., different fluctuation patterns) in addition to differences in
+average level. Given that making a positive and meaningful societal impact is central to occupational calling (Dik & Shimizu,
+2019; Thompson & Bunderson, 2019), we examined nurses’ traitlike desire to benefit others—that is, their prosocial motivation—as a key antecedent of between-person differences in occupational calling variability and average level. Prosocial motivation
+is also relevant based on our COVID-19 ICU context as emergency health care contexts such as this require individuals who are
+driven to help others in need (Bolino & Grant, 2016) and who
+derive a sense of meaningfulness when that drive to help is
+fulfilled (Thompson & Bunderson, 2019).
+Finally, in addition to examining patterns and antecedents of
+occupational calling fluctuations, we also examined the consequences of these fluctuations for nurses’ overall job performance
+in the COVID-19 ICU. Recent research has emphasized that both
+variability and average level of psychological states are important
+in predicting performance outcomes at work (e.g., Beal et al.,
+2013; Gielnik et al., 2020). Consistent with previous findings, we
+expected that a high average level of occupational calling leads to
+increased effort for nurses to deploy their knowledge and skills,
+thus facilitating job performance in COVID-19 care. Building on
+this, we developed original predictions about how and why high
+variability in occupational calling is likely negatively associated
+with persistence and steady effort, which undermines COVID-19
+
+5
+
+care as well. Our hypothesized model is presented in Figure 1. To
+test this model, we conducted a daily study of nurses working in
+COVID-19 ICUs in Wuhan during the peak of the pandemic in
+China.
+By investigating within-person daily fluctuations and betweenperson patterns of fluctuations in occupational calling during the
+COVID-19 pandemic, we contribute to the literature in several
+ways. First, we contribute to the calling literature by empirically
+verifying the occurrence of calling fluctuations during short time
+periods and showing that extreme work experiences during a crisis
+situation can bolster daily occupational calling. Second, by examining prosocial motivation’s effect on fluctuation patterns of occupational calling, we provide a more nuanced understanding of
+the role played by individual differences with respect to occupational calling (Fleeson et al., 2002). We do so by demonstrating
+how individual differences can impact the variability of occupational calling, in addition to oft-studied average level of occupational calling. We also answer the call by Thompson and Bunderson (2019) to shed greater light on the antecedents of occupational
+calling. Finally, by demonstrating the unique effects of variability
+and average level of occupational calling on COVID-19 care, we
+broaden attention from the static effects of calling to more dynamic effects that unfold over time. Doing so opens new avenues
+for calling research by considering longitudinal effects of emergent patterns of calling.
+
+Hypothesis Development
+Daily Number of COVID-19 Code Blue Events and
+Daily Occupational Calling for Nurses
+Previous research has demonstrated that calling is conducive to
+various desirable work outcomes, such as job satisfaction (Wrzesniewski et al., 1997), organizational commitment (Duffy et al.,
+2011), employee retention (Chen et al., 2018), and in-role performance (Kim et al., 2018). However, our knowledge of its antecedents is limited as very few studies have identified what helps
+and hinders calling (Duffy, Allan, et al., 2014; Duffy, Douglass, et
+al., 2014). One reason for this limited attention is that calling is
+typically viewed as a stable, trait-like construct (Duffy, Allan, et
+al., 2014). As such, calling is believed to be fixed and not responsive to external stimuli. Yet some empirical evidence suggests that
+calling can in fact change markedly over long periods of time
+(Dobrow, 2013; Dobrow & Heller, 2015). For example, in a
+Figure 1
+The Hypothesized Model
+Average level of
+occupaonal calling
+Prosocial
+movaon
+
+Job performance
+Occupaonal
+calling variability
+Level 2: Between-person
+
+Daily number of
+code blue events
+
+Daily occupaonal
+calling
+
+Level 1: Within-person
+
+This document is copyrighted by the American Psychological Association or one of its allied publishers.
+This article is intended solely for the personal use of the individual user and is not to be disseminated broadly.
+
+6
+
+ZHU ET AL.
+
+7-year, four-wave longitudinal study of developing musicians,
+Dobrow (2013) found that people experienced different levels of
+initial calling and also showed different change patterns in calling.
+To date, the few studies that empirically examined change only
+considered changes in calling over extended (e.g., yearly) periods
+of time, which springs from the notion that calling is relatively
+stable and changes slowly over time (if at all). However, findings
+from qualitative studies question this limited view of calling
+change and instead suggest that calling may fluctuate during
+shorter (e.g., daily) periods in extreme contexts. For example, a
+qualitative study at a New York City hospital near Ground Zero
+found that the escalating demands due to the September 11 attacks
+made health care workers more aware of their occupational duty
+and meaningfulness (Singh, 2008). The attacks helped them realize
+that their duty “is to treat patients and they come first” (p. 224).
+Likewise, research focusing on nursing experiences at Ground
+Zero hinted at calling experiences immediately after the tragedy.
+For example, a nurse recalled that
+In the moments that followed [the attacks], I felt a pull in my heart. A
+message from deep inside came through loud and clear: “You must
+help. There is a great need and a purpose to be served. You must go
+there.” (Gatto, 2002, p. 5)
+
+When facing the urgency to help, nurses also felt fortunate to be
+“in a profession that could provide tangible assistance to those in
+need” and that they “possessed the skills that enabled them to
+respond” (Dickerson et al., 2002, pp. 31–32).
+The current COVID-19 pandemic has created a parallel crisis
+situation that impacts those in the front line (Truxillo et al., 2020),
+specifically a public health emergency in which ICU capacity is
+strained and nurses’ professional services are greatly needed. Approximately 5% of patients with COVID-19 developed severe
+conditions that required intensive care (Murthy et al., 2020). The
+conditions of COVID-19 patients in ICUs usually deteriorate
+quickly, causing respiratory and cardiac failure. They require
+nurses who are skilled in operating critical care devices and
+familiar with emergency procedures (Qiu et al., 2020). Also,
+dozens of medications and treatments need to be coordinated for a
+single patient, and emergency situations can pop up unpredictably
+(Carenzo et al., 2020; J. Xie et al., 2020). As such, ICU nurses
+need to fully utilize their occupational skills and work intensively
+to ensure effective care of patients. Undertaking challenging yet
+meaningful activities like these in extreme work situations is
+believed to bolster individuals’ occupational calling (Dik & Shimizu, 2019).
+For nurses in COVID-19 ICUs, the number of code blue events
+provides a daily reminder of the necessity for nurses’ skill set and
+the criticality and impact of their work, which is expected to
+bolster nurses’ occupational calling on a daily basis. First, a higher
+than average daily number of code blue events experienced by
+nurses signals a more salient and urgent need, which can lead to
+stronger feelings of duty, obligation, and responsibility to do one’s
+work for achieving significant societal impact (Dik & Shimizu,
+2019). During a code blue event, interventions must be carried out
+immediately. Even a few minutes of delay in handling the situation
+may yield devastating consequences (Hassager et al., 2020). In
+fact, a study on COVID-19 patients in Wuhan, China showed that
+most resuscitation (89%) was initiated within 1 min (Shao et al.,
+
+2020). By rising up to the occasion and meeting such unusual
+demands, nurses in a COVID-19 ICU are able to clearly experience their work’s importance in saving lives and, as a result,
+develop a strong sense of purpose in performing their work duties
+on that day. We therefore expected that the more code blue events
+a nurse handles in one day, compared to their own average experience, the stronger the feeling of calling they will experience.
+Second, a higher daily number of COVID-19 ICU code blue
+events experienced by nurses, compared to their average experience, also offers more opportunities for nurses to fully utilize their
+occupational knowledge and skills. People derive a sense of selfrealization from utilizing their knowledge and skills to address the
+intensive needs from work due to a perceived match between one’s
+competencies and the job requirements, which deepens people’s
+personal connection to their occupation (Thompson & Bunderson,
+2019). The standard practices and protocols for dealing with the
+emergency situations of critically ill patients with COVID-19 are
+still under development, and patients’ responses to a particular
+treatment are uncertain and require critical assessments and close
+monitoring (Carenzo et al., 2020; J. Xie et al., 2020). Therefore,
+nurses dealing with COVID-19 patients in ICUs need to be highly
+focused and fully mobilize their knowledge and skills to provide
+individualized clinical care and make constant adjustments. Accordingly, a higher daily number of code blue events experienced
+by nurses, compared to their own average experience, may enhance nurses’ personal connection to their work and thus incite
+higher levels of daily occupational calling. Therefore, we hypothesize that on days that nurses experience a higher daily number of
+COVID-19 ICU code blue events, they will experience higher
+levels of daily occupational calling (Hypothesis 1).
+
+Prosocial Motivation and Average Level and
+Variability of Occupational Calling
+While occupational calling can fluctuate in short (daily) time
+periods as a result of extreme work experiences, fluctuation patterns may differ across nurses. We propose that individual differences in the experienced level and variability of occupational
+calling can be accounted for by prosocial motivation, a stable
+individual difference in prosocial values and other orientation
+(Bolino & Grant, 2016). We expected that high prosocial motivation is associated with a high average level of occupational calling.
+People high in prosocial motivation have an innate desire to
+benefit others (Ryan & Connell, 1989) and are sensitive to others’
+needs in order to provide appropriate and effective help (Grant &
+Berry, 2011). Nurses with high prosocial motivation are more
+likely to be aware of patients’ needs and have a feeling of moral
+duty to respond to these needs by using their professional knowledge and skills. Moreover, nurses with high prosocial motivation
+are more attracted to health care work because of their prosocial
+value. As such, nurses high in prosocial motivation are more likely
+to experience the meaningfulness of ICU nurse work over time,
+leading to a high average level of occupational calling. We thus
+predict that prosocial motivation is positively related to average
+level of occupational calling of COVID-19 ICU nurses (Hypothesis 2).
+Prosocial motivation can also influence how variable individuals’ daily occupational calling is over time. We argue that people
+high in prosocial motivation, compared to those low in prosocial
+
+This document is copyrighted by the American Psychological Association or one of its allied publishers.
+This article is intended solely for the personal use of the individual user and is not to be disseminated broadly.
+
+CRITICAL ACTIVITIES AND DAILY OCCUPATIONAL CALLING
+
+motivation, are less variable in the extent to which they experience
+occupational calling. According to Mischel and Shoda (1995,
+1998), the underlying personality system for a given person affects
+the variability of information processing and, in turn, the variability of responses across situations. People high in prosocial motivation seek to benefit others and maintain a prosocial identity
+(Bolino & Grant, 2016). To achieve this goal, they are likely to
+regulate their attention toward others’ needs and self-initiate helping even when external needs are not explicit (Keltner et al., 2014;
+Knafo et al., 2011). In other words, people high in prosocial
+motivation are less likely to lower their desire to benefit others in
+response to new or changing situational cues than those low in
+prosocial motivation. Based on this logic, we expected that nurses
+high in prosocial motivation are sensitive to the needs of patients,
+colleagues, and society, and remain ready to help them, and thus
+consistently experience a strong sense of duty and obligation to
+their occupation. Their occupational calling should show less
+variability over time. Thus, we hypothesize that prosocial motivation is negatively related to the occupational calling variability of
+COVID-19 ICU nurses (Hypothesis 3).
+
+Relations of Average Level and Variability of
+Occupational Calling With Job Performance
+A high average level of occupational calling over time should
+contribute to a high level of job performance of COVID-19 ICU
+nurses. The transcendent nature of the destiny and duty embedded
+in occupational calling propels people to deploy their talents,
+competencies, and efforts for the benefits of others (Bunderson &
+Thompson, 2009). This is crucial for nurses’ job performance as
+critically ill patients need intensive care that is closely relevant to
+nurses’ professional knowledge, skills, and efforts. With a strong
+occupational calling, nurses are motivated to exert their effort and
+fully utilize their competencies to treat patients. Moreover, the
+feeling of meaningfulness involved in occupational calling creates
+a psychological condition for people to focus on their own experience and overlook the external obstacles in pursuing their callings (Dobrow & Heller, 2015). As a result, people are likely to
+increase their efforts and exhibit perseverance in the face of
+obstacles. ICU nurses are likely to encounter numerous setbacks
+and obstacles in treating critically ill patients as there is a great
+deal of uncertainty in handling severe cases of COVID-19 (Alhazzani et al., 2020; Grote & Pfrombeck, 2020). Occupational calling
+enables them to remain focused and overcome these difficulties,
+thereby yielding higher job performance. We predict that average
+level of occupational calling is positively related to the job performance of COVID-19 ICU nurses (Hypothesis 4).
+Hypotheses 2 and 4 together suggest a mediating relationship in
+which prosocial motivation is positively related to job performance
+through its conducive effect on average level of occupational
+calling over time. We propose the following mediation hypothesis:
+Average level of occupational calling mediates the positive relationship of prosocial motivation with the job performance of
+COVID-19 ICU nurses (Hypothesis 5).
+Moving beyond the focus on static calling in the extant
+literature, we expected that occupational calling variability has
+an incremental, negative relationship with the job performance
+of COVID-19 ICU nurses. Occupational calling variability implies that individuals are heavily invested in their work on some
+
+7
+
+days but withdrawn from work on other days. This variability
+results in a loss of persistence and task focus, harming overall
+job performance. Persistence and consistency of effort are particularly important to COVID-19 ICU tasks as ICU patients
+require constant intensive care. Specifically, nurses need to
+provide vigilant monitoring to those critically ill patients, who
+are “physiologically unstable, requiring constant and minuteto-minute titration of therapy according to the evolution of the
+disease process” (Brilli et al., 2001, p. 2010). They also need to
+recognize any signs of clinical changes in patients’ conditions
+to prevent deterioration, especially due to the rapid progression
+of COVID-19 (Brilli et al., 2001). Thus, having sizable fluctuations in one’s calling may hinder the delivery of effective
+treatment in COVID-19 ICUs.
+Moreover, variability in occupational calling may also negatively impact supervisor perceptions of one’s performance.
+Supervisors tend to put more weight on negative information
+than on positive and neutral information when conducting performance appraisals (Ganzach, 1995), meaning that supervisors
+are likely to rate the overall performance based on the lower
+bound of one’s effort rather than the average or higher bound of
+one’s effort. As such, for two nurses with the same average
+level of occupational calling, the nurse with more fluctuation in
+occupational calling will likely receive a lower level of performance rating. To illustrate this point, we draw a numerical
+example similar to Matta et al. (2017). Consider two nurses who
+rated their occupational calling on a 7-point scale every day for
+a period of time. Nurse 1 rated a “4” every day, whereas Nurse
+2 rated a “1” on half of the days and a “7” on the remaining half
+of the days. Although both reached an average rating of “4,” the
+experiences of occupational calling of these two nurses were
+different, and the effects on performance ratings should also be
+different. Supervisors are expected to attend more to the days
+when Nurse 2 experienced low occupational calling and thus
+rate Nurse 2 lower on overall performance during this work
+period. Moreover, when employees’ work behaviors show high
+variability, overall performance tends to be rated lower because
+supervisors likely attribute it to external factors rather than
+personal factors like effort or skill (Johnson et al., 2012). Thus,
+we propose the following hypothesis: Occupational calling variability is negatively related to the job performance of
+COVID-19 ICU nurses, incremental to level of occupational
+calling (Hypothesis 6).
+Hypotheses 3 and 6 together imply a mediating relationship in
+which prosocial motivation is negatively related to occupational
+calling variability that in turn is negatively related to job performance. We propose that occupational calling variability mediates
+the positive relationship of prosocial motivation with the job
+performance of COVID-19 ICU nurses (Hypothesis 7).
+
+Method
+Sample and Procedure
+Using an experience sampling design, we collected data from
+nurses of a Joint Commission International accredited general
+hospital in eastern China who worked in a large COVID-19 ICU in
+Wuhan during the peak of outbreak in China (i.e., in February and
+March 2020). This study was approved by the Sub-Committee on
+
+This document is copyrighted by the American Psychological Association or one of its allied publishers.
+This article is intended solely for the personal use of the individual user and is not to be disseminated broadly.
+
+8
+
+ZHU ET AL.
+
+Research Ethics and Safety of the University Research Committee,
+Lingnan University, Hong Kong (Title of Study: “Antecedents and
+Consequences of Occupational Calling During Crisis,” Protocol
+Number: EC073/1920). A total of 72 nurses, led by two head
+nurses, from this general hospital were assigned to work in the ICU
+of a Wuhan specialized hospital for a work week (i.e., 5 consecutive work days). The ICU of this specialized hospital only admitted patients with confirmed COVID-19 infection who were
+classified as “critical” (respiratory failure, shock, and multiple
+organ dysfunction or failure; WHO-China Joint Mission, 2020).
+With the assistance of the administration office of the general
+hospital and following approval of a university research ethics and
+safety committee, we distributed an online study announcement to
+both the 72 nurses and the two head nurses, along with a letter
+seeking their consent of participation. In the announcement, we
+informed the nurses that participation was voluntary and that all
+responses would be kept confidential and only used for third-party
+research purposes. Sixty-six nurses (response rate: 91.67%) and both
+head nurses (response rate: 100%) accepted our invitation and participated in our surveys. Among them, all were women, and 69.70% had
+working experience in ICUs before the current assignment. They had
+an average age of 31.80 years (SD ⫽ 4.79) and an average nurse
+tenure of 9.03 years (SD ⫽ 5.42).
+Data collection was administered in two phases. First, all 66
+participating nurses completed an online questionnaire on demographics and prosocial motivation before beginning their assignment at the Wuhan specialized hospital. Then, they completed a
+5-min daily online survey for 5 consecutive work days for the
+assigned work week after their ICU shift ended every day. Their
+daily shift typically lasted 6 hr. During the daily diary survey
+phase, we received a total of 203 daily surveys out of a possible
+330 daily surveys (66 participants ⫻ 5 days), resulting in a
+compliance rate of 61.52%. At the end of the work week, the two
+head nurses rated the job performance of each of the 66 nurses
+based on their performance during that week.
+
+Measures
+We translated the measures from English to Chinese following
+Brislin’s (1986) translation/back-translation procedure.1 All measures are reported in Appendix A. Participants responded to all
+items on a 7-point scale (from 1 ⫽ strongly disagree to 7 ⫽
+strongly agree).
+
+Daily Number of COVID-19 Code Blue Events
+Nurses reported the number of code blue events that they
+encountered during each daily shift. The number per shift ranged
+from zero to three.
+
+Occupational Calling
+To measure occupational calling, we included the two items
+assessing the general presence of a calling from the Brief Calling
+Scale (Dik et al., 2012) and one item that assesses calling specifically in a medical context (Curlin et al., 2007). The Cronbach’s
+alpha was .90. We operationalized average level of occupational
+calling using each nurse participant’s mean level of daily occupational calling over the 5-day period. To operationalize occupational calling variability, we used standard deviation in daily
+occupational calling over the 5-day period following the sugges-
+
+tion of Roberson and colleagues (2007), who recommended standard deviation as a dispersion measure in multilevel research. This
+practice has been adopted in previous studies (e.g., Matta et al.,
+2017; Scott et al., 2012).
+
+Prosocial Motivation
+Prosocial motivation was measured using the four-item scale
+developed by Grant (2008). The Cronbach’s alpha for this scale
+was .93.
+
+Job Performance
+To ensure the reliability of job performance ratings, the two
+head nurses rated the job performance of each participant. This
+Joint Commission International accredited general hospital had
+an established performance appraisal system that rated nurse
+job performance based on criteria such as clinical competence
+(e.g., giving medication and treatments, operating specialized
+equipment, and evaluating and responding immediately to
+emergency situations), professional competence (e.g., communication, time management and prioritization, and critical thinking), and nursing errors (e.g., problems revolving around infections, medication errors, and equipment injuries). Nurse
+participants’ performance during the 5-day study period was
+evaluated using the hospital’s performance appraisal system
+(which ranged from 0 to 100). The two head nurses were
+knowledgeable about performance because they worked closely
+with each nurse during the study period. The correlation of the
+ratings from the two head nurses was .73, indicating high
+agreement between them. We averaged the two ratings to form
+an overall job performance score.
+
+Control Variables
+To account for a time effect, we controlled for study day. In
+addition, we controlled for prior ICU work experience (1 ⫽ prior
+ICU work experience, 0 ⫽ no prior ICU work experience). ICU
+work experience may relate to job performance in this context due
+to greater familiarity with ICU equipment and procedures (Lakanmaa et al., 2015). Last, previous research has shown that depletion
+is negatively associated with calling (Jager et al., 2017), and
+depletion may result from code blue events. Therefore, we controlled for depletion at the daily level to rule out the possibility that
+any association between code blue events and calling owes to a
+depletion-based mechanism. Daily depletion was measured by
+adapting three items from Lanaj et al. (2014). The Cronbach’s
+alpha for this scale was .82.
+
+Results
+We first performed a multilevel confirmatory factor analysis to
+demonstrate construct distinctiveness. Results showed that the
+1
+First, two bilinguals translated the measures from English to Chinese
+independently. Most word choices and expressions were agreed upon
+between the two translators. Minor disagreements were resolved based on
+discussion. Then, a third bilingual translated the Chinese version back to
+English. The three bilinguals discussed and made modifications to resolve
+any minor discrepancies. The translated version was sent to the administration office of the general hospital, which suggested that our items
+applied to their working context.
+
+This document is copyrighted by the American Psychological Association or one of its allied publishers.
+This article is intended solely for the personal use of the individual user and is not to be disseminated broadly.
+
+CRITICAL ACTIVITIES AND DAILY OCCUPATIONAL CALLING
+
+hypothesized three-factor model (occupational calling, depletion,
+prosocial motivation) had good fit, ␹2(40) ⫽ 54.56, comparative fit
+index (CFI) ⫽ .98, Tucker-Lewis index (TLI) ⫽ .96, root mean
+square error of approximation (RMSEA) ⫽ .04, standardized root
+mean residual (SRMR)within ⫽ .03, SRMRbetween ⫽ .07, and fit
+better than an alternative model with occupational calling and
+depletion merged into a single factor at both levels, ␹2(43) ⫽
+174.22, CFI ⫽ .77, TLI ⫽ .68, RMSEA ⫽ .12, SRMRwithin ⫽ .18,
+SRMRbetween ⫽ .26. In addition, we examined the proportions of
+within-person and between-person variances in the Level-1 variables. The within-person and between-person variances, respectively, were 93.5% (p ⬍ .001) and 6.5% (p ⫽ .359) in daily
+number of code blue events, 43.2% (p ⬍ .001) and 56.8% (p ⬍
+.001) in daily occupational calling, and 34.0% (p ⬍ .001) and
+66.0% (p ⬍ .001) in daily depletion.
+The means, standard deviations, and correlations are presented
+in Table 1. We tested our hypotheses with multilevel modeling
+using Mplus 8 (Muthén & Muthén, 1998 –2017) because our data
+had a two-level structure (i.e., within and between person). At
+Level 1, we specified the fixed effects of control variables and
+daily number of code blue events on daily occupational calling. At
+Level 2, we specified the effects of the control variable (i.e., ICU
+work experience) and prosocial motivation on average level of
+occupational calling, occupational calling variability, and job performance. We also specified the effects of average level of occupational calling and occupational calling variability on job performance. To facilitate the interpretation of findings, we person-mean
+centered the Level-1 daily number of code blue events and daily
+depletion and grand-mean centered the Level-2 ICU work experience and prosocial motivation (Hofmann & Gavin, 1998). In
+particular, for testing the within-person relationship (Hypothesis
+1), our focus was on predicting nurses’ within-person fluctuations
+in occupational calling. Thus, person-mean centering was used for
+daily number of code blue events. Study day, as a control variable
+representing the day of the study ranging from 1 to 5, was uncentered (Lanaj et al., 2016). Unstandardized coefficient estimates of
+the hypothesized model are presented in Table 2. Syntax and
+output of Tables 1 and 2 are reported in the online supplemental
+materials.
+Results showed that daily number of code blue events was
+positively related to daily occupational calling (␥ ⫽ .33, p ⫽ .002),
+which supported Hypothesis 1. Moreover, all hypothesized
+between-person relations were statistically significant (i.e., Hypotheses 2–7). Specifically, prosocial motivation was positively
+related to average level of occupational calling (␥ ⫽ .77, p ⬍ .001)
+and negatively related to occupational calling variability
+(␥ ⫽ ⫺.20, p ⫽ .042). Thus, Hypotheses 2 and 3 were supported.
+In support of Hypotheses 4 and 6, average level of occupational
+calling was positively related to job performance (␥ ⫽ 3.10, p ⫽
+.007), and occupational calling variability was negatively related
+to job performance (␥ ⫽ ⫺2.58, p ⫽ .004). Hypotheses 5 and 7
+predicted the mediating roles of average level of occupational
+calling and occupational calling variability in linking prosocial
+motivation to job performance. We used the Monte Carlo method
+to derive the 95% confidence interval of indirect effects. In support
+of Hypotheses 5 and 7, we observed positive indirect effects of
+prosocial motivation on job performance via average level of
+occupational calling (indirect effect ⫽ 2.38, 95% CI [0.66, 4.16])
+
+9
+
+and via occupational calling variability (indirect effect ⫽ .51,
+[0.02, 1.02]).2
+
+Discussion
+Theoretical and Practical Implications
+Our study demonstrates that occupational calling fluctuates
+on a daily basis during the COVID-19 crisis for ICU nurses.
+Our short-term, dynamic view opens up new theoretical avenues for exploring antecedents that lead to short-term highs and
+lows in occupational calling. Specifically, we examined daily
+number of COVID-19 code blue events as a situational trigger
+of daily occupational calling that accounted for its short-term
+fluctuations. This finding provides empirical support for the
+proposal that crisis situations can incite the spontaneous motivational responses of people who are trained to help the vulnerable and whose occupational knowledge and skills are essential for dealing with the crisis (Singh, 2008; Wrzesniewski,
+2002). While showing that crisis situations signaling urgent
+external needs can incite occupational calling of nurses, we
+speculate that this effect extends to other occupations with
+challenging yet meaningful activities (e.g., firefighters combatting wildfires, rescue workers during an earthquake or hurricane), which can be explored in future investigations.
+In addition to investigating daily fluctuations in occupational
+calling, we considered the composition of these fluctuations in
+terms of average level and variability over time. Our results
+showed that nurses differed in both average level and variability
+of occupational calling and that such differences are explained
+by prosocial motivation. Nurses higher (vs. lower) in prosocial
+motivation experienced not only a higher average level of
+occupational calling but also a less variable level of occupational calling. This finding empirically demonstrates that prosocial motivation serves as a dispositional base of the fluctuation
+pattern of occupational calling, which was predicted because
+making a positive and meaningful societal impact is central to
+both prosocial motivation and occupational calling. Taken together, by examining situational and personal antecedents of
+occupational calling in a unique crisis context, we answered the
+call for more research on the causes of occupational calling
+(Thompson & Bunderson, 2019).
+Finally, we contribute to the calling research by verifying the
+importance of occupational calling variability in addition to
+average level in predicting job performance. More generally,
+our findings suggest that variability in work passion—above
+and beyond the average level— has a direct and meaningful
+impact on work performance. Our supplementary analyses further showed that occupational calling variability mitigated the
+relationship between occupational calling and job performance.
+Specifically, the relationship was nonsignificant for nurses with
+highly variable occupational calling. While the calling literature
+assumes that the higher one’s calling is, the better one’s performance will be (e.g., Kim et al., 2018; Lee et al., 2018), our
+study suggests that the variability underlying one’s average
+2
+We also conducted several supplementary analyses to further inform
+the robustness of our findings. Details are reported in Appendix B.
+
+ZHU ET AL.
+
+10
+
+Table 1
+Means, Standard Deviations, and Correlations for All Variables
+
+This document is copyrighted by the American Psychological Association or one of its allied publishers.
+This article is intended solely for the personal use of the individual user and is not to be disseminated broadly.
+
+Variable
+Level-1 (within-person level)
+1. Study day
+2. Daily depletion
+3. Daily number of code blue events
+4. Daily occupational calling
+Level-2 (between-person level)
+1. Age
+2. Nurse tenure
+3. ICU work experiencea
+4. Average level of depletion
+5. Average number of code blue events
+6. Prosocial motivation
+7. Average level of occupational calling
+8. Occupational calling variability
+9. Job performance
+
+M
+
+SD
+
+1
+
+2
+
+3
+
+3.07
+3.13
+0.16
+6.16
+
+1.51
+1.45
+0.43
+0.82
+
+.01
+⫺.12
+⫺.12
+
+(.82)
+.04
+⫺.27ⴱⴱ
+
+31.80
+9.03
+0.70
+3.28
+0.17
+6.48
+6.14
+0.44
+86.08
+
+4.79
+5.42
+0.46
+1.28
+0.30
+0.63
+0.69
+0.42
+3.57
+
+.97ⴱⴱ
+.20
+⫺.19
+⫺.09
+⫺.14
+.04
+⫺.31ⴱ
+.21
+
+.20
+⫺.21
+⫺.08
+⫺.09
+.12
+⫺.34ⴱⴱ
+.25ⴱ
+
+.24ⴱⴱ
+
+⫺.04
+⫺.16
+⫺.01
+⫺.07
+⫺.06
+⫺.13
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+.20
+.22
+⫺.02
+⫺.10
+
+(.93)
+.69ⴱⴱ
+⫺.29ⴱ
+.28ⴱ
+
+⫺.39ⴱⴱ
+.47ⴱⴱ
+
+⫺.43ⴱⴱ
+
+(.73)
+
+(.90)
+
+.01
+⫺.26ⴱ
+⫺.30ⴱ
+.36ⴱⴱ
+⫺.22
+
+Note. N ⫽ 203 for within-person level and N ⫽ 66 for between-person level. ICU ⫽ intensive care unit. For job performance, the correlation coefficient
+of the ratings from the two head nurses is reported in parentheses. For other variables, Cronbach’s alphas are in parentheses on the diagonal.
+a
+1 ⫽ with ICU work experience, 0 ⫽ without ICU work experience.
+ⴱ
+p ⬍ .05. ⴱⴱ p ⬍ .01.
+
+experience a higher and less variable level of occupational
+calling over time, leading to higher performance. Organizations
+may find value to include prosocial motivation as part of the
+selection process or to instill such motivation in job incumbents
+through socialization and training activities.
+Another implication for practice is that organizations must
+endeavor to instill high yet stable levels of calling in employees, rather than employing periodic booster shots that create
+temporary peaks in employees’ calling. Although isolated, onetime events can cause spikes in motivation and calling, they are
+ultimately less effective if the spikes wane over time. Maintaining high levels of occupational calling will require organizations to pay continuous attention to employee development
+
+level of occupational calling is a key boundary of the occupational calling—job performance linkage. Our findings indicate
+that the extant literature needs to adopt calling variability as an
+essential construct and unveil the underlying mechanisms for
+explaining its complex role in predicting job performance.
+In terms of practice, our study suggests that occupational
+calling can be evoked by salient societal and occupational
+demands. To boost occupational calling, employers can guide
+employees’ attention to situational cues that send clear signals
+of the needs of others and work meaningfulness. For COVID-19
+health care workers in particular, one upside of their challenging daily activities is that, ultimately, these activities provide
+short-term boosts in their passion for helping patients. Our
+study also suggests that people high in prosocial motivation
+
+Table 2
+Unstandardized Coefficients of the Model
+
+Predictor
+
+Daily occupational
+calling
+
+Average level of
+occupational calling
+
+Occupational calling
+variability
+
+␥
+
+␥
+
+␥
+
+SE
+ⴱⴱ
+
+Intercept
+6.29
+Level 1 (within-person level)
+Study day
+⫺.05
+Daily depletion
+⫺.07
+Daily number of code blue events
+.33ⴱⴱ
+Level 2 (between-person level)
+ICU work experience
+Prosocial motivation
+Average level of occupational calling
+Occupational calling variability
+Within-person-level residual variance
+.26ⴱⴱ
+Between-person-level residual variance
+Within-person-level R2
+Between-person-level R2
+
+95% CI
+
+.09 [6.11, 6.46]
+
+SE
+ⴱⴱ
+
+6.29
+
+95% CI
+
+.09 [6.11, 6.46]
+
+SE
+ⴱⴱ
+
+.44
+
+95% CI
+
+.05 [.34, .54]
+
+Job performance
+␥
+
+SE
+ⴱⴱ
+
+67.76
+
+95% CI
+
+7.33 [53.40, 82.12]
+
+.03 [⫺.10, .003]
+.05 [⫺.17, .04]
+.11 [.13, .54]
+⫺.09 .12 [⫺.32, .15] ⫺.06 .11 [⫺.27, .16]
+⫺.89
+.91 [⫺2.67, .89]
+.77ⴱⴱ .08 [.60, .93]
+⫺.20ⴱ .10 [⫺.39, ⫺.01] ⫺1.34
+.93 [⫺3.17, .49]
+ⴱⴱ
+3.10 1.15 [.85, 5.34]
+⫺2.58ⴱⴱ .89 [⫺4.32, ⫺.85]
+.06 [.15, .37]
+
+.16ⴱⴱ .05 [.07, .25]
+
+.16ⴱⴱ .04 [.08, .24]
+
+8.22ⴱⴱ 1.21 [5.85, 10.59]
+
+.11
+.58
+
+.09
+
+.35
+
+Note. N ⫽ 203 for within-person level and N ⫽ 66 for between-person level. SE ⫽ standard error; CI ⫽ confidence interval; ICU ⫽ intensive care unit.
+Unstandardized estimates are reported. Statistics of R2 were calculated following Kreft and de Leeuw (1998).
+ⴱ
+p ⬍ .05. ⴱⴱ p ⬍ .01.
+
+CRITICAL ACTIVITIES AND DAILY OCCUPATIONAL CALLING
+
+and implement more systemic initiatives to cultivate an enduring passion in employees to use their talent and competencies
+for positive societal impact.
+
+This document is copyrighted by the American Psychological Association or one of its allied publishers.
+This article is intended solely for the personal use of the individual user and is not to be disseminated broadly.
+
+Limitations and Future Directions
+Due to the unique research context in our study, all nurses were
+from a single hospital working in similar units and contexts. It is
+unclear whether the effects observed in this study would be of the
+same magnitude in other occupations or other (nonpandemic)
+contexts. However, our findings are important to medical and
+health care professionals who are expected to devote themselves to
+fighting infectious disease outbreaks like COVID-19.
+Second, due to length constraints for the daily surveys, we used
+a short measure that asked participants to directly report their sense
+of calling on that day. Because the meaning of the term “calling”
+was left up to participants, it is possible that some responses may
+also capture participants’ perceptions of task significance and
+meaningfulness or attributions about their own behavior. However,
+the two-item calling scale (Dik et al., 2012; Duffy & Sedlacek,
+2007) included in our three-item measure had a sizable correlation
+(r ⫽ .48) with Dobrow and Tosti-Kharas’s (2011) more extensively validated calling measure, which provides some supportive
+evidence of convergent validity. Still, future research should aim
+to replicate our findings with other established calling measures.
+Also, we could not operationalize the potential mechanisms that
+link the average level and variability of occupational calling to
+performance (e.g., increased work effort and greater persistence).
+Future research should test them directly.
+Third, our findings relied on nurses’ self-reports of daily number of code blue events because we were not permitted to access
+the official records of actual numbers from the hospital. Future
+research can gain a deeper understanding of how actual versus
+perceived events during crises play a role in daily occupational
+calling. Moreover, due to the ethics concern of the hospital with
+regard to protecting participants and not adding to nurses’
+stress, we were not permitted to inquire about the outcomes of
+code blue events (i.e., patient mortality information). Nevertheless, it is possible that such outcomes can shape nurses’ calling.
+On the one hand, losing a patient may strengthen one’s sense of
+calling for a better outcome next time. On the other hand, losing
+a patient may weaken one’s sense of calling by reducing nurses’
+confidence in their competence to bring about positive societal
+impact. Future research should include event outcomes for a
+more nuanced picture of the impact of crisis events on daily
+occupational calling.
+Last, our study was limited to tracking calling and performance
+over a 5-day period. Future research may examine a broader range
+of cognition and behavior at both within-person and betweenperson levels, such as well-being (Steger & Dik, 2009) and citizenship behaviors (B. G. Xie et al., 2017), to further our understanding of the effects of short-term fluctuations in occupational
+calling. Despite these limitations, our study broke new ground in
+the occupational calling literature by drawing attention to daily
+fluctuations in calling within crisis situations and the impact of
+prosocial motivation on these daily fluctuations in occupational
+calling.
+
+11
+
+References
+Alhazzani, W., Møller, M. H., Arabi, Y. M., Loeb, M., Gong, M. N., Fan,
+E., Oczkowski, S., Levy, M. M., Derde, L., Dzierba, A., Du, B., Aboodi,
+M., Wunsch, H., Cecconi, M., Koh, Y., Chertow, D. S., Maitland, K.,
+Alshamsi, F., Belley-Cote, E., . . . Rhodes, A. (2020). Surviving sepsis
+campaign: Guidelines on the management of critically ill adults with
+coronavirus disease 2019 (COVID-19). Critical Care Medicine, 48(6),
+e440 – e469. https://doi.org/10.1097/CCM.0000000000004363
+Barnes, B., & Barnes, M. (2020, March 19). Recognition is especially
+meaningful during the COVID-19 pandemic. Nurse.com. Retrieved from
+https://www.nurse.com/blog/2020/03/19/recognition-especiallymeaningful-during-covid-19-pandemic
+Beal, D. J., Trougakos, J. P., Weiss, H. M., & Dalal, R. S. (2013). Affect
+spin and the emotion regulation process at work. Journal of Applied
+Psychology, 98(4), 593– 605. https://doi.org/10.1037/a0032559
+Bolino, M. C., & Grant, A. M. (2016). The bright side of being prosocial
+at work, and the dark side, too: A review and agenda for research on
+other-oriented motives, behavior, and impact in organizations. The
+Academy of Management Annals, 10(1), 599 – 670. https://doi.org/10
+.5465/19416520.2016.1153260
+Brilli, R. J., Spevetz, A., Branson, R. D., Campbell, G. M., Cohen, H.,
+Dasta, J. F., Harvey, M. A., Kelley, M. A., Kelly, K. M., Rudis, M. I.,
+St. Andre, A. C., Stone, J. R., Teres, D., & Weled, B. (2001). Critical
+care delivery in the intensive care unit: Defining clinical roles and the
+best practice model. Critical Care Medicine, 29(10), 2007–2019. https://
+doi.org/10.1097/00003246-200110000-00026
+Brislin, R. W. (1986). The wording and translation of research instruments.
+In W. J. Lonner & J. W. Berry (Eds.), Field methods in cross-cultural
+research (pp. 137–164). Sage.
+Bunderson, J. S., & Thompson, J. A. (2009). The call of the wild:
+Zookeepers, callings, and the double-edged sword of deeply meaningful
+work. Administrative Science Quarterly, 54(1), 32–57. https://doi.org/
+10.2189/asqu.2009.54.1.32
+Carenzo, L., Costantini, E., Greco, M., Barra, F. L., Rendiniello, V.,
+Mainetti, M., Bui, R., Zanella, A., Grasselli, G., Lagioia, M., Protti, A.,
+& Cecconi, M. (2020). Hospital surge capacity in a tertiary emergency
+referral centre during the COVID-19 outbreak in Italy. Anaesthesia,
+75(7), 928 –934. https://doi.org/10.1111/anae.15072
+Chen, J. T., May, D. R., Schwoerer, C. E., & Augelli, B. (2018). Exploring
+the boundaries of career calling: The moderating roles of procedural
+justice and psychological safety. Journal of Career Development, 45(2),
+103–116. https://doi.org/10.1177/0894845316671214
+Craig, S., Cubitt, M., Jaison, A., Troupakis, S., Hood, N., Fong, C.,
+Bilgrami, A., Leman, P., Ascencio-Lane, J. C., Nagaraj, G., Bonning, J.,
+Blecher, G., Mitchell, R., Burkett, E., McCarthy, S. M., Rojek, A. M.,
+Hansen, K., Psihogios, H., Allely, P., . . . Cameron, P. A. (2020).
+Management of adult cardiac arrest in the COVID-19 era: Consensus
+statement from the Australasian College for Emergency Medicine. The
+Medical Journal of Australia, 213, 126 –133. https://doi.org/10.5694/
+mja2.50699
+Curlin, F. A., Dugdale, L. S., Lantos, J. D., & Chin, M. H. (2007). Do
+religious physicians disproportionately care for the underserved? Annals
+of Family Medicine, 5(4), 353–360. https://doi.org/10.1370/afm.677
+Dickerson, S., Jezewski, M., Nelson-Tuttle, C., Shipkey, N., Wilk, N., &
+Crandall, B. (2002). Nursing at ground zero: Experiences during and
+after September 11 World Trade Center attack. The Journal of the New
+York State Nurses’ Association, 33(1), 26 –32.
+Dik, B. J., Eldridge, B. M., Steger, M. F., & Duffy, R. D. (2012).
+Development and validation of the Calling and Vocation Questionnaire
+(CVQ) and Brief Calling Scale (BCS). Journal of Career Assessment,
+20(3), 242–263. https://doi.org/10.1177/1069072711434410
+Dik, B. J., & Shimizu, A. B. (2019). Multiple meanings of calling: Next
+steps for studying an evolving construct. Journal of Career Assessment,
+27(2), 323–336. https://doi.org/10.1177/1069072717748676
+
+This document is copyrighted by the American Psychological Association or one of its allied publishers.
+This article is intended solely for the personal use of the individual user and is not to be disseminated broadly.
+
+12
+
+ZHU ET AL.
+
+Dobrow, S. R. (2013). Dynamics of calling: A longitudinal study of
+musicians. Journal of Organizational Behavior, 34(4), 431– 452. https://
+doi.org/10.1002/job.1808
+Dobrow, S. R., & Heller, D. (2015). Follow your heart or your head? A
+longitudinal study of the facilitating role of calling and ability in the
+pursuit of a challenging career. Journal of Applied Psychology, 100(3),
+695–712. https://doi.org/10.1037/a0038011
+Dobrow, S. R., & Tosti-Kharas, J. (2011). Calling: The development of a
+scale measure. Personnel Psychology, 64(4), 1001–1049. https://doi.org/
+10.1111/j.1744-6570.2011.01234.x
+Duffy, R. D., Allan, B. A., Autin, K. L., & Douglass, R. P. (2014). Living
+a calling and work well-being: A longitudinal study. Journal of Counseling Psychology, 61(4), 605– 615. https://doi.org/10.1037/cou0000042
+Duffy, R. D., Dik, B. J., & Steger, M. F. (2011). Calling and work-related
+outcomes: Career commitment as a mediator. Journal of Vocational
+Behavior, 78(2), 210 –218. https://doi.org/10.1016/j.jvb.2010.09.013
+Duffy, R. D., Douglass, R. P., Autin, K. L., & Allan, B. A. (2014).
+Examining predictors and outcomes of a career calling among undergraduate students. Journal of Vocational Behavior, 85(3), 309 –318.
+https://doi.org/10.1016/j.jvb.2014.08.009
+Duffy, R. D., & Sedlacek, W. E. (2007). The presence of and search for a
+calling: Connections to career development. Journal of Vocational Behavior, 70(3), 590 – 601. https://doi.org/10.1016/j.jvb.2007.03.007
+Fleeson, W., Malanos, A. B., & Achille, N. M. (2002). An intraindividual
+process approach to the relationship between extraversion and positive
+affect: Is acting extraverted as “good” as being extraverted? Journal of
+Personality and Social Psychology, 83(6), 1409 –1422. https://doi.org/
+10.1037/0022-3514.83.6.1409
+Ganzach, Y. (1995). Negativity (and positivity) in performance evaluation:
+Three field studies. Journal of Applied Psychology, 80(4), 491– 499.
+https://doi.org/10.1037/0021-9010.80.4.491
+Gatto, M. (2002). Nursing at ground zero: A life-changing experience. The
+Journal of the New York State Nurses’ Association, 33(1), 5–9.
+Gazica, M. W., & Spector, P. E. (2015). A comparison of individuals with
+unanswered callings to those with no calling at all. Journal of Vocational
+Behavior, 91, 1–10. https://doi.org/10.1016/j.jvb.2015.08.008
+Gielnik, M. M., Bledow, R., & Stark, M. S. (2020). A dynamic account of
+self-efficacy in entrepreneurship. Journal of Applied Psychology,
+105(5), 487–505. https://doi.org/10.1037/apl0000451
+Grant, A. M. (2008). Does intrinsic motivation fuel the prosocial fire?
+Motivational synergy in predicting persistence, performance, and productivity. Journal of Applied Psychology, 93(1), 48 –58. https://doi.org/
+10.1037/0021-9010.93.1.48
+Grant, A. M., & Berry, J. W. (2011). The necessity of others is the mother
+of invention: Intrinsic and prosocial motivations, perspective taking, and
+creativity. Academy of Management Journal, 54(1), 73–96. https://doi
+.org/10.5465/amj.2011.59215085
+Grote, G., & Pfrombeck, J. (2020). Uncertainty in aging and lifespan
+research: Covid-19 as catalyst for addressing the elephant in the room.
+Work, Aging and Retirement. Advance online publication. https://doi
+.org/10.1093/workar/waaa020
+Hassager, C., Price, S., & Huber, K. (2020). Cardiac arrest in the
+COVID-19 era. European Heart Journal Acute Cardiovascular Care,
+9(3), 239 –240. https://doi.org/10.1177/2048872620922789
+Hofmann, D. A., & Gavin, M. B. (1998). Centering decisions in
+hierarchical linear models: Implications for research in organizations.
+Journal of Management, 24(5), 623– 641. https://doi.org/10.1177/
+014920639802400504
+Jager, A. J., Tutty, M. A., & Kao, M. C. (2017). Association between
+physician burnout and identification with medicine as a calling. Mayo
+Clinic Proceedings, 92(3), 415– 422. https://doi.org/10.1016/j.mayocp
+.2016.11.012
+Johnson, R. E., Venus, M., Lanaj, K., Mao, C., & Chang, C. H. (2012).
+Leader identity as an antecedent of the frequency and consistency of
+
+transformational, consideration, and abusive leadership behaviors. Journal of Applied Psychology, 97(6), 1262–1272. https://doi.org/10.1037/
+a0029043
+Keltner, D., Kogan, A., Piff, P. K., & Saturn, S. R. (2014). The sociocultural appraisals, values, and emotions (SAVE) framework of prosociality: Core processes from gene to meme. Annual Review of Psychology,
+65(1), 425– 460. https://doi.org/10.1146/annurev-psych-010213-115054
+Kent, D. (2019). Giving meaning to everyday work after terrorism.
+Organization Studies, 40(7), 975–994. https://doi.org/10.1177/
+0170840618765582
+Kim, S. S., Shin, D., Vough, H. C., Hewlin, P. F., & Vandenberghe, C.
+(2018). How do callings relate to job performance? The role of organizational commitment and ideological contract fulfillment. Human Relations, 71(10), 1319 –1347. https://doi.org/10.1177/0018726717743310
+Knafo, A., Israel, S., & Ebstein, R. P. (2011). Heritability of children’s
+prosocial behavior and differential susceptibility to parenting by variation in the dopamine receptor D4 gene. Development and Psychopathology, 23(1), 53– 67. https://doi.org/10.1017/S0954579410000647
+Kreft, I., & de Leeuw, J. (1998). Introducing multilevel modeling. Sage.
+https://doi.org/10.4135/9781849209366
+Lakanmaa, R.-L., Suominen, T., Ritmala-Castrén, M., Vahlberg, T., &
+Leino-Kilpi, H. (2015). Basic competence of intensive care unit nurses:
+Cross-sectional survey study. BioMed Research International, 2015,
+1–12. https://doi.org/10.1155/2015/536724
+Lanaj, K., Johnson, R. E., & Barnes, C. M. (2014). Beginning the workday
+yet already depleted? Consequences of late-night smartphone use and
+sleep. Organizational Behavior and Human Decision Processes, 124(1),
+11–23. https://doi.org/10.1016/j.obhdp.2014.01.001
+Lanaj, K., Johnson, R. E., & Wang, M. (2016). When lending a hand
+depletes the will: The daily costs and benefits of helping. Journal of
+Applied Psychology, 101(8), 1097–1110. https://doi.org/10.1037/
+apl0000118
+Lee, A. Y. P., Chen, I. H., & Chang, P. C. (2018). Sense of calling in the
+workplace: The moderating effect of supportive organizational climate
+in Taiwanese organizations. Journal of Management & Organization,
+24(1), 129 –144. https://doi.org/10.1017/jmo.2016.16
+Matta, F. K., Scott, B. A., Colquitt, J. A., Koopman, J., & Passantino, L. G.
+(2017). Is consistently unfair better than sporadically fair? An investigation of justice variability and stress. Academy of Management Journal,
+60(2), 743–770. https://doi.org/10.5465/amj.2014.0455
+Mischel, W., & Shoda, Y. (1995). A cognitive-affective system theory of
+personality: Reconceptualizing situations, dispositions, dynamics, and
+invariance in personality structure. Psychological Review, 102(2), 246 –
+268. https://doi.org/10.1037/0033-295X.102.2.246
+Mischel, W., & Shoda, Y. (1998). Reconciling processing dynamics and
+personality dispositions. Annual Review of Psychology, 49, 229 –258.
+https://doi.org/10.1146/annurev.psych.49.1.229
+Murthy, S., Gomersall, C. D., & Fowler, R. A. (2020). Care for critically
+ill patients with COVID-19. Journal of the American Medical Association, 323(15), 1499 –1500. https://doi.org/10.1001/jama.2020.3633
+Muthén, L. K., & Muthén, B. O. (1998 –2017). Mplus user’s guide (8th
+ed.). Retrieved from https://www.statmodel.com/download/usersguide/
+MplusUserGuideVer_8.pdf
+Qiu, H., Tong, Z., Ma, P., Hu, M., Peng, Z., Wu, W., & Du, B. (2020).
+Intensive care during the coronavirus epidemic. Intensive Care Medicine, 46(4), 576 –578. https://doi.org/10.1007/s00134-020-05966-y
+Roberson, Q. M., Sturman, M. C., & Simons, T. L. (2007). Does the
+measure of dispersion matter in multilevel research? A comparison of
+the relative performance of dispersion indexes. Organizational Research
+Methods, 10(4), 564 –588. https://doi.org/10.1177/1094428106294746
+Rousek, J. B., & Hallbeck, M. S. (2011). The ergonomics of “code blue”
+medical emergencies: A literature review. IIE Transactions on Healthcare Systems Engineering, 1(4), 197–212. https://doi.org/10.1080/
+19488300.2011.628556
+
+This document is copyrighted by the American Psychological Association or one of its allied publishers.
+This article is intended solely for the personal use of the individual user and is not to be disseminated broadly.
+
+CRITICAL ACTIVITIES AND DAILY OCCUPATIONAL CALLING
+Rudolph, C. W., & Zacher, H. (2020). “The COVID-19 generation”: A
+cautionary note. Work, Aging and Retirement, 6(3), 139 –145. https://
+doi.org/10.1093/workar/waaa009
+Ryan, R. M., & Connell, J. P. (1989). Perceived locus of causality and
+internalization: Examining reasons for acting in two domains. Journal of
+Personality and Social Psychology, 57(5), 749 –761. https://doi.org/10
+.1037/0022-3514.57.5.749
+Scott, B. A., Barnes, C. M., & Wagner, D. T. (2012). Chameleonic or
+consistent? A multilevel investigation of emotional labor variability and
+self-monitoring. Academy of Management Journal, 55(4), 905–926.
+https://doi.org/10.5465/amj.2010.1050
+Shao, F., Xu, S., Ma, X., Xu, Z., Lyu, J., Ng, M., Cui, H., Yu, C., Zhang,
+Q., Sun, P., & Tang, Z. (2020). In-hospital cardiac arrest outcomes
+among patients with COVID-19 pneumonia in Wuhan, China. Resuscitation, 151, 18 –23. https://doi.org/10.1016/j.resuscitation.2020.04.005
+Singh, P. (2008). Maintaining work motivation during trying times. In R.
+Burke & C. L. Cooper (Eds.), International terrorism and threats to
+security: Managerial and organizational challenges (pp. 219 –231).
+Edward Elgar. https://doi.org/10.4337/9781848443815.00019
+Steger, M. F., & Dik, B. J. (2009). If one is looking for meaning in life,
+does it help to find meaning in work? Applied Psychology: Health and
+Well-Being, 1(3), 303–320. https://doi.org/10.1111/j.1758-0854.2009
+.01018.x
+Thompson, J. A., & Bunderson, J. S. (2019). Research on work as a calling
+. . . and how to make it matter. Annual Review of Organizational
+Psychology and Organizational Behavior, 6, 421– 443. https://doi.org/
+10.1146/annurev-orgpsych-012218-015140
+
+13
+
+Truxillo, D. M., Cadiz, D. M., & Brady, G. M. (2020). COVID-19 and
+its implications for research on work ability. Work, Aging and Retirement. Advance online publication. https://doi.org/10.1093/
+workar/waaa016
+Vindigni, S. M., Lessing, J. N., & Carlbom, D. J. (2017). Hospital resuscitation
+teams: A review of the risks to the healthcare worker. Journal of Intensive Care,
+5(1), Article 59. https://doi.org/10.1186/s40560-017-0253-9
+WHO-China Joint Mission. (2020, March 7). Report of the WHO-China
+Joint Mission on Coronavirus Disease 2019 (COVID-19). World Health
+Organization. Retrieved from https://www.who.int/docs/default-source/
+coronaviruse/who-china-joint-mission-on-covid-19-final-report.pdf
+Wrzesniewski, A. (2002). “It’s not just a job”: Shifting meanings of work
+in the wake of 9/11. Journal of Management Inquiry, 11(3), 230 –234.
+https://doi.org/10.1177/1056492602113003
+Wrzesniewski, A., McCauley, C., Rozin, P., & Schwartz, B. (1997). Jobs,
+careers, and callings: People’s relations to their work. Journal of Research
+in Personality, 31(1), 21–33. https://doi.org/10.1006/jrpe.1997.2162
+Xie, B. G., Zhou, W. X., Huang, J. L., & Xia, M. (2017). Using goal
+facilitation theory to explain the relationships between calling and
+organization-directed citizenship behavior and job satisfaction. Journal of
+Vocational Behavior, 100, 78 – 87. https://doi.org/10.1016/j.jvb.2017.03
+.001
+Xie, J., Tong, Z., Guan, X., Du, B., Qiu, H., & Slutsky, A. S. (2020).
+Critical care crisis and some recommendations during the COVID-19
+epidemic in China. Intensive Care Medicine, 46, 837– 840. https://doi
+.org/10.1007/s00134-020-05979-7
+
+Appendix A
+Measures
+2. I want to help others through my work.
+
+Occupational Calling
+1. Today during the shift, I had a calling to help the patients recover.
+
+3. I want to have a positive impact on others.
+
+2. Today during the shift, I had a good understanding of my calling
+as it applied to the goal of saving the patients.
+
+4. It is important to me to do good for others through my
+work.
+
+3. Today during the shift, ensuring the quality of my work in the ICU
+was a calling.
+
+Daily Depletion
+1. Today during the shift, I felt drained.
+
+Prosocial Motivation
+1. I care about benefiting others through my work.
+
+2. Today during the shift, my mind felt unfocused.
+3. Today during the shift, I felt like my willpower was gone.
+
+(Appendices continue)
+
+ZHU ET AL.
+
+14
+
+Appendix B
+Supplemental Analyses
+Robustness Check by Removing Control Variables
+The pattern and significance of results remained the same after
+excluding all control variables. Interested readers can contact the
+corresponding author to obtain detailed results.
+
+This document is copyrighted by the American Psychological Association or one of its allied publishers.
+This article is intended solely for the personal use of the individual user and is not to be disseminated broadly.
+
+Cross-Level Moderation Effect of
+Prosocial Motivation
+We argued that nurses high in prosocial motivation would
+consistently have a high level of daily occupational calling,
+whereas those low in prosocial motivation would be variable in
+daily occupational calling. This argument implies that prosocial
+motivation may interact with daily number of code blue events to
+predict daily calling. Therefore, we conducted supplementary analyses by testing the cross-level moderation effect of prosocial
+motivation. We estimated a multilevel model that added the crosslevel moderation effect of prosocial motivation on the random
+slope for daily code blue events predicting daily calling. With the
+addition of the cross-level moderation effect, the results for our
+hypothesized model remained the same. The interaction effect was
+significant (␥ ⫽ ⫺.66, p ⫽ .030). The relationship between daily
+code blue events and daily calling was positive (simple slope ⫽
+1.00, p ⫽ .003) for nurses lower in prosocial motivation (⫺1 SD),
+whereas this relationship was nonsignificant (simple slope ⫽ .16,
+p ⫽ .220) for nurses higher in prosocial motivation (⫹1 SD). In
+
+other words, the positive association between daily code blue
+events and daily calling was more likely to exist for nurses with
+lower levels of prosocial motivation than those with higher levels
+of prosocial motivation.
+
+Interaction Effect Between Average Level and
+Variability of Occupational Calling
+We also explored whether average level and variability of
+occupational calling interacted to affect job performance. With the
+addition of this Level-2 interaction effect, the results for our
+hypothesized model remained the same. The interaction effect was
+significant (␥ ⫽ ⫺3.25, p ⫽ .005). The relationship between
+average level of occupational calling and job performance was
+positive (simple slope ⫽ 3.49, p ⫽ .001) for nurses lower in
+occupational calling variability (⫺1 SD), whereas this relationship
+was nonsignificant (simple slope ⫽ .74, p ⫽ .563) for nurses
+higher in occupational calling variability (⫹1 SD). In other words,
+the performance benefit from higher average occupational calling
+only existed for those nurses who had lower levels of occupational
+calling variability and not for those with higher levels of occupational calling variability.
+Received July 24, 2020
+Revision received September 5, 2020
+Accepted September 28, 2020 䡲
+
+

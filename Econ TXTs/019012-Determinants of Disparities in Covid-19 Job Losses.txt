@@ -1,0 +1,2340 @@
+NBER WORKING PAPER SERIES
+
+DETERMINANTS OF DISPARITIES IN COVID-19 JOB LOSSES
+Laura Montenovo
+Xuan Jiang
+Felipe Lozano Rojas
+Ian M. Schmutte
+Kosali I. Simon
+Bruce A. Weinberg
+Coady Wing
+Working Paper 27132
+http://www.nber.org/papers/w27132
+
+NATIONAL BUREAU OF ECONOMIC RESEARCH
+1050 Massachusetts Avenue
+Cambridge, MA 02138
+May 2020
+
+The views expressed herein are those of the authors and do not necessarily reflect the views of the
+National Bureau of Economic Research.
+At least one co-author has disclosed a financial relationship of potential relevance for this
+research. Further information is available online at http://www.nber.org/papers/w27132.ack
+NBER working papers are circulated for discussion and comment purposes. They have not been
+peer-reviewed or been subject to the review by the NBER Board of Directors that accompanies
+official NBER publications.
+© 2020 by Laura Montenovo, Xuan Jiang, Felipe Lozano Rojas, Ian M. Schmutte, Kosali I.
+Simon, Bruce A. Weinberg, and Coady Wing. All rights reserved. Short sections of text, not to
+exceed two paragraphs, may be quoted without explicit permission provided that full credit,
+including © notice, is given to the source.
+
+Determinants of Disparities in Covid-19 Job Losses
+Laura Montenovo, Xuan Jiang, Felipe Lozano Rojas, Ian M. Schmutte, Kosali I. Simon, Bruce
+A. Weinberg, and Coady Wing
+NBER Working Paper No. 27132
+May 2020
+JEL No. I1,J0,J08
+ABSTRACT
+We make several contributions to understanding how the COVID-19 epidemic and policy
+responses have affected U.S. labor markets, benchmarked against two previous recessions. First,
+monthly Current Population Survey (CPS) data show greater declines in employment in April
+2020 (relative to February) for Hispanics, workers aged 20 to 24, and those with high school
+degrees and some college. Second, we show that job loss was larger in occupations that require
+more interpersonal contact and that cannot be performed remotely. Pre-epidemic sorting into
+occupations with more potential for remote work and industries that are currently essential
+explain a large share of gaps in recent unemployment for key racial, ethnic, age, and education
+sub-populations. However, there is a larger unexplained component to the gender employment
+gaps. We also address measurement issues known to have affected the March and April 2020
+CPS. In particular, non-response increased dramatically, especially among the incoming rotation
+groups. Some of the increase appears non-random, but is not likely to be driving our conclusions.
+We also demonstrate the importance of tracking workers who report having a job but being
+absent, in addition to tracking employed and unemployed workers. We conclude with a
+discussion of policy priorities implied by the disparities in labor market losses from the
+COVID-19 crisis that we identify.
+Laura Montenovo
+Kosali I. Simon
+Indiana University
+O’Neill School of Public and Environmental Affairs
+2451 E. 10th Street
+Indiana University
+Bloomington, IN 47408
+1315 East Tenth Street
+lmonten@iu.edu
+Bloomington, IN 47405-1701
+and NBER
+Xuan Jiang
+simonkos@indiana.edu
+The Ohio State University
+1945 N High St
+Bruce A. Weinberg
+Columbus, OH 43210
+Department of Economics
+jiang.445@osu.edu
+Ohio State University
+410 Arps Hall
+Felipe Lozano Rojas
+1945 North High Street
+Indiana University
+Columbus, OH 43210
+2451 E. 10th Street
+and NBER
+Bloomington, IN 47408
+weinberg.27@osu.edu
+flozanor@indiana.edu
+Coady Wing
+Ian M. Schmutte
+Indiana University
+Terry College of Business
+1315 E 10th St
+University of Georgia
+Bloomington, IN 47401
+Athens, GA 30602
+cwing@indiana.edu
+schmutte@uga.edu
+
+1
+
+Introduction
+
+The COVID-19 epidemic and the social distancing responses to it have already had profound effects in the United States. Between February and April 2020, the US witnessed a drastic reduction
+in the size and scope of economic activity. Large sectors of the economy – transportation, hospitality, and tourism – have essentially shut down their normal operations. State governments
+implemented a range of social distancing mandates (Gupta et al. 2020). As of mid-April, more
+than 36 million US workers have filed for unemployment benefits, and the unemployment rate
+stands at 14.7% (Bureau of Labor Statistics 2020). Between February and April, we estimate using Current Population Survey (CPS) data that the labor force participation rate fell from 65.3% to
+62.3%. The fraction of workers who report that they were “employed but absent” from work during the CPS reference week grew from 2.5 % in February to 7.3% in April. If these absent workers
+are actually unemployed, then the unemployment rate might be closer to 20% (Shahar Ziv 2020).
+Unemployment claims numbers are released weekly, but do not allow us to investigate disparities,
+and may underestimate the extent of current job losses due to overwhelmed state systems, stigma,
+and other factors that could discourage worker suffering job losses from applying.
+This paper documents and analyzes the early labor market impacts of the COVID-19 epidemic
+and policy responses to it. We compare COVID-19 employment disruptions with other recent recessions and examine the distribution of employment losses across key sub-populations. Although
+earlier research has examined labor market outcomes with March CPS, the losses reported there
+were mild compared to the April data (released May 13th 2020). We use these new data to explore
+several key questions about determinants of employment losses connected with the epidemic.
+The coronavirus spreads mainly through droplet transmission that occurs when people are in
+close physical proximity. This suggests that employment losses may be larger in jobs that involve face-to-face contact and smaller in jobs that can be done remotely. At the same time, work
+may continue in essential industries. On the labor supply side, the transmission mechanism also
+raises the health risks of work tasks that require face-to-face contact with customers or co-workers.
+Moreover, the mortality risks of COVID-19 vary across individuals: mortality rates appear to be
+higher for men and for older people. We expect that high-risk workers may supply less labor, especially in high-exposure jobs (Guerrieri et al. 2020). But labor supply might decrease through other
+channels as well. For example, people might contract their labor supply because the epidemic has
+made it hard to obtain child care services, schooling services, and other types of home and family
+health care services (Dingel et al. 2020).
+We present three broad analyses to investigate heterogeneity in labor market impacts. First, we
+use data from the monthly Current Population Survey (CPS) to document and compare disparities
+
+1
+
+across groups in a range of labor market outcomes (current employment, absence from work, and
+especially recent unemployment). We find large declines in employment and increases in recent
+unemployment among women, Hispanics, and younger workers. There is also polarization by
+education, with fewer job losses among high school dropouts and college graduates (and above).
+We compare these changes with the employment losses experienced during the Great Recession
+and the 2001 Recession.
+Second, we explore heterogeneity in COVID-19 job losses across workers in different types of
+jobs and industries. We use O*NET data to develop indices of the extent to which each occupation
+allows remote work and requires face-to-face interaction. We show larger declines in employment
+in April 2020 in occupations requiring more face-to-face interactions. Workers in jobs that could
+be performed remotely were less likely to experience recent unemployment. We classify jobs as
+essential based on the “Guidance on the essential critical infrastructure workforce” of The Department of Homeland Security (2020) using the interpretation in Blau et al. (2020). We show that
+workers in essential jobs are less likely to lose a job between February and April and are also
+less likely to have been absent from work. Changes in aggregate employment may reflect demand
+or supply shocks, but changes among high-risk workers (e.g. older workers and men) in highexposure industries are more likely to reflect supply side factors. To date, we find little evidence
+of a relative reduction of high-risk workers’ employment in high-exposure industries, suggesting
+that labor supply factors have played a small role in the employment response so far. To assess the
+importance of caring for dependents as a factor in labor supply, we estimate changes in employment for families with children, and for women in particular. We find that women are more likely
+to become unemployed between February and April, and that women with young children experience substantially higher rates of absence from work, a concerning signal of the consequences of
+childcare and school closures.
+Our third contribution is to decompose the gross differences in job losses across key demographic and social groups using an Oaxaca-Blinder decomposition. This analysis decomposes the
+difference in employment losses between two demographic groups into an unexplained component
+and components that are due to the observable characteristics of their occupations and their human
+capital characteristics. A significant share of differences in employment loss across demographic
+groups is explained by differences in pre-epidemic sorting across occupations. However, in most
+of our models, a non-negligible share of the difference in outcomes for the subgroups remains
+unexplained by either occupation sorting or other observable traits.
+In addition to these substantive contributions, we provide two technical insights. We first show
+that it is important to account for people who are employed but absent from work in quantifying
+the labor market effects of COVID-19 and its policy responses. Second, we analyze the spike in
+
+2
+
+non-response in the CPS in the March and April 2020. We provide evidence that at least some of
+the increase is non-random with respect to demographics and likely with respect to employment
+status.
+
+2
+
+Related Research
+
+The literature on labor market impacts of COVID-19 is evolving rapidly. Using cell phone data
+on mobility and interaction patterns, Gupta et al. (2020) document a massive, nationwide decline
+in multiple measures of mobility outside the home. Even states that had not adopted restrictive
+policies experienced large reductions in mobility. However, Gupta et al. (2020) also find evidence
+that early and information-focused state policies did lead to larger reductions in mobility. These
+reductions in time outside the house suggest that many people are experiencing work disruptions,
+and that those who can work remotely may be more able to maintain employment during the crisis.
+Alon et al. (2020) find that the social-distancing policies have a larger effect on women than men,
+unlike in a “regular” recession. They suggest that the impact of the epidemic on working mothers
+could be persistent.
+Lozano-Rojas et al. (2020) show that the historically unprecedented increase in initial unemployment claims in March 2020 was largely across-the-board, occurring in all states regardless of
+local epidemiological conditions or policy responses. Similarly, Kahn et al. (2020) show a large
+drop in job vacancy postings – an indicator of labor demand – in the second half of March, so that
+by early April, there were 30% fewer job postings than at the beginning of the year. These large
+declines happened across states, regardless of state policies or infection rates. (Adams-Prassl et al.
+2020; Dasgupta and Murali 2020) study disparities in labor market impacts in other countries.
+There is mounting evidence that layoff statistics may severely underestimate the extent of labor
+market adjustments. Using data from an early-April household survey, (Coibion et al. 2020) estimate that unemployment greatly exceeds that indicated by unemployment insurance claims. There
+is a growing literature that – like the present paper – uses O*NET occupational characteristics to
+capture the type of work conducted by each occupation and further investigate the employment
+variation attributed to three occupational traits. Both Dingel and Neiman (2020) and Mongey and
+Weinberg (2020) use measures in O*NET to define high work-from-home occupations. Leibovici
+et al. (2020) takes a similar approach to measure occupations with high interpersonal contact.
+
+3
+
+3
+
+Data
+
+3.1
+
+Current Population Survey
+
+Our main analysis uses data from the Basic Monthly CPS from February and April 2020. These
+surveys use a reference week that includes the 12th of the month (U.S. Census Bureau 2019). To
+focus on job losses related to the epidemic, we use a measure of recent unemployment that defines
+a worker as recently unemployed if he/she is coded as being unemployed in April 2020 and reports
+having been unemployed for at most 10 weeks. When creating this variable, we exclude individuals
+who list themselves as currently out of the labor force. Focusing on recent unemployment allows
+us to study the rate of recent job losses using only the April 2020 CPS cross section1 . Appendix
+figure H.2 shows that cross-sectional rates of recent unemployment are very similar to the monthover-month change in employment calculated by comparing employment rates in February and
+April 2020. To understand how COVID-19 job losses compare with recent recessions, we also
+used CPS data and NBER recession dates to examine peak-to-trough employment changes in the
+2001 recession (March-November 2001) and the Great Recession (December 2007-June 2009)
+(National Bureau of Economic Research (2012)). When focusing on the COVID-19 crisis, we
+compare February to April 2020.
+The CPS defines as “absent from job” all workers who were “temporarily absent from their
+regular jobs because of illness, vacation, bad weather, labor dispute, or various personal reasons,
+whether or not they were paid for the time off” (U.S. Census Bureau 2019). During the epidemic,
+these employed-but-absent workers deserve particular attention for a few reasons. First, some
+employers released workers intending to rehire them (Bogage 2020; Borden 2020). Second, some
+workers may have requested leave from their schedule to provide dependent care or to care for a
+sick household member. Third, there was a misclassification problem during the data collection of
+the March and April 2020 CPS. The BLS instructed surveyors to code those out of work due to the
+epidemic as recently laid off or unemployed, but U.S. Bureau of Labor Statistics (2020b) and U.S.
+Bureau of Labor Statistics (2020a) explain that surveyors appeared to code at least some of them
+in the employed-but-absent category. These reasons contribute to a massive increase in the share
+of workers coded as employed-but-absent from work between February and April2 . Therefore, we
+performed most of our analysis separately on measures of recent unemployment and employedbut-absent; see Appendix I.3
+U.S. Bureau of Labor Statistics (2020a) warns of several data quality issues in the April 2020
+1
+
+During April, 12.1% of the individuals in the labor force with more than 21 years of age reported to be unemployed
+and to have been in that status for 10 weeks or less. In contrast, in February only 2.1% did so.
+2
+In our sample, the employed-but-absent share group by almost 150% from February to April, 2020.
+
+4
+
+survey that arose from the epidemic. The BLS largely halted field operations, but respondents
+may also have been more difficult to reach for other reasons. Together, these factors led to a 13
+percentage point decline in CPS response rates from April 2020 compared to April 2019 U.S.
+Bureau of Labor Statistics (2020a). We conduct a basic assessment of the effects of non-response
+on our analysis in the appendix.
+
+3.2
+
+O*Net
+
+We use the 2019 Occupational Information Network (O*Net) Work Context module, which reports
+summary measures of the tasks used in 968 (2010 SOC) occupations (O*NET National Center for
+O*NET Development (2020)). The data are gathered through surveys asking workers how often
+they perform particular tasks, and about the importance of different activities in their job. Some of
+the questions relate to the need for face-to-face interaction with clients, customers, and co-workers.
+Other questions assess how easily work could be done remotely (i.e. from a worker’s home). These
+measures are typically provided on a 1-5 scale, where 1 indicates that a task is performed rarely or
+is not important to the job, and 5 indicates that the task is performed regularly or is important to the
+job. To measure the extent to which an occupation involves tasks that are affected by the COVID19 epidemic, or that might be protective, we developed indices for: (1) Face-to-Face interactions,
+and (2) the potential for Remote Work. Table I.1 presents the specific O*Net questions used. The
+value of each index for an occupation is a simple average O*Net questions listed in the table. We
+standardized the indexes to have a mean of zero and a standard deviation of one.
+The O*Net data classifies occupations using SOC codes and the CPS data classifies occupation
+codes using Census Occupation codes. We cross-walked the two data sets to link the O*Net Faceto-Face and Remote Work indices with the CPS microdata. The April CPS contains workers from
+526 unique Census Occupations. We were able to link the index variables to 524 occupation codes,
+leaving only 9 workers with missing indexes 3 .
+
+3.3
+
+Homeland Security Data on Essential Work
+
+The U.S. Department of Homeland Security (DHS) issued guidance about critical infrastructure
+workers during the COVID-19 epidemic.4 The DHS guidance outlines 14 categories that are defined as essential critical infrastructure sectors. We follow Blau et al. (2020)’s definition of essential industries, which matches the text descriptions to the NAICS 2017 four-digit industry classifi3
+
+We were not able to link an O*Net Face-to-Face or Remote Work index to workers in Census Occupation Codes
+1240 (Miscellaneous mathematical science occupations) and 9840 (Armed Forces)
+4
+The list of critical infrastructure jobs is available at: https://www.cisa.gov/.
+
+5
+
+cation from the U.S. Census Bureau 5 , and to the CPS industry classification system. From the 287
+industry categories at the four-digit level, 194 are identified as essential in 17 out of 20 sectors.
+Table I.2 gives an abbreviated list of essential industries to clarify the classification scheme.
+
+3.4
+
+COVID-19 Exposure
+
+To explore heterogeneity in employment outcomes across states facing different epidemiological
+conditions, we linked CPS data to the average cumulative number of confirmed COVID-19 cases
+in a state during the focal week of the April CPS. We retrieve information on COVID-19 cases
+from The New York Times (2020). We control for state population size using state level Census
+population estimates.
+
+3.5
+
+COVID-19 Mortality Risk
+
+We constructed a COVID-19 mortality risk index by age and gender using data on case-mortality
+rates released by CDC China and based on deaths in Mainland China as of February 11, 2020
+(CCDC 2020). We applied the case-fatality rates to the U.S. workers in our sample by transforming
+the relative mortality rates by age and gender 6 . Our goal is to proxy for people’s COVID-19
+mortality expectations as of the second week of March. While mortality rates likely differ between
+the U.S. and China, these data are the best available at this time, and age and gender based mortality
+rates are likely primary factors in forming expectations.
+
+4
+
+Employment Disruptions in Three Recessions
+
+Figure I shows change in employment for the COVID-19 Recession so far (February 2020 to April
+2020), compared with the peak-to-trough change in employment for the entire 2001 Recession
+(March 2001 to November 2001) and the entire Great Recession (December 2007 to June 2009).
+All estimates use CPS sampling weights and we limit the sample to CPS respondents who are
+at least 21 years old during the survey. When comparing peak-to-trough employment rates from
+the 2001 Recession and the Great Recession, we adjust for seasonality by removing month fixed
+5
+6
+
+North American Industry Classification System. Available at https://www.census.gov/
+We use Bayes’ theorem to infer mortality rates by age and gender from CCDC (2020). Specifically, we calculated:
+P r(Death|Gender, Age) =
+
+P r(Age|Death) · P r(Gender|Death) · P r(Death)
+P r(Gender) · P r(Age)
+
+Where: Gender = {F emale, M ale} and Age = {20 − 29, ..., 70 − 79, 80+}. We normalize the variable to have
+mean of one and standard deviation of zero on the entire CPS sample
+
+6
+
+effects estimated from regressions of employment on month of year fixed effects using the Basic
+Monthly CPS data from January 2000 to December 2019.
+The employment losses in the first two months of the COVID-19 epidemic already dwarf the
+declines for the other two recessions, which span nine and nineteen months respectively. The
+size and unprecedented speed of the COVID-19 recession is reinforced in appendix figure H.1,
+which shows seasonally-adjusted non-farm employment from March 2000 and April 2020. The
+bars figure I show the change employment rate in sub-populations defined by gender, presence of
+own children in the household, race, ethnicity, age group, and education achievement. Almost no
+group is spared from employment loss during any of the three recessions. However, the pattern of
+employment disruption is somewhat different in the early months of the COVID-19 recession.
+Young workers (ages 21-24) and Hispanic workers have fared the worst so far. Young workers,
+during the first two months of the COVID-19 epidemic, already experience a decrease in employment that is almost 4.5 times as large as the one occurred during the Great Recession. The change
+in employment rate for Hispanics has been over 3.6 times larger between February and April 2020
+than it was during the 19 months of the Great Recession. Our conjecture is that these two groups
+disproportionately work in industries that are particularly hit by social distancing measures, such
+as food service and construction. Women and respondents with own children in the household
+also experience larger employment declines than their counterparts. This could reflect labor supply constraints given school and daycare closures. There is strong evidence of skill polarization
+effects: high school dropouts and college graduates have experienced substantially lower employment declines compared to the intermediate education groups. During the COVID-19, the change
+in employment for African-Americans (-0.14) is higher compared to the one for whites (-0.12).
+A similar pattern arose during the 2001 Recession, but not during the Great Recession. As we
+show below, highly-educated workers have better options to work remotely, without in-person interactions. In contrast, less educated workers are more likely to be in essential positions. While
+polarization is consistent with recent trends in the labor market, it differs markedly from the two
+previous recessions (Autor et al. 2006).
+
+5
+
+Job Tasks and Recent Unemployment
+
+In this section of the paper, we examine the way that recent unemployment rates depend on characteristics of the job (remote work compatibility, and face-to-face interaction), essential work
+designations, worker level COVID-19 risk, human capital, and family structure. We focus on a
+binary measure of recent unemployment, which is an indicator variable set to one if a person is
+unemployed and became unemployed within the past 10 weeks in the April CPS. Ignoring re7
+
+employment, this 10-week rate should capture the same employment disruptions as the overall
+change in employment rates between February and April. Appendix figure H.2 compares the recent unemployment rate in April 2020 with the February to April change in employment rates by
+sub-population. The results in the figure confirm that the cross-sectional recent unemployment
+rates have nearly the same pattern across groups as the February-April employment rate change.
+Figure II shows the mean of the Remote Work and Face-to-Face indices across sub-populations
+in the February 2020 CPS. The graph exhibits how sub-populations were sorted into jobs with different remote work and face-to-face interaction attributes before the U.S. COVID-19 epidemic.
+The remote work index varies more across sub-populations than the face-to-face index. Women
+tend to work in jobs that both allow more remote work and involve more face-to-face activities than
+men. Sharp differences arise for ethnicity, with Hispanics disproportionately working in jobs that
+largely cannot be conducted remotely. Younger workers (age 21-24) are in jobs with fewer remote
+work prospects, and in jobs that involve more face-to-face interaction, although the differentials
+are not very large. The most dramatic differences of occupational sorting arise across the four education groups. Workers with less than a college degree are in occupations with poor opportunities
+for remote work, and this is particularly true among high school dropouts.
+Figure III shows association between the remote work and face-to-face scores in an occupation
+and the rate of recent unemployment in that occupation in the April CPS. The diameter of the
+bubbles are proportional to the number of workers in that occupation. There are a total of 524
+occupations in our sample and the occupation-specific recent unemployment rates range from 0%
+to over 30%. To improve readability, 51 occupations with recent unemployment rates of more than
+4.34% (the 90th percentile of the distribution) are excluded from the figure (but not the regression).
+The left panel in figure III shows that the April recent unemployment rate tends to be much lower
+in occupations with higher scores on the remote work index, suggesting that the ability to work
+remotely has helped protect employment during the early months of the epidemic. The second
+panel shows that recent unemployment rates are higher in occupations that involve more face-toface tasks. In other words, the more heavily the occupation relies on face-to-face activities, the
+more likely its workers are to become unemployed as a result of the COVID-19 epidemic.
+Job tasks are not the only factors that may explain recent job losses. Essential work designations may help protect certain types of jobs. And school closures and reduced access to child care
+may have disrupted employment in households with children. Additionally, worker mortality risk
+from COVID-19 may have reduced labor supply among high-risk groups. To examine these possibilities in more detail, we fit OLS regressions of recent unemployment on a collection of worker
+and job characteristics:
+
+8
+
+yij = F acej β1 + Remotej β2 + Essentialj β3
+
+(1)
+
++ M ortalityi β4 + F emalei β5 + Childi β6 + (Childi × F emalei )β7 + C19s β8
++ Xi δ + ij
+In the model, yij is an indicator set to 1 if person i from occupation j is recently unemployed.7 .
+F acej and Remotej are the indices for face-to-face work and remote work. Essentialj is a dummy
+variable equal to one for people employed in an industry considered essential by DHS. We define
+an index of a person’s COVID-19 mortality risk, denoted M ortalityi . F emalei indicates that the
+person is female, Childi is an indicator set to 1 if person i has a child under age 6 in the household,
+and C19s is a measure of the log number of confirmed cases of COVID-19 in the state. Xi is a
+vector of covariates, including a quadratic in age, indicators for race/ethnicity, and indicators for
+levels of education. In some specifications, we include interaction terms between mortality risk
+and job task indices, state fixed effects, and occupation code fixed effects.
+The estimated coefficients are in Table I. Column 1 shows estimates from models that do not
+adjust for mortality risk or number of COVID-19 cases in the state, but do control for occupation
+and individual characteristics. Column 2 includes the mortality risk variable and logged state
+COVID cases. Column 3 includes the interaction between mortality risk and job task indices,
+and column 4 adds interactions between the state’s COVID rate and job characteristics. Column 5
+replaces the job task indices with occupation and industry fixed effects to account for any additional
+time-invariant characteristics of the jobs, as well as state fixed effects to control for local conditions.
+In the appendix, we include the estimated coefficients for the same family of models using the
+variable employed but Absent from work as a dependent variable (Table I.3).
+The results suggest that, even after adjusting for other covariates, people working in jobs with
+more potential for remote work are less likely to be recently unemployed. The estimated coefficient
+on remote work in Column 1 implies that working in a job that scores one standard deviation above
+the mean on remote work reduces the risk of recent job loss by about 5.6 percentage points. The
+overall recent unemployment rate in the sample was 12.1 percent. This implies that working in
+a job that scored one standard deviation above the mean remote work score reduces the risk of
+recent unemployment rate by 46 percent. On the other hand, jobs where face-to-face interactions
+are important have higher recent unemployment rates. After adjusting for other factors, the model
+in column 1 implies that recent unemployment rates are 1.6 percentage points higher for people
+7
+
+We also fit models where the dependent variable indicates the worker reports being employed, but absent from
+work during the CPS reference week, and we report results in table I.3
+
+9
+
+working in jobs that score 1 standard deviation above the mean on the face-to-face index. A 1
+standard deviation increase in the face-to-face index is associated with a 13 percent increase in
+recent unemployment rates. The coefficient on “Essential” indicates that working in an essential
+industry substantially reduces the probability of recent unemployment. In particular, working in
+an industry classified as essential reduces recent unemployment rates by 8.1 percentage points,
+which is a 67 percent decrease relative to the mean. These results are mostly consistent across
+specifications, although the magnitude and precision change when adding interactions between
+state level COVID cases and these characteristics (Model 4).
+The regressions also suggest that recent unemployment rates vary substantially across demographic groups and with human capital. Recent unemployment rates are about 3 percentage points
+higher for women, after adjusting for other covariates. Being a woman is associated to a 3.3 percentage point increase in April 2020 recent layoff rates. The coefficients in the interaction term
+between female and Children under age 6 are small and not statistically significant, suggesting that
+child care responsibilities have not explained much gender specific employment disruption so far.
+However, appendix table I.3 shows that when the dependent variable is employed but absent, the
+interaction between female and children under age 6 is large and statistically significant. Women
+with young children are 3.8 percentage points more likely to report being employed but absent
+than women without young children. These results suggest that child care and family responsibility could play an important role in job losses downstream, if work absence is a leading indicator of
+future unemployment.
+We used a quadratic function to approximate the age profile of recent unemployment rates.
+Taken literally, the coefficients suggest that recent unemployment rates are quite high for younger
+workers and decline with age up to around age 47. Then recent unemployment rates begin to
+rise again for older workers. Recent unemployment is lower among college educated workers.
+Graduate degree holders are about 7 percentage points less likely to have become unemployed in
+the 10 weeks leading up to the April CPS. And college graduates are about 3 percentage points
+less likely to be recently unemployed. Our estimates show that residing in a metropolitan area
+protects workers from COVID-19 employment disruptions. In particular, recent unemployment
+rates are about 2.8 percentage points lower among workers living in metropolitan areas. The table
+also includes the level of positive COVID-19 cases in a state during the week of the CPS in April
+and interactions with the job indices. We find that the recent unemployment rate falls by about 1.4
+percentage points for each 1 percent increase in the number of confirmed Covid-19 cases in the
+state during the same week.
+The results suggest that our proxy for COVID-19 mortality risk is not clearly related to job
+loss during April. The coefficient on mortality risk is only statistically significant in one out of
+
+10
+
+the four specifications where it is included. Similarly, its interactions with occupation indices
+are mostly insignificant, suggesting that the risk of COVID-19 mortality is not a major factor in
+recent unemployment.8 The lack of a strong relationship between a worker’s COVID-19 mortality
+risk and employment outcomes may have several possible explanations. It is possible that the
+epidemic is mainly affecting labor demand, making the effects on labor supply too marginal to
+be detected. Alternatively, our index could be an imperfect measure of the way people interpret
+their own mortality risk, as it is based only on the age and sex of COVID-19 related casualties
+in China. Another possibility is that labor supply responses to increases in the mortality risk of
+employment will emerge in the near future. Finally, large standard errors could be explained by the
+multi-collinearity: the model includes age, gender, and the mortality risk index, and the mortality
+index is a function of age and gender.
+
+6
+
+Decomposing Group Differences in Recent Unemployment
+
+Recent unemployment rates in April varied substantially across sub-populations. Some of these
+differences may reflect pre-epidemic sorting across occupations and industries, differences in human capital, and differences in demographic characteristics. However it is also possible that the
+COVID-19 epidemic is affecting different sub-populations deferentially. To help shed light on
+these gaps, we used Oaxaca-Blinder regressions to decompose recent unemployment gaps into the
+share explained by pre-epidemic observable covariates versus an unexplained share which comes
+from differences in coefficients across groups. Table II decomposes the recent unemployment gap
+for Females versus Males (column 1); Hispanics versus non-Hispanics (column 2); whites versus
+blacks (column 3); younger versus older workers (column 4); high school graduates versus high
+school drop outs (column 5); and college graduates versus high school graduates (column 6). A
+graphical representation of these estimates is presented in Appendix Figure I.1.
+For each gap, we estimate three decomposition models. All three include basic socio-demographic
+controls (i.e. age, gender, race, ethnicity, and education), which we report as a group, state controls, and a variable indicating the presence of children under 6. The three models are differentiated
+by how much detail we include regarding job characteristics. Model A includes the Face-to-Face,
+Remote Work, and Essential Job indices. Model B adds a full set of 524 occupation dummies9 .
+8
+
+The only exception being the interaction between risk and remote work: in jobs that can be performed remotely,
+higher mortality risk seems associated with a slightly (0.008) higher job loss rate in some specifications.
+9
+For Model B, Table I.4 in the Appendix reports the share of variation explained by sorting across five top-level
+categories in the Census occupational classification system: “Management, Business, Science, and Arts”, “Service”,
+“Sales and Office”, “Natural Resources, Construction, and Maintenance”, “Production, Transportation, and Material
+Moving”. A sixth category, “Military Specific Operations”, does not appear because the CPS is a survey of the civilian
+non-institutional population.
+
+11
+
+Finally, in Model C we add a full set of 261 industry dummies, and report the share of each gap
+explained by sorting into industries that we code as Essential vs Non-essential.
+Model A indicates that the explanatory contributions of occupational task-based sorting and essential industry sorting push in different directions across groups. For example, the non-Hispanic/Hispanic
+gap (in Column 2) is quite large at -4.4 relative to a baseline recent unemployment rate of 12.1
+percent. Differences in observed covariates associated with Hispanic and non-Hispanic workers
+explain 54.7 percent of the gap. About 53.3 percent of the raw gap arises because Hispanic workers
+are disproportionately employed in jobs with little opportunity for remote Work. However, these
+relative losses are partially offset by the fact the Hispanic workers are disproportionately employed
+in essential jobs, accounting for -11.7 percent of the raw gap. We see similar patterns for the other
+gaps: disproportionate employment losses coming from concentration in jobs with little opportunity for remote work are partially offset by relative concentration in essential jobs. The exception
+is younger workers, who are not deferentially concentrated in essential jobs.
+One potential reason why our model does not explain more of the variation in the data is that
+the two occupation indices do not fully capture shifts in labor demand for specific occupations. Our
+richest specification, Model C, shows large variations in how much of the gap can be explained by
+demographic differences and sorting across occupations and industries. The portion of the gap in
+employment losses that an be explained by industry and occupation sorting together ranges from
+41.48 percent of the White/Black gap to 126.85 percent of the HS/non-HS gap.
+Returning to the Hispanic/non-Hispanic gap, using Model C, we find that the raw gap can
+be explained by differences in sorting across occupations (44.27 percent) and by employment in
+essential industries (27.4 percent). The story is very different for the Male/Female gap - 38.25
+percent of that gap is explained by differences in occupations. Women are sorted into different
+parts of the essential industries where employment losses were apparently smaller, offsetting the
+gap by -24.76 percent. However, women are also sorted into parts of non-essential industries where
+employment losses were high, explaining 67.52 percent (more than the overall explained portion).
+Across the board, differential sorting across occupations and industries are highly relevant in
+explaining gaps in recent unemployment. This finding echoes the recent study, Athreya et al.
+(2020), which finds that the service sectors are most vulnerable to social-distancing. Nevertheless,
+the precise sources of employment losses vary across groups in ways that are not neatly summarized by differential exposure to particular types of tasks or sectors. Furthermore, a large share of
+differences in recent employment losses that remains unexplained by pre-epidemic differences in
+observable characteristics, occupations, or industries.
+
+12
+
+7
+
+Conclusion
+
+The April CPS offers the first complete window into the employment disruptions produced by the
+COVID-19 epidemic. The COVID-19 job losses are larger (after only a few months) than the total
+multi-year effect of the Great Recession. Moreover, COVID-19 job losses so far do not appear
+to be concentrated in areas with greater early exposure to COVID-19, or in areas that pursued
+more aggressive social distancing policies. There are large disparities in recent unemployment
+across different demographic groups. Furthermore, we find that recent unemployment rates are
+about 46% lower among workers in jobs that are more compatible with remote work. In contrast,
+workers in jobs that require more face-to-face contact are at higher risk of recent unemployment.
+Unsurprisingly, a significant share of differences in employment loss across key racial, ethnic,
+age, and education sub-populations is explained by differences in (pre-epidemic) sorting across
+occupations. However, in almost all cases, a large share of the cannot be explained by either
+occupation sorting or other observable traits. There are three possible sources for the unexplained
+share. First, workers may have different labor supply responses to the epidemic. Second, variation
+in exposure to labor demand shocks may not be fully reflected in occupational or demographics
+differences. Finally, workers may face disparate treatment when their employers are deciding
+whom to lay off. The available data do not allow us to distinguish between these three channels.
+The early labor market evidence from the CPS suggests that many workers are being separated
+from their employers, with the potential for long-term scarring effects known to befall displaced
+workers during recessions. Finding and forming productive employment matches is costly. Furthermore, workers receive health care and other benefits through employers. Assuming economic
+conditions could return to their pre-epidemic state, policymakers are right to help workers maintain
+jobs and preserve links to their employers. On the other hand, if economic conditions do not return
+to normal rapidly, then the reallocation of workers into different types of jobs may also be important. Our analysis suggests the costs of job loss are more concentrated among particular groups of
+workers that might need extra protection from policy makers during this unprecedented time.
+Once data from the May CPS is released in early to mid June, it will be clearer whether these
+trends have continued, or been mitigated by subsequent re-opening policy actions. Whether due to
+policy or other reasons, there have been large increases in mobility since mid April (Nguyen et al.
+2020), although it is unknown as yet whether these returns to normalcy can be sustained without
+secondary outbreaks of the virus.
+In the mean time, our results make clear that there are large disparities in the current labor market crisis, and they suggest a role for public policy that could target effects on this basis. Although
+women with young children do not have statistically larger declines in recent unemployment de-
+
+13
+
+spite the disruptions in school and childcare, their high rate of "employed but absent" is worrying
+and could indicate larger losses in actual employment. Efforts to support new child care options
+may be important in the next phase of the epidemic.
+We find that workers in jobs that are more compatible with remote work have fared better.
+Higher educated workers appear protected due to the possibility of remote work in their jobs, while
+for those with the least education appeared protected largely due to their concentration in essential
+industries. New government policies or private sector innovations that increase the viability of
+remote work for a larger share of the economy could be extremely valuable.
+Our work also hints at deeper structural damage to the economy. Previous research documents
+large "scarring" effects of graduating from high school and college during a recession, and the
+longer term effects of early career set backs may be even larger than the near term effects (Rothstein
+2019). Our work shows that recent unemployment rates are very high among the youngest workers
+overall and in comparison to earlier recessions. Efforts to support early career workers as well as
+older displaced workers may need to be a particular target of policy in the future.
+
+14
+
+References
+Adams-Prassl, A., Boneva, T., Golin, M., and Rauh, C. (2020). Inequality in the impact of the
+coronavirus shock: New survey evidence for the uk. Cambridge-INET Working Paper Series,
+(2020/09).
+Alon, T. M., Doepke, M., Olmstead-Rumsey, J., and Tertilt, M. (2020). The impact of covid-19 on
+gender equality. Technical report, National Bureau of Economic Research.
+Athreya, K., Mather, R., Mustre-del Río, J., and Sánchez, J. M. (2020). Covid-19 and households’
+financial distress part 1: Employment vulnerability and (financial) pre-existing conditions. Technical report, Federal Reserve Bank of Richmond.
+Autor, D. H., Katz, L. F., and Kearney, M. S. (2006). The polarization of the us labor market. The
+American economic review, 96(2):189–194.
+Blau, F. D., Koebe, J., and Meyerhofer, P. A. (2020). Essential and frontline workers in the covid19 crisis. Econofact.
+Bogage, J. (2020). Coronavirus unemployment guide: What to do if you get laid off or furloughed.
+The Washington Post.
+Borden, T. (2020). The coronavirus outbreak has triggered unprecedented mass layoffs and furloughs. Business Insider.
+Bureau of Labor Statistics (2020). The employment situation — april 2020. Document retrieved
+on May 17, 2020 from www.bls.gov.
+CCDC (2020). The epidemiological characteristics of an outbreak of 2019 novel coronavirus
+diseases (covid-19)—china, 2020. China CDC Weekly, 2(8):113–122.
+Census (2004). How to link cps public use data files. Document retrieved on May 6, 2020 from
+www.census.gov.
+Coibion, O., Gorodnichenko, Y., and Weber, M. (2020). Labor markets during the COVID-19
+Crisis: A preliminary view. Technical Report w27017, National Bureau of Economic Research,
+Cambridge, MA.
+Dasgupta, K. and Murali, S. (2020). Pandemic containment and inequality in a developing economy.
+
+15
+
+Dingel, J. I. and Neiman, B. (2020). How many jobs can be done at home? Technical report,
+National Bureau of Economic Research.
+Dingel, J. I., Patterson, C., and Vavra, J. (2020). Childcare Obligations Will Constrain Many
+Workers When Reopening the US Economy. SSRN Scholarly Paper ID 3579711, Social Science
+Research Network, Rochester, NY.
+Guerrieri, V., Lorenzoni, G., Straub, L., and Werning, I. (2020). Macroeconomic implications of
+covid-19: Can negative supply shocks cause demand shortages? Technical report, National
+Bureau of Economic Research.
+Gupta, S., Nguyen, T. D., Lozano Rojas, F., Raman, S., Lee, B., Bento, A., Simon, K. I., and Wing,
+C. (2020). Tracking public and private response to the covid-19 epidemic: Evidence from state
+and local government actions. Technical report, National Bureau of Economic Research.
+Kahn, L. B., Lange, F., and Wiczer, D. G. (2020). Labor demand in the time of covid-19: Evidence
+from vacancy postings and UI claims. Technical report, National Bureau of Economic Research.
+Leibovici, F., Santacreu, A. M., and Famiglietti, M. (2020). Social distancing and contact-intensive
+occupations. On the economy, St. Louis FED.
+Lozano-Rojas, F., Jiang, X., Montenovo, L., Simon, K. I., Weinberg, B., and Wing, C. (2020).
+Is the cure worse than the disease? Immediate labor market effects of covid-19 case rates and
+school closures in the US. Technical report, National Bureau of Economic Research.
+Mongey, S. and Weinberg, A. (2020). Characteristics of workers in low work-from-home and high
+personal-proximity occupations. Becker Friedman Institute for Economic White Paper.
+National Bureau of Economic Research (2012). U.s. business cycle expansions and contractions.
+Information retrieved on May 7, 2020 from www.nber.org.
+Nguyen, T. D., Gupta, S., Andersen, M., Bento, A., Simon, K. I., and Wing, C. (2020). Impacts of
+state reopening policy on human mobility. Forthcoming working paper.
+O*NET National Center for O*NET Development (2020). O*net online help: Data collection
+information. Data retrieved from O*NET Online on May 6, 2020 from www.onet.org.
+Rothstein, J. (2019). The lost generation? scarring after the great recession. Technical report,
+Working Paper.
+
+16
+
+Shahar Ziv (2020). Don’t be fooled by official unemployment rate of 14.7%; the real figure is even
+scarier. Document retrieved on May 17, 2020 from www.forbes.gov.
+The Department of Homeland Security (2020). The department of homeland security guidance on
+essential critical infrastructure. Data retrieved on May 6, 2020 from www.cisa.gov.
+The New York Times (2020). Coronavirus (covid-19) data in the united states. Data retrieved on
+April 8, 2020 from https://github.com/nytimes/covid-19-data.
+U.S. Bureau of Labor Statistics (2020a). Frequently asked questions: The impact of the coronavirus (covid-19) pandemic on the employment situation for april 2020. Document retrieved on
+May 6, 2020 from www.bls.gov.
+U.S. Bureau of Labor Statistics (2020b). Frequently asked questions: The impact of the coronavirus (covid-19) pandemic on the employment situation for march 2020. Document retrieved
+on May 6, 2020 from www.bls.gov.
+U.S. Census Bureau (2019). Current population survey: Design and methodology, technical paper
+77. Technical report.
+
+17
+
+Tables and Figures
+Figure I
+
+Notes: Sample consists of CPS respondents aged 21 and above. For each bar, we compute the difference in the percent of the demographic group
+that reports being employed and at work, between the start and end months of each recession National Bureau of Economic Research (2012). The
+estimates were weighted using the CPS composited final weights. To include a seasonal adjustment, monthly fixed effects were included in the
+computation of the average subgroups employment change for the 2001 Recession and the Great Recession.
+
+18
+
+Figure II
+
+19
+Note: Sample consists of CPS February 2020 respondents age 21 and above who are in the labor force. Each index has been standardized to have mean 0 and
+standard deviation 1. We compute the average of each occupation index by subgroup.
+
+Figure III
+
+20
+Note: Sample consists of April CPS 2020 respondents age 21 and above who are in the labor force. We compute the average percent recent unemployed in each
+occupation and plot that against the occupation’s index value. Each occupational index has been standardized to have mean 0 and standard deviation 1. Each
+bubble represents a Census Occupation, and its dimension is proportional to the size of the workforce that holds that occupation in our sample. We include a
+line plotting the prediction from a linear regression of recently unemployed on each occupation.
+
+Table I: Cross-Sectional Models: Characteristics of the Recently Unemployed Workers
+Dependent = Recent Unemployed
+April Mean = 0.121; Std.Dev = 0.33
+Face-to-Face
+Remote Work
+Essential
+Mortality Risk Index
+Risk x Face-to-Face
+Risk x Remote Work
+Risk x Essential
+Ln(COVID cases in State)
+Ln(COVID cases) x Face-to-Face
+Ln(COVID cases) x Remote
+Ln(COVID cases) x Essential
+Fem x Child-U6
+Child under 6
+Female
+Afro-American
+Hispanic
+Age/100
+(Age/100)2
+Less-than HS
+Some College
+BA/AD Degree
+Post-graduate Degree
+Metropolitan
+Ln(State Population)
+Constant
+State + Occup. + Industry F.E.
+N
+R2
+
+Mean
+(Std.Dev.)
+0.00
+(1.00)
+0.00
+(1.00)
+0.70
+(0.46)
+-0.34
+(0.52)
+-0.02
+(.61)
+0.00
+(0.62)
+-0.24
+(0.46)
+9.38
+(1.29)
+-0.03
+(9.48)
+0.12
+(9.41)
+6.59
+(4.40)
+0.06
+(0.24)
+0.14
+(0.35)
+0.47
+(0.50)
+0.13
+(0.33)
+0.17
+(0.38)
+0.43
+(0.14)
+0.21
+(0.13)
+0.06
+(0.24)
+0.16
+(0.36)
+0.38
+(0.49)
+0.15
+(0.36)
+1.11
+(0.32)
+16.3
+(0.91)
+
+(1)
+
+(2)
+
+(3)
+
+(4)
+
+0.016∗∗∗
+(0.005)
+-0.056∗∗∗
+(0.008)
+-0.081∗∗∗
+(0.013)
+-0.015∗∗
+(0.007)
+
+0.016∗∗∗
+(0.005)
+-0.056∗∗∗
+(0.008)
+-0.081∗∗∗
+(0.013)
+-0.010
+(0.012)
+
+0.017∗∗∗
+(0.005)
+-0.052∗∗∗
+(0.007)
+-0.083∗∗∗
+(0.012)
+-0.010
+(0.012)
+0.002
+(0.005)
+0.010∗∗
+(0.004)
+-0.007
+(0.011)
+0.014∗∗∗
+(0.004)
+
+0.000
+(0.011)
+-0.011∗
+(0.006)
+0.033∗∗∗
+(0.008)
+-0.003
+(0.008)
+0.011
+(0.009)
+-0.804∗∗∗
+(0.145)
+0.840∗∗∗
+(0.155)
+-0.006
+(0.013)
+0.010
+(0.007)
+-0.029∗∗∗
+(0.010)
+-0.071∗∗∗
+(0.012)
+-0.028∗∗∗
+(0.009)
+0.005
+(0.005)
+0.309∗∗∗
+(0.091)
+
+0.002
+(0.010)
+-0.010
+(0.006)
+0.031∗∗∗
+(0.009)
+-0.005
+(0.008)
+0.012
+(0.009)
+-0.942∗∗∗
+(0.160)
+1.038∗∗∗
+(0.181)
+-0.005
+(0.013)
+0.011
+(0.007)
+-0.029∗∗∗
+(0.010)
+-0.073∗∗∗
+(0.012)
+-0.024∗∗∗
+(0.009)
+-0.009
+(0.008)
+0.416∗∗∗
+(0.100)
+
+0.003
+(0.011)
+-0.010∗
+(0.006)
+0.031∗∗∗
+(0.008)
+-0.005
+(0.008)
+0.012
+(0.008)
+-0.915∗∗∗
+(0.158)
+1.006∗∗∗
+(0.178)
+-0.005
+(0.013)
+0.011
+(0.007)
+-0.029∗∗∗
+(0.010)
+-0.073∗∗∗
+(0.012)
+-0.024∗∗∗
+(0.009)
+-0.009
+(0.007)
+0.413∗∗∗
+(0.101)
+
+0.018
+(0.012)
+-0.005
+(0.017)
+-0.074∗
+(0.041)
+-0.011
+(0.011)
+0.002
+(0.005)
+0.010∗∗
+(0.004)
+-0.007
+(0.011)
+0.015∗∗
+(0.006)
+-0.000
+(0.001)
+-0.005∗∗∗
+(0.002)
+-0.001
+(0.004)
+0.003
+(0.010)
+-0.010∗
+(0.006)
+0.031∗∗∗
+(0.008)
+-0.005
+(0.008)
+0.012
+(0.008)
+-0.921∗∗∗
+(0.158)
+1.012∗∗∗
+(0.178)
+-0.005
+(0.013)
+0.011
+(0.007)
+-0.029∗∗∗
+(0.010)
+-0.072∗∗∗
+(0.012)
+-0.023∗∗
+(0.009)
+-0.010
+(0.007)
+0.409∗∗∗
+(0.110)
+
+45,716
+0.062
+
+45,716
+0.064
+
+45,716
+0.064
+
+45,716
+0.064
+
+0.014∗∗∗
+(0.004)
+
+(5)
+
+0.000
+(0.005)
+0.005
+(0.003)
+-0.000
+(0.010)
+
+0.000
+(0.001)
+-0.004∗∗
+(0.002)
+-0.002
+(0.005)
+-0.009
+(0.010)
+0.001
+(0.006)
+0.008∗
+(0.004)
+0.009
+(0.008)
+0.014∗
+(0.008)
+-0.623∗∗∗
+(0.107)
+0.703∗∗∗
+(0.128)
+-0.003
+(0.011)
+0.006
+(0.006)
+-0.017∗
+(0.009)
+-0.030∗∗
+(0.012)
+-0.009
+(0.007)
+0.271∗∗∗
+(0.043)
+X
+45,709
+0.183
+
+Notes: Coefficients for Equation 1 using April 2020 CPS Data for individuals on the labor force and recent unemployment as dependent. Column (1) includes socio-demographic and job tasks’ characteristics. Column (2) adds COVID-19
+mortality factor (Risk) and state COVID-19 exposure. Column (3) and (4) interacts the risk factor and states’ COVID-19
+exposure with occupation characteristics. Finally, (5) adds states, occupation and industries fixed effects. Standard errors from multi-way clustering at the state and occupation level in parentheses. Statistical significance level: * p<0.1; **
+p<0.05; *** p<0.01
+
+21
+
+Table II: Decomposition: Recently Unemployed
+
+22
+
+Male/Female
+Estimate
+Share
+(1)
+(2)
+
+Non-hispanic/Hispanic
+Estimate
+Share
+(3)
+(4)
+
+White/Black
+Estimate
+Share
+(5)
+(6)
+
+Older/Younger
+Estimate
+Share
+(7)
+(8)
+
+HS/non-HS
+Estimate
+Share
+(9)
+(10)
+
+Coll/non-Coll
+Estimate
+Share
+(11)
+(12)
+
+Raw Gap
+
+-0.0249
+
+100.00%
+
+-0.0444
+
+100.00%
+
+-0.0884
+
+100.00%
+
+-0.0203
+
+100.00%
+
+-0.0832
+
+100.00%
+
+Explained
+Socio-demographic
+Children under 6
+FacetoFace
+Remote Work
+Essential
+State
+Unexplained
+
+0.0068
+0.0034
+-0.0001
+-0.0030
+0.0142
+-0.0075
+-0.0002
+-0.0317
+
+-27.11% -0.0243
+-13.78% -0.0080
+0.41%
+0.0003
+12.18%
+0.0005
+-56.98% -0.0237
+30.25%
+0.0052
+0.81%
+0.0014
+127.11% -0.0201
+
+54.72%
+17.99%
+-0.69%
+-1.06%
+53.30%
+-11.70%
+-3.11%
+45.28%
+
+-0.0425
+-0.0181
+-0.0039
+-0.0020
+-0.0202
+0.0014
+0.0003
+-0.0459
+
+48.07%
+20.43%
+4.36%
+2.30%
+22.90%
+-1.54%
+-0.38%
+51.93%
+
+-0.0159
+-0.0030
+0.0008
+0.0026
+-0.0285
+0.0052
+0.0071
+-0.0044
+
+78.30%
+14.59%
+-3.72%
+-12.80%
+140.61%
+-25.60%
+-34.78%
+21.70%
+
+-0.0414
+-0.0018
+-0.0005
+-0.0008
+-0.0507
+0.0118
+0.0006
+-0.0418
+
+49.80%
+2.18%
+0.60%
+0.92%
+60.96%
+-14.16%
+-0.70%
+50.20%
+
+Explained
+Socio-demographic
+Children under 6
+All Occupations
+Essential
+State
+Unexplained
+
+-0.0127
+0.0021
+0.0000
+-0.0084
+-0.0061
+-0.0003
+-0.0122
+
+50.89%
+-8.63%
+0.12%
+33.84%
+24.44%
+1.11%
+49.11%
+
+-0.0251
+-0.0043
+0.0001
+-0.0290
+0.0042
+0.0039
+-0.0193
+
+56.50%
+9.64%
+-0.21%
+65.21%
+-9.45%
+-8.69%
+43.50%
+
+-0.0516
+-0.0100
+-0.0018
+-0.0411
+0.0013
+-0.0001
+-0.0367
+
+58.43%
+11.29%
+1.99%
+46.53%
+-1.52%
+0.13%
+41.57%
+
+-0.0190
+-0.0050
+0.0005
+-0.0258
+0.0037
+0.0077
+-0.0013
+
+93.52%
+24.82%
+-2.23%
+127.06%
+-18.39%
+-37.75%
+6.48%
+
+-0.0589
+-0.0029
+-0.0003
+-0.0666
+0.0107
+0.0002
+-0.0244
+
+70.72%
+3.53%
+0.31%
+79.97%
+-12.80%
+-0.29%
+29.28%
+
+Explained
+Socio-demographic
+Children under 6
+All Occupations
+Industry-Essential
+Industry-nonEssential
+State
+Unexplained
+
+-0.0166
+0.0018
+0.0000
+-0.0095
+0.0062
+-0.0168
+-0.0002
+-0.0083
+
+66.75%
+-7.14%
+0.17%
+38.25%
+-24.76%
+67.52%
+0.95%
+33.25%
+
+-0.0276
+-0.0032
+0.0001
+-0.0197
+-0.0122
+0.0027
+0.0041
+-0.0169
+
+62.01%
+7.28%
+-0.28%
+44.27%
+27.40%
+-6.07%
+-9.30%
+37.99%
+
+-0.0161 100.00%
+Model A
+-0.0134 82.98%
+-0.0069 42.87%
+0.0000
+-0.08%
+-0.0020 12.37%
+-0.0096 59.76%
+0.0033
+-20.19%
+0.0019
+-11.75%
+-0.0027 16.77%
+Model B
+-0.0066 40.85%
+-0.0035 21.63%
+0.0000
+-0.03%
+-0.0080 49.78%
+0.0026
+-16.25%
+0.0023
+-14.28%
+-0.0095 59.15%
+Model C
+-0.0055 34.39%
+-0.0029 17.81%
+0.0000
+-0.04%
+-0.0087 54.18%
+-0.0014 8.48%
+0.0034
+-21.08%
+0.0023
+-14.43%
+-0.0106 65.61%
+
+-0.0567
+-0.0083
+-0.0018
+-0.0353
+-0.0074
+-0.0048
+-0.0004
+-0.0317
+
+64.14%
+9.43%
+2.09%
+39.97%
+8.39%
+5.43%
+0.41%
+35.86%
+
+-0.0229
+-0.0049
+0.0006
+-0.0189
+-0.0132
+0.0064
+0.0075
+0.0026
+
+112.82% -0.0607
+24.32%
+-0.0029
+-2.75%
+-0.0003
+93.13%
+-0.0455
+65.34%
+-0.0183
+-31.62% 0.0036
+-37.11% 0.0003
+-12.82% -0.0225
+
+72.94%
+3.45%
+0.32%
+54.65%
+21.93%
+-4.28%
+-0.31%
+27.06%
+
+Notes: This table show Oaxaca decomposition of gap in the proportion of workers recently unemployed. Entries in bold are statistically significant at the 5% level. Model A includes two indexes
+describing occupational characteristics: the Face-to-Face index and Remote Working index. Model B includes a full set of 524 occupation dummies. Model C includes a full set of 524 occupation
+dummies and 261 industry dummies. All models include basic socio-demographic controls, including age, age squared, gender, race, ethnicity, education, and state fixed effects. All regressions use
+CPS sample weights. In Model B and C, we reported the aggregated shares of explanation by the 524 occupations, while we list the shares of explanation by five occupation categories in the appedix,
+see Table I.4. For Model C, we report the shares of explanation of industries in two groups: essential industry and non-essential industry.
+
+8
+8.1
+
+Appendix
+Employment Rates Over Time
+Figure H.1: BLS Employment Series (Seasonally Adjusted)
+
+Note: The Figure presents the seasonally adjusted series for All Employees in non-farm jobs (millions). The shaded
+areas represent recessions; see Section 4. The figure implies that jobs lost during April exceed jobs lost in either of the
+two previous recessions.
+
+Figure H.1 shows the path of seasonally-adjusted non-farm employment between March 2000
+and April 2020. The shaded areas indicate the 2001 Recession (March 2001 to November 2001),
+the Great Recession (December 2007 to June 2009), and the COVID-19 Recession through the
+week of April 12, 2020. Even by mid-April, the employment decline from COVID-19 had already
+dwarfed the entire employment loss from peak-to-trough of the Great Recession. It also shows
+how rapidly employment declined in the COVID-19 epidemic.
+
+App. 1
+
+Figure H.2
+
+Note: Employment Change is computed as the February employment rate minus the April rate. Recently Unemployed
+is reported only from the April CPS. The change in employment is computed excluding workers who are employed
+but absent from work. The panel on recent unemployed in April 2020 has been produced selecting on the same sample
+used in the models shown in Table I.
+
+Figure H.2 shows that the incidence of recent unemployment across demographic groups is
+very similar to month-over-month changes from February to April in the employment-to-population
+ratio. The left panel of Figure H.2 shows the average change in employment rates from February
+2020 to April 2020 by demographic sub-population. The right panel shows the fraction of labor
+force participants who became unemployed recently as of the April CPS reference week.
+The figure shows that changes in employment and recent unemployment rates convey similar
+information. Both employment outcomes are worse for younger workers, less educated workers,
+Hispanics, females, and workers with own children in the household. Given the similarity between
+the two measures, we focus on recent unemployment.
+
+App. 2
+
+8.2
+
+CPS Response Rates During the Epidemic
+
+It is possible that survey response rates may have have varied across the first four months of 2020,
+and especially in March and April 2020, given the widespread disruption associated with the epidemic. Figure H.3 shows the mean monthly response rates to the basic monthly CPS over the past
+five years to give a sense of how the epidemic has affected the availability and quality of data on
+labor market outcomes in the United States. We see that, while the response rates were already
+dropping over time, they plummet in March and April 2020, from about 0.86 to less than 0.79.
+Such drop is unprecedented considering the last years of data.
+Figure H.4 shows which of the 8 CPS rotation groups responded the least in March and April
+2020, when the COVID-19 and its social distancing policies came about. For comparison purposes,
+we also report the average nonresponse rates for the previous period, comprised of January and
+February 2020. The bar chart reports the non-response rates by each rotation group on the three
+months and facilitates the identification of changes in non-response rates between the pre- and
+post- COVID-19 outbreak. In order to control for drops in response rates across rotation groups
+that regularly happen regardless of the epidemic, we include non-response rates by rotation group
+in January 2020. Changes in non-response rates between January and February of 2020 can be
+considered as patterns that happen regularly over the rotation groups, and so, in case we observe
+similar trends between February and March, such trends cannot be attributed to the epidemic.
+Figure H.4 exhibits a sharp increase in non-response rates between either January and February
+2020, and the outbreak month, March 2020. A further, less substantial increase in non-response
+happens in between March and April, although this occurs only for the first two rotation groups.
+Non-response rates increase between the pre- and post-outbreak months disproportionately among
+the first rotation group, the one that is first entering the CPS monthly survey. Thus, while there
+seems to be increased non-response across the board, the responses to the surveys dropped the
+most for respondents who were about to start their rotations.
+However, the increase in non-response rates could be derived from two different sources. On
+the one hand, it is possible that Census Bureau Interviewers are less able to carry out interviews,
+especially those in person. This was indeed the case for March 2020, as the Census Bureau U.S.
+Bureau of Labor Statistics (2020b) explains. In fact, households in their first or fifth CPS rotation are usually interviewed via a personal visit. For safety reasons, in person interviews were
+suspended five days in the interviewing process, and replaced by telephone interviews. Data collection occurred only via telephone interviews in April 2020. Telephone interviews, rather than in
+person meetings, might have contributed to the sharp decrease in response rates of the first rotation. On the other hand, it is possible that the COVID-19 outbreak made it harder for respondents
+in their first rotation to complete the survey. This could be due to the general disruption and reorganization occurring during the interview period and caused by the outbreak and its containment
+measures.
+Understanding the reasons behind the CPS response rate drop is crucial in order to draw conclusions on the data quality. In fact, should the non-response be driven by non-random factors
+that are correlated to the changes in employment outcomes in March 2020, we could interpret our
+findings as conservative or as upper bounds of the true effects, depending on the direction of the
+sample bias.
+In order to collect preliminary evidence on that, we use demographic information from responApp. 3
+
+Figure H.3: CPS Response Rates over Time
+
+dents in February 2020 and impute them for the same individuals in March, provided that they
+did not respond to the March CPS. To do that, we use information on the rotation groups to infer
+whether the same individual responding in February is expected to belong to the March CPS as
+well. At this stage we do not infer information on April non respondents, as the most substantial
+boost in non response happened between March and April. We dropped fourth and eight monthsin-sample in February, and the first and fifth months in sample in March. As a result, we obtain
+a sample where all the respondents in the March CPS are expected to participate to the February CPS, and vice-versa. We match these individuals according to the appropriate CPS person
+identifiers, namely HRHHID1, HRHHID2 and PULINENO, as suggested on Census (2004). Finally, we impute basic quasi-immutable socio-demographics information into the sample of March
+non-respondents only for those individuals that did respond in February. In other words, for the
+individuals that did not respond to the survey in March, we go back to February to see if they
+responded then and, if so, we impute their socio-demographics in March.
+Table H.1 shows the number of individuals that we expected to find in the March CPS (N),
+those that actually responded, the number of non-respondents and, in the last column, the number
+of observations for which we manged to impute information. For example, for the second monthin-sample, if there was a full response, we should have had 16,290 individuals in our sample.
+However, only 13,056 responded, while the remaining 3,234 are missing from the March sample.
+Out of these 3,234, we were able to retrieve information from February for 2,183 of them. We
+could not impute any information on the first and fifth months-in-sample as these respondents
+were not part of the survey in February.
+We then investigated whether the socio-demographics of the imputed sample differed from
+
+App. 4
+
+Figure H.4: Nonresponse Rates by CPS Rotation Group
+
+those of the respondents. Table H.2 reports the results from a balancing analysis that shows the
+mean and its standard error of some socio-demographics for the sample of respondents and the
+sample of non-respondents that we managed to rescue through our imputation process. Although
+the imputed sample and the sample of respondents are similar across several dimensions, there are
+some important differences. The imputed sample is on average younger, more racially diverse,
+more Hispanic, and less educated.
+This analysis gives us reasons to think that, while the increase in the March non-response is
+partly due to changes in the collection methods, it is possible that the non-response is also moderately driven by non random factors. In fact, the imputed sample is disproportionately composed
+of the subgroups whose employment outcomes were particularly hit by the outbreak. Overall, we
+should interpret the findings of analysis that use the March CPS with caution. Moreover, further
+analysis is needed to understand more precisely the source of the sample bias, and how to control
+for it when using CPS data collected during the COVID-19 outbreak.
+
+App. 5
+
+Table H.1: Counts on Non-Respondents and Imputed Observations
+March 2020 CPS
+Total
+Month-In-Sample
+
+N
+
+1
+2
+3
+4
+5
+6
+7
+8
+
+14,923
+16,290
+16,690
+16,391
+16,445
+16,892
+16,717
+17,230
+
+Responded
+
+Non-Respondent
+
+10,084
+13,056
+13,532
+13,532
+12,744
+13,705
+13,638
+14,364
+
+4,839
+3,234
+2,935
+2,859
+3,701
+3,187
+3,079
+2,866
+
+Imputed
+2,183
+1,827
+1,905
+1,755
+1,845
+1,611
+
+Total
+131,578
+104,655
+26,700
+11,126
+The number of imputed observations is a share of the number of non-respondents.
+
+Table H.2: Summary Statistics: Response to CPS
+
+Age
+White
+African American
+Other Race
+Female
+Hispanic
+Less than High School
+High School Degree
+Some College
+Degree
+Young Child
+Child at least 14 yo
+Presence of Children
+Presence of 1 Child
+Presence of 2 Children
+Presence of 3 Children
+Presence of 4+ Children
+
+Did not Respond in March
+
+Responded in March
+
+Mean SE
+N
+11,126 35.553 0.205
+11,126 0.763
+0.004
+11,126 0.132
+0.003
+11,126 0.132
+0.003
+11,126 0.516
+0.005
+11,126 0.216
+0.004
+11,126 0.328
+0.004
+11,126 0.255
+0.004
+11,126 0.132
+0.003
+11,126 0.253
+0.004
+11,126 0.097
+0.003
+11,126 0.114
+0.003
+11,126 0.211
+0.004
+11,126 0.094
+0.003
+11,126 0.074
+0.002
+11,126
+0.03
+0.002
+11,126 0.013
+0.001
+
+N
+Mean SE
+104,878 41.044 0.072
+104,878 0.803
+0.001
+104,878 0.102
+0.001
+104,878 0.102
+0.001
+104,878 0.514
+0.002
+104,878
+0.14
+0.001
+104,878 0.284
+0.001
+104,878 0.222
+0.001
+104,878 0.137
+0.001
+104,878
+0.32
+0.001
+104,878 0.083
+0.001
+104,878 0.108
+0.001
+104,878 0.191
+0.001
+104,878
+0.08
+0.001
+104,878 0.072
+0.001
+104,878 0.027
+0.001
+104,878 0.012
+0
+
+Weights for the nonresponse sample use imputed weights from February, 2020.
+The computation of the descriptive statistics applies weights. SE is the standard error of the mean.
+
+App. 6
+
+9
+
+Additional Tables and Figures
+Table I.1: O*Net Index related Questions
+Index
+
+O*Net Items
+How often do you have face-to-face discussions with individuals or teams in this job?
+
+Face To Face
+
+To what extent does this job require the worker to perform job tasks in close physical proximity to other
+people?
+How often do you use electronic mail in this job?
+
+Remote Work
+
+How often does the job require written letters and memos?
+How often do you have telephone conversations in this job?
+
+Note: The O*Net “Work Context“ module (2019 version: available www.onetcenter.org) reports summary measures
+from worker surveys of the tasks involved in 968 occupations using the Standard Occupation Code, 2010 version).
+The questions use a 1-5 scale, where 1 indicates rare/not important. We developed three indices: (1) Face-to-Face
+interactions, (2) the potential for Remote Work, and (3) the extent to which work occurs Outside the Home using these
+variables. The value of each index for an occupation is a simple average O*Net questions listed in the table.
+
+App. 7
+
+Table I.2: Industry Sectors and Categories defined as Essential
+Sector
+11
+21
+22
+23
+31-33
+
+Sector Name
+Agriculture, Forestry, Fishing and
+Hunting
+Mining, Quarrying, and Oil and Gas
+Extraction
+Utilities
+
+Examples
+Crop production; Animal production; Forestry; Logging; Fishing, Hunting and trapping; Agriculture and forestry support
+activities
+Oil and gas extraction; Coal mining; Metal ore mining; Nonmetallic mineral mining and quarrying; Not specified mining;
+Mining support activities
+Electric power generation, transmission and distribution; Natural gas distribution; Electric and gas, and other combinations; Water, steam, air-conditioning, and irrigation,; Sewage; Other not specified
+
+Construction
+Manufacturing
+
+All in construction
+
+Wholesale Trade
+
+Paper; Machinery and equipment; Hardware; Household appliances; Lumber and construction; Grocery and related
+products; Drugs; sundries and chemical and allied products; Farm product raw material; Petroleum products; Alcoholic
+beverages; Farm supplies; other non-durable goods; electronic markets, agents and brokers.
+
+44-45
+
+Retail Trade
+
+Automotive parts and accessories; Electronics; Building materials; Lawn and garden equipment; Grocery stores; Supermarkets; Convenience stores; Specialty food stores; Beer, wine and liquor stores; Pharmacies and drug stores; Health and
+personal care stores; Gas stations; General merchandise stores; Electronic shopping and mail-order houses; Fuel dealers.
+
+48-49
+
+Transportation and Warehousing
+
+Air, Rail T., Water, Truck, Transportation; Bus service and urban transit; Taxis; Pipeline transportation; Services incidental to transportation; Postal Service; Couriers; Warehousing and storage.
+
+51
+
+Information
+
+Newspapers, periodicals, book and directory publishers; Software publishers; Broadcasting; Internet publishing and
+broadcasting; Wired telecommunication carriers; Telecomm.; Data processing, hosting and related; Other information
+services, except libraries and archives.
+
+52
+
+Finance and Insurance
+
+Banking; Saving institutions; Credit Unions; Non-depository credit activities; Securities, commodities, funds, trusts;
+Other financial investments, Insurance carriers.
+
+53
+54
+
+Real Estate and Rental and Leasing
+Professional, Scientific, and Technical Services
+Admin. & Waste Manag. Services
+Health Care and Social Assistance
+
+Real State; Lessors, agents brokers; Property managers; Appraisers offices; Other related.
+
+Accommodation and Food Services
+Other Services (except Public Administration)
+Public Administration
+
+Traveler accomodation; Restaurants and other food services.
+
+42
+
+App. 8
+
+56
+62
+72
+81
+92
+
+All Food manufacturing; All Animal food manufacturing; Industries: All in Paper related; Petroleum; Rubber & Tires;
+Pharma; Plastics; Chemicals; Pottery and ceramics; Cement; Glass; Iron; Aluminum; Nonferrous metal; Foundries;
+Forgings; Cutlery; Coating; All machinery and equipment manufacturing; Household appliance manufacturing; Motor vehicles & parts; Aircraft & parts; Railroad; Ship and boats; other transportation; Sawmills; Wood manufacturing;
+Medical Supplies.
+
+Accounting, tax preparation, bookkeeping and payroll services; Management, scientific and technical consulting services;
+Scientific research and development; Veterinary
+Security and investigation; Services to buildings; ladscaping; waste management and remediation
+Physicians, dentists, chiropractors, optometrists, other; Outpatient care centers; Home health care services; Other health
+care; Hospitals; Psychiatric and substance abuse hospitals; Nursing care facilities; Residential care facilities; Individual
+and family services; Child day care.
+Automotive repair and maintenance; Machinery and equipment repair and maintenance; Funeral homes, cemeteries and
+crematories.
+All in Public Administration.
+
+Note: Following Blau et al. (2020) and Census NAICS 2017 Industry Descriptions, we coded the DHS essential workforce definition. The table is presented for reference using consolidated
+4-digit industry categories for brevity and do not necessarily match NAICS complete names. Three sectors are not listed as subcategories do not classified as essential: Education Services;
+Arts, Entertainment and Recreation and Management of Companies and Enterprises. 194 categories out of 287 at the 4 digit level are declared as jobs in Essential by the DHS. Available
+at: www.cisa.gov.
+
+9.1
+
+Additional Labor Outcomes
+
+App. 9
+
+Table I.3: Cross-Sectional Models: Employed - Absent
+Dependent = Employed-Absent
+April Mean = 0.073; Std.Dev = 0.26
+Face-to-Face
+Remote Work
+Essential
+
+(1)
+
+(2)
+
+(3)
+
+(4)
+
+0.015∗∗∗
+(0.004)
+-0.014∗∗∗
+(0.003)
+-0.033∗∗∗
+(0.007)
+
+0.015∗∗∗
+(0.004)
+-0.014∗∗∗
+(0.003)
+-0.033∗∗∗
+(0.007)
+0.007
+(0.007)
+
+0.016∗∗∗
+(0.004)
+-0.013∗∗∗
+(0.004)
+-0.035∗∗∗
+(0.007)
+0.014
+(0.008)
+0.002
+(0.003)
+0.004
+(0.004)
+-0.008
+(0.005)
+0.013∗∗∗
+(0.003)
+
+0.038∗∗∗
+(0.008)
+0.000
+(0.006)
+0.009∗
+(0.005)
+0.002
+(0.005)
+-0.005
+(0.009)
+-0.193∗∗
+(0.078)
+0.315∗∗∗
+(0.089)
+-0.008
+(0.009)
+-0.007
+(0.004)
+-0.025∗∗∗
+(0.005)
+-0.047∗∗∗
+(0.008)
+-0.010
+(0.007)
+0.009∗∗∗
+(0.002)
+-0.007
+(0.040)
+
+0.038∗∗∗
+(0.008)
+0.001
+(0.006)
+0.010∗∗
+(0.004)
+0.000
+(0.006)
+-0.004
+(0.009)
+-0.112
+(0.091)
+0.205∗
+(0.116)
+-0.007
+(0.009)
+-0.006
+(0.005)
+-0.026∗∗∗
+(0.004)
+-0.049∗∗∗
+(0.008)
+-0.007
+(0.007)
+-0.004
+(0.003)
+0.069
+(0.046)
+
+0.038∗∗∗
+(0.008)
+0.001
+(0.006)
+0.010∗∗
+(0.004)
+0.000
+(0.006)
+-0.004
+(0.009)
+-0.096
+(0.091)
+0.184
+(0.116)
+-0.007
+(0.009)
+-0.006
+(0.005)
+-0.026∗∗∗
+(0.004)
+-0.049∗∗∗
+(0.008)
+-0.007
+(0.007)
+-0.004
+(0.003)
+0.068
+(0.046)
+
+0.005
+(0.013)
+0.018∗∗
+(0.008)
+-0.028
+(0.024)
+0.014
+(0.008)
+0.002
+(0.003)
+0.004
+(0.004)
+-0.008
+(0.006)
+0.014∗∗∗
+(0.004)
+0.001
+(0.002)
+-0.003∗∗∗
+(0.001)
+-0.001
+(0.003)
+0.038∗∗∗
+(0.008)
+0.000
+(0.006)
+0.010∗∗
+(0.005)
+0.000
+(0.006)
+-0.004
+(0.009)
+-0.101
+(0.091)
+0.189
+(0.116)
+-0.007
+(0.009)
+-0.006
+(0.005)
+-0.025∗∗∗
+(0.005)
+-0.049∗∗∗
+(0.008)
+-0.006
+(0.007)
+-0.004
+(0.004)
+0.065
+(0.046)
+
+45,716
+0.019
+
+45,716
+0.021
+
+45,716
+0.021
+
+45,716
+0.021
+
+Mortality Risk Index
+Risk x Face-to-Face
+Risk x Remote Work
+Risk x Essential
+
+0.013∗∗∗
+(0.003)
+
+Ln(COVID cases in State)
+Ln(COVID cases) x Face-to-Face
+Ln(COVID cases) x Remote
+Ln(COVID cases) x Essential
+Fem x Child-U6
+Child under 6
+Female
+Afro-American
+Hispanic
+Age/100
+(Age/100)2
+Less-than HS
+Some College
+BA/AD Degree
+Post-graduate Degree
+Metropolitan
+Ln(State Population)
+Constant
+State + Occup. + Industry F.E.
+N
+R2
+
+(5)
+
+0.014∗
+(0.008)
+0.002
+(0.003)
+0.002
+(0.003)
+-0.011∗∗
+(0.005)
+
+0.001
+(0.002)
+-0.002∗∗
+(0.001)
+-0.001
+(0.003)
+0.036∗∗∗
+(0.007)
+0.002
+(0.006)
+0.003
+(0.004)
+0.004
+(0.005)
+-0.007
+(0.008)
+-0.094
+(0.095)
+0.187
+(0.118)
+-0.011
+(0.010)
+-0.005
+(0.005)
+-0.016∗∗∗
+(0.005)
+-0.029∗∗∗
+(0.008)
+-0.001
+(0.007)
+0.098∗∗∗
+(0.026)
+X
+45,709
+0.075
+
+Notes: Coefficients for Equation 1 using April 2020 CPS Data for individuals on the labor force and recent
+unemployment as dependent. Column (1) includes socio-demographic and job tasks’ characteristics. Column (2) adds COVID-19 mortality factor (Risk) and state COVID-19 exposure. Column (3) and (4) interacts
+the risk factor and states’ COVID-19 exposure with occupation characteristics. Finally, (5) adds states, occupation and industries fixed effects. Standard errors from multi-way clustering at the state and occupation
+level in parentheses. Statistical significance level: * p<0.1; ** p<0.05; *** p<0.01
+
+App. 10
+
+Table I.4: Decomposition: Shares of Five Occupation Groups
+Male/Female
+Estimate
+Share
+(1)
+(2)
+
+Non-hispanic/Hispanic
+Estimate
+Share
+(3)
+(4)
+
+White/Black
+Estimate
+Share
+(5)
+(6)
+
+Older/Younger
+Estimate
+Share
+(7)
+(8)
+
+Raw Gap
+
+-0.0249
+
+100.00%
+
+-0.0444
+
+100.00%
+
+Mgmt/Tech/Arts
+Service
+Sales/Office
+Constr/Nat. Res.
+Prod./Trans.
+
+-0.0070
+-0.0176
+-0.0086
+0.0148
+0.0100
+
+28.02%
+70.51%
+34.67%
+-59.19%
+-40.18%
+
+0.0031
+-0.0160
+-0.0013
+-0.0103
+-0.0046
+
+-7.07%
+35.98%
+2.84%
+23.19%
+10.27%
+
+Mgmt/Tech/Arts
+Service
+Sales/Office
+Constr/Nat. Res.
+Prod./Trans.
+
+-0.0083
+-0.0144
+-0.0078
+0.0124
+0.0086
+
+33.22%
+57.96%
+31.17%
+-49.72%
+-34.38%
+
+0.0057
+-0.0106
+-0.0009
+-0.0094
+-0.0044
+
+-12.77%
+23.89%
+2.07%
+21.08%
+10.00%
+
+-0.0161 100.00% -0.0884
+Model B
+0.0024
+-14.83% 0.0009
+-0.0061 38.06%
+-0.0286
+-0.0015 9.54%
+-0.0127
+0.0046
+-28.27% 0.0004
+-0.0073 45.27%
+-0.0012
+Model C
+0.0020
+-12.37% 0.0048
+-0.0062 38.77%
+-0.0278
+-0.0017 10.64%
+-0.0101
+0.0039
+-24.36% 0.0002
+-0.0067 41.50%
+-0.0024
+
+HS/non-HS
+Estimate
+Share
+(9)
+(10)
+
+Coll/non-Coll
+Estimate
+Share
+(11)
+(12)
+
+100.00%
+
+-0.0203
+
+100.00%
+
+-0.0832
+
+100.00%
+
+-0.98%
+32.33%
+14.33%
+-0.47%
+1.32%
+
+0.0060
+-0.0174
+0.0109
+-0.0193
+-0.0060
+
+-29.77%
+85.71%
+-53.85%
+95.38%
+29.59%
+
+0.0069
+-0.0335
+-0.0075
+-0.0134
+-0.0191
+
+-8.28%
+40.21%
+8.97%
+16.14%
+22.93%
+
+-5.40%
+31.43%
+11.42%
+-0.18%
+2.71%
+
+0.0083
+-0.0136
+0.0128
+-0.0195
+-0.0069
+
+-41.06%
+67.12%
+-62.96%
+96.24%
+33.79%
+
+0.0122
+-0.0235
+-0.0060
+-0.0112
+-0.0169
+
+-14.62%
+28.24%
+7.20%
+13.51%
+20.31%
+
+App. 11
+
+Notes: This table show the five occupation categories shares of explanation of the Oaxaca decomposition of Model B and Model C in Table II. Entries in bold are statistically significant at the
+5% level.
+
+Figure I.1: Oaxaca-Blinder Decomposition: A Graphical Representation
+Model A
+
+Model B
+
+App. 12
+
+Model C
+
+Note: The three figures are the graphical representation of the Oaxaca decomposition estimates shown in Table II and obtained through the three different
+models. All the decomposition models include socio-demographic controls (i.e. age, gender, race, ethnicity, and education), state fixed effects, and a dummy
+for the presence of children under 6. Model A includes the Face-to-Face, Remote Work, and Essential Job indices. Model B adds a full set of 524 occupation
+dummies. Model C includes a full set of 261 industry dummies, and report the share of each gap explained by sorting into industries classified as Essential vs
+Non-essential. Each shaded area represents the share that is, depending on the color, explained by the different sets of variables reported in the legend.
+
+

@@ -1,0 +1,1475 @@
+Journal of Applied Psychology
+© 2020 American Psychological Association
+ISSN: 0021-9010
+
+2020, Vol. 105, No. 9, 931–943
+http://dx.doi.org/10.1037/apl0000655
+
+This document is copyrighted by the American Psychological Association or one of its allied publishers.
+This article is intended solely for the personal use of the individual user and is not to be disseminated broadly.
+
+Getting Back to the “New Normal”: Autonomy Restoration During a
+Global Pandemic
+Eric M. Anicich
+
+Trevor A. Foulk
+
+University of Southern California
+
+University of Maryland, College Park
+
+Merrick R. Osborne
+
+Jake Gale
+
+University of Southern California
+
+University of Florida
+
+Michael Schaerer
+Singapore Management University
+We investigate the psychological recovery process of full-time employees during the 2-week period at the
+onset of the Coronavirus pandemic (COVID-19). Past research suggests that recovery processes start
+after stressors abate and can take months or years to unfold. In contrast, we build on autonomy restoration
+theory to suggest that recovery of impaired autonomy starts immediately even as a stressor is ongoing.
+Using growth curve modeling, we examined the temporal trajectories of two manifestations of impaired
+autonomy—powerlessness and (lack of) authenticity—to test whether recovery began as the pandemic
+unfolded. We tested our predictions using a unique experience-sampling dataset collected over a 2-week
+period beginning on the Monday after COVID-19 was declared a “global pandemic” by the World Health
+Organization and a “national emergency” by the U.S. Government (March 16 –27, 2020). Results suggest
+that autonomy restoration was activated even as the pandemic worsened. Employees reported decreasing
+powerlessness and increasing authenticity during this period, despite their subjective stress-levels not
+improving. Further, the trajectories of recovery for both powerlessness and authenticity were steeper for
+employees higher (vs. lower) in neuroticism, a personality characteristic central to stress reactions.
+Importantly, these patterns do not emerge in a second experience-sampling study collected prior to the
+COVID-19 crisis (September 9 –20, 2019), highlighting how the pandemic initially threatened employee
+autonomy, but also how employees began to recover their sense of autonomy almost immediately. The
+present research provides novel insights into employee well-being during the COVID-19 pandemic and
+suggests that psychological recovery can begin during a stressful experience.
+Keywords: autonomy, psychological recovery, stress, neuroticism, COVID-19
+
+dollars in government-sponsored economic stimulus aimed at stabilizing the reeling economy after entire industries have come to a halt.
+Consequently, nearly all employees have had to abruptly embrace
+fundamental changes to their work routines. In a recent survey of U.S.
+workers, 69% indicated that COVID-19 was the most stressful time of
+their entire professional careers (Glass, 2020).
+Stressful circumstances like the COVID-19 crisis can damage
+employees’ well-being in general (for a review, see Bliese, Edwards,
+& Sonnentag, 2017) but can be specifically harmful to employees’
+sense of autonomy (Deci & Ryan, 2008; Ryan & Deci, 2000, 2017).
+Indeed, the uncontrollability of one’s economic future (e.g., layoffs,
+furloughs), looming threats to physical health (e.g., infection risk,
+inadequacy of medical resources), constraints on physical movement
+(e.g., stay at home orders, social distancing), and mandatory telecommuting arrangements all serve to threaten employees’ sense of autonomy. Furthermore, although prior work has shown that voluntary
+telecommuting can have positive outcomes for employees (Gajendran
+& Harrison, 2007), this work also recognizes that mandatory tele-
+
+The COVID-19 pandemic is already considered a generationdefining public health and economic crisis, the full consequences of
+which will likely take years to be fully realized. Globally, there are
+over 10 million confirmed COVID-19 cases and more than 500,000
+deaths (Dong, Du, & Gardner, 2020),1 whereas in the United States,
+the pandemic has led to record unemployment rates and trillions of
+
+This article was published Online First August 27, 2020.
+X Eric M. Anicich, Department of Management and Organization, Marshall School of Business, University of Southern California; Trevor A. Foulk,
+Department of Management and Organization, Robert H. Smith School of
+Business, University of Maryland, College Park; Merrick R. Osborne, Department of Management and Organization, Marshall School of Business, University of Southern California; Jake Gale, Department of Management, Warrington College of Business, University of Florida; Michael Schaerer,
+Department of Organisational Behaviour and Human Resources, Lee Kong
+Chian School of Business, Singapore Management University.
+Correspondence concerning this article should be addressed to Eric M.
+Anicich, Department of Management and Organization, Marshall School of Business, University of Southern California, Hoffman Hall 431, 3670 Trousdale Parkway, Los Angeles, CA 90089. E-mail: anicich@marshall.usc.edu
+
+1
+
+931
+
+As of June 29, 2020.
+
+This document is copyrighted by the American Psychological Association or one of its allied publishers.
+This article is intended solely for the personal use of the individual user and is not to be disseminated broadly.
+
+932
+
+ANICICH, FOULK, OSBORNE, GALE, AND SCHAERER
+
+commuting can have detrimental effects on employees (Lapierre, Van
+Steenbergen, Peeters, & Kluwer, 2016). Thus, determining if employees recover their sense of autonomy, over what time period, and
+which employees are better/worse equipped to recover, is crucial for
+understanding the impact of COVID-19 because “being able to satisfy
+the need for autonomy is essential” for employees to flourish (Deci &
+Ryan, 2000, p. 242).
+To examine these questions, we conducted a 10-day experiencesampling (ESM) study involving working professionals from a
+variety of organizations who were thrust into a stressful state
+during the initial days of the COVID-19 pandemic. Our data
+collection window (March 16 –27, 2020) was uniquely positioned
+to observe employees’ experiences in the early stages of the
+pandemic as our first daily survey started almost immediately after
+the U.S. President declared the pandemic a “national emergency”
+(March 13), the U.S. Government issued formal stay-at-home and
+social distancing guidelines (March 16), and the Dow Jones Index
+recorded its largest point drop in history (March 16; see Figure 1).
+Focusing on this unique time period provides novel insights into
+how employees recover their autonomy from stressful and traumatic events. Although prior work largely focuses on recovery
+after stressors have ended and generally conceptualizes recovery
+as a long-term process, our model predicts and finds that employees begin to recover their sense of autonomy (indicated as reduced
+powerlessness and increased authenticity) immediately following
+the onset of a stressor, even while the stressor is ongoing. In
+supplemental analyses, we examine the moderating role of neuroticism and show that although employees higher (vs. lower) in
+neuroticism have more extreme initial negative reactions to the
+pandemic, consistent with the person-environment fit theory of job
+stress (Camacho, Higgins, & Luger, 2003; French, Caplan, &
+
+Harrison, 1982; Shah, Higgins, & Friedman, 1998), they recover
+their autonomy at a faster rate.
+
+Theory and Hypotheses
+Past work seeking to understand how people recover from
+stressful or traumatic events has demonstrated that human beings
+are remarkably resilient in the face of stress, as they are equipped
+with psychological tools that facilitate recovery (Bonanno, 2004;
+Gilbert, Pinel, Wilson, Blumberg, & Wheatley, 1998; Martin,
+1917). However, past work on psychological recovery is illequipped to explain how employees react to and recover from
+sudden and ongoing stressors such as the COVID-19 pandemic for
+several reasons.
+First, the majority of work studying recovery after traumas
+documents a recovery process after the stressor has abated (Bonanno, Field, Kovacevic, & Kaltman, 2002; Horgan & MacLachlan, 2004; Shepherd & Haynie, 2011; Updegraff & Taylor,
+2000), and even then, studies rarely begin assessing recovery
+processes until months or years after the end of the stressor
+(Norris, 2006). This research has provided valuable insights into
+recovery processes that occur after discrete stressor events end
+(Bonanno et al., 2002; Horgan & MacLachlan, 2004; Shepherd &
+Haynie, 2011; Updegraff & Taylor, 2000) and stressors that abate
+over time (Farber & Egeland, 1987; Masten & Gewirtz, 2006;
+Miller, Chen, & Zhou, 2007). However, not all stressors are
+experienced as less stressful over time. Some stressors (such as
+COVID-19) are characterized by both an immediate onset of acute
+stress (e.g., sudden work from home and social distancing orders)
+as well as a sustained or increasing level of chronic stress due to
+deteriorating circumstances (e.g., exponential increase in infec-
+
+Figure 1. Study timeline in the context of important COVID-19 events. Covid-19 cases and deaths (Johns
+Hopkins University), timeline (New York Times, ABC News, U.S.A. Today).
+
+This document is copyrighted by the American Psychological Association or one of its allied publishers.
+This article is intended solely for the personal use of the individual user and is not to be disseminated broadly.
+
+AUTONOMY RESTORATION DURING A GLOBAL PANDEMIC
+
+tions and deaths), but prior work is ill-equipped to speak to how
+employees may recover from such stressors. Speaking to this
+point, scholars have recognized that “undeniably, the field as a
+whole has not done very well in capturing the element of time”
+(Norris, 2006, p. 182). Building on autonomy restoration theory
+(Radel, Pelletier, Sarrazin, & Milyavskaya, 2011), we provide
+evidence that employees begin recovering immediately following
+the onset of a stressor, even while the stressor is ongoing.
+Second, our work departs from past work that has tended to
+conceptualize recovery as a slow process (Karstoft, Armour, Elklit,
+& Solomon, 2013; Lauterbach & Armour, 2016; Maslow et al.,
+2015). Indeed, prior work has primarily focused on long-term
+recovery assessed at infrequent intervals (for a review, see
+Galatzer-Levy, Huang, & Bonanno, 2018), indicating that recovery unfolds slowly, and that changes are observed over months and
+years. Our work, however, demonstrates that recovery is observable in as little as two weeks following the onset of a stressor. This
+is an important insight, as scholars have emphasized the need to
+better understand the way individuals “experience the crucial early
+weeks after an extreme stressor event” (Bonanno, 2005, p. 138).
+Finally, past work on recovery processes has prioritized studying indicators of psychological well-being that are relevant to
+diagnosing recognized mental disorders (e.g., PTSD, depression,
+anxiety, see Galatzer-Levy et al., 2018). Building on autonomy
+restoration theory (Radel et al., 2011), we focus on how employees
+recover indicators of autonomy (e.g., powerlessness, authenticity)
+and demonstrate that these indicators exhibit fundamentally different patterns of recovery compared to more commonly studied
+recovery outcomes. Overall, the current work offers novel insights
+into the nature and timing of the psychological recovery process
+that past work is unable to address.
+
+Autonomy Restoration During an Ongoing Crisis
+In the present work, we propose that when employees’ autonomy is threatened by an exogenous stressor (i.e., the COVID-19
+pandemic), they will immediately begin to restore their autonomy
+even as the stressor is ongoing and objectively intensifying. In
+developing our hypotheses, we build on autonomy restoration
+theory (Radel et al., 2011), which specifies that the need to restore
+one’s autonomy is so fundamental for employees that the process
+of restoring autonomy begins “immediately following the experience of an autonomy-depriving event” (Radel et al., 2011, p. 930).
+Autonomy is a multidimensional construct (Deci & Ryan, 2012), as
+it relates to both “issues of freedom and authenticity” (p. 2). Indeed,
+scholars have recently suggested that autonomy is comprised of “the
+need to experience one’s self as the author of one’s actions” as well
+as the need for the self “to be aligned with one’s personal values and
+goals” (Ryan & Ryan, 2019, p. 2). Here, we explore two manifestations of threatened autonomy—powerlessness (defined as lack of
+freedom from external constraints; Ashforth & Mael, 1989; De Cremer, Van Dick, & Murnighan, 2011; Mirowsky & Ross, 1983; Seeman, 1972), and reduced authenticity (defined as the belief that one’s
+“behaviors are authored by the self, internally caused, and reflect
+choice and self-expression”; McConnell et al., 2005, p. 3; Sheldon,
+Ryan, Rawsthorne, & Ilardi, 1997). Importantly, both power experiences (Smith & Hofmann, 2016) and authenticity (Lenton, Slabu, &
+Sedikides, 2016; Lopez & Rice, 2006; Sedikides, Slabu, Lenton, &
+Thomaes, 2017) exhibit substantial day-to-day variance, highlighting
+
+933
+
+the appropriateness of the experience sampling methodology used in
+the current work.
+Despite the existence of a vast literature highlighting the importance of autonomy as a fundamental psychological need, comparatively little work has examined how employees respond over time
+when confronted with threats to autonomy. According to autonomy
+restoration theory (Radel et al., 2011), unmet autonomy needs can
+generate a restorative motive whereby individuals react to autonomy
+threats by increasing their concern with and efforts to satisfy their
+autonomy needs. Specifically, when an individual is deprived of
+autonomy, the behavioral schema needed to restore autonomy becomes increasingly accessible (Aarts, Dijksterhuis, & De Vries, 2001;
+Seibt, Häfner, & Deutsch, 2007; Strack & Deutsch, 2004). For example, employees may respond to the experience of powerlessness by
+engaging in learning activities to extend their skills (e.g., learning how
+to use virtual conferencing software such as Zoom) and finding new
+ways to exert control over their environment (e.g., by arranging a
+home-work space and a new work routine). Similarly, employees may
+look for ways to increase their sense of authenticity by, for example,
+wearing more comfortable clothing while working or finding new
+ways to express one’s personality in a virtual work environment.
+These predictions are consistent with work suggesting that when
+confronted with constraints and restrictions on freedom, individuals react strongly and work to regain their lost freedom (Bensley &
+Wu, 1991; Brehm, 1966; Brehm & Brehm, 1981). However, one
+limitation of this work is that “it is hard to say whether the
+autonomy restorative response would occur in the same way in real
+life settings” as the majority of studies on autonomy restoration
+have been conducted in controlled laboratory environments (Radel
+et al., 2011, p. 929). We address this shortcoming in the context of
+a global pandemic. Specifically, we extend work on the autonomy
+restoration process to a real-life context involving a strong threat to
+employees’ autonomy by proposing the following hypotheses:
+H1: After exposure to an ongoing stressor, powerlessness will
+decrease over time.
+H2: After exposure to an ongoing stressor, authenticity will
+increase over time.
+
+Method
+Participants
+We invited all of the employees with publicly available e-mail
+addresses and job titles from 41 community colleges across a large
+state on the West Coast of the U.S. to participate in this study via
+e-mail in exchange for an Amazon.com gift card.2 This study was
+conducted under IRB Protocol #UP-20 – 00098 at the University of
+2
+We used a tiered payment schedule to incentivize maximum participation. Specifically, participants received $5.00 for completing the background survey and at least one daily survey, an additional $0.25 for each
+unique survey completed, a $1.50 bonus each day for which they completed all of the daily surveys, and an additional $10.00 bonus at the end
+of the study if they fully participated in at least 7 out of the 10 days of the
+study. Finally, we awarded a $250 bonus payment to one randomly
+selected participant at the end of the study who fully participated in at least
+7 of the 10 study days. We paid participants in the form of an Amazon.com
+gift card code that we emailed to participants at the conclusion of the study.
+
+This document is copyrighted by the American Psychological Association or one of its allied publishers.
+This article is intended solely for the personal use of the individual user and is not to be disseminated broadly.
+
+934
+
+ANICICH, FOULK, OSBORNE, GALE, AND SCHAERER
+
+Southern California (Project Title: “ESM Study of Daily Work
+Experiences”). A total of 267 employees accessed and at least
+partially completed the background survey and a total of 198
+employees completed the entire background survey (described
+below). Of those 198 employees, 142 participated in the daily
+portion of the study (described below). Employees held positions
+such as accounting specialist, director of admissions, and IT manager. Consistent with prior studies using similar designs, we removed participants who did not participate fully in at least three
+(out of 10) of the daily surveys (Barnes, Lucianetti, Bhave, &
+Christian, 2015; Rosen, Koopman, Gabriel, & Johnson, 2016),
+which resulted in an effective sample size of 117 employees
+(24.6% male; Mage ⫽ 44.39, SD ⫽ 11.64, 44% response rate).
+Participants reported having an average of 22.85 years of work
+experience (SD ⫽ 12.64) and working an average of 40.20 hr per
+week (SD ⫽ 5.17). During the time period of our data collection,
+participants reported working an average of 8.00 hours per day
+(SD ⫽ 1.25).
+Participants completed a one-time background survey the
+week prior to the daily surveys (March 9 –15, 2020), which
+included the informed consent release, a measure of neuroticism, as well as demographic information. The daily surveys
+were completed over the course of two consecutive work weeks
+(March 16 –27, 2020) and were collected as part of a broader
+data collection effort. Participants received three surveys (via
+e-mail) each workday (Monday–Friday). The first day of the
+daily portion of our study (March 16) was the first work day
+after the bulk of the closures and shut downs associated with the
+COVID-19 outbreak in the United States.3 Each daily survey
+captured participants’ momentary powerlessness, momentary
+authenticity, and momentary stress about the COVID-19 situation. To minimize retrospective bias (Beal & Weiss, 2003;
+Gabriel et al., 2019), the surveys were spaced out throughout
+the work-day and sent in the morning (9:30 a.m.), early afternoon (1:00 p.m.), and late afternoon (4:30 p.m.). Because each
+survey was designed to capture momentary observations of each
+focal construct at a specific point in the workday, we removed
+daily observations where participants completed the surveys out
+of sequence (n ⫽ 31). In addition, to ensure that our results
+were focused on working employees, we removed daily observations where participants reported not working the majority of
+the work day (i.e., at least 5 hours; n ⫽ 147),4 as this threshold
+has been used in past research to designate full-time employees
+(Ehrhardt & Ragins, 2019). Our final sample included 735
+person-day observations (62.8% participation rate).
+
+Measures
+To minimize response fatigue associated with responding to
+three daily surveys over 10 workdays, following recent recommendations for ESM research (Gabriel et al., 2019; Ohly, Sonnentag,
+Niessen, & Zapf, 2010), we assessed our focal daily constructs
+(powerlessness, authenticity, COVID-19 stress) using single-items
+in the morning, early afternoon, and late afternoon of each survey
+day.5 Single-item measures can be appropriate when the burden on
+respondents is high and the item is face valid and not subject to
+idiosyncratic interpretations (Fisher & To, 2012; Gabriel et al.,
+2019).
+
+To assess powerlessness, participants responded to the statement, “Right now, I feel powerless” on a scale ranging from 1
+(strongly disagree) to 5 (strongly agree). To assess authenticity,
+participants responded to the statement, “I feel like I am able to
+truly be myself right now” on a scale ranging from 1 (strongly
+disagree) to 5 (strongly agree). To assess COVID-19 stress,
+participants responded to the question, “What is your current
+stress level regarding the COVID-19 situation?” on a scale
+ranging from 1 (not stressed at all) to 5 (very stressed). Because
+we expected day-level variance in these constructs, following
+the recommendation of Chan (1998) we used an additive model
+and calculated the simple day-level mean for each construct.
+
+Results
+Descriptive statistics for and correlations among all variables
+are presented in Table 1. Given our theoretical interest in exploring
+trends over time in powerlessness and authenticity, as well as
+whether these trends are different for employees who are higher
+(vs. lower) in neuroticism, we tested our hypotheses by estimating
+growth curves using random coefficient modeling (RCM; Bliese &
+Ployhart, 2002). RCM uses a multilevel approach, with daily
+observations nested within employees, and calls for regressing
+Level-1 (within-person) variables on time to estimate a slope for
+the trajectory of that variable over time. Because our study took
+place over 10 consecutive work-days, we included a study day
+variable in our model, which took the value of 1–10 and indicated
+the study day. RCM allows testing for individual differences in
+trajectories over time by regressing the Level-2 (between-person)
+slope over time on individual difference variables (Bliese & Ployhart, 2002). Therefore, following the recommendations of the
+RCM procedure, at Level-1 (within-person) we estimated random
+slopes regressing our focal constructs (powerlessness and authenticity) on time (study day), and then at Level-2 (between-person),
+3
+
+From the week ending March 14, 2020 to the week ending March
+28, 2020 in the U.S., the number of COVID-19 related deaths increased
+by 5,217% and number of confirmed COVID-19 cases increased by
+5,390%. In addition, initial unemployment claims increased by 1,964%
+when comparing our data collection window to the 2-week period
+immediately preceding our data collection window, which was the
+greatest increase in initial unemployment claims from one 2-week
+period to the next since the Labor Department began tracking this
+information in 1967.
+4
+As a robustness test, we also estimated our model without removing
+participants who reported not working the majority of the workday, and the
+interpretation of our focal relationships remained unchanged.
+5
+Following the recommendations of Gabriel et al. (2019), we conducted a validation study on Mechanical Turk to establish the validity
+of our single-item measures (n ⫽ 201, 68.2% male, age M ⫽ 36.17,
+SD ⫽ 10.58). Our single-item measure of powerlessness correlated
+significantly with the low-power subscale of the sense of power scale
+developed by Anderson, John, and Keltner (2012; r ⫽ .85, p ⬍ .01), and
+our single-item measure of authenticity correlated significantly with the
+state authenticity scale developed by Fleeson and Wilt (2010; r ⫽ .78,
+p ⬍ .01). In addition, a CFA revealed that a two-factor model (df ⫽ 13,
+␹2 ⫽ 34.75, comparative fit index [CFI] ⫽ .98, Tucker-Lewis index
+[TLI] ⫽ .97, square root mean residual [SRMR] ⫽ .03, root mean
+square error of approximation [RMSEA] ⫽ .09) fit the data significantly better than a one-factor model (df ⫽ 14, ␹2 ⫽ 349.64, CFI ⫽ .72,
+TLI ⫽ .57, SRMR ⫽ .19, RMSEA ⫽ .35), ⌬df ⫽ 1, ⌬␹2 ⫽ 314.89, p ⬍
+.001.
+
+AUTONOMY RESTORATION DURING A GLOBAL PANDEMIC
+
+935
+
+Table 1
+Correlations and Descriptive Statistics
+Variable
+
+This document is copyrighted by the American Psychological Association or one of its allied publishers.
+This article is intended solely for the personal use of the individual user and is not to be disseminated broadly.
+
+1.
+2.
+3.
+4.
+5.
+6.
+7.
+8.
+
+Study day
+Powerlessness
+Authenticity
+COVID stress
+Neuroticism
+Gender
+Age
+Work experience (years)
+
+M
+5.47
+2.52
+3.80
+3.69
+2.08
+.74
+44.74
+23.58
+
+Within-SD
+2.80
+.97
+.96
+.96
+
+Between-SD
+1.40
+.82
+.87
+.87
+.76
+.44
+11.58
+12.70
+
+1
+⫺.14ⴱⴱ
+.10ⴱⴱ
+.03
+
+2
+⫺.17
+⫺.65ⴱⴱ
+.39ⴱⴱ
+
+3
+ⴱ
+
+.22
+⫺.73ⴱⴱ
+⫺.21ⴱⴱ
+
+4
+
+5
+
+6
+
+7
+
+8
+
+.01
+.41ⴱⴱ
+⫺.37ⴱⴱ
+
+⫺.02
+.22ⴱ
+⫺.19ⴱ
+.07
+(.48ⴱⴱ)
+
+.05
+⫺.05
+.03
+⫺.06
+⫺.01
+
+⫺.02
+⫺.03
+.04
+⫺.04
+⫺.33ⴱⴱ
+⫺.02
+
+⫺.08
+⫺.07
+.07
+⫺.04
+⫺.34ⴱⴱ
+⫺.03
+.90ⴱⴱ
+
+Note. Within-person correlations are displayed below the diagonal and are based on within-person values (n ⫽ 735). Between-person correlations are
+displayed above the diagonal and are based on between-person values (n ⫽ 117). Correlational coefficient of two-item neuroticism measure is reported in
+parentheses along the diagonal. For gender 0 ⫽ man, 1 ⫽ woman.
+ⴱ
+p ⬍ .05. ⴱⴱ p ⬍ .01.
+
+we regressed these random slopes on neuroticism.6,7,8 We estimated a model in Mplus 8.0 (Muthén & Muthén, 2017), in which
+we simultaneously estimated the random slopes for powerlessness
+and authenticity over time, and the influence of neuroticism on
+these trajectories (see Table 2).
+Hypothesis 1 predicted that powerlessness would decrease over
+time. As predicted, time had a negative influence on powerlessness
+(␥ ⫽ ⫺.04, p ⬍ .01), suggesting that employees felt less powerless
+over the 10 days (see Figure 2). Hypothesis 2 predicted that
+authenticity would increase over this same time period. As predicted, time had a positive influence on authenticity (␥ ⫽ .02, p ⬍
+.05), suggesting that employees felt more authentic over the 10
+days (see Figure 2).9,10 We followed the procedure described by
+Lang, Bliese, and Runge (2019) to calculate likelihood-based R2
+statistics, and these analyses indicated that these trends over time
+accounted for 10.5% of the variance in powerlessness and 11.1%
+of the variance in authenticity.
+Although our arguments suggest that the downward trend in
+powerlessness and the upward trend in authenticity we observed
+are unique to the time period of our data collection during the
+COVID-19 crisis, an alternative explanation is that employees
+always experience these linear trends independent of the exogenous COVID-19 situation. In addition, an assumption of our model
+is that employees living through the COVID-19 pandemic (vs.
+employees not living through the pandemic) initially felt more
+powerless and less authentic. Therefore, to rule out this alternative
+explanation and test the underlying assumptions of our model, we
+compared the results of our model to an identical model using data
+collected as part of a broader data collection effort well before the
+COVID-19 outbreak (i.e., September 9 –20, 2019, see the Appendix for details). We used multigroup analysis in Mplus 8.0
+(Muthén & Muthén, 2017) to fit our model onto both data sets, and
+then used the model constraint feature to compare the parameters
+from the two models. Thus, we were able to approximate a
+discontinuous growth model (Bliese & Lang, 2016; Singer &
+Willett, 2003), which can “enhance our theoretical understanding
+of meta-concepts such as adaptability and resilience” (Bliese,
+Adler, & Flynn, 2017, p. 264).
+Results indicated that the intercept of powerlessness in the
+post-COVID-19 onset data was significantly greater than that in
+the pre-COVID-19 onset data (⌬␥ ⫽ .86, p ⬍ .01), and that the
+intercept for authenticity in the post-COVID-19 onset data was
+
+significantly lower than that in the pre-COVID-19 onset data
+(⌬␥ ⫽ ⫺.49, p ⬍ .01), providing evidence for our assumption that
+the crisis caused employees to initially feel more powerless and
+less authentic. Next, we compared the trajectories over time for
+powerlessness and authenticity between the two data sets. There
+was no significant temporal trend in either powerlessness (␥ ⫽ .01,
+ns) or authenticity (␥ ⫽ ⫺.01, ns) in the pre-COVID-19 onset
+dataset, and the temporal trajectories in both powerlessness
+(⌬␥ ⫽ ⫺.05, p ⬍ .01) and authenticity (⌬␥ ⫽ .03, p ⬍ .05) were
+significantly stronger in the post-COVID-19 onset dataset compared to the pre-COVID-19 onset dataset (see Figure 2). Consistent with our theorizing, these results provide additional evidence
+that the temporal trajectories of powerlessness and authenticity
+observed in our focal dataset are unique to the time period associated with the COVID-19 outbreak.
+
+6
+
+The multilevel equations for these models are as follows:
+Yij ⫽ ␲0j ⫹ ␲1jTimeij ⫹ rij
+␲0j ⫽ ␤00 ⫹ ␤01Neuroticismij ⫹ u0j
+␲1j ⫽ ␤10 ⫹ ␤11Neuroticismij ⫹ u1j
+7
+As a robustness test, we ran supplemental models following the steps
+outlined by Bliese and Ployhart (2002) to account for autocorrelation and
+heteroscedasticity. The interpretation of all focal relationships remained
+unchanged in these models, suggesting that autocorrelation and heteroscedasticity are not exerting a meaningful influence on our results.
+8
+According to Bliese and Ployhart (2002), one of the prerequisites for
+using RCM to explore growth curves is that there must be significant
+Level-2 variance to necessitate multilevel modeling. Therefore, following
+these recommendations, prior to estimating our models we calculated
+intraclass correlations (ICCs) for each of our daily variables to ensure that
+the assumptions of the RCM procedure were met. These results indicated
+that for powerlessness (ICC1⫽.59), authenticity (ICC1⫽.73), and
+COVID-19 stress (ICC1⫽.76), there was substantial between-person variance to necessitate multilevel modeling.
+9
+According to Bliese and Ployhart (2002) additional validity for support
+of a linear temporal trend can be found by also testing curvilinear effects
+to ensure that the linear trend is not mis-specified. Therefore, we estimated
+a supplemental model where we included time as well as a fixed slope for
+time squared as predictors of both powerlessness and authenticity. In these
+supplemental analyses, the square term was nonsignificant for both powerlessness and authenticity, providing additional confidence in the conclusion that there is a linear trend in both over time.
+10
+The Mplus syntax and output used in this study are available to
+download by accessing the following OSF registered project link: https://
+osf.io/dptku.
+
+ANICICH, FOULK, OSBORNE, GALE, AND SCHAERER
+
+936
+Table 2
+RCM Model Results
+
+Powerlessness
+
+Authenticity
+
+Measure
+
+B
+
+SE
+
+t-value
+
+95% CI
+
+B
+
+SE
+
+t-value
+
+95% CI
+
+Intercept
+Time (study day)
+Neuroticism
+Neuroticism ⫻ Time
+Likelihood based R2
+
+2.78ⴱⴱ
+⫺.04ⴱⴱ
+.43ⴱⴱ
+⫺.03ⴱ
+.11
+
+.08
+.01
+.09
+.01
+
+33.94
+⫺3.57
+4.76
+⫺2.26
+
+[2.62, 2.94]
+[⫺.07, ⫺.02]
+[.25, .60]
+[⫺.06, ⫺.00]
+
+3.65ⴱⴱ
+.02ⴱ
+⫺.41ⴱⴱ
+.03ⴱⴱ
+.11
+
+.09
+.01
+.11
+.01
+
+40.88
+2.12
+⫺3.67
+2.91
+
+[3.48, 3.83]
+[.00, .05]
+[⫺.62, ⫺.19]
+[.01, .06]
+
+Note. RCM ⫽ random coefficient modeling; CI ⫽ confidence interval; Level 1 n ⫽ 735; Level 2 n ⫽ 117.
+p ⬍ .05. ⴱⴱ p ⬍ .01.
+
+This document is copyrighted by the American Psychological Association or one of its allied publishers.
+This article is intended solely for the personal use of the individual user and is not to be disseminated broadly.
+
+ⴱ
+
+Supplemental Analysis
+An alternative explanation for our findings is that employees’
+stress was decreasing over time in a way that made them feel less
+powerless and more authentic. To test this possibility, we used the
+RCM procedure (Bliese & Ployhart, 2002) to estimate a growth
+curve for COVID-19 stress over the 10 days of our study. Results
+suggested that COVID-19 stress was not decreasing over the
+course of the 10 days of our study, as the linear trend was positive
+and significant (␥ ⫽ .09, p ⬍ .01).11 The daily values of
+COVID-19 stress, as well as the daily values of powerlessness and
+authenticity, are presented in Figure 2, and demonstrate that although powerlessness was decreasing and authenticity was increasing over time, employees’ stress was not decreasing. In
+addition, as presented in Figure 1, the objective situation was
+worsening over the time frame of our study, yet employees were
+feeling less powerless and more authentic during this time. These
+results indicate that both subjectively and objectively the
+COVID-19 situation was not improving during the time frame of
+our data collection.
+To provide additional insights into the way employees recovered during the COVID-19 crisis, we also explored how employees’ neuroticism influenced their powerlessness and authenticity
+during this time period. Neuroticism reflects the extent to which
+individuals tend to be nervous, anxious, depressed, self-conscious,
+and vulnerable (Gosling, Rentfrow, & Swann, 2003; John & Srivastava, 1999; McCrae & Costa, 1991) and has been linked to a
+wide range of negative psychological (Clark, Watson, & Mineka,
+1994; Spijker et al., 2008) and physical health outcomes (Neeleman, Ormel, & Bijl, 2001; Rosmalen, Neeleman, Gans, & de
+Jonge, 2007). Despite these apparent drawbacks of neuroticism,
+scholars also acknowledge conditions under which neuroticism
+can be adaptive. Friedman (2000) proposed the concept of “healthy
+neuroticism,” which emphasizes the functional benefits associated
+with vigilance and worrying in dangerous environments (Craske,
+1999; Janis, 1958; Lahey, 2009; Matthews, Deary, & Whiteman,
+2003). However, the benefits of neuroticism likely accrue over
+time as a stressful situation plays out and vigilance becomes
+increasingly valued and rewarded. Thus, it is “also important to
+consider neuroticism in terms of what occurs after a disease or
+special challenge” (Friedman, 2019, p. 27).
+According to the person-environment fit theory of job stress
+(French et al., 1982), an individual’s level of psychological, physiological, and behavioral strain following exposure to a stressor is
+determined by the fit between personal characteristics (e.g., traits,
+
+values, abilities) and their environment (Edwards & Cooper,
+1990). Indeed, Tamir (2005) suggested that “despite their unpleasant nature, negative states may be beneficial for individuals high in
+neuroticism” (p. 450). This is because neurotic individuals in
+particular are able to recognize and leverage the instrumental
+benefits of experiencing trait-consistent negative affect (Tamir,
+2005), allowing them to resolve confusion and make evaluative
+distinctions more efficiently (Tamir & Robinson, 2004). For these
+reasons, we propose that employees who are higher (vs. lower) in
+neuroticism will be better psychologically equipped to navigate an
+inherently stressful environment and thus recover their sense of
+autonomy at a faster rate.
+We measured employees’ neuroticism in the background survey
+using the two neuroticism items from the 10-item personality
+inventory (TIPI, Gosling et al., 2003). Items included “I am
+anxious, easily upset” and “I am calm, emotionally stable” (reverse
+coded). The scale ranged from 1 (strongly disagree) to 5 (strongly
+agree). The correlation coefficient for these two items was 0.48
+(p ⬍ .01). Past work has demonstrated convergent validity between the TIPI and the other established measures of neuroticism
+(Ehrhart et al., 2009; Furnham, 2008; Goldberg et al., 2006, see
+also Jonason, Teicher, & Schmitt, 2011).
+Results indicated that neuroticism had a significant moderating
+effect on the trajectory of powerlessness over time (␥ ⫽ ⫺.03, p ⬍
+.05). Following the recommendation of Cohen, Cohen, West, and
+Aiken (2003), we plotted this temporal trajectory at higher (⫹1
+SD) and lower (⫺1 SD) levels of neuroticism. Figure 3 demonstrates that the downward trend in powerlessness over time was
+stronger for employees higher (vs. lower) in neuroticism. Neuroticism also had a significant effect on the intercept of powerlessness
+(␥ ⫽ .43, p ⬍ .01), meaning that on Day 1 of the study employees
+higher (vs. lower) in neuroticism felt more powerless. Overall,
+although employees higher (vs. lower) in neuroticism initially felt
+more powerless, over time their feelings of powerlessness abated
+at a faster rate.
+Results indicated that neuroticism also had a significant moderating effect on the trajectory of authenticity over time (␥ ⫽ .03,
+p ⬍ .01). Figure 4 depicts this temporal trajectory plotted at higher
+(⫹1 SD) and lower (⫺1 SD) levels of neuroticism and demonstrates that the upward trend in authenticity over time was stronger
+11
+Following the recommendation of Bliese and Ployhart (2002), we also
+estimated a curvilinear term by including time squared as a predictor of
+COVID stress, and this parameter was significant (␥ ⫽ ⫺.01, p ⬍ .01).
+
+This document is copyrighted by the American Psychological Association or one of its allied publishers.
+This article is intended solely for the personal use of the individual user and is not to be disseminated broadly.
+
+AUTONOMY RESTORATION DURING A GLOBAL PANDEMIC
+
+937
+
+Figure 2. Daily employee ratings of authenticity, powerlessness, and COVID-19-related stress (COVID-19
+sample only) from the two samples used in the current study. Error bands for authenticity and powerlessness
+represent ⫾1 SEs of the daily mean.
+
+for employees higher (vs. lower) in neuroticism. In addition,
+neuroticism had a significant effect on the intercept of authenticity
+(␥ ⫽ ⫺.41, p ⬍ .01), indicating that although employees higher
+(vs. lower) in neuroticism initially felt less authentic, over time
+their sense of authenticity increased at faster rate.12
+
+General Discussion
+The COVID-19 pandemic is a crisis of unprecedented severity
+and scope. In the present work, we leveraged a unique empirical
+context and historical moment in time to offer insights into the
+psychological recovery process during an ongoing crisis. Our
+10-day experience sampling study, spanning arguably the most
+physically, economically, and psychologically threatening period
+in recent memory, revealed that employees experienced a decreased sense of powerlessness and an increased sense of authenticity over time, and that this recovery process was stronger for
+
+Figure 3. Moderating effect of neuroticism on the trajectory of powerlessness over time. Higher neuroticism is ⫹1 SD and lower neuroticism
+is ⫺1 SD.
+
+employees higher (vs. lower) in neuroticism. Interestingly, these
+effects emerged while neither the objective situation nor the subjective stress reactions to it were improving. This pattern of results
+highlights the possibility that psychological recovery may begin
+even before an ongoing stressful experience abates. In addition,
+comparing the temporal trends observed for powerlessness and
+authenticity to the trajectory of COVID-19 stress during this initial
+time period highlights the uniqueness of the recovery patterns
+associated with manifestations of autonomy, and demonstrates that
+not all manifestations of well-being recover in the same way.
+Our findings make several important contributions to the stress,
+power, and authenticity literatures in general and to the field’s
+understanding of reactions to the COVID-19 pandemic in particular. First, we are among the first to consider the psychological
+impact of COVID-19 on employees and, to our knowledge, the
+first to do so in the context of a rigorous ESM study involving
+working professionals living through the early days of the pandemic. In doing so, our findings answer recent calls for more
+organizational research on natural disasters because “contagious
+disease outbreaks have been given short shrift” (Rao & Greve,
+2018, p. 20).
+Second, we contribute to research on the psychological recovery
+process (e.g., Barling, Bluen, & Fain, 1987; Hulme & Shepherd,
+2003; Pratt & Barling, 1987; Harkness & Monroe, 2016), which
+has primarily assumed that individuals start to recover from stressful events and traumatic experiences after the stressor abates or
+disappears altogether. In contrast, our findings suggest that individuals start to recover before the traumatic conditions associated
+with a stressor begin to abate. In doing so, we are among the first
+12
+In a supplemental model, we also estimated the effect of neuroticism
+on the trajectory of COVID stress over time. Results indicated that neuroticism did not have a significant effect on the trajectory (␥ ⫽ ⫺.03, ns)
+of COVID stress.
+
+This document is copyrighted by the American Psychological Association or one of its allied publishers.
+This article is intended solely for the personal use of the individual user and is not to be disseminated broadly.
+
+938
+
+ANICICH, FOULK, OSBORNE, GALE, AND SCHAERER
+
+Figure 4. Moderating effect of neuroticism on the trajectory of authenticity over time. Higher neuroticism is ⫹1 SD and lower neuroticism is ⫺1
+SD.
+
+to provide field data in support of Radel et al.’s (2011) autonomy
+restoration theory. Understanding the nature and timing of psychological recovery exhibited by employees is important because
+society’s capacity and willingness to return to normal is partially
+dependent on employees across a wide range of roles and organizations feeling sufficiently autonomous and empowered to carry
+out their job functions effectively (Deci & Ryan, 2000).
+Third, our findings contribute to the field’s understanding of the
+psychology of powerlessness (Schaerer, du Plessis, Yap, & Thau,
+2018). Scholars have noted that the study of power(lessness) has
+been limited to context-deprived experiments or static survey
+research (Antonakis & Sturm, 2015; Schaerer, Lee, Galinsky, &
+Thau, 2018) and that “it is unclear how power is experienced by
+individuals on a daily basis [. . .] and to what extent individuals
+fluctuate in their level of power” over time (Smith & Hofmann,
+2016, p. 10043). We address these issues by assessing how employees’ experienced powerlessness evolves over time after a
+sudden loss of autonomy.
+Finally, our finding that neuroticism moderates the effect of
+time on feelings of powerlessness and authenticity cautions against
+endorsing a universally negative view of neuroticism which “ignore[s] the situational contexts and longitudinal trajectories” that
+are relevant to complex stressors (Friedman, 2019, p. 27). In
+addition, our study empirically responds to Sedikides et al.’s
+(2017, p. 524) question posed to future researchers: “Are some
+people more likely than others to experience authenticity in the
+face of adversity?” Specifically, by showing that more (vs. less)
+neurotic people recover from thwarted autonomy at a faster rate,
+we provide an initial temporal perspective on how personality
+traits affect the psychological recovery process.
+We also note several limitations of the current work. One
+limitation of our study is the uniqueness of the context within
+which we observed our findings. Although a global pandemic is
+not characteristic of a typical work environment, this extraordinary
+event allowed us to uncover novel insights into the functioning of
+employees’ psychological immune system that are hard to study
+under normal circumstances. Indeed, organizational scholars have
+suggested that extreme situations and critical incidents are ideal
+research settings as psychological processes become “transparently observable” (Pettigrew, 1988, cited in Eisenhardt, 1989, p.
+537) and tend to be “more visible than they might be in other
+
+contexts” (Pratt, 2000, p. 458). In addition, employees may experience (milder) ongoing stressful situations that limit their autonomy on a regular basis (e.g., ongoing rounds of layoffs, economic
+recessions, difficult interpersonal relationships) in which case the
+present effects may play out in a similar, but less pronounced way.
+Second, although our supplemental analyses provide evidence
+that the patterns observed in the post-COVID-19 onset dataset
+were unique compared to the patterns observed in the preCOVID-19 onset dataset, we acknowledge that these samples were
+comprised of different employees and not all measures in the two
+data sets were identical. The unexpected emergence of the virus
+limited our ability to design a study to directly compare pre- and
+post-COVID data collected from the same employees, but we feel
+that the comparison between the two data sets provides some
+benefits in interpreting the results of our model. That said, we
+recognize this limitation, and encourage future research to extend
+our findings using a pre/post design in the context of other complex stressors. Relatedly, our 10-day study prevents us from drawing inferences over longer periods of time, and we encourage
+future work to extend our findings in this way, and to explore
+recovery over more granular time periods (e.g., minutes, hours).
+Third, although our work demonstrates that employees recover
+autonomy immediately following the onset of an ongoing stressor,
+our work is not able to provide insights into the specific behaviors
+that employees engaged in to do so. Prior research has indicated
+that there are a variety of behaviors employees may engage in
+following stressful work situations, including detachment, relaxation, fostering a sense of mastery, and reestablishing control
+(Sonnentag & Fritz, 2007), and we encourage future research to
+build upon these insights to better understand what employees do
+to recover autonomy. More generally, building on our findings
+related to the moderating role of neuroticism, future work could
+examine how reactions to stress can be influenced by personal
+dispositions, features of the event, and characteristics of the environment (Harvey, 1996). Finally, it would be useful to examine the
+consequences of recovering from an impaired sense of autonomy.
+For example, feeling less powerless and more authentic may
+eventually reduce employees’ subjective stress levels relating to
+the stressor.
+The current historical moment may be poised to give way to the
+emergence of a new psychology of COVID-19 stress in the same
+way that Hall (1917, p. 12) noted that “we shall surely have a new
+and larger psychology of war” following WWI. We hope that our
+early exploration can contribute to this endeavor and spur additional work in this important and timely area of inquiry.
+
+References
+Aarts, H., Dijksterhuis, A., & De Vries, P. (2001). On the psychology of
+drinking: Being thirsty and perceptually ready. British Journal of Psychology, 92(Pt. 4), 631– 642. http://dx.doi.org/10.1348/00071260
+1162383
+Anderson, C., John, O. P., & Keltner, D. (2012). The personal sense of
+power. Journal of Personality, 80, 313–344. http://dx.doi.org/10.1111/j
+.1467-6494.2011.00734.x
+Antonakis, J., & Sturm, R. E. (2015). Interpersonal power: A review,
+critique, and research agenda. Journal of Management, 41, 136 –163.
+http://dx.doi.org/10.1177/0149206314555769
+
+This document is copyrighted by the American Psychological Association or one of its allied publishers.
+This article is intended solely for the personal use of the individual user and is not to be disseminated broadly.
+
+AUTONOMY RESTORATION DURING A GLOBAL PANDEMIC
+Ashforth, B. E., & Mael, F. (1989). Social identity theory and the organization. The Academy of Management Review, 14, 20 –39. http://dx.doi
+.org/10.5465/amr.1989.4278999
+Barling, J., Bluen, S. D., & Fain, R. (1987). Psychological functioning
+following an acute disaster. Journal of Applied Psychology, 72, 683–
+690. http://dx.doi.org/10.1037/0021-9010.72.4.683
+Barnes, C. M., Lucianetti, L., Bhave, D. P., & Christian, M. S. (2015).
+“You wouldn’t like me when I’m sleepy”: Leaders’ sleep, daily abusive
+supervision, and work unit engagement. Academy of Management Journal, 58, 1419 –1437. http://dx.doi.org/10.5465/amj.2013.1063
+Beal, D., & Weiss, H. (2003). Methods of ecological momentary assessment in organizational research. Organizational Research Methods, 6,
+440 – 464. http://dx.doi.org/10.1177/1094428103257361
+Bensley, L. S., & Wu, R. (1991). The role of psychological reactance in
+drinking following alcohol prevention messages. Journal of Applied
+Social Psychology, 21, 1111–1124. http://dx.doi.org/10.1111/j.15591816.1991.tb00461.x
+Bliese, P., Adler, A., & Flynn, P. (2017). Transition processes: A review
+and synthesis integrating methods and theory. Annual Review of Organizational Psychology and Organizational Behavior, 4, 263–286. http://
+dx.doi.org/10.1146/annurev-orgpsych-032516-113213
+Bliese, P. D., Edwards, J. R., & Sonnentag, S. (2017). Stress and wellbeing at work: A century of empirical trends reflecting theoretical and
+societal influences. Journal of Applied Psychology, 102, 389 – 402.
+http://dx.doi.org/10.1037/apl0000109
+Bliese, P. D., & Lang, J. W. (2016). Understanding relative and absolute
+change in discontinuous growth models: Coding alternatives and implications for hypothesis testing. Organizational Research Methods, 19,
+562–592. http://dx.doi.org/10.1177/1094428116633502
+Bliese, P. D., & Ployhart, R. E. (2002). Growth modeling using random
+coefficient models: Model building, testing, and illustrations. Organizational Research Methods, 5, 362–387. http://dx.doi.org/10.1177/
+109442802237116
+Bonanno, G. A. (2004). Loss, trauma, and human resilience: Have we
+underestimated the human capacity to thrive after extremely aversive
+events? American Psychologist, 59, 20 –28. http://dx.doi.org/10.1037/
+0003-066X.59.1.20
+Bonanno, G. A. (2005). Resilience in the face of potential trauma. Current
+Directions in Psychological Science, 14, 135–138. http://dx.doi.org/10
+.1111/j.0963-7214.2005.00347.x
+Bonanno, G. A., Field, N. P., Kovacevic, A., & Kaltman, S. (2002).
+Self-enhancement as a buffer against extreme adversity: Civil war in
+Bosnia and traumatic loss in the United States. Personality and Social
+Psychology Bulletin, 28, 184 –196. http://dx.doi.org/10.1177/014
+6167202282005
+Brehm, J. W. (1966). A theory of psychological reactance. New York, NY:
+Academic Press.
+Brehm, S., & Brehm, J. W. (1981). Psychological reactance: A theory of
+freedom and control. New York, NY: Academic Press.
+Camacho, C. J., Higgins, E. T., & Luger, L. (2003). Moral value transfer
+from regulatory fit: What feels right is right and what feels wrong is
+wrong. Journal of Personality and Social Psychology, 84, 498 –510.
+http://dx.doi.org/10.1037/0022-3514.84.3.498
+Chan, D. (1998). Functional relations among constructs in the same content
+domain at different levels of analysis: A typology of composition models. Journal of Applied Psychology, 83, 234 –246. http://dx.doi.org/10
+.1037/0021-9010.83.2.234
+Clark, L. A., Watson, D., & Mineka, S. (1994). Temperament, personality,
+and the mood and anxiety disorders. Journal of Abnormal Psychology,
+103, 103–116. http://dx.doi.org/10.1037/0021-843X.103.1.103
+Cohen, J., Cohen, P., West, S. G., & Aiken, L. S. (2003). Applied multiple
+regression/correlation analysis for the behavioral sciences (3rd ed.).
+Hillsdale, NJ: Erlbaum Publishers.
+
+939
+
+Craske, M. G. (1999). Anxiety disorders: Psychological approaches to
+theory and treatment. Boulder, CO: Westview Press.
+Deci, E. L., & Ryan, R. M. (2000). The “what” and “why” of goal pursuits:
+Human needs and the self-determination of behavior. Psychological
+Inquiry, 11, 227–268. http://dx.doi.org/10.1207/S15327965PLI1104_01
+Deci, E. L., & Ryan, R. M. (2008). Self-determination theory: A macrotheory of human motivation, development, and health. Canadian Psychology/Psychologie canadienne, 49, 182–185. http://dx.doi.org/10
+.1037/a0012801
+Deci, E. L., & Ryan, R. M. (2012). Motivation, personality, and development within embedded social contexts: An overview of selfdetermination theory. In R. M. Ryan (Ed.), The Oxford handbook of
+human motivation (pp. 85–107). New York, NY: Oxford University
+Press.
+De Cremer, D., Van Dick, R., & Murnighan, J. K. (2011). Social psychology and organizations. Philadelphia, PA: Taylor and Francis. http://dx
+.doi.org/10.4324/9780203846957
+Dong, E., Du, H., & Gardner, L. (2020). An interactive web-based dashboard to track COVID-19 in real time. The Lancet: Infectious Diseases,
+20, 533–534. http://dx.doi.org/10.1016/S1473-3099(20)30120-1
+Edwards, J., & Cooper, C. (1990). The person-environment fit approach to
+stress: Recurring problems and some suggested solutions. Journal of
+Organizational Behavior, 11, 293–307. http://dx.doi.org/10.1002/job
+.4030110405
+Ehrhardt, K., & Ragins, B. R. (2019). Relational attachment at work: A
+complementary fit perspective on the role of relationships in organizational life. The Academy of Management Journal, 62, 248 –282. http://
+dx.doi.org/10.5465/amj.2016.0245
+Eisenhardt, K. M. (1989). Building Theories from Case Study Research.
+The Academy of Management Review, 14, 532–550. http://dx.doi.org/10
+.5465/amr.1989.4308385
+Ehrhart, M., Ehrhart, K., Roesch, S., Chung-Herrera, B., Nadler, K., &
+Bradshaw, K. (2009). Testing the latent factor structure and construct
+validity of the Ten-Item Personality Inventory. Personality and Individual Differences, 47, 900 –905. http://dx.doi.org/10.1016/j.paid.2009.07
+.012
+Farber, E. A., & Egeland, B. (1987). Invulnerability among abused and
+neglected children. In E. James & B. Cohler (Eds.), The invulnerable
+child (pp. 253–288). New York, NY: Guilford Press.
+Fisher, C. D., & To, M. L. (2012). Using experience sampling methodology in organizational behavior. Journal of Organizational Behavior, 33,
+865– 877. http://dx.doi.org/10.1002/job.1803
+Fleeson, W., & Wilt, J. (2010). The relevance of big five trait content in
+behavior to subjective authenticity: Do high levels of within-person
+behavioral variability undermine or enable authenticity achievement?
+Journal of Personality, 78, 1353–1382. http://dx.doi.org/10.1111/j
+.1467-6494.2010.00653.x
+French, J. R. P., Caplan, R. D., & Harrison, R. V. (1982). The mechanisms
+of job stress and strain. Chichester, UK: Wiley.
+Friedman, H. S. (2000). Long-term relations of personality and health:
+Dynamisms, mechanisms, tropisms. Journal of Personality, 68, 1089 –
+1107. http://dx.doi.org/10.1111/1467-6494.00127
+Friedman, H. S. (2019). Neuroticism and health as individuals age. Personality Disorders: Theory, Research, and Treatment, 10, 25–32. http://
+dx.doi.org/10.1037/per0000274
+Furnham, A. (2008). Relationship among four Big Five measures of
+different length. Psychological Reports, 102, 312–316. http://dx.doi.org/
+10.2466/pr0.102.1.312-316
+Gabriel, A. S., Podsakoff, N. P., Beal, D. J., Scott, B. A., Sonnentag, S.,
+Trougakos, J. P., & Butts, M. M. (2019). Experience sampling methods:
+A discussion of critical trends and considerations for scholarly advancement. Organizational Research Methods, 22, 969 –1006. http://dx.doi
+.org/10.1177/1094428118802626
+
+This document is copyrighted by the American Psychological Association or one of its allied publishers.
+This article is intended solely for the personal use of the individual user and is not to be disseminated broadly.
+
+940
+
+ANICICH, FOULK, OSBORNE, GALE, AND SCHAERER
+
+Gajendran, R. S., & Harrison, D. A. (2007). The good, the bad, and the
+unknown about telecommuting: Meta-analysis of psychological mediators and individual consequences. Journal of Applied Psychology, 92,
+1524 –1541. http://dx.doi.org/10.1037/0021-9010.92.6.1524
+Galatzer-Levy, I. R., Huang, S. H., & Bonanno, G. A. (2018). Trajectories
+of resilience and dysfunction following potential trauma: A review and
+statistical evaluation. Clinical Psychology Review, 63, 41–55. http://dx
+.doi.org/10.1016/j.cpr.2018.05.008
+Gilbert, D. T., Pinel, E. C., Wilson, T. D., Blumberg, S. J., & Wheatley,
+T. P. (1998). Immune neglect: A source of durability bias in affective
+forecasting. Journal of Personality and Social Psychology, 75, 617– 638.
+http://dx.doi.org/10.1037/0022-3514.75.3.617
+Glass, R. (2020, April 11). Coronavirus is stressing 7 of 10 U.S. workers
+to the max, and companies need to help them now. Retrieved from
+https://www.marketwatch.com/story/coronavirus-is-stressing-7-of-10us-workers-to-the-max-and-companies-need-to-help-them-now-202004-09
+Goldberg, L. R., Johnson, J. A., Eber, H. W., Hogan, R., Ashton, M. C.,
+Cloninger, C. R., & Gough, H. G. (2006). The international personality
+item pool and the future of public domain personality measures. Journal
+of Research in Personality, 40, 84 –96. http://dx.doi.org/10.1016/j.jrp
+.2005.08.007
+Gosling, S. D., Rentfrow, P. J., & Swann, W. B., Jr. (2003). A very brief
+measure of the Big-Five personality domains. Journal of Research in
+Personality, 37, 504 –528. http://dx.doi.org/10.1016/S00926566(03)00046-1
+Hall, G. S. (1917). Practical relations between psychology and the war.
+Journal of Applied Psychology, 1, 9 –16. http://dx.doi.org/10.1037/
+h0070238
+Harkness, K. L., & Monroe, S. M. (2016). The assessment and measurement of adult life stress: Basic premises, operational principles, and
+design requirements. Journal of Abnormal Psychology, 125, 727–745.
+http://dx.doi.org/10.1037/abn0000178
+Harvey, M. R. (1996). An ecological view of psychological trauma and
+trauma recovery. Journal of Traumatic Stress, 9, 3–23. http://dx.doi.org/
+10.1002/jts.2490090103
+Horgan, O., & MacLachlan, M. (2004). Psychosocial adjustment to lowerlimb amputation: A review. Disability and Rehabilitation: An International, Multidisciplinary Journal, 26, 837– 850. http://dx.doi.org/10
+.1080/09638280410001708869
+Hulme, D., & Shepherd, A. (2003). Conceptualizing chronic poverty.
+World Development, 31, 403– 423. http://dx.doi.org/10.1016/S0305750X(02)00222-X
+Janis, I. L. (1958). Psychological stress: Psychoanalytic and behavioral
+studies of surgical patients. Chichester, UK: Wiley. http://dx.doi.org/10
+.1037/11191-000
+John, O. P., & Srivastava, S. (1999). The Big Five Trait taxonomy: History,
+measurement, and theoretical perspectives. In L. A. Pervin & O. P. John
+(Eds.), Handbook of personality: Theory and research (pp. 102–138).
+New York, NY: Guilford Press.
+Jonason, P., Teicher, E., & Schmitt, D. (2011). The TIPI’s validity confirmed: Associations with sociosexuality and self-esteem. Individual
+Differences Research, 9, 52– 60.
+Karstoft, K.-I., Armour, C., Elklit, A., & Solomon, Z. (2013). Long-term
+trajectories of posttraumatic stress disorder in veterans: The role of
+social resources. The Journal of Clinical Psychiatry, 74(12), e1163–
+e1168. http://dx.doi.org/10.4088/JCP.13.m08482
+Lahey, B. B. (2009). Public health significance of neuroticism. American
+Psychologist, 64, 241–256. http://dx.doi.org/10.1037/a0015309
+Lang, J. W. B., Bliese, P. D., & Runge, J. M. (2019). Detecting consensus
+emergence in organizational multilevel data: Power simulations. Organizational Research Methods. Advance online publication. http://dx.doi
+.org/10.1177/1094428119873950
+
+Lapierre, L. M., Van Steenbergen, E. F., Peeters, M. C., & Kluwer, E. S.
+(2016). Juggling work and family responsibilities when involuntarily
+working more from home: A multi-wave study of financial sales professionals. Journal of Organizational Behavior, 37, 804 – 822. http://dx
+.doi.org/10.1002/job.2075
+Lauterbach, D., & Armour, C. (2016). Symptom trajectories among child
+survivors of maltreatment: Findings from the Longitudinal Studies of
+Child Abuse and Neglect (LONGSCAN). Journal of Abnormal Child
+Psychology, 44, 369 –379. http://dx.doi.org/10.1007/s10802-015-9998-6
+Lenton, A. P., Slabu, L., & Sedikides, C. (2016). State authenticity in
+everyday life. European Journal of Personality, 30, 64 – 82. http://dx
+.doi.org/10.1002/per.2033
+Lopez, F. G., & Rice, K. G. (2006). Preliminary development and validation of a measure of relationship authenticity. Journal of Counseling
+Psychology, 53, 362–371. http://dx.doi.org/10.1037/0022-0167.53.3.362
+Martin, L. J. (1917). Mental hygiene and the importance of investigating it.
+Journal of Applied Psychology, 1, 67–70. http://dx.doi.org/10.1037/
+h0071333
+Maslow, C. B., Caramanica, K., Welch, A. E., Stellman, S. D., Brackbill,
+R. M., & Farfel, M. R. (2015). Trajectories of scores on a screening
+instrument for PTSD among World Trade Center rescue, recovery, and
+clean-up workers. Journal of Traumatic Stress, 28, 198 –205. http://dx
+.doi.org/10.1002/jts.22011
+Masten, A. S., & Gewirtz, A. H. (2006). Vulnerability and resilience in
+early child development. In K. McCartney & D. Phillips (Eds.), Handbook of early childhood development (pp. 22– 43). Malden, MA: Blackwell.
+Matthews, G., Deary, I. J., & Whiteman, M. C. (2003). Personality traits
+(2nd ed.). New York, NY: Cambridge University Press. http://dx.doi
+.org/10.1017/CBO9780511812736
+McConnell, A. R., Renaud, J. M., Dean, K. K., Green, S. P., Lamoreaux,
+M. J., Hall, C. E., & Rydell, R. J. (2005). Whose self is it anyway?
+Self-aspect control moderates the relation between self-complexity and
+well-being. Journal of Experimental Social Psychology, 41, 1–18. http://
+dx.doi.org/10.1016/j.jesp.2004.02.004
+McCrae, R. R., & Costa, P. T., Jr. (1991). The NEO Personality Inventory:
+Using the Five-Factor Model in counseling. Journal of Counseling &
+Development, 69, 367–372. http://dx.doi.org/10.1002/j.1556-6676.1991
+.tb01524.x
+Miller, G. E., Chen, E., & Zhou, E. S. (2007). If it goes up, must it come
+down? Chronic stress and the hypothalamic-pituitary-adrenocortical axis
+in humans. Psychological Bulletin, 133, 25– 45. http://dx.doi.org/10
+.1037/0033-2909.133.1.25
+Mirowsky, J., & Ross, C. E. (1983). Paranoia and the structure of powerlessness. American Sociological Review, 48, 228 –239. http://dx.doi.org/
+10.2307/2095107
+Muthén, L. K., & Muthén, B. O. (1998 –2017). Mplus user’s guide (8th
+ed.). Los Angeles, CA: Author.
+Neeleman, J., Ormel, J., & Bijl, R. V. (2001). The distribution of psychiatric and somatic III health: Associations with personality and socioeconomic status. Psychosomatic Medicine, 63, 239 –247. http://dx.doi.org/
+10.1097/00006842-200103000-00007
+Norris, F. H. (2006). Disaster research methods: Past progress and future
+directions. Journal of Traumatic Stress, 19, 173–184. http://dx.doi.org/
+10.1002/jts.20109
+Ohly, S., Sonnentag, S., Niessen, C., & Zapf, D. (2010). Diary studies in
+organizational research. Journal of Personnel Psychology, 9, 79 –93.
+http://dx.doi.org/10.1027/1866-5888/a000009
+Pettigrew, A. (1988, September). Longitudinal field research on change:
+Theory and practice. Paper presented at the National Science Foundation
+Conference on Longitudinal Research Methods in Organizations, Austin, TX.
+Pratt, L., & Barling, J. (1987). Differentiating between daily events, acute,
+
+This document is copyrighted by the American Psychological Association or one of its allied publishers.
+This article is intended solely for the personal use of the individual user and is not to be disseminated broadly.
+
+AUTONOMY RESTORATION DURING A GLOBAL PANDEMIC
+and chronic stressors: A framework and its implications. In J. R. Hurrell,
+L. R. Murphy, S. L. Sauter, & C. L. Cooper (Eds.), Occupational stress:
+Issues and developments in research (pp. 41–53). London, UK: Taylor
+& Francis.
+Pratt, M. G. (2000). The good, the bad, and the ambivalent: Managing
+identification among Amway distributors. Administrative Science Quarterly, 45, 456 – 493. http://dx.doi.org/10.2307/2667106
+Radel, R., Pelletier, L. G., Sarrazin, P., & Milyavskaya, M. (2011). Restoration process of the need for autonomy: The early alarm stage.
+Journal of Personality and Social Psychology, 101, 919 –934. http://dx
+.doi.org/10.1037/a0025196
+Rao, H., & Greve, H. (2018). Disasters and community resilience: Spanish Flu
+and the formation of retail cooperatives in Norway. Academy of Management Journal, 61, 5–25. http://dx.doi.org/10.5465/amj.2016.0054
+Rosen, C. C., Koopman, J., Gabriel, A. S., & Johnson, R. E. (2016). Who
+strikes back? A daily investigation of when and why incivility begets
+incivility. Journal of Applied Psychology, 101, 1620 –1634. http://dx.doi
+.org/10.1037/apl0000140
+Rosmalen, J. G. M., Neeleman, J., Gans, R. O. B., & de Jonge, P. (2007).
+The association between neuroticism and self-reported common somatic
+symptoms in a population cohort. Journal of Psychosomatic Research,
+62, 305–311. http://dx.doi.org/10.1016/j.jpsychores.2006.10.014
+Ryan, R. M., & Deci, E. L. (2000). Self-determination theory and the
+facilitation of intrinsic motivation, social development, and well-being.
+American Psychologist, 55, 68 –78. http://dx.doi.org/10.1037/0003066X.55.1.68
+Ryan, R. M., & Deci, E. L. (2017). Self-determination theory: Basic
+psychological needs in motivation, development, and wellness (pp. xii,
+756). New York, NY: Guilford Press.
+Ryan, W. S., & Ryan, R. M. (2019). Toward a social psychology of
+authenticity: Exploring within-person variation in autonomy, congruence, and genuineness using self-determination theory. Review of General Psychology, 23, 1–10. http://dx.doi.org/10.1037/gpr0000162
+Schaerer, M., du Plessis, C., Yap, A. J., & Thau, S. (2018). Low power
+individuals in social power research: A quantitative review, theoretical
+framework, and empirical test. Organizational Behavior and Human
+Decision Processes, 149, 73–96. http://dx.doi.org/10.1016/j.obhdp.2018
+.08.004
+Schaerer, M., Lee, A., Galinsky, A., & Thau, S. (2018). Contextualizing
+social power research within organizational behavior. In D. L. Ferris,
+R. E. Johnson, & C. Sedikides (Eds.), The self at work: Fundamental
+theory and research (Vol. 1, pp. 194 –221). Routledge. http://dx.doi.org/
+10.4324/9781315626543-9
+Sedikides, C., Slabu, L., Lenton, A. P., & Thomaes, S. (2017). State
+authenticity. Current Directions in Psychological Science, 26, 521–525.
+http://dx.doi.org/10.1177/0963721417713296
+Seeman, M. (1972). Alienation and engagement. In A. Campbell & P. E.
+Converse (Eds.), The human meaning of social change (pp. 467–527).
+New York, NY: Sage.
+
+941
+
+Seibt, B., Häfner, M., & Deutsch, R. (2007). Prepared to eat: How immediate affective and motivational responses to food cues are influenced by
+food deprivation. European Journal of Social Psychology, 37, 359 –379.
+http://dx.doi.org/10.1002/ejsp.365
+Shah, J., Higgins, E. T., & Friedman, R. (1998). Performance incentives
+and means: How regulatory focus influences goal attainment. Journal of
+Personality and Social Psychology, 74, 285–293. http://dx.doi.org/10
+.1037//0022-3514.74.2.285
+Sheldon, M., Ryan, R. M., Rawsthorne, L. J., & Ilardi, B. (1997). Trait self
+and true self: Cross-role variation in the Big-Five personality traits and
+its relations with psychological authenticity and subjective well-being.
+Journal of Personality and Social Psychology, 73, 1380 –1393. http://
+dx.doi.org/10.1037/0022-3514.73.6.1380
+Shepherd, D. A., & Haynie, J. M. (2011). Venture failure, stigma, and
+impression management: A self-verification, self-determination view.
+Strategic Entrepreneurship Journal, 5, 178 –197. http://dx.doi.org/10
+.1002/sej.113
+Singer, J. D., & Willett, J. D. (2003). Applied longitudinal data analysis:
+Modeling change and event occurrence. New York, NY: Oxford. http://
+dx.doi.org/10.1093/acprof:oso/9780195152968.001.0001
+Smith, P. K., & Hofmann, W. (2016). Power in everyday life. Proceedings
+of the National Academy of Sciences of the United States of America,
+113, 10043–10048. http://dx.doi.org/10.1073/pnas.1604820113
+Sonnentag, S., & Fritz, C. (2007). The Recovery Experience Questionnaire: Development and validation of a measure assessing recuperation
+and unwinding at work. Journal of Occupational Health Psychology, 12,
+204 –221. http://dx.doi.org/10.1037/1076-8998.12.3.204
+Spijker, A., Vernooij-Dassen, M., Vasse, E., Adang, E., Wollersheim, H.,
+Grol, R., & Verhey, F. (2008). Effectiveness of nonpharmacological
+interventions in delaying the institutionalization of patients with dementia: A meta-analysis. Journal of the American Geriatrics Society, 56,
+1116 –1128. http://dx.doi.org/10.1111/j.1532-5415.2008.01705.x
+Strack, F., & Deutsch, R. (2004). Reflective and impulsive determinants of
+social behavior. Personality and Social Psychology Review, 8, 220 –247.
+http://dx.doi.org/10.1207/s15327957pspr0803_1
+Tamir, M. (2005). Don’t worry, be happy? Neuroticism, trait-consistent
+affect regulation, and performance. Journal of Personality and Social
+Psychology, 89, 449 – 461. http://dx.doi.org/10.1037/0022-3514.89.3
+.449
+Tamir, M., & Robinson, M. D. (2004). Knowing good from bad: The
+paradox of neuroticism, negative affect, and evaluative processing. Journal of Personality and Social Psychology, 87, 913–925. http://dx.doi
+.org/10.1037/0022-3514.87.6.913
+Updegraff, J. A., & Taylor, S. E. (2000). From vulnerability to growth:
+Positive and negative effects of stressful life events. In J. H. Harvey &
+E. D. Miller (Eds.), Loss and trauma: General and close relationship
+perspectives (pp. 3–28). Philadelphia, PA: Brunner-Routledge.
+
+(Appendix follows)
+
+ANICICH, FOULK, OSBORNE, GALE, AND SCHAERER
+
+942
+
+Appendix
+Methods Description for the pre-COVID-19 Onset Dataset
+Table A1
+Correlations and Descriptive Statistics for Supplemental Study
+
+This document is copyrighted by the American Psychological Association or one of its allied publishers.
+This article is intended solely for the personal use of the individual user and is not to be disseminated broadly.
+
+Variable
+1.
+2.
+3.
+4.
+5.
+6.
+7.
+
+Study day
+Powerlessness
+Authenticity
+Neuroticism
+Gender
+Age
+Work experience (years)
+
+M
+
+Within-SD
+
+Between-SD
+
+5.26
+1.94
+4.22
+2.83
+.42
+31.56
+9.68
+
+2.85
+.83
+.75
+
+1.08
+.73
+.65
+1.18
+.50
+6.58
+6.36
+
+1
+
+2
+⫺.01
+
+.03
+.01
+
+⫺.55ⴱⴱ
+
+3
+
+4
+
+5
+
+6
+
+7
+
+.13
+⫺.63ⴱⴱ
+(.96)
+
+.01
+⫺.05
+.06
+(.52)
+
+.09
+⫺.22ⴱ
+.05
+⫺.04
+
+.07
+⫺.05
+.21ⴱ
+⫺.01
+⫺.13
+
+.05
+⫺.10
+.20
+.06
+⫺.05
+.80ⴱⴱ
+
+Note. Within-person correlations are shown below the diagonal and are based on within-person scores (n ⫽ 656). Between-person correlations are shown
+above the diagonal and are based on between-person scores (n ⫽ 95). For gender, 0 ⫽ man, 1 ⫽ woman. Alpha reliability of the 3-item authenticity measure
+and the correlation coefficient of the two-item neuroticism measure are reported in parentheses along the diagonal.
+ⴱ
+p ⬍ .05. ⴱⴱ p ⬍ .01.
+
+Table A2
+RCM Model Results for Supplemental Study
+Powerlessness
+
+Authenticity
+
+Measure
+
+B
+
+SE
+
+t-value
+
+95% CI
+
+B
+
+SE
+
+t-value
+
+95% CI
+
+Intercept
+Time (study day)
+Neuroticism
+Neuroticism ⫻ Time
+Likelihood based R2
+
+1.92ⴱⴱ
+.01
+⫺.21ⴱⴱ
+.00
+.04
+
+.08
+.01
+.08
+.01
+
+23.85
+.63
+⫺2.62
+.25
+
+[1.76, 2.08]
+[⫺.01, .02]
+[⫺.38, ⫺.05]
+[⫺.02, .02]
+
+4.14ⴱⴱ
+⫺.01
+.18
+.01
+.02
+
+.09
+.01
+.10
+.01
+
+48.49
+⫺.73
+1.71
+.53
+
+[3.98, 4.31]
+[⫺.03, .01]
+[⫺.03, .38]
+[⫺.02, .03]
+
+Note. RCM ⫽ random coefficient modeling; CI ⫽ confidence interval. Level 1 n ⫽ 656; Level 2 n ⫽ 95.
+p ⬍ .01.
+
+ⴱⴱ
+
+Sample
+We invited full-time working adults enrolled in a part-time MBA
+program at a large mid-Atlantic university to participate in the study,
+and participants were offered extra credit in their course as well as a
+personalized feedback report for their participation. Participants were
+informed about the study by their instructors during class time, and
+then emailed a link to the background survey and instructed to
+complete the background survey to opt into the study. This study was
+conducted under IRB Protocol #1471635–2 at the University of
+Maryland (Project Title: “Daily Work Perceptions and Behaviors”).
+One hundred and five individuals expressed interest in the study by
+completing the background survey, and 101 individuals completed the
+daily portion of the study. Similar to our main study, and consistent
+with prior research using designs similar to ours (Barnes et al., 2015;
+Rosen et al., 2016) we removed participants who did not participate
+fully in at least three (out of 10) days of the daily portion of the study,
+which resulted in an effective sample size of 95 employees (57.9%
+male; Mage ⫽ 31.56, SD ⫽ 6.58, 90.5% response rate). Participants
+reported having an average of 9.68 years of work experience (SD ⫽
+
+6.36) and working an average of 42.52 hr per week (SD ⫽ 7.84).
+During the time period of our data collection, participants reported
+working an average of 8.67 hr per day (SD ⫽ 1.97).
+Participants completed the one-time background survey the
+week prior to completing the daily surveys (September 2– 8,
+2019), which included the informed consent release, a measure
+of neuroticism, as well as demographic information. The daily
+surveys were completed over the course of two consecutive
+work weeks (September 9 –20, 2019). Participants received
+three surveys (via e-mail) each work-day (Monday-Friday). The
+morning survey was sent at 8:00 am, the early afternoon survey
+was sent at 1:30 p.m., and the late afternoon survey was sent at
+4:00 p.m. Each survey captured participants’ momentary powerlessness, and the late afternoon survey captured participants’
+daily authenticity. Similar to our focal study, we removed
+day-level observations where participants took surveys out of
+sequence or reported not working the majority of the work-day
+(i.e., at least 5 hr), resulting in a final sample size of 656
+person-day observations (69.1% participation rate).
+
+(Appendix continues)
+
+AUTONOMY RESTORATION DURING A GLOBAL PANDEMIC
+
+Measures
+
+This document is copyrighted by the American Psychological Association or one of its allied publishers.
+This article is intended solely for the personal use of the individual user and is not to be disseminated broadly.
+
+Daily powerlessness. To assess powerlessness, participants
+were asked to respond to the question “Right now, I feel powerless” on a scale ranging from 1 (strongly disagree) to 5 (strongly
+agree), three times during the workday (morning, early afternoon,
+and late afternoon; ICC1 ⫽ .69).
+Daily authenticity. We measured daily authenticity in the late
+afternoon survey using three items adapted from the scale developed by Fleeson and Wilt (2010). Participants responded to each
+item on a scale ranging from 1 (strongly disagree) to 5 (strongly
+agree), and items included “Today at work, I felt true to myself”,
+
+943
+
+“Today at work, I felt authentic”, and “Today at work, I felt like
+I was really being me” (␣ ⫽ .96; ICC1 ⫽ .53).
+Dispositional neuroticism. We measured employees’ neuroticism in the background survey using the two-item TIPI scale
+(Gosling et al., 2003). The scale ranged from 1 (strongly disagree)
+to 5 (strongly agree). Items included “I am anxious, easily upset”
+and “I am calm, emotionally stable” (reverse coded). The correlation coefficient for these two items was .52 (p ⬍ .01).
+Received May 2, 2020
+Revision received July 8, 2020
+Accepted July 10, 2020 䡲
+
+

@@ -1,0 +1,2352 @@
+Journal of Applied Psychology
+© 2020 American Psychological Association
+ISSN: 0021-9010
+
+2021, Vol. 106, No. 1, 15–28
+https://doi.org/10.1037/apl0000857
+
+Work-Family Strategies During COVID-19: Examining Gender Dynamics
+Among Dual-Earner Couples With Young Children
+Kristen M. Shockley1, Malissa A. Clark1, Hope Dodd1, and Eden B. King2
+
+This document is copyrighted by the American Psychological Association or one of its allied publishers.
+This article is intended solely for the personal use of the individual user and is not to be disseminated broadly.
+
+1
+
+Department of Psychology, University of Georgia
+2
+Department of Psychology, Rice University
+
+There are several existing typologies of dual-earner couples focused on how they dually manage work
+and family; however, these all assume that couples can outsource childcare during normal work hours and
+that work is largely conducted outside of the home. Early attempts to control COVID-19 altered these
+assumptions with daycares/schools closing and the heavy shift to remote work. This calls into question
+whether couples tended to fall back on familiar gendered patterns to manage work and family, or if they
+adopted new strategies for the unique pandemic situation. We addressed this question using a sample of
+274 dual-earner couples with young children. We content coded couples’ qualitative responses about
+their plans for managing childcare and work commitments and used these codes in a latent class analysis
+to identify subgroups. Seven classes were identified, with 36.6% of the sample using strategies where
+women did most or all childcare, 18.9% of the sample using strategies that were not clearly gendered or
+egalitarian, and 44.5% of the sample using unique egalitarian strategies. We also obtained data from 133
+of these couples approximately 7 weeks later regarding their well-being and job performance. Results
+suggested that women in the Remote Wife Does It All class had the lowest well-being and performance.
+There were nuanced differences between the egalitarian strategies in their relationships with outcomes,
+with the Alternating Days egalitarian category emerging as the overall strategy that best preserved wives’
+and husbands’ well-being while allowing both to maintain adequate job performance.
+Keywords: work-family, dual-earner couples, division of childcare, gender, remote work
+
+The early stages of the COVID-19 pandemic in the United
+States introduced an unprecedented context that altered these assumptions. Specifically, institutional and governmental reactions
+to control the pandemic included the closing of most childcare
+centers and in-person schools. This sudden substantial increase in
+childcare responsibilities for dual-earner couples was not necessarily balanced by a reduction in work responsibilities; couples
+were together confronted with the immediate and ongoing need to
+simultaneously fulfill both work and childcare roles. That is, the
+division of childcare labor was no longer confined to hours outside
+of the typical workday, and the boundaries between work and
+home became blurred for many. Additionally, with the heavy shift
+to remote work (Hickman & Saad, 2020), men were much more
+physically present in the home than ever before. Physical proximity, and the associated increased salience of family demands, had
+the potential to markedly shift traditional gendered patterns of
+behavior.
+Despite anecdotal discussion of gendered strategies in the popular press (e.g., Charlton, 2020; Cohen & Hsu, 2020; Smith, 2020),
+there are no known empirical tests of what strategies couples are
+actually using to manage childcare during COVID-19. As such, we
+do not have knowledge of whether these strategies are highly
+gendered (as tended to be the case pre-COVID-19) or if new, more
+egalitarian strategies are being adopted in light of the unique
+context. Based on these ideas, the goal of the present study was to
+address the question of whether, in the COVID-19 context, couples
+are creating novel work-family (WF) management strategies that
+transcend gender roles or if they are falling back on the familiar
+
+Researchers have noted several typologies of broad strategies
+that dual-earner couples use to generally manage work and family
+(e.g., Hall & MacDermid, 2009; Masterson & Hoobler, 2015;
+Sweet & Moen, 2006). There are nuanced differences across these
+typologies, but a common trend is that the most prevalent strategies involve some form of a “neo-traditional” division of labor,
+where women are primary caretakers inside the home and take on
+disproportionately more childcare and men work primarily outside
+the home and their careers are prioritized. This research also
+assumes that dual-earner couples have the option to outsource
+childcare during normal work hours and that work is largely
+conducted outside of the home.
+
+Editor’s Note. Jenny M. Hoobler served as the action editor for this
+article.—LTE
+
+This article was published Online First November 5, 2020.
+Kristen M. Shockley X https://orcid.org/0000-0002-7794-8233
+We thank the Psychology Departments of the University of Georgia and
+Rice University for funding this study. Kristen M. Shockley would also
+like to thank her mother, Michelle Shockley, for driving two hours every
+week throughout the pandemic to provide childcare. Without that “partially
+outsourcing” strategy, this data collection and manuscript writing would
+have been impossible.
+Correspondence concerning this article should be addressed to Kristen
+M. Shockley, Department of Psychology, University of Georgia, 125
+Baldwin Street, Athens, GA 30602, United States. Email: kshock@uga.edu
+15
+
+This document is copyrighted by the American Psychological Association or one of its allied publishers.
+This article is intended solely for the personal use of the individual user and is not to be disseminated broadly.
+
+16
+
+SHOCKLEY, CLARK, DODD, AND KING
+
+patterns seen in previous research during “typical” times. Importantly, we further examined the relationship of these strategies with
+men and women’s job performance and well-being (including
+health and family functioning). We addressed these questions in a
+sample of dual-earner heterosexual couples with young children
+(under age 6) who had stable childcare arrangements preCOVID-19 but whose childcare arrangements were subsequently
+disrupted. We surveyed them the week that childcare arrangements
+were largely suspended across the United States and 6.5– 8.5
+weeks later to assess outcomes.
+Our research makes several important contributions to the literature. First, in providing basic information about couples’ WF
+management strategies during the pandemic and how these strategies link to key outcomes, we hope to answer calls to examine
+WF situations in times of crisis (Eby et al., 2015) and to contribute
+to the literature about best practices during such times. The
+COVID-19 pandemic can be considered a crisis situation, defined
+as a “low-probability, high impact event” that is characterized by
+ambiguity, uncertainty regarding means of resolution, and significant consequences (Yu et al., 2008). Given the crisis context, one
+cannot assume prior typologies of couples’ WF management strategies would mirror current findings. Crisis situations may have
+discontinuous effects on individuals and couples (Eby et al., 2015)
+and reveal new, complex associations between division of labor
+and outcomes. If we find that certain strategies are better in this
+crisis situation than others for well-being and performance, couples may gain insight into how they may adjust their own strategies
+moving forward during the pandemic, in other crisis situations in
+the future (e.g., natural disasters), or even in more minor situations
+once COVID-19 has subsided (e.g., child is sick for a few days and
+must stay home).
+Second, our study empirically answers anecdotal questions
+about gender and childcare during the pandemic. By examining the
+gender dynamics within couples’ WF management strategies, we
+provide important evidence that has implications for understanding
+(a) potential downstream career consequences for men and women
+and (b) the extent to which the gendered separate spheres of work
+and home are fixed versus adaptive to crisis. With regard to the
+former point, if women take on the bulk of childcare duties during
+the pandemic, this could be a leading indicator of backtracking in
+women’s progression in organizations. With regard to the latter
+point, understanding what happens when work and home are in the
+same sphere for both men and women offers a unique lens into the
+malleability of the gendered division of household labor.
+A third contribution of our study is linking dual-earner WF
+management strategies to well-being and performance outcomes.
+There is a surprising dearth of research on this topic generally.
+Although we focus on short-term implications in the context of a
+pandemic, our findings may be able to guide research outside the
+pandemic as well (e.g., short-term relationship tension stemming
+from a particular WF management strategy may manifest in more
+stable attitudes such as marital dissatisfaction if that strategy is
+adopted long-term). Furthermore, short-term implications are important in their own right as they can have meaningful downstream
+effects on individual well-being (e.g., lack of sleep has been linked
+to obesity, hypertension, and diabetes; Altman et al., 2012), relationship outcomes (e.g., tension from this situation may simmer
+and resentment may build between spouses), and workplace out-
+
+comes (e.g., companies may use the current situation to make
+long-term decisions such as promotions or raises).
+
+Dual-Earner Couples’ Work-Family
+Management Strategies
+There are numerous extant typologies of dual-earner couples in
+the literature and they vary in the focal variable used to categorize
+couples, including work and family salience (Yogev & Brett,
+1985), family identity (Masterson & Hoobler, 2015), career decisions (Becker & Moen, 1999; Pixley, 2008), hours in childcare,
+household labor, and/or paid employment of each spouse (Hall &
+MacDermid, 2009; Kitterød & Lappegård, 2012; Sweet & Moen,
+2006). Common themes across typologies include some version of
+the following: (a) both people are highly committed to work and to
+family demands, and may rely on specific strategies such as
+outsourcing, reducing performance standards, or reducing sleep
+time, (b) asymmetrical strategies that involve one person devoting
+more to work (family) while the other devotes more time to the
+other domain, (c) and one person taking on the bulk of family labor
+while not scaling back at work. The latter two strategies are highly
+gendered—it is usually the wife who scales back work or takes on
+a “second shift”—and they represent a large proportion of couples
+in most studies.
+Turning to the COVID-19 context, we draw from multiple
+theoretical lenses to inform why potential WF management strategies may be highly gendered as found in previous work, or may
+depart from this pattern. Numerous theories have been put forth to
+explain the gendered division of labor (cf. Shockley & Shen,
+2016); we hone in on theories that focus on gender itself rather
+than factors that correlate with gender (e.g., relative resources,
+economic theories of specialization). The “doing gender” (West &
+Zimmerman, 1987, 2009) perspective argues that due to gender
+role socialization women (men) view domestic (paid) labor as an
+act that affirms femininity (masculinity), which contributes to the
+asymmetrical patterns. Similarly, Blair-Loy (2003) asserts couples
+rarely question the idea that the wife rather than the husband
+should cut back on work to care for children because of internalized cultural schemas of women’s family devotion (Eagly, 1987;
+Haines et al., 2016). Additionally, marital power theories (Rollins
+& Bahr, 1976) argue that the person with more power in a marriage
+prevails in situations of conflicting goals (e.g., who will sacrifice
+work when childcare is necessary). Holding other factors (e.g.,
+relative resources) constant, gender (being male) is a predictor of
+power in part due to hegemonic masculinity embedded in society
+(e.g., Lukes, 2005; Messerschmidt, 2018). There is little reason to
+suspect that COVID-19 would fundamentally alter any of these
+aforementioned processes, suggesting that WF management strategies during COVID-19 mimic the gendered strategies commonly
+used before the pandemic. Indeed, a rare study of WF strategies
+during a crisis (Sigurdardottir & Garðarsdóttir, 2018) suggests a
+gendered trend. Researchers found that Icelandic men took shorter
+parental leave after the 2008 economic recession compared to the
+preceding 4 years, although the opposite trend was observed for
+women, who took longer leaves.
+On the other hand, characteristics unique to COVID-19 invoke
+other theoretical concepts that introduce the potential for new
+strategies. The notion that men and women can and should be
+relegated to (or maintain primary responsibility for) work and
+
+This document is copyrighted by the American Psychological Association or one of its allied publishers.
+This article is intended solely for the personal use of the individual user and is not to be disseminated broadly.
+
+COUPLES WORK-FAMILY STRUGGLES DURING COVID-19
+
+home roles, respectively, is deeply ingrained in social norms
+around the globe (e.g., the concept of “separate spheres”; Davis &
+Greenstein, 2009; Kerber, 1988). Yet the situational demands
+imposed by the pandemic have the potential to disrupt those norms
+for a variety of reasons. First, the restriction of movement imposed
+by the pandemic meant that work and home were no longer
+separate spaces; the sharp increase in remote work resulted in a
+sharp decrease in the physical boundaries between work and home.
+This meant that many men no longer had the option of leaving
+home for work and were thus physically embedded with their
+families. Meal preparation and emotional and physical needs of
+children may have been more immediately salient for men than
+ever before.
+Second, the pandemic confronted couples with a necessary and
+urgent decision-making context often involving substantial
+changes to both members’ work arrangements. This context is
+meaningfully different from previously studied decisions, such as
+whether one partner should take a new job or which partner is
+responsible for picking up a sick child, because it explicitly involves both partners’ work and home lives. The possibility that
+work and home could be separate spheres for men and women may
+have been completely disrupted by the pandemic and thus allow
+for noticeable change.
+Third, the double ABCX model of family stress and adaptation
+(Hill, 1958; McCubbin & Patterson, 1983) explicitly focuses on
+how families adapt to crisis situations. The model is complex, but
+a core idea is that the successful coping of families to crisis
+situations depends in part on their ability to accept shifting role
+patterns and expectations (Hill, 1958). A key takeaway relevant to
+the present context is that many couples do substantially shift their
+roles in reaction to crisis situations rather than rely on previous
+defaults.
+Based on these varying perspectives, we pose the following as
+a research question:
+Research Question 1: In the COVID-19 context, are couples
+using unique, new WF management strategies or are they
+falling back on the familiar gendered patterns found in previous research?
+
+Outcomes of Couples’ Work-Family
+Management Strategies
+As noted above, there is very little research linking general
+couple-level WF management strategies to well-being or job performance outcomes. However, some evidence can be gleaned from
+the related general division of labor literature. Research on uneven
+division of family labor is quite mixed in terms of marital quality
+and the relationship seems to be moderated by perceptions of
+fairness, such that marital quality decreases for the person doing
+more labor if he or she feels it is unfair (cf. Shockley & Shen,
+2016). In terms of health outcomes, psychological distress has
+received the most attention, with the bulk of studies finding that
+couples who divide paid and family labor in an egalitarian manner
+experience the lowest distress. Lastly, there is some evidence when
+women’s careers are prioritized or they earn more than men (e.g.,
+a “non-traditional” division of paid labor) both men and women
+have poorer health outcomes (cf. Shockley & Shen, 2016). In
+summary, the trend seems to be that more egalitarian strategies
+
+17
+
+lead to most favorable outcomes at least for health and marital
+outcomes, although there are some nuances to these findings based
+on the nature of the nonegalitarian strategy and gender.
+In the present context, we decided to focus on well-being in the
+family, health, and job performance domains for a holistic assessment. Rather than focusing on more enduring attitudes such as
+marital satisfaction, we examined marital relationship tension
+which may vary more on a short-term basis (Birditt et al., 2017).
+We also examined family cohesion, with the idea that strategies
+chosen during COVID-19 could impact the family as a whole
+rather than just the couple. In terms of health, we focused on
+psychological distress given the precedent in the literature, as well
+as sleep hours. We thought sleep hours were particularly important
+during the pandemic because of the time crunch with added
+childcare, resulting in potential cuts to sleep. Finally, in order to
+see the job-related implications, we used two indicators of selfreported job performance (general job performance and job performance relative to pre-COVID-19) over the study period. For
+each outcome, we examined the wives’ and husbands’ reports
+separately. For variables that were individual in nature (performance and health variables) we also calculated a summed variable
+to represent well-being and performance across the couple.
+Research Question 2: To what extent do the respective WF
+strategies relate to wives’ and husbands’ family functioning
+(relationship tension, family cohesion), health (sleep hours
+and psychological distress), and job performance?
+
+Method
+Participants
+Participants were 334 married couples living in the United
+States (668 individuals). In order to be eligible, couples had to
+meet the following criteria at the Time 1 survey: Both spouses
+worked full-time (⬎32 hr per week) and were still required to
+work (whether remote or not) during sheltering in place orders.
+The couple had to have at least one child under age 6 with regular
+daytime childcare unavailable (e.g., daycare was closed, nanny
+could not come). We further screened out 35 couples because we
+suspected that their responses were from a single person rather
+than an actual couple1, and 16 additional couples because their
+responses to the open-ended questions revealed they did not meet
+the study criteria (i.e., unmarried or not working, n ⫽ 3), or their
+open-ended responses were too terse or indecipherable (n ⫽ 13).
+Lastly, we removed 9 couples in same sex marriages.2 Therefore,
+we had usable data from 274 couples at Time 1.
+The Time 1 survey was administered March 18 –23, 2020. This
+was immediately following the closings of most schools and
+daycare facilities across the United States, and the declaration of a
+1
+Couples were removed if both individuals were using the same email
+address, their IP address and names were linked to multiple couples, or if
+individuals were responding to emails and surveys directed towards their
+spouse.
+2
+We removed same sex couples because our theoretical perspectives
+were largely focused on different gender roles within a couple, for which
+we used sex as a proxy. We believe issues of childcare during COVID-19
+are equally relevant to same sex couples, but it did not fit into the particular
+framework of this study.
+
+SHOCKLEY, CLARK, DODD, AND KING
+
+This document is copyrighted by the American Psychological Association or one of its allied publishers.
+This article is intended solely for the personal use of the individual user and is not to be disseminated broadly.
+
+18
+
+national health emergency on March 13. Couples were recruited
+via snowball methodology through posting on the researchers’
+social networks and personal contacts (n ⫽ 51) and through paid
+Facebook ads (n ⫽ 232). The “first” spouse completed the survey
+first, provided his or her spouse’s email address and then the
+“second” spouse was contacted about completing his or her survey.
+The surveys were identical, except that eligibility questions and
+couple-level demographic questions were only asked of the first
+spouse. Couples were compensated $7 per person in Amazon gift
+cards, or with a $2 donation to the World Health Organization
+(WHO).
+Time 2 surveys were administered May 7–18, 2020. At this
+point in time, many states had only just begun their initial phases
+of reopening (Lee et al., 2020) and schools and the majority of
+childcare facilities remained closed (Guynn, 2020). This gave
+participants a substantial period (6.5– 8.5 weeks) during which
+they dealt with sheltering in place regulations and daycare and
+school closures. A total of 188 couples completed the Time 2
+survey. The Time 2 sample size was further reduced to 179 couples
+after screening out those who failed more than one attention check
+(described below) at either Time 1 or Time 2. The spouses received identical surveys and each person was compensated $5 in
+Amazon gift cards or a $1 WHO donation. Demographics and
+analysis for nonresponse bias are listed in Table 1. This study was
+approved by the University of Georgia’s Institutional Review
+Board (“Work and Family Struggles during the COVID-19 Outbreak”; Project #00002089).
+
+childcare: (a) “What is you and your spouse’s plan for dealing with
+both of your work commitments during the upcoming period when
+your normal childcare is disrupted? Please be as detailed as possible.” (b) “How will you have to adjust your work role during this
+time?” and (c) “How will your spouse have to adjust his/her work
+role during this time?”
+
+Implementation of Plan (Time 2)
+Participants were first reminded of their verbatim response from
+Time 1 regarding their intended plan. They were then asked to rate
+how well they followed that plan. Responses were set on a 10point Likert scale ranging from did not follow the plan at all to
+followed the plan perfectly.
+
+Family Functioning (Time 2)
+Family cohesion was assessed using Huffman et al.’s (2017)
+3-item measure and marital relationship tension was assessed
+using three items from Matthews et al.’s (2006). Responses were
+set on a 5-point strongly disagree to strongly agree Likert scale.
+
+Health
+Sleep quantity was assessed by asking “During this time period,
+on average, how many hours of actual sleep did you get at night?”
+Psychological distress was assessed with Kessler et al.’s (2002)
+10-item measure. Responses were set on a 5-point Likert scale
+ranging from none of the time to all of the time.
+
+Measures
+
+Job Performance
+
+All items are listed in the Appendix. All items were completed
+by both spouses. For Time 2 measures participants were asked to
+reflect on the period since they took the first survey.
+
+Self-rated job performance was assessed in two ways. First,
+participants completed a four-item measure from Abramis (1994).
+Responses were set on a 5-point Likert scale ranging from very
+poorly to exceptionally well. Second, we assessed the extent to
+which participants felt they had met their work responsibilities
+during this period using a study-created item: “During the pandemic many parents have not been able to meet 100% of their
+work responsibilities. What percentage of your work responsibil-
+
+Plan for Managing Childcare and Work Commitments
+(Time 1)
+Participants responded to three open-ended questions created for
+the study to assess the couple’s plan for dealing with work and
+
+Table 1
+Sample Demographics
+Time 1 (N ⫽ 274)
+Variables
+
+Dyad-level
+
+Wives
+
+Time 2 (N ⫽ 133)
+Husbands
+
+Dyad-level
+
+Wives
+
+Husbands
+
+Household income (USD)
+140,702.70 (72,147.89)
+139,402.60 (81,745.43)
+Number of children ⬍6
+1.36 (.56)
+1.34 (.54)
+Number of children ⬍18
+1.84 (.82)
+1.74 (.75)
+Weekly work hours
+41.27 (5.66) 44.17 (7.88)
+40.68 (4.70) 44.02 (8.29)
+Agea
+34.81 (5.78) 36.33 (6.60)
+35.17 (6.37) 36.34 (6.96)
+Race/Ethnicitya (%)
+White
+78.6
+76.7
+78.7
+78.2
+Hispanic/Latino
+6.2
+7.6
+7.4
+7.3
+Black/African American
+5.8
+6.1
+4.1
+6.4
+Asian
+6.6
+7.1
+9.0
+7.3
+American Indian/Alaskan Native
+1.2
+.5
+.8
+0
+Other
+1.6
+1.8
+0
+.9
+
+Comparison between
+Time 1 and Time 2
+(t, ␹2 for race/ethnicity)
+.16
+.34
+1.18
+1.04, .17
+.54, .01
+3.4, 1.15
+
+Note. Values are M and (SD) unless otherwise noted.
+a
+Due to an error in survey administration, race/ethnicity and age were only collected for a subset of the data (N ⫽ 243 for wives and 197 for husbands
+for Time 1 and N ⫽ 122 and 110 for Time 2). None of the t-tests or chi-squares were significant, indicating no significant differences between the Time
+1 and Time 2 samples.
+
+COUPLES WORK-FAMILY STRUGGLES DURING COVID-19
+
+ities do you feel that you met during this time?” Individuals
+responded using a slider scale ranging from 0% to 100%.
+
+This document is copyrighted by the American Psychological Association or one of its allied publishers.
+This article is intended solely for the personal use of the individual user and is not to be disseminated broadly.
+
+Attention Checks
+Five items were used to measure careless responding and were
+presented randomly throughout the surveys (e.g., “I do not understand a word of English”). Responses were set on a 5-point Likert
+scale that ranged from strongly disagree to strongly agree. Responses were deemed incorrect if they did not select one of two
+response options reflecting the correct level of agreement (e.g.,
+strongly disagree or disagree in the example).
+Scores across the couple (health, psychological distress, general
+and relative job performance) were computed by summing the
+individual scores.
+
+Results
+Coding of Stated Plans
+We followed an inductive process in generating codes for the
+descriptions of plans for managing childcare and work commitments. We reviewed the wife’s and husband’s reports in tandem to
+provide a holistic assessment of the plans. Two of the study
+authors each reviewed a unique subset of the data (20% each) and
+independently generated common categories that emerged from
+the descriptions as well as different codes within each category.
+These categories were compared and refined. Next, all four of the
+study authors reviewed a separate randomly selected subset of the
+data (10%) and attempted to code using the initial code sheet. It
+was agreed upon that substantial refinements to the coding sheet
+were necessary. The coders met to discuss these refinements and
+then formally coded the subset. Agreement was 89.3%. All instances where coders were not in perfect agreement were discussed
+and further minor clarifications and revisions were made to the
+coding sheet. We then moved forward in having two coders per
+description. Agreement across cases and categories was 74.8%. In
+all cases where there was a coding disagreement a third coder was
+assigned. In 89.5% of these cases, the new coder chose one of the
+existing codes and we selected the majority code. In the remaining
+10.5%, a fourth coder reviewed the codes and a majority code
+emerged.
+
+Analyses
+We address Research Question 1 in two ways. First, in Table 2,
+we present the distinct categories that emerged from the data and
+the prevalence of various alternatives within each category. Next,
+in order to determine if certain patterns across categories emerged
+within the data we conducted a latent class analysis (LCA), a
+technique which identifies latent subgroups based on individual
+responses from multivariate categorical data (Rindskopf, 2009).3
+We conducted the LCA using Mplus 7.4 (Muthén & Muthén,
+2015) and began by specifying one profile and increased the
+number of profiles until fit no longer substantially improved.
+Following best practice recommendations (e.g., Gabriel et al.,
+2018), we determined fit by looking for lower values with the
+Akaike information criterion (AIC), Bayesian information criterion (BIC), consistent AIC (C-AIC) and sample-size-adjusted BIC,
+higher values for entropy, and significant values for the Lo-
+
+19
+
+Mendell-Rubin likelihood ratio test and the bootstrap likelihood
+ratio test. The results of the LCA are shown in Table 3. As there
+are no clear criteria for LCA fit indices, we looked at the various
+indicators holistically, prioritizing those in which the BIC and
+C-AIC values were lowest, to determine the best factor solution
+(e.g., Peugh & Fan, 2013). The 7-factor solution has the lowest
+BIC, C-AIC, and AIC; thus, we proceeded with 7 factors.
+Table 4 shows the descriptive labels given to each class, representative quotes, and the proportion of couples in that class that
+were assigned a particular code for each category. This gives a
+sense of what the modal strategies across categories were for each
+of the seven classes.
+With regard to Research Question 1, several of the strategies
+reflected gendered patterns. Specifically, two of the strategies—
+Wife Remote and Does it All and Wife Remote and Husband
+Pitches in on Occasion (“Wife Remote Doing Most”)— were
+clearly gendered and included 31.8% of the sample. The Husband
+Not Remote and Outsourcing Fully or Partially Outsourcing With
+Wife Filling in Gap also had a gendered component for 36% of the
+couples in this class, or 4.8% of the total sample. Thus, 36.6% of
+the total sample used traditional gendered strategies.
+Other categories emerged that have been noted in some previous
+work as couple WF management strategies, albeit less common
+ones, include Wife Not Remote and Staggering Shiftwork or Husband Does Childcare (10.4%). Outsourcing Fully (64% of
+13.3% ⫽ 8.5%) has been mentioned in some conceptual work
+(Masterson & Hoobler, 2015), but it seems fairly unique during
+COVID-19 given the higher reliance on friends or family than
+formal paid childcare.
+Three unique egalitarian categories emerged—Alternating
+Working Days While Not Remote and Reducing Hours (“Alternating Days”), Egalitarian Remote Workers With Planned Minishifts
+(“Remote Mini-shifts”), Egalitarian Remote Workers With Daily
+Need-based Alternation Without Reducing Work Hours (“Remote
+Need-Based Alternating”). Together, these comprised 44.5% of
+the sample. Thus, in response to Research Question 1 there was a
+mix of unique and “typical” strategies.
+To address Research Question 2, we examined mean differences
+in the outcome variables by using the LCA automatic 3-step
+approach for auxiliary variables (Asparouhov & Muthén, 2014)
+where the outcome variables are examined in relation to class
+membership probabilities, taking into account the error in class
+prediction (Wang & Hanges, 2011). Before running these analyses,
+we trimmed the data to only those who completed the Time 2
+survey (n ⫽ 172). We also examined how well people followed
+through with their plan and eliminated those who reported they had
+followed through less than 6 on the 10-point scale (n ⫽ 39). We
+
+3
+LCA will only allow a maximum number of 10 options per category,
+which was problematic with the Division of Childcare Labor During
+Normal Work Hours category where there were 11. To remedy this, we
+removed the category with the smallest n for men (“Doing all childcare
+when not outsourced”) and women (“Doing none of the childcare when not
+outsourced; n ⫽ 3 couples), reasoning that the n was likely too small to
+create meaningful classes. These data were coded as missing on that
+category.
+
+20
+
+SHOCKLEY, CLARK, DODD, AND KING
+
+Table 2
+Content Coding Frequencies
+
+This document is copyrighted by the American Psychological Association or one of its allied publishers.
+This article is intended solely for the personal use of the individual user and is not to be disseminated broadly.
+
+Category
+Remote Work Status
+Wives
+Working remote full time
+Not working remote
+Working remote partially (stable schedule)
+Alternating working remote with spouse
+Occasionally working remote (one day here and there)
+Could not decipher from response
+Husbands
+Not working remote
+Working remote full time
+Occasionally working remote (one day here and there)
+Working remote partially (stable schedule)
+Alternating working remote with spouse
+Could not decipher from response
+Outside Help
+No outside help
+Relative, friend, or older sibling helping part-time
+Relative, friend, or older sibling helping full-time
+Not officially part of the current plan, but considering finding outside help as an option in the future
+Paid help (e.g., nanny or babysitter) part-time
+Paid help (e.g., nanny or babysitter) full-time
+Relative/friend helping part-time and paid help part-time
+Shift Change
+Wives
+Not changing shift
+;Informally changing shift (working late or early hours)
+Formally changing a shift
+Husbands
+Not changing shift
+Informally changing shift (working late or early hours)
+Formally changing a shift
+Amount Hours Changea
+Wives
+Not adjusting hours
+Reducing hours
+Increasing hours
+Husbands
+Not adjusting hours
+Reducing hours
+Increasing hours
+Division of Childcare Labor During Normal Work Hours
+Wives
+Doing all childcare during work hours
+Having mini-shifts throughout day while both are remote
+Both remote alternating watching child with spouse based on meetings
+Alternating working days with spouse
+Doing most of the childcare except occasional relief
+Full outsourcing
+Staggering shiftwork
+Doing all childcare when it is not outsourced
+Doing none of the childcare
+Only providing occasional childcare relief
+Doing none of the childcare when it is not outsourced
+Could not decipher from response
+Husbands
+Doing none of the childcare
+Having mini-shifts throughout day while both are remote
+Both remote alternating watching child with spouse based on meetings
+Alternating working days with spouse
+Only providing occasional childcare relief
+Full outsourcing
+Staggering shiftwork
+Doing none of the childcare when it is not outsourced
+Doing all childcare during work hours
+Doing most of the childcare except occasional relief
+Doing all childcare when it is not outsourced
+Could not decipher from response
+a
+
+We only coded a change in work hours if the person explicitly mentioned this. We did not assume it otherwise.
+
+Frequency (%)
+
+180 (65.7%)
+59 (21.5%)
+9 (3.3%)
+7 (2.6%)
+7 (2.6%)
+12 (4.4%)
+122 (44.5%)
+116 (42.3%)
+9 (3.3%)
+8 (2.9%)
+7 (2.6%)
+12 (4.4%)
+191 (69.7%)
+42 (15.3%)
+14 (5.1%)
+9 (3.3%)
+6 (2.2%)
+6 (2.2%)
+6 (2.2%)
+189 (69.0%)
+75 (27.4%)
+10 (3.6%)
+197 (71.9%)
+59 (21.5%)
+18 (6.6%)
+186 (67.9%)
+83 (30.3%)
+5 (1.8%)
+190 (69.3%)
+70 (25.5%)
+14 (5.1%)
+57 (20.8%)
+41 (15.0%)
+37 (13.5%)
+28 (10.2%)
+22 (8.0%)
+21 (7.7%)
+13 (4.7%)
+12 (4.4%)
+9 (3.3%)
+5 (1.8%)
+3 (1.1%)
+26 (9.5%)
+57 (20.8%)
+41 (15.0%)
+37 (13.5%)
+28 (10.2%)
+22 (8.0%)
+21 (7.7%)
+13 (4.7%)
+12 (4.4%)
+9 (3.3%)
+5 (1.8%)
+3 (1.1%)
+26 (9.5%)
+
+COUPLES WORK-FAMILY STRUGGLES DURING COVID-19
+
+21
+
+Table 3
+LCA Fit Statistics
+Number of classes
+
+This document is copyrighted by the American Psychological Association or one of its allied publishers.
+This article is intended solely for the personal use of the individual user and is not to be disseminated broadly.
+
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+
+class
+classes
+classes
+classes
+classes
+classes
+classes
+classes
+classes
+classes
+
+LL
+
+FP
+
+AIC
+
+C-AIC
+
+BIC
+
+SSA-BIC
+
+LMR (p)
+
+BLRT (p)
+
+Entropy
+
+⫺2581.52
+⫺2228.75
+⫺2043.27
+⫺1923.75
+⫺1842.12
+⫺1781.41
+⫺1713.82
+⫺1667.20
+⫺1628.43
+⫺1591.14
+
+38
+77
+116
+155
+194
+233
+272
+311
+350
+389
+
+5239.04
+4611.51
+4318.55
+4157.51
+4072.25
+4028.81
+3971.64
+3956.41
+3956.86
+3960.28
+
+5277.04
+4688.51
+4434.55
+4312.51
+4266.25
+4261.81
+4243.64
+4267.41
+4306.86
+4349.28
+
+5376.34
+4889.72
+4737.67
+4717.54
+4773.20
+4870.67
+4954.41
+5080.09
+5221.46
+5365.79
+
+5255.85
+4645.57
+4369.86
+4226.07
+4158.07
+4131.88
+4091.96
+4093.98
+4111.68
+4132.36
+
+N/A
+⬍.001
+.77
+.77
+.84
+.77
+.77
+.82
+.76
+.86
+
+N/A
+⬍.001
+⬍.001
+⬍.001
+⬍.001
+⬍.001
+⬍.001
+⬍.001
+⬍.001
+⬍.001
+
+N/A
+.945
+.941
+.949
+.953
+.943
+.951
+.956
+.963
+.968
+
+Note. N ⫽ 274. LCA ⫽ latent class analysis; LL ⫽ log-likelihood; FP ⫽ free parameters; AIC ⫽ Akaike information criterion; C-AIC ⫽ consistent
+Akaike information criterion (calculated as the number of free parameters plus the BIC value); BIC ⫽ Bayesian information criterion; SSA-BIC ⫽
+sample-size-adjusted BIC; LMR ⫽ Lo, Mendell, and Rubin (2001) adjusted LRT test; BLRT ⫽ bootstrapped log-likelihood ratio test.
+
+felt this restriction was important for clarity in data interpretation.4
+The final n for the outcome analyses was 133. Descriptive statistics
+and correlations for all study variables are presented in Table 5.
+Before running the LCA analyses, we examined potential control variables (number of children, household income, age, and
+spousal age difference) due to their implications for how couples
+divide labor as well as well-being outcomes. Classes were only
+significantly different for income (mean income of each class is
+listed in Table 4). We thus controlled for income in all analyses by
+regressing the dependent variable of interest on income and using
+the residuals in the LCA analysis (Bennett et al., 2016). However,
+for interpretation purposes we reported the means of the original
+variables (not residuals). Chi-square tests for overall significant
+differences across classes and significance values are from analyses using residuals. Results are shown in Table 6.
+There were significant differences in all outcomes except husbands’ sleep hours and husbands’ general job performance. For
+relationship outcomes, both husbands and wives in the Wife Remote Doing Most group tended to fare among the best, whereas
+both husbands and wives in the Wife Remote and Does It All group
+fared the worst. Remote Minishifts couples also had high relationship tension scores comparatively. For health outcomes, the Alternating Days group generally fared the best, with the highest sleep
+for both husbands and wives as well as the lowest or second lowest
+psychological distress. Finally, for job performance, trends tended
+to diverge by gender and type of performance. We elaborate more
+on these differences in the Discussion.
+
+Discussion
+In this study, we sought to examine if the strategies dual-earner
+couples are using to meet their competing work and childcare
+demands during COVID-19 reflect progress toward a more egalitarian division of labor or remain highly gendered, and the link
+between strategy choice and a range of outcomes. Even though the
+separation of the spheres of work and home had largely disintegrated, and men were much more likely to be physically
+present in their homes, we found evidence a substantial portion
+of couples were engaging in highly gendered strategies. This
+most commonly involved wives working remotely and taking
+on all childcare with little adjustment to husbands’ work roles,
+as well as similar scenarios wherein husbands pitched in with
+
+childcare occasionally (e.g., one day a week or during an
+important meeting for the wife). Even when some outsourcing
+was available, the remainder of childcare mostly fell on wives.
+This evidence confirms anecdotal reports of the persistent gendered division of labor during COVID-19.
+Further concerning is that for many of the outcomes, women in
+the most lopsided and common category (Wife Remote and Does It
+All) experienced the least favorable outcomes of all classes, including lowest family cohesion, highest relationship tension, and
+lowest job performance by both metrics. This is somewhat a
+departure from research described previously, where results were
+not consistently poorer for those doing all the labor. It may be due
+in part to the fact that doing all of the childcare equates to many
+more childcare hours overall than when childcare was outsourced
+during work hours. Men in these couples were not immune to
+negative outcomes, as they also experienced the lowest family
+cohesion and highest relationship tension. Although their work
+situations seemed minimally altered, job performance was rather
+low compared to many of the other classes as well. Perhaps these
+men are less focused at work due to marital strife resulting from
+the increased WF burdens falling on their wives.
+There are several practical implications of these findings. With
+regards to the counterintuitive performance findings, it is important for companies to understand that withholding flexibility from
+parents affects the entire couple—not just the member who picks
+up the slack. From a societal standpoint, these results raise serious
+concerns about potential setbacks in women’s career advancement.
+Moreover, for couples who find themselves in a situation where
+the wife can work remote and the husband cannot, our findings
+suggest that they will fare considerably better if the husband
+actively provides some relief by taking an occasional day off or
+cutting hours short to support his remote partner. In fact, both
+husbands and wives in the Wife Remote and Doing Most class had
+significantly better relationship outcomes and relative job performance compared to those in the Wife Remote and Doing It All
+class.
+In addition to gendered strategies, multiple unique egalitarian
+strategies emerged. We focus most of our discussion on these
+4
+Classes did not differ significantly on the extent to which they followed
+plans. ␹2(6) ⫽ 7.14, p ⫽ .31.
+
+Husband not
+remote and
+outsourcing
+fully or
+partially
+outsourcing
+with wife
+filling in gap
+13.3%
+$132,597
+
+Alternating
+working days
+while not
+remote and
+reducing hours
+13.5%
+$131,966
+
+Egalitarian
+remote workers
+with daily
+need-based
+alternation
+without
+reducing work
+hours
+14.4%
+$155,984
+
+Egalitarian
+remote workers
+with planned
+mini-shifts
+16.6%
+$180,1331
+
+Working remote (.89)
+
+Wife remote and
+does it all
+22.2%
+$109,518
+Not working remote
+(.93)
+
+Husband
+No help (.81)
+
+Outside Help
+No change (.79)
+
+Wife
+No change (.96)
+
+Husband
+
+Shift Change
+
+No change (.71)
+or Reducing
+hours (.27)
+
+Wife
+No change (.70)
+
+Husband
+
+Amount Hours Change
+
+Doing all (1.0)
+
+Wife
+
+Doing none (1.0)
+
+Husband
+
+Division of labor Specifics
+
+Working remote (.93)
+
+No help (.85)
+
+Informally
+changing shift
+(.57) or no
+change (.41)
+Informally
+changing shift
+(.52) or no
+change (.48)
+No change (.66)
+or reducing
+hours (.35)
+No change (.65)
+or reducing
+hours (.35)
+
+Taking minishifts throughout
+the day while
+remote (1.0)
+
+Taking minishifts throughout
+the day while
+remote (1.0)
+
+Working remote (.95)
+
+No help (.95)
+
+Informally
+changing shift
+(.58) or no
+change (.42)
+Informally
+changing shift
+(.52) or no
+change (.48)
+No change (.95)
+
+No change (.91)
+
+Alternating who
+does childcare
+based on
+meetings,
+deadlines, or
+child-needs (1.0)
+
+Alternating who
+does childcare
+based on
+meetings,
+deadlines, or
+child-needs (1.0)
+
+Not working remote
+(.54)
+
+No help (.54)
+
+No change (.84)
+
+No change (.80)
+
+Reducing hours
+(.71)
+
+Reducing hours
+(.56) or No
+change (.45)
+
+Not working remote
+(.84)
+
+Relative/friend
+helping fulltime (.38) or
+Relative/friend
+helping parttime (.36)
+
+No change (.89)
+
+No change (1.0)
+
+No change (.74)
+
+No change (.63)
+or Reducing
+hours (.33)
+
+“We will see if my parents can provide additional assistance and [the wife] will try to work and watch the kids.”
+
+“We have my mother watching our twins in Louisiana during the work week & we drive from Texas to Louisiana on the weekends to visit.”
+
+Not working remote
+(.52) or Working
+remote (.39)
+
+“We are alternating work days. My wife works Monday/Wednesday, I work Tuesday/Thursday. We split Friday. We are both cutting back on our hours.”
+
+Not working remote
+(.43)
+
+Fully outsourcing
+(.64) or doing all
+childcare of the
+portion not
+outsourced (.36)
+
+Alternating
+working days
+with spouse (1.0)
+
+(table continues)
+
+Fully outsourcing
+(.64) or doing
+none of the
+childcare not
+outsourced (.36)
+
+Alternating
+working days
+with spouse (1.0)
+
+“We take turns working in the home office while the other entertains the kids. We both work reduced hours during the day and finish our work at night.”
+“We set a schedule each morning and then we rotate work and being with our children. Whenever I can take the infant while also working (e.g., conference calls), I do that. My partner gets up early
+to complete work and I typically stay up late.”
+
+Working remote (.95)
+
+“We are planning to take 2–3 hour shifts as needed, triage and complete only essential projects as needed, and work after our children go to bed or on the weekends if necessary.”
+“We will get some help from my parents (maybe 1–2 days/week). We will do split shifts on the other days (4 hours each) and probably take a lot of emergency/sick/vacation time and/or unpaid
+leave.”
+
+Working remote (.95)
+
+“I am working remotely from home and also caring for my 6-month [old] twins and homeschooling my 9-year-old daughter. My husband works outside of the home.”
+“I must continue to go into work as it’s deemed an essential business, so my spouse is currently conducting meetings with our son playing in the background and doing what work she can late at
+night or early in the morning when he is asleep.”
+
+Wife
+
+Remote Work
+
+Class label
+
+Table 4
+Descriptions of LCA Classes
+
+This document is copyrighted by the American Psychological Association or one of its allied publishers.
+This article is intended solely for the personal use of the individual user and is not to be disseminated broadly.
+
+22
+SHOCKLEY, CLARK, DODD, AND KING
+
+Note. LCA ⫽ latent class analysis. Values in parentheses are odds ratios associated with being in that class and having the listed code. Any code that had a .25 or higher odds ratio for a given class
+was reported. $ indicates mean household income in USD for that class.
+
+“I will primarily work from home remotely while homeschooling and entertaining my children. [My husband] will occasionally work from home on days I have meetings that are extremely important
+so he can take care of our children.”
+
+Providing only
+occasional
+childcare
+relief (1.0)
+Doing most of
+the childcare
+except
+occasional
+relief (1.0)
+No change (.76)
+No change (.72)
+or reducing
+hours (.28)
+No change (.71)
+No change (.81)
+No help (.88)
+Not working remote
+(.29) or working
+remote (.45)
+Working remote (1.0)
+Wife remote and
+husband
+pitches in on
+occasion
+9.6%
+$157,069
+
+“We are trying to have alternating schedules. [The husband] will work during the night while she watches our son and she will work during the day while [the husband] watches our son.”
+“We don’t have childcare and [the wife] still [has] to go to work so my husband is managing his job remotely while taking care of our daughter.”
+
+Staggering
+shiftwork
+(.59) or doing
+all of the
+childcare (.41)
+Staggering
+shiftwork (.59)
+or doing none
+of the
+childcare (.41)
+No change (.79)
+No change (.65)
+or Reducing
+hours (.28)
+Informally
+changing
+shift (.47) or
+No change
+(.28)
+No change (.75)
+No help (.72)
+Not working remote
+(.76)
+Wife not remote
+and staggering
+shiftwork or
+husband does
+childcare
+10.4%
+$130,556
+
+Working remote (.54)
+or Not working
+remote (.46)
+
+Husband
+Wife
+Husband
+
+Amount Hours Change
+Shift Change
+
+Wife
+Wife
+Class label
+
+Table 4 (continued)
+
+Remote Work
+
+Husband
+
+Outside Help
+
+Wife
+
+Husband
+
+This document is copyrighted by the American Psychological Association or one of its allied publishers.
+This article is intended solely for the personal use of the individual user and is not to be disseminated broadly.
+
+Division of labor Specifics
+
+COUPLES WORK-FAMILY STRUGGLES DURING COVID-19
+
+23
+
+strategies given their novelty and additional nuance than those
+mentioned in previous typologies. Two of these (Remote Minishifts, Remote Need-Based Alternating) occurred when both
+members of the couple were working remotely. This lends
+support to the idea that the removal of separate spheres and
+physical embeddedness of men in family spaces may facilitate
+equality. Moreover, although these two strategies appear similar on the surface, they differ in regard to the specific manner
+in which couples were trading off watching children. In one
+class, partners scheduled minishifts (e.g., one person works
+mornings and the other works afternoons). With this process
+came a natural reduction in work hours for both partners for
+many members of this class. In the other class, scheduling was
+not as rigid and varied based on children’s needs and partners’
+immediate work obligations and work hours were not reduced.
+These distinct strategies resulted in some outcome differences,
+most notably job performance. Husbands in the Remote Minishifts class reported significantly lower relative job performance than the Remote Need-Based Alternating and these couples had the lowest couple-level relative job performance of all
+classes. Wives’ performance was relatively low as well, though
+not significantly different than the Remote Need-Based Alternating class, and within the Remote Minishifts husbands’ performance suffered more than their wives.
+The third unique egalitarian strategy (Alternating Days)
+tended to occur when neither the wife nor husband were working remotely and were in jobs where they could each work
+different days, which resulted in an overall reduction of hours
+for both people. Comparing this strategy to the two other
+egalitarian strategies, this group seemed to fare the best. They
+had favorable means on all outcomes and wives performed
+significantly better than the Remote Minishifts and had lower
+psychological distress than both remote egalitarian groups.
+Couple-level summed performance and psychological distress
+were also more favorable. Finally, the Outsourcing Fully strategy was also egalitarian in the sense that neither member of the
+couple was primarily responsible for childcare, allowing both to
+maintain adequate levels of performance. This study provides
+empirical support for implementation of the Outsourcing Fully
+WF management strategy, which heretofore has been primarily
+conceptual (Masterson & Hoobler, 2015).
+From a practical standpoint, our findings suggest that although it varies somewhat by specific outcome, Alternating
+Days may be the best strategy for couples, especially those who
+are not working remotely. It preserves well-being while maintaining adequate levels of performance. Speculatively, by virtue
+of alternating, both people in these couples were essentially
+able to keep work and family segmented, which has been linked
+to better health and performance outcomes (e.g., Kinnunen et
+al., 2016; Smit et al., 2016). From a theoretical sense, this
+suggests that it may not so much be the separation of gender
+spheres but rather the separation of work and family life that
+helps couples thrive. It is important to note that this strategy
+may not be an option for all job types or for all couples if it
+results in income loss, although it does suggest that organizations might reconsider requiring workers to report every day
+during the pandemic. They may perform just as well while
+being less distressed under this arrangement versus one where
+they try to work every day. Public policy could help achieve
+
+Variable
+
+Husband’s age
+Wife’s age
+Total income
+Child under 6
+Child under 18
+Family cohes- w
+Family cohes- h
+Tension- w
+Tension- h
+Sleep- w
+Sleep- h
+Total sleep
+Distress- w
+Distress- h
+Total distress
+General job perf- w
+General job perf- h
+Total general job perf
+Relative job perf- w
+Relative job perf- h
+Total relative job perf
+Followed plan- w
+
+1
+
+2
+
+3
+
+—
+—
+.75ⴱⴱ
+.01
+.10
+—
+.06
+⫺0.01
+.04
+.14
+.13
+⫺.01
+⫺.05
+⫺.06
+.08
+⫺.04
+⫺.05
+⫺.07
+.09
+.12
+.02
+⫺.06
+⫺.02
+⫺.04
+⫺.17
+⫺.16
+.04
+⫺.05
+⫺.06
+.09
+⫺.14
+⫺.14
+.08
+⫺.05
+⫺.16
+⫺.06
+⫺.04
+⫺.07
+⫺.03
+⫺.05
+⫺.13
+⫺.05
+⫺.08
+⫺.01
+.03
+.05
+0.00
+⫺.12
+⫺.02
+0.00
+⫺.05
+⫺.02
+⫺.06
+.05
+.12
+⫺.09
+.25ⴱⴱ
+.15
+.03
+⫺.02
+.05
+.07
+⫺.06
+36.33
+34.81 140.70
+6.63
+5.78 72.15
+—
+.46ⴱⴱ
+⫺.04
+⫺.15
+.18ⴱ
+.09
+⫺.13
+⫺.17ⴱ
+⫺.19ⴱ
+.10
+.05
+.09
+0.00
+.07
+.04
+.01
+⫺.13
+⫺.08
+⫺.15ⴱ
+1.36
+.56
+
+4
+
+—
+0.00
+⫺.08
+.03
+⫺.01
+⫺.18ⴱ
+⫺.14
+⫺.20ⴱ
+.01
+⫺.02
+⫺.01
+.02
+.14
+.09
+⫺.03
+⫺.04
+⫺.04
+⫺.05
+1.84
+.82
+
+5
+
+(.79)
+.56ⴱⴱ
+⫺.64ⴱⴱ
+⫺.35ⴱⴱ
+.15
+.06
+.14
+⫺.27ⴱⴱ
+⫺.20ⴱ
+⫺.27ⴱⴱ
+.40ⴱⴱ
+.24ⴱⴱ
+.39ⴱⴱ
+.31ⴱⴱ
+.16
+.30ⴱⴱ
+.16
+4.07
+.73
+
+6
+
+(.73)
+⫺.55ⴱⴱ
+⫺.50ⴱⴱ
+.15
+.20ⴱ
+.22ⴱ
+⫺.25ⴱⴱ
+⫺.26ⴱⴱ
+⫺.29ⴱⴱ
+.24ⴱⴱ
+.25ⴱⴱ
+.29ⴱⴱ
+.14
+.20ⴱ
+.22ⴱ
+.25ⴱⴱ
+4.09
+.68
+
+7
+
+(.85)
+.57ⴱⴱ
+⫺.17ⴱ
+⫺.15
+⫺.21ⴱ
+.48ⴱⴱ
+.30ⴱⴱ
+.45ⴱⴱ
+⫺.44ⴱⴱ
+⫺.22ⴱ
+⫺.41ⴱⴱ
+⫺.34ⴱⴱ
+⫺.31ⴱⴱ
+⫺.42ⴱⴱ
+⫺.12
+2.20
+.96
+
+8
+
+(.83)
+⫺.01
+⫺.27ⴱⴱ
+⫺.18ⴱ
+.25ⴱⴱ
+.41ⴱⴱ
+.37ⴱⴱ
+⫺.18ⴱ
+⫺.31ⴱⴱ
+⫺.30ⴱⴱ
+⫺.21ⴱ
+⫺.32ⴱⴱ
+⫺.34ⴱⴱ
+⫺.10
+1.77
+.81
+
+9
+
+—
+.21ⴱ
+.79ⴱⴱ
+⫺.22ⴱ
+⫺.10
+⫺.18ⴱ
+.08
+⫺.01
+.04
+⫺.01
+⫺.06
+⫺.05
+.08
+6.56
+1.17
+
+10
+
+12
+
+—
+.77ⴱⴱ
+—
+⫺.05
+⫺.18ⴱ
+⫺.25ⴱⴱ ⫺.22ⴱ
+⫺.17
+⫺.23ⴱⴱ
+⫺.04
+.02
+.09
+.05
+.02
+.04
+.04
+.02
+.09
+.02
+.08
+.02
+⫺.07
+.01
+6.76
+13.32
+1.13
+1.79
+
+11
+
+(.92)
+.51ⴱⴱ
+.88ⴱⴱ
+⫺.40ⴱⴱ
+⫺.25ⴱⴱ
+⫺.40ⴱⴱ
+⫺.20ⴱ
+⫺.30ⴱⴱ
+⫺.32ⴱⴱ
+⫺.07
+2.11
+.82
+
+13
+
+(.92)
+.86ⴱⴱ
+⫺.18ⴱ
+⫺.49ⴱⴱ
+⫺.40ⴱⴱ
+⫺.16
+⫺.36ⴱⴱ
+⫺.34ⴱⴱ
+⫺.18ⴱ
+1.83
+.75
+
+14
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+—
+⫺.34ⴱⴱ (.84)
+⫺.42ⴱⴱ .36ⴱⴱ (.86)
+⫺.46ⴱⴱ .84ⴱⴱ .81ⴱⴱ
+—
+⫺.21ⴱ
+.38ⴱⴱ .34ⴱⴱ .44ⴱⴱ
+—
+⫺.38ⴱⴱ .26ⴱⴱ .51ⴱⴱ .46ⴱⴱ
+.21ⴱ
+—
+⫺.38ⴱⴱ .41ⴱⴱ .54ⴱⴱ .58ⴱⴱ
+.78ⴱⴱ
+.77ⴱⴱ
+—
+⫺.14
+.13
+.30ⴱⴱ .25ⴱⴱ
+.11
+.30ⴱⴱ
+.26ⴱⴱ —
+3.93
+3.77
+3.98
+7.76
+77.33
+81.47
+158.79
+7.48
+1.36
+.72
+.67
+1.14
+19.93
+19.73
+30.82
+2.44
+
+15
+
+Note. Reliability information is located on the diagonal. Child under 6 ⫽ the number of children in the household under the age of 6; Child under 18 ⫽ the number of children in the household under
+the age of 18. A variable followed by a “w” refers to the wife’s report of said variable. A variable followed by a “h” refers to the husband’s report of said variable. Family cohes ⫽ family cohesion;
+Tension ⫽ relationship tension; Sleep ⫽ sleep quantity in hours; Total sleep ⫽ sleep quantity in hours summed across the couple; Emotional exhaust ⫽ emotional exhaustion; Total emotional exhaust ⫽
+emotional exhaustion summed across the couple; Distress ⫽ psychological distress; Total distress ⫽ psychological distress summed across the couple; General job perf ⫽ general job performance;
+Total general job perf ⫽ general job performance summed across the couple; Relative job perf ⫽ relative job performance; Total relative job perf ⫽ relative job performance summed across the couple;
+Followed plan ⫽ how well the plan was followed.
+ⴱ
+p ⬍ .05. ⴱⴱ p ⬍ .01.
+
+1.
+2.
+3.
+4.
+5.
+6.
+7.
+8.
+9.
+10.
+11.
+12.
+13.
+14.
+15.
+16.
+17.
+18.
+19.
+20.
+21.
+22.
+M
+SD
+
+Table 5
+Means, Standard Deviations, and Correlations
+
+This document is copyrighted by the American Psychological Association or one of its allied publishers.
+This article is intended solely for the personal use of the individual user and is not to be disseminated broadly.
+
+24
+SHOCKLEY, CLARK, DODD, AND KING
+
+COUPLES WORK-FAMILY STRUGGLES DURING COVID-19
+
+25
+
+Table 6
+LCA Results Linking Class Membership to Outcomes, Controlling for Income
+
+This document is copyrighted by the American Psychological Association or one of its allied publishers.
+This article is intended solely for the personal use of the individual user and is not to be disseminated broadly.
+
+Outcome
+Family Cohesion
+Wife
+Husband
+Relationship Tension
+Wife
+Husband
+Sleep Hours
+Wife
+Husband
+Total
+Psychological
+Distress
+Wife
+Husband
+Total
+General Job
+Performance
+Wife
+Husband
+Total
+Relative Job
+Performance
+Wife
+Husband
+Total
+
+Wife remote
+and does it
+all (A)
+
+Wife remote
+and husband
+pitches in
+on occasion
+(B)
+
+Husband not
+remote and
+outsourcing
+fully or
+partially
+outsourcing
+with wife
+filling in
+gaps (C)
+
+Alternating
+working
+days while
+not remote
+& reducing
+hours (D)
+
+Wife not remote
+and staggering
+shiftwork or
+husband does
+childcare (E)
+
+Egalitarian
+remote
+workers
+with
+planned
+mini-shifts
+(F)
+
+Egalitarian
+remote
+workers
+with daily
+need-based
+alternation
+without
+reducing
+hours (G)
+
+Overall
+Chi-Square
+
+3.68BDFG
+3.71BDEFG
+
+4.46AE
+4.51ACEF
+
+4.02
+4.00BD
+
+4.38A
+4.40AC
+
+3.95B
+4.07AB
+
+4.24A
+4.07AB
+
+4.20A
+4.30A
+
+18.48ⴱⴱ
+26.26ⴱⴱ
+
+2.61BCDEG
+2.08BC
+
+1.78AF
+1.29ADEFG
+
+1.82AF
+1.40AF
+
+2.05A
+1.73B
+
+2.05A
+1.72B
+
+2.57BC
+2.06BC
+
+2.06A
+1.73B
+
+16.02ⴱ
+23.77ⴱⴱ
+
+6.31D
+6.50D
+12.82D
+
+6.04DF
+6.71
+12.73D
+
+6.40D
+6.54D
+12.98D
+
+7.22ABCE
+7.32AC
+14.47ABCE
+
+6.27D
+6.89
+13.15D
+
+6.99B
+6.88
+13.86
+
+6.72
+6.74
+13.44
+
+15.01ⴱ
+6.46
+12.79ⴱ
+
+2.27D
+1.75BE
+4.03BD
+
+1.80EF
+1.40AEFG
+3.20AEF
+
+2.04D
+1.77
+3.83D
+
+1.54ACEFG
+1.58E
+3.08ACEFG
+
+2.46BD
+2.25ABD
+4.70BD
+
+2.33BD
+1.92B
+4.27BD
+
+1.98D
+1.92B
+3.89D
+
+25.11ⴱⴱ
+17.19ⴱⴱ
+23.39ⴱⴱ
+
+3.47CDE
+4.06
+7.52D
+
+3.76D
+4.25F
+7.91
+
+3.94A
+4.12
+8.05
+
+4.23ABFG
+4.01
+8.27AF
+
+3.97A
+3.92
+7.93
+
+3.59D
+3.73B
+7.32D
+
+3.73D
+3.87
+7.61
+
+18.45ⴱⴱ
+5.81
+10.41
+
+69.34BE
+80.35BC
+149.55BCE
+
+85.77AF
+94.49ADEFG
+180.06ADFG
+
+78.43
+89.24AF
+167.76AF
+
+79.83
+80.82B
+160.43BF
+
+83.69AF
+83.01BF
+167.12AF
+
+72.42BE
+65.78BCEG
+137.92BCDEG
+
+79.76
+82.39BF
+162.37BF
+
+12.23
+33.48ⴱⴱ
+27.74ⴱⴱ
+
+Note. LCA ⫽ latent class analysis. The mean values of outcomes for different classes are reported. Superscripts indicate profiles that are significantly
+different from each other at least at p ⬍ .05. For example, for husbands, the Alternating Working Days While Not Remote and Reducing Hours group is
+significantly different in sleep hours than the Wife Remote and Does it All and the Husband Not Remote and Outsourcing Fully or Partially Outsourcing
+with Wife Filling in Gaps groups, but the Wife Remote and Husband Pitches in on Occasion, Wife Not Remote and Staggering Shiftwork or Husband Does
+Childcare, Egalitarian Remote Workers With Planned Mini-shifts, and the Egalitarian Remote Workers with Daily Need-Based Alternation Without
+Reducing Hours groups are not significantly different from one another. Mean differences between classes should only be interpreted when the overall
+chi-square statistic is significant.
+ⴱ
+p ⬍ .05. ⴱⴱ p ⬍ .01.
+
+this as well by supplementing incomes or providing flexibility
+mandates.
+Also intertwined in strategy choice is the location of work.
+Many workers were required to work remotely due to state
+mandated closures, and in that case, were less likely to adopt
+the Alternating Days strategy. Given projections that location
+flexibility is here to stay (Ozimek, 2020) many couples may
+find themselves both working remotely in the future. In this
+case when both people are working remotely, our results suggest that couples would be advised to adopt a more flexible
+approach (e.g., Remote Need-Based Alternating) rather than
+rigid minishift schedule. It is unclear which mechanisms are
+driving the differences. Speculatively, it may be enhanced
+communication that this strategy requires, the fact that couples
+are more responsive to each other’s needs and that reduces
+marital tension (indeed there was a trend for lower marital
+tension in the Remote Need-Based Alternating class), or having
+a shared meaning of the situation—a key component the Double
+ABCX theory (e.g., Weber, 2011). Future research would ben-
+
+efit from testing these mechanisms to derive even more specific
+recommendations.
+Our results must be interpreted in light of a few limitations.
+First, our sample had a high average income, drawing into
+question its broader generalizability to lower income workers.
+We also used self-report measures of job performance, which
+can be prone to inflation (DeNisi & Murphy, 2017). Third, we
+were focused on the very narrow context of COVID-19. However, we believe our results still have important implications for
+couples in other situations that share some features of the
+pandemic, including extreme weather where schools and daycares may close but workplaces still require remote work,
+situations where children have a disability or chronic illness and
+cannot attend typical childcare arrangements, or even parents
+facing long daycare waitlists (e.g., Shellenbarger, 2010) and
+must manage work with an infant at home.
+In closing, our research presents a rare glimpse into how dualearner couples manage childcare during a crisis situation when the
+typical fallbacks are not available. The results suggest that, even in
+
+SHOCKLEY, CLARK, DODD, AND KING
+
+This document is copyrighted by the American Psychological Association or one of its allied publishers.
+This article is intended solely for the personal use of the individual user and is not to be disseminated broadly.
+
+26
+
+the context of an unprecedented crisis when the spheres of work
+and home were overlapping for men and women, gendered patterns of childcare responsibilities persist. It has been argued that
+the conditions of the pandemic offered an opportunity for fathers
+to engage more fully with their family roles and to shift the balance
+in gender role expectations. Instead, the data presented here suggest that the burden of intensive, unexpected, and ongoing childcare responsibilities is disproportionately falling on mothers. Yet
+when parents did create more novel and egalitarian strategies for
+managing childcare in the crisis, particularly by alternating work
+days, their performance and well-being were preserved. Such
+novel solutions may be precisely those that help families and
+organizations move forward in a post-COVID reality.
+
+References
+Abramis, D. J. (1994). Relationship of job stressors to job performance:
+Linear or an inverted-U? Psychological Reports, 75(1), 547–558. https://
+doi.org/10.2466/pr0.1994.75.1.547
+Altman, N. G., Izci-Balserak, B., Schopfer, E., Jackson, N., Rattanaumpawan, P., Gehrman, P. R., . . . Grandner, M. A. (2012). Sleep duration
+versus sleep insufficiency as predictors of cardiometabolic health outcomes. Sleep Medicine, 13(10), 1261–1270. https://doi.org/10.1016/j
+.sleep.2012.08.005
+Asparouhov, T., & Muthén, B. (2014). Auxiliary variables in mixture modeling: Three-step approaches using M plus. Structural Equation Modeling,
+21(3), 329 –341. https://doi.org/10.1080/10705511.2014.915181
+Becker, P. E., & Moen, P. (1999). Scaling back: Dual-earner couples’
+work-family strategies. Journal of Marriage and the Family, 61(4),
+995–1007. Retrieved from http://www.jstor.com/stable/354019. https://
+doi.org/10.2307/354019
+Bennett, A. A., Gabriel, A. S., Calderwood, C., Dahling, J. J., & Trougakos, J. P. (2016). Better together? Examining profiles of employee
+recovery experiences. Journal of Applied Psychology, 101(12), 1635–
+1654. https://doi.org/10.1037/apl0000157
+Birditt, K. S., Wan, W. H., Orbuch, T. L., & Antonucci, T. C. (2017). The
+development of marital tension: Implications for divorce among married
+couples. Developmental Psychology, 53(10), 1995–2006. https://doi.org/
+10.1037/dev0000379
+Blair-Loy, M. (2003). Competing devotions: Career and family among
+women executives. Harvard University Press.
+Charlton, E. (2020, June 4). Covid-19 lockdown hits working mothers
+harder than fathers. World Economic Forum. Retrieved from https://
+www.weforum.org/agenda/2020/06/covid19-lockdown-workingmothers-gender-gap/
+Cohen, P., & Hsu, T. (2020, June 3). Pandemic could scar a generation of
+working mothers. The New York Times. Retrieved from https://www
+.nytimes.com/2020/06/03/business/economy/coronavirus-workingwomen.html
+Davis, S. N., & Greenstein, T. N. (2009). Gender ideology: Components,
+predictors, and consequences. Annual Review of Sociology, 35, 87–105.
+https://doi.org/10.1146/annurev-soc-070308-115920
+DeNisi, A. S., & Murphy, K. R. (2017). Performance appraisal and performance management: 100 years of progress? Journal of Applied Psychology, 102, 421– 433. https://doi.org/10.1037/apl0000085
+Eagly, A. H. (1987). Sex differences in social behavior: A social-role
+interpretation. Erlbaum.
+Eby, L. T., Mitchell, M., & Zimmerman, L. (2015). Work and family in
+times of crisis. In T. D. Allen & L. T. Eby (Eds.), The Oxford handbook
+of work and family (pp. 417– 430). Oxford University Press.
+Gabriel, A. S., Campbell, J. T., Djurdjevic, E., Johnson, R. E., & Rosen,
+C. C. (2018). Fuzzy profiles: Comparing and contrasting latent profile
+analysis and fuzzy set qualitative comparative analysis for person-
+
+centered research. Organizational Research Methods, 21(4), 877–904.
+https://doi.org/10.1177/1094428117752466
+Guynn, J. (2020, May 17). Coronavirus child care crisis tops concerns
+as nation pushes to reopen. Parents ask: Who will watch our children?
+USA Today. Retrieved from https://www.usatoday.com/story/money/
+2020/05/17/coronavirus-childcare-america-reopening-trump-fauci/
+5194811002/
+Haines, E. L., Deaux, K., & Lofaro, N. (2016). The times they are
+a-changing . . . or are they not? A comparison of gender stereogypes,
+1983–2014. Psychology of Women Quarterly, 40(3), 353–363. https://
+doi.org/10.1177/0361684316634081
+Hall, S. S., & MacDermid, S. M. (2009). A typology of dual earner
+marriages based on work and family arrangements. Journal of Family
+and Economic Issues, 30(3), 215–225. https://doi.org/10.1007/s10834009-9156-9
+Hickman, A., & Saad, L. (2020, May 22). Reviewing remote work in the
+U.S. under COVID-19. Gallup. Retrieved from https://news.gallup.com/
+poll/311375/reviewing-remote-work-covid.aspx
+Hill, R. (1958). Generic features of families under stress. Social Casework,
+49(2), 139 –150. https://doi.org/10.1177/1044389458039002-318
+Huffman, A. H., Matthews, R. A., & Irving, L. H. (2017). Family fairness
+and cohesion in marital dyads: Mediating processes between work–
+family conflict and couple psychological distress. Journal of Occupational and Organizational Psychology, 90(1), 95–116. https://doi.org/10
+.1111/joop.12165
+Kerber, L. (1988). Separate spheres, female worlds, woman’s place: The
+rhetoric of women’s history. The Journal of American History, 75(1),
+9 –39. https://doi.org/10.2307/1889653
+Kessler, R. C., Andrews, G., Colpe, L. J., Hiripi, E., Mroczek, D. K.,
+Normand, S. L., . . . Zaslavsky, A. M. (2002). Short screening scales to
+monitor population prevalences and trends in non-specific psychological
+distress. Psychological Medicine, 32(6), 959 –976. https://doi.org/10
+.1017/S0033291702006074
+Kinnunen, U., Rantanen, J., de Bloom, J., Mauno, S., Feldt, T., & Korpela,
+K. (2016). The role of work–nonwork boundary management in work
+stress recovery. International Journal of Stress Management, 23(2),
+99 –123. https://doi.org/10.1037/a0039730
+Kitterød, R. H., & Lappegård, T. (2012). A typology of work-family
+arrangements among dual-earner couples in Norway. Family Relations,
+61(4), 671– 685. https://doi.org/10.1111/j.1741-3729.2012.00725.x
+Lee, J. C., Mervosh, S., Avila, Y., Harvey, B., & Matthews, A. L. (2020,
+August 24). See how all 50 states are reopening (and closing again). The
+New York Times. Retrieved from https://www.nytimes.com/interactive/
+2020/us/states-reopen-map-coronavirus.html
+Lukes, S. (2005). Power: A radical view. Palgrave Macmillan. https://
+voidnetwork.gr/wp-content/uploads/2016/09/Power-A-Radical-ViewSteven-Lukes.pdf
+Lo, Y., Mendell, N. R., & Rubin, D. B. (2001). Testing the number of
+components in a normal mixture. Biometrika, 88(3), 767–778.
+Masterson, C. R., & Hoobler, J. M. (2015). Care and career: A family
+identity-based typology of dual-earner couples. Journal of Organizational Behavior, 36(1), 75–93. https://doi.org/10.1002/job.1945
+Matthews, R. A., Del Priore, R. E., Acitelli, L. K., & Barnes-Farrell, J. L.
+(2006). Work-to-relationship conflict: Crossover effects in dual-earner
+couples. Journal of Occupational Health Psychology, 11(3), 228 –240.
+https://doi.org/10.1037/1076-8998.11.3.228
+McCubbin, H. I., & Patterson, J. M. (1983). The family stress process: The
+double ABCX model of adjustment and adaptation. Marriage & Family
+Review, 6(1–2), 7–37. https://doi.org/10.1300/J002v06n01_02
+Messerschmidt, J. W. (2018). Hegemonic masculinity: Formulation, reformulation, and amplification. Rowman & Littlefield.
+Muthén, L. K., & Muthén, B. O. (2015). MPlus for windows 7.31.
+Ozimek, A. (2020). The future of remote work. Upwork. Retrieved from
+https://content-static.upwork.com/blog/uploads/sites/6/2020/05/2613
+
+This document is copyrighted by the American Psychological Association or one of its allied publishers.
+This article is intended solely for the personal use of the individual user and is not to be disseminated broadly.
+
+COUPLES WORK-FAMILY STRUGGLES DURING COVID-19
+1624/Upwork_EconomistReport_FWR_052020.pdf https://doi.org/10
+.2139/ssrn.3638597
+Peugh, J., & Fan, X. (2013). Modeling unobserved heterogeneity using
+latent profile analysis: A Monte Carlo simulation. Structural Equation
+Modeling, 20(4), 616 – 639. https://doi.org/10.1080/10705511.2013
+.824780
+Pixley, J. E. (2008). Life course patterns of career-prioritizing decisions
+and occupational attainment in dual-earner couples. Work and Occupations, 35(2), 127–163. https://doi.org/10.1177/0730888408315543
+Rindskopf, D. (2009). Latent class analysis. In R. E. Millsap & A. MaydeuOlivares (Eds.), The sage handbook of quantitative methods in psychology (pp. 199 –215). Sage. https://doi.org/10.4135/9780857020994.n9
+Rollins, B. C., & Bahr, S. J. (1976). A theory of power relationships in
+marriage. Journal of Marriage and the Family, 38(4), 619 – 627. https://
+doi.org/10.2307/350682
+Shellenbarger, S. (2010, June 9). Day care? Take a number, baby. The Wall
+Street Journal. Retrieved from https://www.wsj.com/articles/SB100014
+24052748704256604575294523680479314
+Shockley, K. M., & Shen, W. (2016). Couple dynamics division of labor.
+In T. D. Allen & L. T. Eby (Eds.), The Oxford handbook of work and
+family (pp. 125–139). Oxford University Press.
+Sigurdardottir, H. M., & Garðarsdóttir, Ó. (2018). Backlash in gender
+equality? Fathers’ parental leave during a time of economic crisis.
+Journal of European Social Policy, 28(4), 342–356. https://doi.org/10
+.1177/0958928717739243
+Smit, B. W., Maloney, P. W., Maertz, C. P., Jr., & Montag-Smit, T. (2016).
+Out of sight, out of mind? How and when cognitive role transition
+
+27
+
+episodes influence employee performance. Human Relations, 69(11),
+2141–2168. https://doi.org/10.1177/0018726716636204
+Smith, K. (2020, March 18). Working moms among the hardest hit by
+coronavirus pandemic. CBS news. Retrieved from https://www
+.cbsnews.com/news/working-moms-among-hardest-hit-coronaviruspandemic/
+Sweet, S., & Moen, P. (2006). Advancing a career focus on work and
+family: Insights from the life course perspective. In M. Pitt-Catsouphes,
+E. E. Kossek, & S. Sweet (Eds.), The work and family handbook:
+Multi-disciplinary perspectives, methods, and approaches (pp. 189 –
+208). Erlbaum Publishers.
+Wang, M., & Hanges, P. J. (2011). Latent class procedures: Applications
+to organizational research. Organizational Research Methods, 14(1),
+24 –31. https://doi.org/10.1177/1094428110383988
+Weber, J. G. (2011). Individual and family stress and crises. Sage.
+West, C., & Zimmerman, D. H. (1987). Doing gender. Gender & Society,
+1(2), 125–151. https://doi.org/10.1177/0891243287001002002
+West, C., & Zimmerman, D. H. (2009). Accounting for doing gender. Gender &
+Society, 23(1), 112–122. https://doi.org/10.1177/0891243208326529
+Yogev, S., & Brett, J. (1985). Patterns of work and family involvement
+among single-and dual-earner couples. Journal of Applied Psychology,
+70(4), 754 –768. https://doi.org/10.1037/0021-9010.70.4.754
+Yu, T., Sengul, M., & Lester, R. H. (2008). Misery loves company: The
+spread of negative impacts resulting from an organizational crisis. The
+Academy of Management Review, 33(2), 452– 472. https://doi.org/10
+.5465/amr.2008.31193499
+
+Appendix
+List of Items Completed by Both Spouses
+Demographics
+• What is your gender?
+• What is your age?
+• What is your race/ethnicity? Please check all that apply.
+[Hispanic or Latino or Spanish Origin of any race, American Indian or Alaskan Native, Asian, Native Hawaiian or
+Other Pacific Islander, Black or African American, White,
+Other (please describe), Prefer not to disclose]
+• How many children do you have under 18 that primarily
+reside in your home?
+• How many children do you have under 6 that primarily
+reside in your home?
+• What is your annual income?
+
+Plan for Managing Childcare and Work Commitments
+The following set of questions ask about you and your spouse’s
+plan for managing work and family responsibilities during the
+COVID-19 outbreak
+• What is you and your spouse’s plan for dealing with both
+of your work commitments during the upcoming period
+when your normal childcare is disrupted? Please be as
+detailed as possible.
+
+• How will you have to adjust your work role during this
+time?
+• How will your spouse have to adjust his/her work role
+during this time?
+
+Implementation of Plan
+We previously asked you about you and your spouse’s plan for
+dealing with both of your work commitments during the pandemic
+when your normal childcare was disrupted. You stated your plan
+was [insert text with participant’s response at Time 1].
+• We’d like you to rate how well you followed that plan.
+That is, on a scale of 1 to 10 where 1 is “did not follow the
+plan at all” and 10 is followed “the plan perfectly”, where
+do you fall?
+
+Family Cohesion
+Indicate to what extent you agree with the following statements.
+In thinking about your family during this time . . .
+• Family members really helped and supported one another
+• There is a feeling of togetherness in our family
+• We really got along well with each other
+
+(Appendix continues)
+
+SHOCKLEY, CLARK, DODD, AND KING
+
+28
+Relationship Tension
+
+During this period . . .
+• I have felt irritated or resentful about things my partner did
+or didn’t do
+• I have felt tense from fighting, arguing, or disagreeing
+with my partner
+• I have felt my partner doesn’t understand me
+
+Sleep Quantity
+
+This document is copyrighted by the American Psychological Association or one of its allied publishers.
+This article is intended solely for the personal use of the individual user and is not to be disseminated broadly.
+
+During this time period, on average, how many hours of actual
+sleep did you get at night?
+
+Job Performance
+Please rate how you have felt about your job performance
+during this period. How well have you . . .
+. . . handled the responsibilities and daily demands of your
+work?
+. . . made the right decisions?
+. . . performed without mistakes?
+. . . gotten things done on time?
+During this time, many parents may not be able to meet 100%
+of their work responsibilities. Assuming prior to this period you
+were able to fully meet your work responsibilities (i.e., 100%),
+what percent do you feel you will be able to meet during this time?
+
+Psychological Distress
+During this time period, how often have you felt . . .
+• tired out for no reason?
+• nervous?
+• so nervous that nothing could calm you down?
+• hopeless?
+• restless or fidgety?
+• so restless that you could not sit still?
+• depressed?
+• that everything was an effort?
+• that nothing could cheer you up?
+• worthless?
+
+Attention Checks
+•
+•
+•
+•
+•
+
+I am using the internet right now
+I was born on February 30
+I have never brushed my teeth
+I do not understand a word of English
+I frequently have picnics with my friends on the planet
+Jupiter
+Received July 17, 2020
+Revision received October 6, 2020
+Accepted October 7, 2020 䡲
+
+

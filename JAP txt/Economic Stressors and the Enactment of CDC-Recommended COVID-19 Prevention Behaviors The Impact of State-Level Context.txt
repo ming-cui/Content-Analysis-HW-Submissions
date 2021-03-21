@@ -1,0 +1,1309 @@
+Journal of Applied Psychology
+© 2020 American Psychological Association
+ISSN: 0021-9010
+
+2020, Vol. 105, No. 12, 1397–1407
+http://dx.doi.org/10.1037/apl0000797
+
+Economic Stressors and the Enactment of CDC-Recommended COVID-19
+Prevention Behaviors: The Impact of State-Level Context
+Tahira M. Probst, Hyun Jung Lee, and Andrea Bazzoli
+
+This document is copyrighted by the American Psychological Association or one of its allied publishers.
+This article is intended solely for the personal use of the individual user and is not to be disseminated broadly.
+
+Washington State University Vancouver
+In order to combat the spread of the novel coronavirus, the Centers for Disease Control and Prevention
+(CDC) has developed a list of recommended preventative health behaviors for Americans to enact,
+including social distancing, frequent handwashing, and limiting nonessential trips from home. Drawing
+upon scarcity theory, the purpose of this study was to examine whether the economic stressors of
+perceived job insecurity and perceived financial insecurity are related to employee self-reports of
+enacting such behaviors. Moreover, we tested propositions regarding the impact of two state-level
+contextual variables that may moderate those relationships: the generosity of unemployment insurance
+benefits and extensiveness of statewide COVID-19-related restrictions. Using a multilevel data set of
+N ⫽ 745 currently employed U.S. workers nested within 43 states, we found that both job insecurity and
+financial insecurity were negatively related to the enactment of the CDC-recommended guidelines.
+However, the state-level variables acted as cross-level moderators, such that the negative relationship
+between job insecurity and compliance with the CDC guidelines was attenuated within states that have
+a more robust unemployment system. However, working in a state with more extensive COVID-19
+restrictions seemed to primarily benefit more financially secure workers. When statewide policies were
+more restrictive, employees reporting more financial security were more likely to enact the CDCrecommended guidelines compared to their financially insecure counterparts. We discuss these findings
+in light of the continuing need to develop policies to address the public health crisis while also protecting
+employees facing economic stressors.
+Keywords: economic stressors, job insecurity, financial insecurity, COVID-19
+
+Not surprisingly, given the unparalleled nature of these unfolding twin events, little is known regarding the interplay between
+economic stressors (Probst, 2005), such as potential job loss and
+financial insecurity, and the extent to which workers comply with
+the CDC recommended guidelines to prevent catching or spreading the novel coronavirus (e.g., maintaining a physical distance of
+at least 6 feet from others when out in public or at work, staying
+home except to conduct essential tasks, disinfecting frequently
+used items and high-touch surfaces, frequent handwashing for at
+least 20 s, etc.). Drawing upon scarcity theory (Mani, Mullainathan, Shafir, & Zhao, 2013; Mullainathan & Shafir, 2014), the first
+aim of the current study was to develop and test hypotheses
+regarding the relationship between two prevalent economic stressors (job insecurity and financial insecurity) and the enactment of
+the CDC-recommended behaviors.
+Scarcity theory (Mani et al., 2013; Mullainathan & Shafir, 2014)
+posits that dealing with a perceived lack of valued resources (e.g.,
+food, money, stable employment, or time) induces a scarcity
+mind-set that consumes cognitive bandwidth, reduces optimal decision making, and depletes self-control due to intense focus on the
+unmet need. Applied to the current COVID-19 pandemic, scarcity
+theory would suggest that workers already coping with economic
+stressors such as job insecurity or financial insecurity may have
+even less bandwidth to devote to effectively responding to additional demands such as attending to behavioral recommendations
+from public health officials, while simultaneously juggling other
+new demands imposed by stay-at-home orders, recommendations
+
+At the beginning of March 2020, unemployment in the United
+States stood near a record low of 3.5% (Bureau of Labor Statistics,
+2020). On March 11, 2020, the World Health Organization (2020)
+officially declared COVID-19 a global pandemic. Within a mere 6
+weeks, over 30 million workers had filed for unemployment,
+representing nearly 19% of the U.S. labor force with millions more
+worried that their jobs may be next (Tappe, 2020). Economists
+project that the distancing measures recommended by the Centers
+for Disease Control and Prevention (CDC, 2020)—required to
+combat the spread of COVID-19 and protect the nation’s public
+health—will come at a steep cost to workers with persistently high
+unemployment rates coupled with a sharp decline in the nation’s
+gross domestic product (Matthews, 2020). Thus, while facing an
+unprecedented public health crisis, the short- and long-term economic ramifications are equally unlike anything the world has seen
+in the past 100 years.
+
+This article was published Online First October 15, 2020.
+X Tahira M. Probst, X Hyun Jung Lee, and X Andrea Bazzoli, Department of Psychology, Washington State University Vancouver.
+Funding for this research was supported by a WSU Vancouver Research
+Mini-Grant awarded to Tahira M. Probst and a Marchionne Summer
+Research Grant awarded to Hyun Jung Lee.
+Correspondence concerning this article should be addressed to Tahira M.
+Probst, Department of Psychology, Washington State University Vancouver, 14204 Northeast Salmon Creek Avenue, Vancouver, WA 98686.
+E-mail: probst@wsu.edu
+1397
+
+This document is copyrighted by the American Psychological Association or one of its allied publishers.
+This article is intended solely for the personal use of the individual user and is not to be disseminated broadly.
+
+1398
+
+PROBST, LEE, AND BAZZOLI
+
+to purchase disinfecting supplies, stocking up on emergency supplies of groceries, and caring for children without school or daycare supports. According to scarcity research (e.g., Huijsmans et
+al., 2019; Shah, Mullainathan, & Shafir, 2012), individuals faced
+with perceived scarcity simply have fewer resources to attend to
+other demands due to attentional tunneling on the aspects of
+perceived scarcity being experienced.
+While scarcity theory may predict adverse effects on economically stressed workers, it may also provide clues to potential
+remedies. Specifically, employees do not exist within a vacuum,
+and their behavior can be shaped by the context in which they live
+and work (Johns, 2006). Therefore, governmental policies that
+alleviate the causes of perceived scarcity (e.g., insecure employment or financial strain) may restore some of the attentional
+capacity that is drained by these conditions (Mani et al., 2013;
+Mullainathan & Shafir, 2014); on the other hand, policies that
+create additional burden may be potentially detrimental.
+By mid-April 2020 (the time of our data collection), the United
+States had seen large variability in how state governors enacted
+COVID-19 policies directly affecting the lives of nearly every
+worker within their states, ranging from no statewide stay-at-home
+order (e.g., Iowa) to strict mandatory orders and required 14-day
+quarantines for arriving travelers (e.g., Maine). Moreover, U.S.
+states have ongoing broad latitude in shaping the social safety net
+available to workers who lose their employment (e.g., level of
+unemployment insurance benefits) during crises like the
+COVID-19 pandemic. Therefore, the second aim of the current
+study was to examine two state-level contextual variables as potential moderators of the relationship between economic stressors
+and compliance with CDC recommendations, namely, the extensiveness of the statewide COVID-19-related restrictions and the
+generosity of the unemployment insurance safety net available to
+workers who do lose their jobs.
+Below, we first discuss the nature of economic stressors and
+briefly review the outcomes associated with these stressors. Next,
+we develop predictions regarding the relationship between job
+insecurity, financial insecurity, and the enactment of the CDCrecommended behaviors. Finally, we discuss how higher-level
+(i.e., statewide) variables may attenuate or exacerbate these relationships. Figure 1 provides an overall summary of our study’s
+hypotheses and the multilevel conceptual model tested.
+Economic stressors refer to income- and employment-related
+sources of stress (Probst, 2005) and include economic instability
+(e.g., number and duration of periods of unemployment, downward mobility), economic deprivation (e.g., loss of income and
+financial resources), employment uncertainty (e.g., job insecurity),
+and economic strain (e.g., financial insecurity). While the first two
+categories are typically considered more objective in nature, the
+latter two categories reflect more subjective individual perceptions. Specifically, whereas job insecurity reflects a perceived
+threat to the continuity and stability of one’s employment, financial insecurity reflects perceptions of inadequate funds to meet
+one’s current needs and financial obligations (Probst, 2005).1
+Decades of research demonstrates the numerous adverse negative
+effects that these stressors can have on workers and their families,
+including reduced physical and mental health, poorer long-term
+career outcomes, and impaired marital, family, and social relationships (see meta-analyses by Jiang & Lavaysse, 2018; McKee-Ryan
+
+& Harvey, 2011; McKee-Ryan, Song, Wanberg, & Kinicki, 2005;
+Richardson, Elliott, & Roberts, 2013).
+While the COVID-19 pandemic will likely lead to increases in
+each of these sources of economic stress, some of them (e.g.,
+downward mobility, periods and duration of unemployment) unfold over long periods and will only be able to be thoroughly
+investigated over the course of the upcoming months and years.
+Nevertheless, as described above, other forms of economic stressors (e.g., job insecurity and financial insecurity) are already
+widespread. In addition to millions of newly unemployed and
+those fearing future job loss, scenes of thousands of individuals
+lining up at food banks across the country highlight the sharply
+increased demand for basic essentials and hunger relief by an
+estimated 17.1 million new people (Van Pykeren, 2020).
+Unfortunately, prior research suggests that employees facing the
+economic stressors of job insecurity (Jiang & Lavaysse, 2018) and
+financial insecurity (Petitta, Probst, Barbaranelli, & Ghezzi, 2020)
+are at higher risk of adverse health and safety-related outcomes at
+work, with research finding these stressors are associated with
+lower work-related safety compliance, as well as more subsequent
+injuries and accidents (Probst, 2002). Other experimental and field
+research has found that job insecurity was associated with reduced
+performance on nonwork specific tasks such as Duncker’s (1945)
+functional fixedness task and remote association tasks (Probst,
+Stewart, Gruys, & Tierney, 2007). In line with scarcity theory,
+such effects have largely been posited to be due to cognitive
+overload and attentional tunneling (Wickens, 1996). In support of
+this theoretical pathway, Probst, Chizh, Hu, Jiang, and Austin
+(2019) found that cognitive failures operated as the mediating
+mechanism between job insecurity and performance on a nonwork-related idea generation task.
+In a like fashion, perceived scarcity due to job or financial
+insecurity would be expected to negatively affect compliance with
+CDC behavioral guidelines due to similar attentional tunneling and
+cognitive overload mechanisms. In other words, individuals operating under a scarcity mind-set (i.e., those perceiving threats of
+potential job loss or financial insecurity) may be less able to devote
+additional scarce time, money. or attentional resources toward
+meeting the CDC behavioral guidelines. Therefore, we predict the
+following:
+Hypothesis 1: Job insecurity will be negatively related to
+compliance with CDC guidelines.
+1
+Although research (e.g., Jiang & Lavaysse, 2018) indicates there are
+two distinct forms of job insecurity (cognitive vs. affective), we deliberately chose to focus on the cognitive aspects of both job insecurity and
+financial insecurity for conceptual and methodological reasons. From a
+conceptual standpoint, we were more interested in cognitive perceptions of
+potential future job loss (rather than worry), which also corresponds better
+with our cognitive (rather than affective) measure of financial insecurity
+(i.e., inability to pay bills vs. anxiety associated with not being able to pay
+bills). Moreover, cognitive measures of economic stress are theoretically
+more aligned with the scarcity theory foundation for our hypothesized
+effects (i.e., effects due to attentional tunneling and cognitive overload). It
+is also important to recognize that financial insecurity, while typically
+negatively correlated with income (e.g., Dijkstra-Kersten, BiesheuvelLeliefeld, van der Wouden, Penninx, & van Marwijk, 2015), can also be
+affected by other financial variables such as student loans, car payments,
+mortgages, credit card debt, and current savings.
+
+ECONOMIC STRESSORS AND COVID-19 PREVENTION BEHAVIORS
+
+Unemployment
+Benefits
+
+1399
+
+COVID-Related
+Restrictions
+
+State Level
+Individual Level
+
+This document is copyrighted by the American Psychological Association or one of its allied publishers.
+This article is intended solely for the personal use of the individual user and is not to be disseminated broadly.
+
+Job Insecurity
+
+Financial
+Inadequacy
+Figure 1.
+
+Compliance
+With CDC
+Guidelines
+
+Hypothesized model. CDC ⫽ Centers for Disease Control and Prevention.
+
+Hypothesis 2: Financial insecurity will be negatively related to
+compliance with CDC guidelines.
+While we expect that these economic stressors will be predictive
+of compliance with the CDC recommendations, numerous scholars
+(e.g., Jiang, Probst, & Sinclair, 2013; Shoss & Probst, 2012;
+Sinclair, Sears, Probst, & Zajack, 2010) have also argued that
+employee reactions to economic stressors are impacted by the
+larger economic, social, and cultural system in which a person is
+embedded (ten Brummelhuis & Bakker, 2012). This can include
+public policies, the economic standing of a population, social
+equality, wealth, and other sociocultural elements that affect the
+context within which one operates. In the current study, we focused on contextual variables at the state level. While the federal
+government has provided guidance from the CDC on recommended behaviors to stem the spread of the novel coronavirus, the
+methods for how best to facilitate these behaviors have been
+largely left to state governors who have, in turn, implemented a
+variety of different approaches. Moreover, critical aspects of the
+social safety net central to our study vary at the state level rather
+than other potential levels of interest (e.g., city or county levels).
+In particular, we selected two state-level contextual variables that,
+based on the available empirical evidence, would be salient in
+influencing the extent to which economic stressors may result in
+less adherence to the CDC guidelines.
+The first is the robustness of the social safety net available to
+those who become laid off, operationalized as the average weekly
+unemployment benefits. Prior research conducted at the country
+level (Debus, Probst, König, & Kleinmann, 2012) found that the
+relationship between job insecurity and adverse outcomes is attenuated among workers who live in countries with more generous
+social safety nets. We expect that a similar effect at the state level
+will be found for the relationship between job insecurity and the
+enactment of the CDC-recommended behaviors. Specifically,
+workers in states that have a more generous unemployment insurance benefit will be less likely to react to a potential loss of one’s
+job by compromising their enactment of the CDC-recommended
+behaviors. Knowing that one has access to more generous statelevel resources in the event of job loss might alleviate perceived
+scarcity and restore some of the attentional demand resources
+
+needed to focus on enacting the CDC guidelines. On the other
+hand, we do not expect that such a relationship would hold for
+perceived financial insecurity since unemployment insurance benefits are only available to individuals who become unemployed
+(i.e., a salient safety net for individuals who perceive a threat to
+their employment); on the other hand, such benefits are not available to people who lack financial resources (but may have a secure
+job).2 Therefore, we predict the following:
+Hypothesis 3: State-level generosity of unemployment insurance benefits will attenuate the relationship between job insecurity and compliance with CDC guidelines.
+The second relevant state-level contextual variable was the
+extensiveness of the statewide COVID-19-related restrictions. According to the National Governors Association (2020), there have
+been numerous policies and orders put into place to stem the tide
+of coronavirus infections, including travel restrictions, limits on
+gatherings, stay-at-home orders, school closures, and closure of
+nonessential businesses, among others. Yet, states have varied
+widely in the extent to which they have enacted these policies, with
+some introducing multiple policies coupled with strict enforcement
+and others offering fewer strategies with or without enforcement.
+While such societal-level supports can be protective (ten Brummelhuis & Bakker, 2012) and serve as normative cues for employees and their organizations, they may also serve as a double-edged
+sword for employees operating under economic stress by imposing
+additional burdens. For example, more numerous state-level restrictions could result in more disruptions to business operations,
+temporary business closures, and a negative business outlook.
+Such conditions could further compound the scarcity mind-set
+experienced by job-insecure employees. We expect similar effects
+regarding how such restrictions may affect financially insecure
+workers. Even prior to the pandemic, over half of American
+2
+In a similar fashion, we do not anticipate any main effects of the level
+of unemployment benefits on enactment of the CDC guidelines, since we
+argue that the effects of this social safety net would only be applicable to
+individuals specifically experiencing perceived scarcity due to potential job
+loss.
+
+PROBST, LEE, AND BAZZOLI
+
+This document is copyrighted by the American Psychological Association or one of its allied publishers.
+This article is intended solely for the personal use of the individual user and is not to be disseminated broadly.
+
+1400
+
+households reported lacking sufficient funds in case of an emergency (JPMorgan Chase & Co. Institute, 2019; The Pew Charitable Trusts, 2015). Yet, adhering to the recommended CDC guidelines while under additional imposed state-level imposed
+restrictions requires even more attentional and financial resources
+from workers (e.g., emergency funds to stock up groceries and
+essential goods, caring for children without daycare supports,
+assisting with children’s online schooling).
+Thus, insecure workers may demonstrate even less adherence to
+the CDC behavioral guidelines when operating under conditions of
+increased state-imposed COVID-19 demands. On the other hand,
+financially secure and job-secure individuals living in states with
+more extensive COVID-19-related state restrictions may have
+more resources to better comply with such recommendations and,
+therefore, may be expected to demonstrate the highest level of
+benefit from these policies, that is, show the highest levels of
+compliance with the CDC guidelines. Indeed, early analyses of cell
+phone location data (Valentino-DeVries, Lu, & Dance, 2020)
+conducted during the first month of the pandemic as states moved
+into lockdown suggest that individuals in economically well-off
+areas appeared to be better able to stay home, whereas lowerincome areas showed more travel away from home.
+Based on this, we expect that more extensive statewide restrictions will be associated with more adherence to the CDC guidelines but that this will be observed among those who self-report
+higher levels of perceived financial and job security compared to
+their less secure counterparts. Therefore, we predict the following:
+Hypothesis 4: The extensiveness of state-level COVID-19
+restrictions will exacerbate the relationship between job insecurity and compliance with CDC guidelines.
+Hypothesis 5: The extensiveness of state-level COVID-19
+restrictions will exacerbate the relationship between financial
+insecurity and compliance with CDC guidelines.
+
+Method
+Participants and Procedure
+Our individual-level data came from an ongoing study on the
+workforce-related impacts of the COVID-19 pandemic, entitled
+“Longitudinal Study of Work/Life Experiences During the
+COVID-19 Pandemic” (classified as exempt by the Washington
+State University Institutional Review Board; Protocol 18240); this
+is the first publication from that broader data collection effort.
+Anonymous online survey data were collected from U.S.-based
+Mechanical Turk (MTurk) workers in April 2020. In order to
+qualify to participate, respondents must have been working at least
+20 hr per week outside of the MTurk platform and indicate that
+they had a supervisor at work. Moreover, as recommended by
+Peer, Vosgerau, and Acquisti (2014), we only recruited “highreputation” participants with a current approval rating on MTurk
+of 90% or greater coupled with completion of at least 100 prior
+tasks on MTurk.
+A total of N ⫽ 788 MTurk workers qualified and received $2 in
+compensation. After excluding (a) participants who missed two or
+more attention checks out of four total, (b) those who did not finish
+the survey, (c) those belonging to states with fewer than three
+
+respondents in our survey, and (d) those with a missing value on
+any of the predictors, the final sample comprised 745 participants
+nested within 43 states.3 The average number of respondents per
+state was 25.17 (SD ⫽ 15.56; range 3–98). The majority of
+participants were male (62%), White (69%), and college graduates
+(68%). A total of 57% of participants were married or living with
+a partner. The mean age was 37.99 (SD ⫽ 10.93). The average
+hours worked per week was 41.23 (SD ⫽ 8.01), and 30% reported
+currently working onsite. The median reported 2019 household
+income fell within the range from $50,000 to $59,999. Twenty
+industrial sectors were represented with the five most common
+being professional/scientific/technical services (14%), finance/insurance (12%), retail (11%), health care/social assistance (9%),
+and manufacturing (8%).
+
+Measures
+Individual-level variables. Perceived job insecurity was
+measured using the nine-item Job Security Index (JSI; Probst,
+2003). Using a scoring system validated by Hanisch (1992), participants were asked to indicate whether each phrase (e.g., “uncertain”) described their future employment on a scale from no (0),
+“?” (2), to yes (3). Positively phrased items were reverse-coded,
+such that higher numbers reflect greater perceived insecurity.
+Petitta et al.’s (2020) four-item scale was used to measure
+perceived financial insecurity. Using a 5-point scale (1 ⫽ never to
+5 ⫽ always), respondents indicated the extent to which they
+perceive difficulty in fulfilling their financial responsibilities. Responses were scored so that higher numbers reflect greater perceived financial insecurity.
+Compliance with CDC guidelines was measured with six items
+that were developed for this study based on the CDC guidelines to
+prevent the spread of COVID-19 (CDC, 2020). Respondents were
+asked to indicate how often they were currently enacting the
+recommended behaviors on a scale from 1 (never) to 5 (always).
+See Appendix A for items.
+The following control variables were also included. Per capita
+income was computed as the ratio of self-reported total household
+income bracket (1: less than $10,000 to 12: $150,000 or more) to
+the number of household members. Education was measured as the
+highest degree earned. Minority status was dummy-coded (0:
+3
+To confirm if our final sample was representative of the population of
+individuals living within those 43 states, we conducted correlation analyses
+between our sample statistics and population parameters based on data
+from the U.S. Census Bureau with respect to the number of state residents
+(r ⫽ .98, p ⬍ .001), as well as the percentage of White (r ⫽ .52, p ⬍ 001)
+and Hispanic residents (r ⫽ .56, p ⬍ .001). Both analyses indicate a
+reasonable degree of representativeness at least in terms of population size,
+race, and ethnicity. Additionally, we tested whether the states that we
+excluded due to low within-state sample sizes (Alaska, Delaware, Montana, Nebraska, North Dakota, Vermont, Wyoming, plus Washington, DC)
+differed significantly on any of the state-level variables of interest (i.e.,
+COVID-19 restrictions and unemployment insurance benefits), plus additional possible factors, including state population, COVID-19 cases, per
+capita cases, and per capita deaths at the time of data collection, as well as
+political lean as measured by the percentage of Trump voters in 2016. None
+of these were significant, other than population, F(1, 47) ⫽ 4.30, p ⫽ .04,
+suggesting—as one might expect—that states with smaller populations
+(M ⫽ 980,908) were more likely to be dropped from the analysis due to
+proportionately smaller numbers of individuals being sampled from those
+states, compared to larger population states (M ⫽ 7,463,290).
+
+This document is copyrighted by the American Psychological Association or one of its allied publishers.
+This article is intended solely for the personal use of the individual user and is not to be disseminated broadly.
+
+ECONOMIC STRESSORS AND COVID-19 PREVENTION BEHAVIORS
+
+Caucasian; 1: minority). Remote working arrangement was also
+dummy-coded (0: onsite; 1: remote workers).4
+State-level variables. Unemployment benefits were operationalized as the average weekly benefit amount provided to recipients in each state, based on data retrieved from the Department
+of Labor (2019) for the most recently available quarter. It was
+calculated by dividing the total benefits paid during unemployment
+by the number of weeks compensated for unemployment. The
+average weekly unemployment benefits amount was $359.88
+(SD ⫽ $83.33; observed range $213–$555). For our analysis, we
+expressed these data in $100s.
+Data regarding the COVID-19 restrictions in place at the time of
+our data collection were drawn from the National Governors
+Association website, which provides a Coronavirus State Action
+Tracking Chart (National Governors Association, 2020). Eight
+policies that were considered most relevant to state residents were
+selected out of a variety of tracked policies. These included limits
+on gatherings, school closures, closure of nonessential businesses,
+mobilization of the National Guard, state employee travel restrictions, domestic travel restrictions, curfews, and recommended
+mask usage. Policies were coded on a 0 to 1 scale (to equally
+weight each policy) and then summed for each state, such that
+higher numbers are reflective of more COVID-19 restrictions in
+place. The mean score was 5.84 (SD ⫽ 0.96, observed range:
+3.67– 8). See Appendix B for a complete listing of the policies and
+coding schema.
+
+1401
+
+showed the average unbiased estimate of the Level 1 relationships.
+As expected, higher levels of both job insecurity and financial
+insecurity were associated with significantly lower compliance
+with the CDC guidelines (b ⫽ ⫺0.06, p ⫽ .01; b ⫽ ⫺0.17, p ⬍
+.001, respectively). Additionally, employees who were working
+from home reported higher levels of enactment of CDCrecommended behaviors (b ⫽ .17, p ⫽ .001).6 Hence, Hypotheses
+1 and 2 were supported. Model 2 added the state-level predictors
+of the adjusted group compliance means, which were both nonsignificant.
+The cross-level interactions were specified in Model 3. As
+hypothesized, we found that the generosity of unemployment
+benefits at the state level significantly attenuated the relationship
+between individual job insecurity and compliance with CDC
+guidelines (b ⫽ 0.08, p ⫽ .003). The cross-level effect of the
+COVID-19 restrictions on the job insecurity– compliance relationship was not significant (b ⫽ 0.05, p ⫽ .12). However, COVID-19
+restrictions at the state level significantly exacerbated the relationship between individual financial insecurity and individual compliance with CDC guidelines (b ⫽ ⫺0.13, p ⫽ .001). Thus,
+Hypotheses 3 and 5 were supported while Hypothesis 4 was not.
+Although we did not make any specific hypotheses on the crosslevel effect of unemployment benefits on the financial insecurity–
+compliance to CDC guidelines relationship, it was included in the
+model for completeness. This cross-level interaction was not significant (b ⫽ ⫺0.02, p ⫽ .71).7
+
+Results
+Before testing the hypothesized multilevel model, we ran several preliminary checks. None of the items approached 3.0 in
+skewness and 10.0 in kurtosis, supporting normality assumptions
+(Kline, 2015). Subsequently, we ran a confirmatory factor analysis
+to assess the measurement model using the weighted least square
+mean and variance adjusted estimator, also accounting for the
+nesting of the data. The factorial structure showed good fit to the
+data: ␹2(149) ⫽ 463.61, CFI ⫽ .99, TLI ⫽ .99, RMSEA ⫽ .05,
+SRMR ⫽ .06. Table 1 provides descriptive statistics and correlations at the individual and state levels. At the individual level, job
+insecurity and financial insecurity were both negatively correlated
+with enactment of the CDC guidelines and positively correlated
+with each other.
+We tested our model using only observed variables with MPlus
+8.4 (Muthén & Muthén, 1998 –2017). Since we compared nested
+models, parameters and standard errors were estimated using the
+full-information maximum likelihood estimator. The individuallevel predictors were group mean centered and the state-level
+predictors were grand mean centered (Enders & Tofighi, 2007).
+The intraclass correlation coefficient was quite low (.02), signifying that there was not a considerable amount of variance in the
+outcome attributable to clustering (Bliese, 2000).5 However, research has shown that it is possible to find significant cross-level
+effects even when the proportion of variance at the between level
+appears to be low (Bliese, Maltarich, & Hendricks, 2018; Snijders
+& Bosker, 1999).
+Three models were compared: (a) a random intercept fixed slope
+model, (b) a random intercept random slope model, and (c) a
+random intercept random slope model with the cross-level interactions. Parameter estimates are presented in Table 2. Model 1
+
+4
+While conceptually distinct from perceived financial insecurity, income may nevertheless be considered a plausible alternative explanation
+for any observed effects since higher income may facilitate greater compliance with CDC guidelines. Education may impact compliance with CDC
+guidelines, given that research has demonstrated that health behaviors are
+correlated with educational attainment (Skalamera & Hummer, 2016).
+Likewise, racial and ethical minorities are more likely to be impacted by
+the negative effects of COVID-19 (Chowkwanyun & Reed, 2020), and
+remote workers may have more control over the enactment of CDCrecommended behaviors.
+5
+Although variance in the outcome due to clustering is arguably low, we
+retained our multilevel approach in order to model each variable at its
+appropriate empirical and conceptual level of analysis. However, upon
+reviewer recommendation, we did run a model in which all the state-level
+variables were disaggregated to the individual level. As expected, these
+results substantially confirmed our multilevel results. Moreover, comporting with previous simulation studies (see e.g., Finch & French, 2011),
+standard errors in the single-level model were slightly underestimated. Full
+results are available from the first author.
+6
+We recognize that among the CDC-recommended behaviors, some
+may be arguably more versus less under the direct personal control of
+individuals working onsite (e.g., covering one’s cough vs. maintenance of
+physical distancing). In order to rule this out as an explanation, we
+conducted a supplementary analysis, replicating the random intercepts
+random slopes model with cross-level interactions presented in Table 2
+with two different sets of outcomes. The first was made up of CDCrecommended behaviors that may potentially be impacted by variables
+outside of the employees’ own control (i.e., Items 1– 4 in Appendix A)
+while the second contained the behaviors that are arguably more under the
+control of employees (i.e., Items 5 and 6 in Appendix A). Results of these
+alternative models comported with those presented in Table 2, further
+comporting with predictions grounded in scarcity theory. Full results are
+available from the first author.
+7
+Upon reviewer recommendation, we also tested whether the relationship between income and compliance with CDC guidelines was moderated
+by state-level COVID-19-related restrictions. However, this was nonsignificant (b ⫽ 0.00, p ⫽ .94).
+
+PROBST, LEE, AND BAZZOLI
+
+1402
+
+Table 1
+Individual Level Zero-Order Correlations and Descriptive Statistics
+
+This document is copyrighted by the American Psychological Association or one of its allied publishers.
+This article is intended solely for the personal use of the individual user and is not to be disseminated broadly.
+
+Variable
+1.
+2.
+3.
+4.
+5.
+6.
+7.
+8.
+9.
+10.
+11.
+12.
+
+M
+
+Compliance with CDC guidelines
+Job insecurity
+Financial insecurity
+Per capita income bracket
+Education level
+Ethnic/racial minority status
+Remote worker
+Gender
+Age
+Work hours per week
+Unemployment benefits ($100s)
+COVID-19 restrictions
+
+4.27
+1.06
+1.89
+2.89
+4.82
+0.31
+0.70
+0.38
+37.99
+41.23
+3.60
+5.84
+
+SD
+0.66
+1.15
+0.90
+1.93
+1.29
+—
+—
+—
+10.93
+8.01
+0.83
+0.96
+
+1
+(.83)
+⫺.16ⴱⴱⴱ
+⫺.28ⴱⴱⴱ
+.13ⴱⴱⴱ
+⫺.02
+⫺.06
+.09ⴱ
+.11ⴱⴱ
+.05
+⫺.02
+
+2
+
+3
+ⴱⴱⴱ
+
+⫺.16
+(.95)
+.32ⴱⴱⴱ
+⫺.11ⴱⴱ
+⫺.05
+.04
+.08ⴱ
+⫺.02
+⫺.07
+⫺.07
+
+4
+ⴱⴱⴱ
+
+⫺.26
+.32ⴱⴱⴱ
+(.86)
+⫺.38ⴱⴱⴱ
+.00
+.17ⴱⴱⴱ
+.04
+⫺.01
+⫺.01
+.06
+
+5
+ⴱⴱ
+
+.11
+⫺.01
+⫺.11ⴱⴱ ⫺.03
+⫺.39ⴱⴱⴱ .01
+—
+.15ⴱⴱⴱ
+.16ⴱⴱⴱ
+—
+⫺.07
+.15ⴱⴱⴱ
+.04
+.24ⴱⴱⴱ
+⫺.04
+⫺.02
+.03
+.02
+.00
+.08ⴱ
+
+6
+⫺.06
+.04
+.14ⴱⴱⴱ
+⫺.07ⴱ
+.14ⴱⴱⴱ
+—
+.04
+⫺.06
+⫺.17ⴱⴱⴱ
+.07ⴱ
+
+7
+ⴱ
+
+.09
+.08ⴱ
+.05
+.04
+.24ⴱⴱⴱ
+.04
+—
+.07
+.01
+.02
+
+8
+
+9
+ⴱⴱ
+
+.11
+.06
+⫺.02
+⫺.07
+.00
+⫺.01
+⫺.05
+.04
+⫺.01
+.04
+⫺.06
+⫺.15ⴱⴱⴱ
+.07
+.01
+—
+.15ⴱⴱⴱ
+.15ⴱⴱⴱ
+—
+⫺.10
+.16ⴱⴱⴱ
+
+10
+⫺.02
+⫺.07
+.05
+⫺.01
+.07
+.05ⴱ
+⫺.00
+⫺.09ⴱⴱ
+.18ⴱⴱⴱ
+—
+
+11
+
+12
+
+— ⫺.04
+⫺.04 —
+
+Note. NL1 ⫽ 745, NL2 ⫽ 43. Correlations below the diagonal are presented at the appropriate theoretical level using the raw variables; correlations above
+the diagonal are estimated using centered variables. Values on the diagonal (in parentheses) are Cronbach’s alpha coefficients. Means and standard
+deviations are presented at the level of analysis measured in this study. Ethnic/racial minority status: 0 ⫽ Caucasian and 1 ⫽ minority; remote worker status:
+0 ⫽ on-site and 1 ⫽ remote worker; gender: 0 ⫽ male and 1 ⫽ female. CDC ⫽ Centers for Disease Control and Prevention.
+ⴱ
+p ⬍ .05. ⴱⴱ p ⬍ .01. ⴱⴱⴱ p ⬍ .001.
+
+Figures 2 and 3 graphically depict the cross-level interactions.
+The plots show that more generous unemployment benefits at the
+state level attenuate the negative relationship between job insecurity and compliance with CDC guidelines (see Figure 2). Specifically, within a state context of more robust unemployment benefits, job insecurity was unrelated to compliance with CDC
+guidelines. However, workers in states with lower unemployment
+benefits showed decreasing compliance as job insecurity increased. On the other hand, more extensive COVID-19-related
+state restrictions exacerbated the negative relationship between
+financial insecurity and compliance with CDC guidelines (see
+Figure 3). Specifically, in states with fewer restrictions in place,
+compliance was low regardless of perceived financial insecurity,
+whereas in states with more restrictions in place, the financially
+more secure respondents reported greater compliance with CDC
+guidelines compared to their less financially secure counterparts.
+
+Discussion
+The COVID-19 pandemic not only represents the most severe
+public health crisis in the past 100 years but also has led to
+dramatic increases in unemployment rates, disruptions to normal
+business operations, reduced work hours and/or temporary furloughs, and heightened demands for food assistance. With persistently high numbers of daily cases, such impacts on the job and
+financial security of individuals are likely to continue to be felt
+until the virus can be contained either through restrictive public
+health measures or the development of a vaccine.
+The first aim of our study was to examine the interplay between
+these economic stressors and enactment of the CDC behavioral
+recommendations meant to stem the spread of the coronavirus. Our
+findings demonstrate that subjective psychological economic stressors play a role in predicting the extent to which workers comply
+with the recommended guidelines above and beyond other objective socioeconomic indicators such as income level or educational
+attainment, as well as whether employees are currently working
+onsite or from home. Although employees working onsite reported
+less compliance with the CDC recommendations (a concern in and
+
+of itself), we found that workers with greater job insecurity and
+perceived financial insecurity were also less likely to enact the
+CDC recommendations. These findings comport with scarcity
+theory and earlier research on the effects of job insecurity and
+financial scarcity, suggesting that workers facing financial or job
+insecurity stressors may experience attentional tunneling or cognitive overload, leading to less focus on attending to off-task
+demands such as enactment of the new CDC COVID-19 prevention guidelines.
+However, we also found that state-level contextual variables can
+influence the strength and direction of these relationships. For
+example, our findings indicate that job insecurity was unrelated to
+compliance with the COVID-19 preventative recommendations
+when working in a state with a more robust social safety net (i.e.,
+more generous unemployment insurance benefits). However, these
+protective benefits do not extend to those who are experiencing
+financial insecurity. This may be because the availability of unemployment insurance benefits only becomes relevant in the event
+of job loss; thus, a more generous unemployment insurance benefit
+will not necessarily alleviate the scarcity felt by individuals facing
+financial strains or operate as a main effect to influence the
+health-related behaviors of individuals within the state.
+On the other hand, it appears that financially secure workers are
+the ones who most benefit from being in a state with more
+extensive COVID-19 restrictions in place. Such individuals perhaps have the means to stay home and enact social distancing
+behaviors in response to state recommendations, whereas the financially insecure have less latitude to do so. Indeed, levels of
+enacting the recommended CDC behaviors were low among the
+financially insecure respondents regardless of their state-level policies.
+Such findings have implications for policymakers at the state
+and federal levels. While many companies do not have the cash
+reserves needed to maintain payroll while their workers are under
+stay-at-home orders, layoffs do not always need to be the answer.
+Indeed, policymakers in many countries have developed creative
+solutions that are particularly apt for this unique event, such as
+
+ECONOMIC STRESSORS AND COVID-19 PREVENTION BEHAVIORS
+
+1403
+
+Table 2
+Multilevel Estimates for Models Predicting Compliance With CDC Guidelines
+Outcome: Compliance with CDC guidelines
+
+This document is copyrighted by the American Psychological Association or one of its allied publishers.
+This article is intended solely for the personal use of the individual user and is not to be disseminated broadly.
+
+Levels and
+predictors
+
+Random intercepts
+fixed slopes
+
+Random intercepts
+random slopes
+
+Cross-level
+interactions
+
+Level 1
+Intercept
+4.15
+4.16
+4.16
+Job insecurity
+⫺0.06ⴱ (0.02; ⫺0.09, ⫺0.02)
+ⴱⴱⴱ
+Financial insecurity
+⫺0.17 (0.03; ⫺0.22, ⫺0.12)
+Per capita income bracket
+0.01 (0.01; ⫺0.02, 0.03)
+0.01 (0.01; ⫺0.02, 0.03)
+0.01 (0.01; ⫺0.02, 0.03)
+Education
+⫺0.02 (0.02; ⫺0.05, 0.01)
+⫺0.02 (0.02; ⫺0.05, 0.02)
+⫺0.01 (0.02; ⫺0.04, 0.02)
+Ethnic/racial minority status
+⫺0.03 (0.05; ⫺0.12, 0.05)
+⫺0.05 (0.05; ⫺0.13, 0.04)
+⫺0.06 (0.05; ⫺0.14, 0.03)
+Remote worker
+0.17ⴱⴱⴱ (0.05; 0.08, 0.25)
+0.17ⴱⴱⴱ (0.05; 0.08, 0.25)
+0.17ⴱⴱⴱ (0.05; 0.05, 0.25)
+Level 2
+Unemployment benefits
+⫺0.04 (0.04; ⫺0.10, 0.02)
+⫺0.05 (0.03; ⫺0.10, 0.01)
+COVID-19-related restrictions
+0.06 (0.04; ⫺0.01, 0.12)
+0.05 (0.03; ⫺0.01, 0.10)
+Cross-level interaction (FI ⫻ Unemployment Benefits)
+⫺0.02 (0.04; ⫺0.08, 0.05)
+Cross-level interaction (JI ⫻ COVID-19 Restrictions)
+0.05 (0.03; ⫺0.00, 0.10)
+Cross-level interaction (JI ⫻ Unemployment Benefits)
+0.08ⴱⴱ (0.03; 0.04, 0.13)
+Cross-level interaction (FI ⫻ COVID-19 Restrictions)
+⫺0.13ⴱⴱⴱ (0.04; ⫺0.20, ⫺0.07)
+Variance components
+Level 1 residual variance
+0.39
+0.38
+0.37
+Intercept variance
+0.008
+0.005
+0.005
+Slope variance (JI)
+0.006
+0.001
+Slope variance (FI)
+0.012
+0.002
+Additional information
+LL
+⫺713.01
+⫺708.66
+⫺699.89
+AIC
+1,444
+1,447
+1,437
+2
+.07
+.10
+.11
+Pseudo-R (Snijders & Bosker, 1999)
+Free parameters
+9
+15
+19
+Note. NL1 ⫽ 745; NL2 ⫽ 43. CDC ⫽ Centers for Disease Control and Prevention; JI ⫽ job insecurity; FI ⫽ financial insecurity; LL ⫽ loglikelihood;
+AIC ⫽ Akaike information criterion. Parameter estimates are unstandardized. Values in parentheses are standard errors followed by normal theory 95%
+CI lower and upper bounds.
+ⴱ
+p ⬍ .05. ⴱⴱ p ⬍ .01. ⴱⴱⴱ p ⬍ .001.
+
+wage replacement grants to businesses that retain their workers. In
+doing so, employees can maintain needed financial and job security, potentially alleviating the effects of a scarcity mind-set.
+Moreover, businesses can avoid the costly process of laying off
+only to later seek and rehire qualified employees. Yet, such policies need not be unique to the current pandemic but could also be
+applied to future economic recessions regardless of the precipitating cause. Indeed, previous research has shown that employees in
+societies with generous social safety nets suffer fewer adverse
+consequences of economic stressors such as job insecurity (e.g.,
+Debus et al., 2012).
+While the government provided fast and direct economic assistance (e.g., the Coronavirus Aid, Relief, and Economic Security
+Act) to help workers and small businesses during the early pandemic, experts indicate these solutions are unlikely to address the
+ongoing financial needs of U.S. residents in the long term (Enda,
+Gale, & Haldeman, 2020). Yet, economic projections indicate that
+direct cash into low-income and recently unemployed households
+is among the most effective stimulus mechanisms to the economy
+(Arnon, He, & Huntley, 2020). Thus, while such policies make
+sense from an economic standpoint, our data indicate lessening
+economic stressors experienced by U.S. workers, and bolstering
+the social safety net may also have public health benefits by
+improving adherence to the CDC preventative health guidelines.
+Future research might also consider whether such effects extend
+more broadly to other health promotion behaviors (e.g., physical
+activity, nutrition) via an alleviation of the scarcity mind-set.
+
+While the current findings are thought-provoking in that they
+suggest a potential link between prevalent economic stressors and
+health behaviors such as adherence to the COVID-19 prevention
+guidelines, there are numerous caveats to consider as well as
+needed future research. First, our data are cross-sectional (albeit
+multilevel). Thus, future longitudinal data preferably gathered over
+multiple waves are needed to temporally separate the economic
+stressors and state-level policies of interest from the behavioral
+outcomes and better ascertain the direction and trajectories of any
+causal relationships.
+Moreover, due to the use of a convenience sample, we cannot
+claim to have a nationally representative sample and thus must be
+cautious about the ability to generalize our findings to the entire
+U.S. workforce. For example, our sample was highly educated
+(68% reporting a college degree or higher compared to 35% in the
+population). Moreover, all had jobs in mid-April at the time of our
+initial recruitment, which by definition would have excluded any
+of the millions who had already lost their jobs due to the pandemic.
+On the other hand, our sample was slightly more diverse (31%
+non-White) than the U.S. population (23.5%). The percentage of
+respondents who were married or cohabiting (57%) was similar to
+the population (60%). Finally, our sample reported a slightly lower
+median household income ($50,000 –$59,999) compared to the
+U.S. median of $60,293.
+We also acknowledge that our effect sizes are small. However,
+in light of the highly infectious nature and rapid spread of the
+coronavirus, early simulation research (Matrajt & Leung, 2020)
+
+PROBST, LEE, AND BAZZOLI
+
+5
+
+4.5
+
+4
+
+3.5
+
+Lower Unemployment Benefits
+
+Higher Unemployment Benefits
+
+3
+Lower Job Insecurity
+
+Higher Job Insecurity
+
+Figure 2. Job Insecurity ⫻ Unemployment Benefits interaction. The
+interaction is depicted at ⫾ 1 SD. Error bars represent the normal theory
+95% CIs. CDC ⫽ Centers for Disease Control and Prevention.
+
+5
+Compliance with CDC Guidelines
+
+suggests that even a modest 25% reduction in social contacts
+among adults can result in 47% fewer cases and over 90% fewer
+deaths compared to no intervention at the epidemic peak for adults.
+Thus, even small effects on adherence to the CDC guidelines can
+be of practical significance within this context.
+Another drawback to the current study was our lack of a measure of essential worker status and the fact that the majority of our
+sample was currently working from home. Therefore, we could not
+evaluate the effects of specific workplace conditions (e.g., supervisor support, organizational safety climate, work-related resources facilitating or inhibiting compliance with CDC guidelines)
+as additional drivers of employee compliance with the CDC guidelines. While scarcity theory and cognitive overload mechanisms
+may explain the observed relationships in our study, other potential
+work-specific mediating or moderating mechanisms (e.g., fears of
+workplace retaliation such as job loss or reduced work hours in
+response to requests for adequate personal protective equipment,
+sick leave) should be explored particularly as greater numbers of
+employees return to onsite work as states reopen.
+Additionally, although we conceptualized and measured job
+insecurity as a cognitive perception of the continuity and stability
+of one’s employment (Probst, 2003), research has found that
+affective job insecurity is also relevant in understanding strain
+processes (Jiang & Lavaysse, 2018; see also Footnote 1). Therefore, future research should investigate whether and how the
+currently examined relationships might differ using more affectively laden measures of job and financial insecurity (i.e., anxiety/
+fears regarding potential job loss and financial situation, rather
+than cognitive perceptions of potential job loss or financial inadequacy).
+Finally, the current study only examined preventative behaviors
+in response to the individual-level economic stressors and the
+state-level policies. Future research should examine the extent to
+which such variables also result in differential exposure to the
+coronavirus and development of COVID-19 illness among employees, coworkers, and their household members.
+
+Compliance with CDC Guidelines
+
+This document is copyrighted by the American Psychological Association or one of its allied publishers.
+This article is intended solely for the personal use of the individual user and is not to be disseminated broadly.
+
+1404
+
+4.5
+
+4
+
+3.5
+Lower Covid-Related Restrictions
+
+Higher Covid-Related Restrictions
+
+3
+Lower Financial Insecurity Higher Financial Insecurity
+Figure 3. Financial Insecurity ⫻ COVID-Related Restrictions interaction. The interaction is depicted at ⫾ 1 SD. Error bars represent the normal
+theory 95% CIs. CDC ⫽ Centers for Disease Control and Prevention.
+
+Despite these limitations, this study highlights the impact of
+prevalent economic stressors on important health-related behaviors, as well as the importance of state-level policies from both
+psychological and public health perspectives during the concurrent
+COVID-19 and economic crises. While the impact of state- and
+national-level policies has been extensively studied within public
+health domains, the impact of such distal policies on the behavior
+of individual workers has been less investigated within organizational psychology. Our findings emphasize the continuing need to
+develop policies and interventions to address both crises while
+recognizing their sometimes differential effects on the behavior of
+economically stressed employees.
+
+References
+Arnon, A., He, Z., & Huntley, J. (2020, April 8). Short run effects of the
+CARES Act. Penn Wharton University of Pennsylvania Budget Model.
+Retrieved from https://budgetmodel.wharton.upenn.edu/issues/2020/4/8/
+short-run-effects-of-the-cares-act
+Bliese, P. D. (2000). Within-group agreement, non-independence, and
+reliability: Implications for data aggregation and analysis. In K. J. Klein
+& S. W. J. Kozlowski (Eds.), Multilevel theory, research, and methods
+in organizations: Foundations, extensions, and new directions (pp. 349 –
+381). San Francisco, CA: Jossey-Bass.
+Bliese, P. D., Maltarich, M. A., & Hendricks, J. L. (2018). Back to basics
+with mixed-effect models: Nine take-away points. Journal of Business
+and Psychology, 33, 1–23. http://dx.doi.org/10.1007/s10869-017-9491-z
+Bureau of Labor Statistics. (2020, May 19). Labor force statistics from the
+Current Population Survey. Retrieved from http://data.bls.gov
+Centers for Disease Control and Prevention. (2020, May 5). Coronavirus
+disease 2019 (COVID-19)—prevention & treatment. Retrieved from
+https://www.cdc.gov/coronavirus/2019-ncov/prevent-getting-sick/
+prevention.html
+Chowkwanyun, M., & Reed, A. L., Jr. (2020, May 6). Racial health
+disparities and Covid-19 —Caution and context. New England Journal
+of Medicine, 383, 201–203. http://dx.doi.org/10.1056/NEJMp2012910
+Debus, M. E., Probst, T. M., König, C. J., & Kleinmann, M. (2012). Catch
+me if I fall! Enacted uncertainty avoidance and the social safety net as
+country-level moderators in the job insecurity–job attitudes link. Journal
+
+This document is copyrighted by the American Psychological Association or one of its allied publishers.
+This article is intended solely for the personal use of the individual user and is not to be disseminated broadly.
+
+ECONOMIC STRESSORS AND COVID-19 PREVENTION BEHAVIORS
+of Applied Psychology, 97, 690 – 698. http://dx.doi.org/10.1037/
+a0027832
+Department of Labor. (2019). Unemployment insurance data summary,
+individual state data: Benefits and duration information by state for
+CYQ 2019.4. Retrieved from https://oui.doleta.gov/unemploy/data_
+summary/DataSum.asp
+Dijkstra-Kersten, S. M., Biesheuvel-Leliefeld, K. E., van der Wouden,
+J. C., Penninx, B. W., & van Marwijk, H. W. (2015). Associations of
+financial strain and income with depressive and anxiety disorders. Journal of Epidemiology and Community Health, 69, 660 – 665. http://dx.doi
+.org/10.1136/jech-2014-205088
+Duncker, K. (1945). On problem solving. Psychological Monographs, 58,
+i–113. http://dx.doi.org/10.1037/h0093599
+Enda, G., Gale, W. G., & Haldeman, C. (2020, March 27). Careful or
+careless? Perspective on the CARES Act. Retrieved from https://www
+.brookings.edu/blog/up-front/2020/03/27/careful-or-careless-perspectiveson-the-cares-act/
+Enders, C. K., & Tofighi, D. (2007). Centering predictor variables in
+cross-sectional multilevel models: A new look to an old issue. Psychological Methods, 12, 121–138. http://dx.doi.org/10.1037/1082-989X.12
+.2.121
+Finch, W. H., & French, B. F. (2011). Estimation of MIMIC model
+parameters with multilevel data. Structural Equation Modeling, 18,
+229 –252. http://dx.doi.org/10.1080/10705511.2011.557338
+Hanisch, K. A. (1992). The Job Descriptive Index revisited: Questions
+about the question mark. Journal of Applied Psychology, 77, 377–382.
+http://dx.doi.org/10.1037/0021-9010.77.3.377
+Huijsmans, I., Ma, I., Micheli, L., Civai, C., Stallen, M., & Sanfey, A. G.
+(2019). A scarcity mindset alters neural processing underlying consumer
+decision making. Proceedings of the National Academy of Sciences of
+the United States of America, 116, 11699 –11704. http://dx.doi.org/10
+.1073/pnas.1818572116
+Jiang, L., & Lavaysse, L. M. (2018). Cognitive and affective job insecurity:
+A meta-analysis and a primary study. Journal of Management, 44,
+2307–2342. http://dx.doi.org/10.1177/0149206318773853
+Jiang, L., Probst, T. M., & Sinclair, R. R. (2013). Perceiving and responding to job insecurity: The importance of multilevel contexts. In A.-S. G.
+Antoniu & C. L. Cooper (Eds.), The psychology of recession on the
+workplace (pp. 176 –195). Cheltenham, UK: Edward Elgar. http://dx.doi
+.org/10.4337/9780857933843.00020
+Johns, G. (2006). The essential impact of context on organizational behavior. Academy of Management Review, 31, 386 – 408. http://dx.doi.org/
+10.5465/amr.2006.20208687
+JPMorgan Chase & Co. Institute. (2019, October). Weathering volatility
+2.0. Retrieved from https://institute.jpmorganchase.com/content/dam/
+jpmc/jpmorgan-chase-and-co/institute/pdf/institute-volatility-cashbuffer-executive-summary.pdf
+Kline, R. (2015). Principles and practice of structural equation modeling
+(4th ed.). New York, NY: Guilford.
+Mani, A., Mullainathan, S., Shafir, E., & Zhao, J. (2013). Poverty impedes
+cognitive function. Science, 341, 976 –980. http://dx.doi.org/10.1126/
+science.1238041
+Matrajt, L., & Leung, T. (2020). Evaluating the effectiveness of social
+distancing interventions to delay or flatten the epidemic curve of coronavirus disease. Emerging Infectious Diseases, 26, 1740 –1748. http://
+dx.doi.org/10.3201/eid2608.201093
+Matthews, S. (2020, March 22). U.S. jobless rate may soar to 30%, Fed’s
+Bullard says. Retrieved from https://www.bloomberg.com/news/articles/
+2020-03-22/fed-s-bullard-says-u-s-jobless-rate-may-soar-to-30-in-2q
+McKee-Ryan, F. M., & Harvey, J. (2011). “I have a job, but . . .”: A review
+of underemployment. Journal of Management, 37, 962–996. http://dx
+.doi.org/10.1177/0149206311398134
+McKee-Ryan, F., Song, Z., Wanberg, C. R., & Kinicki, A. J. (2005).
+Psychological and physical well-being during unemployment: A meta-
+
+1405
+
+analytic study. Journal of Applied Psychology, 90, 53–76. http://dx.doi
+.org/10.1037/0021-9010.90.1.53
+Mullainathan, S., & Shafir, E. (2014). Scarcity: The true cost of not having
+enough. New York, NY: Penguin. http://dx.doi.org/10.3399/
+bjgp15X683737
+Muthén, L. K., & Muthén, B. O. (1998 –2017). MPlus user guide (8th ed.).
+Los Angeles, CA: Author.
+National Governors Association. (2020, April 9). Coronavirus: What you
+need to know. Retrieved from https://www.nga.org/coronavirus/
+Peer, E., Vosgerau, J., & Acquisti, A. (2014). Reputation as a sufficient
+condition for data quality on Amazon Mechanical Turk. Behavior Research Methods, 46, 1023–1031. http://dx.doi.org/10.3758/s13428-0130434-y
+Petitta, L., Probst, T. M., Barbaranelli, C., & Ghezzi, V. (2020). Economic
+stress, emotional contagion and safety outcomes: A cross-country study.
+Work, 66, 421– 435. http://dx.doi.org/10.3233/WOR-203182
+The Pew Charitable Trusts. (2015, November). What resources do families
+have for financial emergencies? Retrieved from https://www.pewtrusts
+.org/en/research-and-analysis/issue-briefs/2015/11/emergency-savingswhat-resources-do-families-have-for-financial-emergencies
+Probst, T. M. (2002). Layoffs and tradeoffs: Production, quality, and safety
+demands under the threat of job loss. Journal of Occupational Health
+Psychology, 7, 211–220. http://dx.doi.org/10.1037/1076-8998.7.3.211
+Probst, T. M. (2003). Development and validation of the Job Security
+Index and the Job Security Satisfaction Scale: A classical test theory and
+IRT approach. Journal of Occupational and Organizational Psychology,
+76, 451– 467. http://dx.doi.org/10.1348/096317903322591587
+Probst, T. M. (2005). Economic stressors. In J. Barling, K. Kelloway, & M.
+Frone (Eds.), Handbook of work stress (pp. 267–298). Thousand Oaks,
+CA: Sage. http://dx.doi.org/10.4135/9781412975995.n11
+Probst, T. M., Chizh, A., Hu, S., Jiang, L., & Austin, C. T. (2019).
+Explaining the relationship between job insecurity and creativity: A test
+of cognitive and affective mediators. Career Development International,
+25, 247–270. http://dx.doi.org/10.1108/CDI-04-2018-0118
+Probst, T. M., Stewart, S. M., Gruys, M. L., & Tierney, B. W. (2007).
+Productivity, counterproductivity and creativity: The ups and downs of
+job insecurity. Journal of Occupational and Organizational Psychology,
+80, 479 – 497. http://dx.doi.org/10.1348/096317906X159103
+Richardson, T., Elliott, P., & Roberts, R. (2013). The relationship between
+personal unsecured debt and mental and physical health: A systematic
+review and meta-analysis. Clinical Psychology Review, 33, 1148 –1162.
+http://dx.doi.org/10.1016/j.cpr.2013.08.009
+Shah, A. K., Mullainathan, S., & Shafir, E. (2012). Some consequences of
+having too little. Science, 338, 682– 685. http://dx.doi.org/10.1126/
+science.1222426
+Shoss, M. K., & Probst, T. M. (2012). Multilevel outcomes of economic
+stress: An agenda for future research. In P. L. Perrewé, J. R. B. Halbesleben, & C. C. Rosen (Eds.), The role of the economic crisis on
+occupational stress and wellbeing (pp. 43– 86). Bingley, UK: Emerald
+Group Publishing. http://dx.doi.org/10.1108/S1479-3555(2012)
+0000010006
+Sinclair, R. R., Sears, L. E., Probst, T. M., & Zajack, M. (2010). A
+multilevel model of economic stress and employee well-being. In J.
+Houdmont & S. Leka (Eds.), Contemporary occupational health psychology: Global perspectives on research and practice (pp. 1–20).
+Hoboken, NJ: Wiley-Blackwell. http://dx.doi.org/10.1002/978047
+0661550.ch1
+Skalamera, J., & Hummer, R. A. (2016). Educational attainment and the
+clustering of health-related behavior among U.S. young adults. Preventive Medicine, 84, 83– 89. http://dx.doi.org/10.1016/j.ypmed.2015.12
+.011
+Snijders, T., & Bosker, R. J. (1999). Multilevel analysis: An introduction to basic
+and advanced multilevel modeling (2nd ed.). Thousand Oaks, CA: Sage.
+
+PROBST, LEE, AND BAZZOLI
+
+1406
+
+This document is copyrighted by the American Psychological Association or one of its allied publishers.
+This article is intended solely for the personal use of the individual user and is not to be disseminated broadly.
+
+Tappe, A. (2020, April 30). 30 million Americans have filed initial unemployment claims since mid-March. Retrieved from https://www.cnn.com/
+2020/04/30/economy/unemployment-benefits-coronavirus
+ten Brummelhuis, L. L., & Bakker, A. B. (2012). A resource perspective on
+the work-home interface: The work-home resources model. American
+Psychologist, 67, 545–556. http://dx.doi.org/10.1037/a0027974
+Valentino-DeVries, J., Lu, D., & Dance, G. J. X. (2020, April 3). Location
+data says it all: Staying at home during coronavirus is a luxury. New
+York Times. Retrieved from https://www.nytimes.com/interactive/2020/
+04/03/us/coronavirus-stay-home-rich-poor.html
+
+Van Pykeren, S. (2020, April 13). These photos show the staggering food
+bank lines across America. Mother Jones. Retrieved from https://www
+.motherjones.com/food/2020/04/these-photos-show-the-staggeringfood-bank-lines-across-america/
+Wickens, C. D. (1996). Designing for stress. In J. Driskell & E. Salas (Eds.),
+Stress and human performance (pp. 279 –295). Mahwah, NJ: Erlbaum.
+World Health Organization. (2020, March 11). WHO director-general’s
+opening remarks at the media briefing on COVID-19. Retrieved from
+https://www.who.int/dg/speeches/detail/who-director-general-s-openingremarks-at-the-media-briefing-on-covid-19---11-march-2020
+
+Appendix A
+Compliance With CDC Guidelines
+Please indicate how often you currently engage in the following
+behaviors to prevent spreading the coronavirus. [Measured on a
+Likert scale ranging from 1 (never) to 5 (always).]
+1.
+
+I maintain a distance of at least 6 ft. from others when
+out in public or at work.
+
+2.
+
+I stay at home except to conduct essential tasks (e.g.,
+grocery shopping, medical appointments).
+
+3.
+
+I disinfect frequently used items and surfaces.
+
+4.
+
+I frequently wash hands for a minimum of 20 seconds.
+
+5.
+
+I avoid touching my face.
+
+6.
+
+When coughing or sneezing, I aim inside my elbow or
+into a tissue.
+
+Note. The data for this study were collected before the CDC added the
+recommendation to wear a cloth face covering when out in public.
+
+(Appendices continue)
+
+ECONOMIC STRESSORS AND COVID-19 PREVENTION BEHAVIORS
+
+1407
+
+Appendix B
+State-Level COVID-19 Restrictions From the Coronavirus State Action Tracking Chart
+
+This document is copyrighted by the American Psychological Association or one of its allied publishers.
+This article is intended solely for the personal use of the individual user and is not to be disseminated broadly.
+
+The following represent the eight actions and policies included
+in our operationalization of the state-level COVID-19 restrictions.
+These were selected due to their greatest potential impact on the
+daily activities of workers. The level of implementation described
+in the National Governors Association tracking chart (National
+Governors Association, 2020) was coded to range from 0 to 1, so
+that each policy would be equally weighted in the overall state
+policy composite.
+1.
+
+Limits on gatherings: 0 ⫽ no limits; .5 ⫽ recommendation
+only or bans on gatherings ⬎ 10; 1 ⫽ ban on all gatherings
+
+2.
+
+School closures: 0 ⫽ no; 1 ⫽ yes
+
+3.
+
+Closure of nonessential businesses: 0 ⫽ no closures; .33 ⫽
+restricted operations; .67 ⫽ some mandatory closures; 1 ⫽
+all nonessential businesses closed
+
+4.
+
+Activation of the National Guard: 0 ⫽ no; 1 ⫽ yes
+
+5.
+
+State employee travel restrictions: 0 ⫽ no; 1 ⫽ yes
+
+6.
+
+Domestic travel limitations: 0 ⫽ no restrictions; .5 ⫽ recommended restrictions; 1 ⫽ executive order requiring travel
+restrictions
+
+7.
+
+Curfew: 0 ⫽ no; 1 ⫽ yes
+
+8.
+
+Statewide mask policy: 0 ⫽ none; 1 ⫽ recommended mask
+wearing (Note: None had mandates at the time of data
+collection)
+
+Additional policies were provided in the tracker but excluded
+from our operationalization. Specifically, major disaster declaration was excluded because all states either already had such
+declarations or were in the process of getting their application for
+such declaration approved. Emergency declaration was excluded
+for the same reason. Essential business designations indicated
+whether states had defined what constituted an essential business,
+but their criteria and industries could vary greatly from state to
+state and, therefore, were not suitable for comparison. Extension of
+state income tax filing deadlines, 1135 waiver status, movement of
+primary election, and ventilator sharing were considered to have
+no or limited impact on individual workers’ social distancing or
+hygiene behaviors. Closure of some or all nonessential businesses
+was excluded due to its high degree of redundancy with the
+separately provided indicator of “closure of nonessential businesses.”
+
+Received May 22, 2020
+Revision received September 17, 2020
+Accepted September 21, 2020 䡲
+
+E-Mail Notification of Your Latest Issue Online!
+Would you like to know when the next issue of your favorite APA journal will be available
+online? This service is now available to you. Sign up at https://my.apa.org/portal/alerts/ and you will
+be notified by e-mail when issues of interest to you become available!
+
+

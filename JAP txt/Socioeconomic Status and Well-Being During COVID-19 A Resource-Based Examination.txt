@@ -1,0 +1,2253 @@
+Journal of Applied Psychology
+© 2020 American Psychological Association
+ISSN: 0021-9010
+
+2020, Vol. 105, No. 12, 1382–1396
+http://dx.doi.org/10.1037/apl0000831
+
+Socioeconomic Status and Well-Being During COVID-19:
+A Resource-Based Examination
+Connie R. Wanberg, Borbala Csillag,
+Richard P. Douglass, and Le Zhou
+
+Michael S. Pollard
+RAND Corporation, Santa Monica, California
+
+This document is copyrighted by the American Psychological Association or one of its allied publishers.
+This article is intended solely for the personal use of the individual user and is not to be disseminated broadly.
+
+University of Minnesota
+
+The authors assess levels and within-person changes in psychological well-being (i.e., depressive
+symptoms and life satisfaction) from before to during the COVID-19 pandemic for individuals in the
+United States, in general and by socioeconomic status (SES). The data is from 2 surveys of 1,143 adults
+from RAND Corporation’s nationally representative American Life Panel, the first administered between
+April–June, 2019 and the second during the initial peak of the pandemic in the United States in April,
+2020. Depressive symptoms during the pandemic were higher than population norms before the
+pandemic. Depressive symptoms increased from before to during COVID-19 and life satisfaction
+decreased. Individuals with higher education experienced a greater increase in depressive symptoms and
+a greater decrease in life satisfaction from before to during COVID-19 in comparison to those with lower
+education. Supplemental analysis illustrates that income had a curvilinear relationship with changes in
+well-being, such that individuals at the highest levels of income experienced a greater decrease in life
+satisfaction from before to during COVID-19 than individuals with lower levels of income. We draw on
+conservation of resources theory and the theory of fundamental social causes to examine four key
+mechanisms (perceived financial resources, perceived control, interpersonal resources, and COVID-19related knowledge/news consumption) underlying the relationship between SES and well-being during
+COVID-19. These resources explained changes in well-being for the sample as a whole but did not
+provide insight into why individuals of higher education experienced a greater decline in well-being from
+before to during COVID-19.
+Keywords: socioeconomic status, conservation of resources, well-being, COVID-19
+
+role of socioeconomic status (SES; i.e., an individual’s objective
+social or economic position in relation to others) during the
+COVID-19 pandemic has been scrutinized. For example, individuals of lower SES were more likely to be frontline workers with
+higher potential exposure to the virus (Afridi & Block, 2020). In
+contrast, individuals of higher SES were more likely to be working
+or furloughed at home with comforts such as a well-stocked
+pantry, stable Internet, and spacious living arrangements (Reeves
+& Rothwell, 2020). Despite these differences, a national poll by
+Axios-Ipsos reported that 47% of Americans of higher SES indicated their emotional well-being had gotten worse because of the
+pandemic, compared to only 34% of lower SES individuals (Talev,
+2020).
+The first purpose of this study is to examine levels of psychological well-being (i.e., depressive symptoms and life satisfaction)
+during the COVID-19 pandemic for individuals in the United
+States in general and by SES. We surveyed 1,143 adults from
+RAND Corporation’s nationally representative American Life
+Panel during the first U.S. peak of the pandemic in April, 2020.
+We compare levels of depressive symptoms during the pandemic
+to pre-COVID population norms (Tomitaka et al., 2018). Our
+second purpose is to assess within-person changes in well-being
+(i.e., changes in depressive symptoms and life satisfaction) from
+before to during the pandemic—in general and by SES. Finally,
+drawing upon conservation of resources theory (COR theory;
+
+“People want to talk about this virus as an equal opportunity pathogen,
+but it’s really not,” said Dr. Ashwin Vasan, a doctor and public health
+professor at Columbia University. “It’s going right to the fissures in
+our society.” New York Times, April 3, 2020.
+
+Socioeconomic disparities across life and health outcomes are
+large and persistent in the United States and other developed
+countries (Braveman, Egerter, & Williams, 2011). Given this, the
+
+This article was published Online First October 22, 2020.
+X Connie R. Wanberg and X Borbala Csillag, Department of Work
+and Organizations, University of Minnesota; X Richard P. Douglass,
+Department of Psychology, University of Minnesota; X Le Zhou, Department of Work and Organizations, University of Minnesota; X Michael S.
+Pollard, RAND Corporation, Santa Monica, California.
+The study questions and relationships examined in the present article
+have not been examined in previous manuscripts. A portion of the data
+reported in this article was obtained from the RAND American Life Panel
+Adult Social Networks and Well Being study [https://grantome.com/grant/
+NIH/R01-AA025956-01A1] funded by Grant R01AA025956 from the
+National Institute on Alcohol Abuse and Alcoholism (PI: Michael S.
+Pollard).
+Correspondence concerning this article should be addressed to Connie R.
+Wanberg, Department of Work and Organizations, University of Minnesota, 3-300 Carlson School of Management, 321 19th Avenue South,
+Minneapolis, MN 55455. E-mail: wanbe001@umn.edu
+1382
+
+This document is copyrighted by the American Psychological Association or one of its allied publishers.
+This article is intended solely for the personal use of the individual user and is not to be disseminated broadly.
+
+SES AND WELL-BEING DURING COVID-19
+
+Hobfoll, 1989, 2010) and the theory of fundamental social causes
+(Link & Phelan, 1995), we examine four resource-based mechanisms (perceived financial resources, perceived control, interpersonal resources, and COVID-19-related knowledge/news consumption) underlying the relationship between SES and well-being
+levels and changes. We operationalize SES as educational attainment and household income. These are “objective and quantifiable
+indicators of power, prestige, and control over resources” (Diemer,
+Mistry, Wadsworth, López, & Reimers, 2013, p. 84). These two
+distinct facets of SES have incremental predictive validity, with
+education being more specific to human capital and income being
+more specific to material capital (Oakes & Rossi, 2003).
+Our study provides several contributions to the literature. Despite being fundamental aspects of work, educational attainment
+and income have received scarce attention in industrialorganizational psychology and management research (Côté, 2011;
+Leana & Meuris, 2015). We present unique nationally representative data about well-being changes from before to during COVID19, and test mechanisms underlying differential well-being outcomes for individuals of lower and higher SES. Due to the
+difficulty of accessing representative samples during crises with
+measures for comparison before the event, most studies of crisis
+events include convenience samples and only postevent assessments of well-being (Norris et al., 2002). From a theoretical
+standpoint, our study addresses the need to better understand the
+pathways that affect well-being changes for individuals of lower
+and higher SES amid public health crises (Galama & van Kippersluis, 2019). From a practical standpoint, organizational practices
+can perpetuate and are also impacted by socioeconomic inequality
+(Bapuji, Ertug, & Shaw, 2020). It is thus informative for managerial practice to elucidate the relationship between SES, well-being,
+and transmitting mechanisms (Christie & Barling, 2009). Further,
+efforts to minimize risk for reduced well-being during the
+COVID-19 pandemic and future public health crises are best
+informed if there is an understanding of the processes that stimulate reduced well-being (Link & Phelan, 1995).
+
+Theory and Hypothesis Development
+COR theory is a leading psychological theory of stress and
+trauma (Hobfoll, Tirone, Holmgreen, & Gerhart, 2016). According
+to the theory, humans acquire and safeguard resources to protect
+themselves and to ease the challenges of daily life. Resources
+include valued conditions or situations, personal resources such as
+self-efficacy, and material or energy resources such as money
+(Hobfoll, 1989). A first tenet of this theory suggests that when
+individuals lose or fear losing valued resources, well-being is
+negatively affected (Hobfoll, 1989, 2010). This reduction in wellbeing stems from both the instrumental and symbolic value of the
+lost resources.
+COVID-19, recognized as a worldwide pandemic by the World
+Health Organization (WHO) on March 11, 2020, was associated
+with myriad resource losses for individuals. Millions of employees
+were furloughed or laid off from their jobs, or began working
+under new conditions at home or on site. Childcare center and
+school closures changed family routines. Supply chain interruptions reduced the availability of everyday supplies. Services, such
+as grooming, physical therapy, public transportation, and many
+entertainment options became unavailable or limited. Individuals
+
+1383
+
+were isolated from friends and family. Stock markets plummeted
+in late March, 2020, producing financial loss and fear of further
+loss.
+Consistent with COR theory, mental health concerns have been
+documented in countries that experienced the COVID-19 outbreak
+before the United States (Qiu et al., 2020). For example, of 52,730
+individuals surveyed in China during the pandemic, 35% indicated
+experiencing psychological distress (Qiu et al., 2020). Another
+study from China reported that the prevalence of depression was
+14.6% in a convenience sample (Lei et al., 2020). While such data
+is informative, within-person comparisons of well-being from before to during COVID-19 are required to assess whether wellbeing levels have decreased and the effect size of this decrease. In
+addition to comparing levels of depressive symptoms during the
+pandemic in the United States to established norms, we also
+examine within-person changes in both depressive symptoms and
+life satisfaction from before to during the pandemic. We propose:
+Hypothesis 1: Depressive symptoms assessed during the pandemic will be significantly higher than previous population
+norms.
+Hypothesis 2: Individuals will portray (a) an increase in depressive symptoms and (b) a decrease in life satisfaction from
+before to during the pandemic.
+
+SES and Well-Being During the Pandemic
+According to COR theory, SES is fundamentally linked to the
+availability of resources (Hobfoll, 2010). Individuals with higher
+education and income have more resources and are better able to
+protect the resources they have (Hobfoll, 2010). In contrast, low
+SES makes it difficult to garner resources, even obstructing the
+protection of one’s resources. Consistent with the COR theory
+premise that people with fewer resources will have lower psychological health, lower SES is associated with more depression
+(Lorant et al., 2003; Wang, Schmitz, & Dewa, 2010) and lower life
+satisfaction (Pinquart & Sörensen, 2000).
+The theory of fundamental social causes specifies that the role
+of SES in health is so robust and enduring that it is imperative to
+examine SES inequities and the mechanisms behind these inequities (Phelan, Link, & Tehranifar, 2010). While many resources fit
+under the umbrella of COR theory, the theory of fundamental
+social causes identifies four key resources underlying SES inequities (Link & Phelan, 1995). First, perceived financial resources
+refer to perceived fit between accessible material resources and
+financial needs and wants (Meuris & Leana, 2018). In general,
+individuals of lower SES worry more about their financial situation and feel more overwhelmed by their financial obligations than
+individuals of higher SES (Link & Phelan, 1995). Yet, the same
+level of income may indicate comfort for one and discomfort for
+another, stemming from divergent financial responsibilities or
+expenditures (Leana & Meuris, 2015). Second, SES is related to
+lower levels of power. While power broadly refers to the ability to
+administer outcomes such as rewards and punishment (Hinkin &
+Schriesheim, 1989; Raven, 1993), SES is especially related to
+perceived control over life outcomes, with low SES typically
+signifying “a sense that one’s actions are chronically influenced by
+external forces outside of one’s individual control and influence”
+(Kraus, Piff, Mendoza-Denton, Rheinschmidt, & Keltner, 2012, p.
+
+This document is copyrighted by the American Psychological Association or one of its allied publishers.
+This article is intended solely for the personal use of the individual user and is not to be disseminated broadly.
+
+1384
+
+WANBERG, CSILLAG, DOUGLASS, ZHOU, AND POLLARD
+
+549). Resources and contexts accompanying lower SES result in
+more disruption to both perceived and actual control over life
+constraints (Kraus et al., 2012). Third, interpersonal resources
+refer to having higher levels of social support, social integration, or
+connectedness (Link & Phelan, 1995). Lower SES is related to
+smaller social networks and more social isolation and loneliness
+(Algren et al., 2020; House, Umberson, & Landis, 1988). Lastly,
+knowledge refers to possessing facts or information that allow an
+accurate awareness of a topic. In general, individuals of lower SES
+have less health-related knowledge (Phelan et al., 2010). Supporting this idea, research early in the COVID-19 crisis found lower
+COVID-related knowledge among individuals of lower SES (Cutler, Stantcheva, Alsan, & Yang, 2020).
+Each of these resources is important to the maintenance of
+well-being. Specifically, individuals with lower perceived financial resources have lower levels of mental health and life satisfaction stemming from deleterious cognitive energy devoted to fear
+and discontent about their situation (Meuris & Leana, 2018).
+Lower sense of control is related to lower well-being because
+individuals feel powerless about their decisions and influence over
+others (Anderson, Kraus, Galinsky, & Keltner, 2012; Cheng,
+Cheung, Chio, & Chan, 2013). With respect to interpersonal resources, social isolation—which can contribute to individuals feeling a lack of support and interpersonal connections— has been
+associated with risk of depressive symptoms (Teo, Choi, & Valenstein, 2013). Knowledge has been shown to be related to higher
+levels of physical health—individuals with more health-related
+knowledge know how to stay healthy (Phelan et al., 2010). The
+relationship between knowledge and psychological well-being is
+more ambiguous. In the case of COVID-19, there have been
+indications that higher satisfaction with knowledge about the virus
+is related to lower depression (Wang et al., 2020), perhaps because
+individuals feel efficacious about precautionary measures. Higher
+consumption of news during a pandemic may reduce psychological well-being, however, perhaps because it amplifies fear and
+awareness of suffering (Ornell, Schuch, Sordi, & Kessler, 2020).
+Indeed, the WHO urged individuals to “minimize watching, reading, or listening to news about COVID-19 that causes you to feel
+anxious or distressed” (WHO, 2020, p.1). We posit:
+Hypothesis 3: SES will be (a) negatively associated with
+depressive symptoms and (b) positively associated with life
+satisfaction during the pandemic.
+Hypothesis 4: SES will be positively associated with (a)
+perceived financial resources, (b) perceived control, (c) interpersonal resources, and (d) COVID-related knowledge and
+news consumption during the pandemic. These resources will
+mediate the relationship between SES and depressive symptoms and life satisfaction during the pandemic.
+
+SES and Changes of Well-Being From Before to
+During COVID-19
+The previous hypotheses do not address whether or how wellbeing might differentially change for individuals of lower and
+higher SES from before to during COVID-19. Another aspect of
+COR theory suggests individuals of lower SES may be more likely
+to experience a greater decline in well-being during a crisis event
+
+in comparison to those of higher SES. Specifically, COR theory
+suggests that individuals with compromised resources are most
+vulnerable to additional resource loss. In contrast, individuals with
+higher SES are more likely to have plentiful resource caravans that
+can be drawn upon to stave off negative emotions and cognitions,
+and assist overall coping (Hobfoll, 2010). While few studies have
+examined SES and well-being in the context of crises with pre and
+post measures (Norris et al., 2002), a few studies support the
+premise that people with lower SES have the largest decrease in
+well-being after a crisis (Ginexi, Weihs, Simmens, & Hoyt, 2000;
+Phifer, 1990). For example, following the 1984 Kentucky flood,
+individuals of lower SES reported greater increases in depression
+and anxiety (Phifer, 1990).
+In contrast to these findings, as mentioned in our opening paragraph, a nationally representative survey of 1,355 U.S. adults early in
+the pandemic found that more individuals of higher SES indicated
+their emotional well-being had gotten worse than individuals of lower
+SES (Talev, 2020). Although counterintuitive, situationally specific
+lower well-being among individuals who typically have more resources is also acknowledged by COR theory. Reduced well-being
+depends on how one’s unique resources contract in a specific situation
+(Hobfoll, 2010; Hobfoll, Johnson, Ennis, & Jackson, 2003). It is
+possible that loss of resources during COVID-19 may have occurred
+differentially for individuals of higher and lower SES. For example,
+higher SES could have been associated with greater loss of interpersonal resources, given that individuals of higher SES were more likely
+to be newly working at home during the pandemic than those of lower
+SES. Or, given individuals lower in SES already tend to have low
+perceived control, individuals of higher SES may have had a relatively bigger drop in perceived control due to COVID-19-related
+uncertainties. Considering the above, we propose the following competing hypotheses:
+Hypothesis 5a: There will be a larger increase in depressive
+symptoms and a larger decrease in life satisfaction from
+before to during COVID-19 for lower (vs. higher) SES
+individuals.
+Hypothesis 5b: There will be a larger increase in depressive
+symptoms and a larger decrease in life satisfaction from
+before to during COVID-19 for higher (vs. lower) SES
+individuals.
+Only limited research has empirically examined the role of differential resource loss in explaining SES differences in well-being
+change (Kiviruusu, Huurre, Haukkala, & Aro, 2013). A given crisis
+can affect resources differentially for individuals of higher and lower
+SES (Warr & Aung, 2019). Data available from a previous assessment of the American Life Panel allowed us to assess actual changes
+from before to during COVID-19 in two of the resources central to
+our theorizing: perceived control and interpersonal resources (Link &
+Phelan, 1995). We examine whether decreases in perceived control
+and interpersonal resources mediate the relationship between SES and
+changes in well-being. We also examine whether lower levels of the
+other resources during COVID-19 (perceived financial resources,
+COVID-related knowledge, and COVID-related news consumption)
+explain changes in well-being. Based on the components of both COR
+theory and the theory of fundamental social causes, we propose:
+Hypothesis 6: Declines in (a) perceived control and (b) interpersonal resources as well as levels of (c) perceived financial
+
+SES AND WELL-BEING DURING COVID-19
+
+Table 1
+Demographic Characteristics of Participants (N ⫽ 1,143)
+
+This document is copyrighted by the American Psychological Association or one of its allied publishers.
+This article is intended solely for the personal use of the individual user and is not to be disseminated broadly.
+
+Characteristic
+Age
+30–39
+40–49
+50–59
+60–69
+70–79
+80–81
+Gender
+Male
+Female
+Racioethnicity
+Non-Hispanic White
+Non-Hispanic Black
+Hispanic
+Asian or Pacific Islander
+Other
+Employment status in April 2020
+Unemployed and looking for work prior to COVID-19
+Full-time employee
+Part-time employee
+Laid off due to COVID-19
+Furloughed due to COVID-19
+Freelancing or self-employed
+Disabled
+Retired
+Homemaker
+Other
+Household income reported in 2020
+Less than $5,000
+$5,000 to $7,499
+$7,500 to $9,999
+$10,000 to $12,499
+$12,500 to $14,999
+$15,000 to $19,999
+$20,000 to $24,999
+$25,000 to $29,999
+$30,000 to $34,999
+$35,000 to $39,999
+$40,000 to $49,999
+$50,000 to $59,999
+$60,000 to $74,999
+$75,000 to $99,999
+$100,000 to $124,999
+$125,000 to $199,999
+$200,000 or more
+Education
+Less than high school
+Some high school, no diploma
+High school graduate or equivalent
+Some college, no degree
+Associate degree
+Bachelor’s degree
+Master’s degree
+Professional school degree
+Doctorate degree
+
+1385
+Method
+
+n
+
+%
+
+130
+181
+215
+296
+293
+28
+
+11.4
+15.8
+18.8
+25.9
+25.6
+2.5
+
+508
+635
+
+44.4
+55.6
+
+841
+108
+137
+34
+23
+
+73.6
+9.4
+12.0
+3.0
+2.0
+
+21
+396
+60
+40
+32
+79
+59
+371
+42
+43
+
+1.8
+34.6
+5.2
+3.5
+2.8
+6.9
+5.2
+32.5
+3.7
+3.8
+
+19
+8
+16
+17
+16
+38
+46
+53
+59
+42
+93
+101
+156
+134
+122
+139
+81
+
+1.7
+0.7
+1.4
+1.5
+1.4
+3.3
+4.0
+4.6
+5.2
+3.7
+8.1
+8.8
+13.6
+11.7
+10.7
+12.2
+7.1
+
+5
+29
+117
+219
+152
+333
+204
+41
+43
+
+.4
+2.5
+10.2
+19.2
+13.3
+29.1
+17.8
+3.6
+3.8
+
+Participants and Procedure
+We surveyed the RAND American Life Panel (ALP; Pollard &
+Baird, 2017), a probability-sample based, nationally representative
+sample. Time 1 (T1) of our study took place before COVID-19 in
+April–June, 2019 (“Adult Social Networks and Well Being,” RAND
+Corporation IRB # 2017–1022), which focused on U.S. adults between ages 30 and 80. The before-COVID-19 data was collected as
+part of a larger ongoing longitudinal study and the present article is the
+first being published from this broader database. Time 2 (T2) data was
+collected April 16 –19, 2020 (“Stressors and strains at work and home
+during the Corona virus pandemic,” University of Minnesota IRB
+# 00009402), during the first estimated 2020 peak of the pandemic in
+the United States as measured by deaths per day and hospital resource
+use (IHME, 2020). Perceived control, interpersonal resources, depressive symptoms, and life satisfaction were assessed at both T1 and T2.
+Perceived financial resources, COVID-related knowledge, and
+COVID-related news consumption were assessed at T2 and were not
+available at T1. ALP panelists are invited to update demographic and
+general health status three times a year. An invitation to our study was
+sent to 1,771 panelists who completed the T1 survey; 1,143 responded
+(64.5%).1 Demographic data for the sample is shown in Table 1.
+
+Measures
+
+Note. Frequencies listed in this table are unweighted. Household income
+does not total to 1,143 due to missing responses. Respondents were or had
+previously been employed (e.g., retired, unemployed) in a wide range of
+occupations, with the three most frequent being education (14%), managerial (10%), and office and administrative (9%).
+
+resources and (d) COVID-related knowledge and COVIDrelated news consumption will mediate the relationship between SES and changes in depressive symptoms and life
+satisfaction from before to during the pandemic.
+
+The complete list of items in each measure is included in the
+Appendix. Socioeconomic status was measured with (a) educational
+attainment assessed in early 2020 and (b) annual household income
+assessed in 2019 and 2020, averaged across these two assessments.
+Respondents reported their highest level of education on a 9-point
+scale (1 ⫽ less than high school, 9 ⫽ doctorate degree). There was a
+.98 and above correlation between education used in our analyses and
+four previous measurements, providing evidence for the reliability of
+this measure in this sample. Household income represents the total
+combined income of all family members 15 years or older who lived
+in the household over the past year on a 17-point scale (1 ⫽ less than
+$5,000, 17 ⫽ $200,000 or above). Combining multiple recent years of
+household income is recommended because household income can
+change from year to year, especially for individuals of lower SES
+(Diemer et al., 2013).2
+Perceived financial resources were measured by four items (Meuris
+& Leana, 2018) on a 5-point scale (1 ⫽ never to 5 ⫽ always). Higher
+scores reflect more satisfaction with, and less worry about, one’s
+financial resources. Perceived control was measured with seven items
+(Lachman & Weaver, 1998) on a 4-point scale (1 ⫽ strongly disagree
+
+1
+Respondents and nonrespondents did not significantly differ in general
+health status, education, and income. Respondents were older and were
+more likely to be male and non-Hispanic White. Sampling weights were
+included to adjust for differences between our sample and the general
+population, and age, gender, and racioethnicity are included in analyses as
+covariates.
+2
+Some researchers use occupational prestige as an index of SES among
+working samples. Among our participants working full or part time in early
+2020, Nam-Powers-Boyd occupational prestige scale scores (Boyd & Nam,
+2015) were highly correlated with education (r ⫽ .51, p ⬍ .01) and income
+(r ⫽ .58, p ⬍ .01).
+
+—
+⫺.03
+⫺.10ⴱⴱ
+.08ⴱ
+.15ⴱⴱ
+.11ⴱⴱ
+.09ⴱⴱ
+⫺.05
+⫺.05
+.00
+⫺.02
+⫺.02
+⫺.17ⴱⴱ
+⫺.07ⴱ
+⫺.02
+.01
+.03
+—
+⫺.11ⴱⴱ
+⫺.08ⴱⴱ
+⫺.35ⴱⴱ
+⫺.18ⴱⴱ
+⫺.19ⴱⴱ
+⫺.18ⴱⴱ
+⫺.20ⴱⴱ
+⫺.05
+⫺.08ⴱⴱ
+⫺.07ⴱ
+⫺.05
+⫺.25ⴱⴱ
+⫺.17ⴱⴱ
+.14ⴱⴱ
+.13ⴱⴱ
+⫺.10ⴱⴱ
+.00
+—
+⫺.17ⴱⴱ
+⫺.06ⴱ
+⫺.05
+⫺.01
+⫺.09ⴱⴱ
+⫺.04
+⫺.20ⴱⴱ
+⫺.07ⴱ
+.04
+.00
+⫺.07ⴱ
+.04
+⫺.08ⴱ
+.05
+⫺.01
+⫺.01
+.06ⴱ
+.04
+Gender (0 ⫽ male, 1 ⫽ female)
+.52
+.50
+—
+Non-Hispanic Black (0 ⫽ no, 1 ⫽ yes)
+.09
+.28 .09ⴱⴱ
+Hispanic (0 ⫽ no, 1 ⫽ yes)
+.24
+.42 ⫺.01
+Asian/Pacific Islander (0 ⫽ no, 1 ⫽ yes)
+.04
+.19 ⫺.10ⴱⴱ
+Other racioethnicity (0 ⫽ no, 1 ⫽ yes)
+.02
+.14 .02
+Age
+53.27 13.67 .03
+General health status
+3.44
+.94 .00
+Education
+4.57 1.81 .03
+Income
+11.77 3.96 ⫺.13ⴱⴱ
+Perceived financial resources during COVID 3.36
+.96 ⫺.06
+Perceived control pre-COVID
+3.08
+.56 .00
+Perceived control during COVID
+3.02
+.54 ⫺.08ⴱ
+Interpersonal resources pre-COVID
+2.45
+.59 ⫺.03
+Interpersonal resources during COVID
+2.33
+.61 ⫺.07ⴱ
+COVID-related knowledge
+3.79
+.95 .03
+COVID-related news consumption
+4.19
+.93 .03
+Depressive symptoms pre-COVID
+4.18 4.60 .06ⴱ
+Depressive symptoms during COVID
+4.77 4.83 .07ⴱ
+Life satisfaction pre-COVID
+7.76 1.79 ⫺.01
+Life satisfaction during COVID
+7.10 1.90 ⫺.11ⴱⴱ
+1.
+2.
+3.
+4.
+5.
+6.
+7.
+8.
+9.
+10.
+11.
+12.
+13.
+14.
+15.
+16.
+17.
+18.
+19.
+20.
+
+Note. N ⫽ 1,117–1,143. Racioethnicity is coded as four dummy variables with non-Hispanic White as the referent. Following convention for the PHQ-8 instrument, depressive symptoms are
+operationalized as the sum of all item scores. Cronbach’s alpha coefficients are reported inside the parentheses along the diagonal.
+ⴱ
+p ⬍ .05. ⴱⴱ p ⬍ .01.
+
+20
+19
+18
+17
+16
+15
+14
+13
+12
+11
+10
+9
+8
+7
+6
+5
+4
+3
+2
+1
+SD
+M
+Variable
+
+Table 2
+Means, Standard Deviations, Bivariate Correlations, and Cronbach’s Alpha Coefficients of Study Variables
+
+This document is copyrighted by the American Psychological Association or one of its allied publishers.
+This article is intended solely for the personal use of the individual user and is not to be disseminated broadly.
+
+—
+⫺.03
+—
+⫺.07ⴱ
+.02
+—
+⫺.04
+.00
+.27ⴱⴱ
+—
+ⴱⴱ
+⫺.08
+.05
+.28ⴱⴱ .45ⴱⴱ
+—
+ⴱⴱ
+ⴱⴱ
+⫺.03
+.27
+.31
+.24ⴱⴱ .37ⴱⴱ (.87)
+ⴱⴱ
+ⴱⴱ
+ⴱⴱ
+.27
+.14
+.20ⴱⴱ .34ⴱⴱ (.81)
+.01
+.16
+.01
+.17ⴱⴱ .33ⴱⴱ .10ⴱ
+.19ⴱⴱ .45ⴱⴱ .63ⴱⴱ (.83)
+.01
+.18ⴱⴱ .27ⴱⴱ .05
+.20ⴱⴱ .36ⴱⴱ .49ⴱⴱ .47ⴱⴱ (.82)
+.00
+.12ⴱⴱ .15ⴱⴱ .01
+.13ⴱⴱ .32ⴱⴱ .27ⴱⴱ .43ⴱⴱ .42ⴱⴱ (.83)
+⫺.07ⴱ
+.31ⴱⴱ .12ⴱⴱ .18ⴱⴱ .15ⴱⴱ .14ⴱⴱ .13ⴱⴱ .16ⴱⴱ .06ⴱ ⫺.01
+—
+⫺.09ⴱⴱ .19ⴱⴱ ⫺.02
+.11ⴱⴱ .15ⴱⴱ ⫺.05
+.08ⴱ
+.05
+.01
+.01
+.37ⴱⴱ —
+ⴱⴱ
+ⴱⴱ
+ⴱⴱ
+ⴱⴱ
+ⴱⴱ
+ⴱⴱ
+ⴱⴱ
+ⴱⴱ
+ⴱⴱ
+.03 ⫺.22 ⫺.40 ⫺.11 ⫺.17 ⫺.39 ⫺.49 ⫺.52 ⫺.54 ⫺.26 ⫺.09ⴱ
+.06ⴱ (.89)
+⫺.03 ⫺.25ⴱⴱ ⫺.37ⴱⴱ ⫺.02 ⫺.14ⴱⴱ ⫺.47ⴱⴱ ⫺.37ⴱⴱ ⫺.54ⴱⴱ ⫺.43ⴱⴱ ⫺.54ⴱⴱ ⫺.08ⴱ
+.06
+.56ⴱⴱ (.89)
+.01
+.14ⴱⴱ .41ⴱⴱ .07ⴱ
+.18ⴱⴱ .33ⴱⴱ .43ⴱⴱ .41ⴱⴱ .46ⴱⴱ .27ⴱⴱ ⫺.03 ⫺.01 ⫺.50ⴱⴱ ⫺.38ⴱⴱ —
+.03
+.19ⴱⴱ .33ⴱⴱ ⫺.04
+.11ⴱⴱ .48ⴱⴱ .39ⴱⴱ .55ⴱⴱ .44ⴱⴱ .44ⴱⴱ .05 ⫺.10ⴱ ⫺.48ⴱⴱ ⫺.59ⴱⴱ .57ⴱⴱ —
+
+WANBERG, CSILLAG, DOUGLASS, ZHOU, AND POLLARD
+
+1386
+
+to 4 ⫽ strongly agree). Interpersonal resources were assessed with
+three items from the revised UCLA Loneliness Scale (Hughes, Waite,
+Hawkley, & Cacioppo, 2004) on a 3-point scale (1 ⫽ hardly ever to
+3 ⫽ often). This scale is strongly correlated with a longer version (r ⫽
+.82; Hughes et al., 2004). Higher scores reflect more interpersonal
+resources. COVID-related knowledge (1 ⫽ not at all knowledgeable
+to 5 ⫽ extremely knowledgeable for knowledge) and news consumption (1 ⫽ never to 5 ⫽ a great deal) were assessed with single items
+on 5-point scales.
+Depressive symptoms were measured by the Patient Health
+Questionnaire (PHQ-8; Kroenke et al., 2009), on a 4-point scale
+(0 ⫽ not at all to 3 ⫽ nearly every day). The sum of item responses
+indicates the overall level of depressive symptoms. The PHQ-8 has
+a high 48-hr test–retest reliability and construct validity as a
+diagnostic measure (Kroenke, Spitzer, & Williams, 2001; Kroenke
+et al., 2009). Life satisfaction was assessed with a single item (1 ⫽
+very dissatisfied to 10 ⫽ very satisfied; Kobau, Sniezek, Zack,
+Lucas, & Burns, 2010). This item is strongly correlated (r ⫽ .75;
+Kobau et al., 2010) with the multi-item Satisfaction with Life
+Scale (Diener, Emmons, Larsen, & Griffin, 1985).
+Control variables included age, racioethnicity (four dummy
+variables with non-Hispanic White as the referent category, compared to non-Hispanic Black, Hispanic, Asian or Pacific Islander,
+and Others; 0 ⫽ no, 1 ⫽ yes), gender (0 ⫽ male, 1 ⫽ female), and
+general health status (1 ⫽ poor to 5 ⫽ excellent). Age and general
+health status were controlled because they are risk factors for
+COVID-19 (Bhargava et al., 2020; Mayo Clinic, 2020). Racioethnicity was controlled because racial disparities exist in health
+outcomes above and beyond SES differences (House & Williams,
+2000). We controlled for gender because meta-analytic findings
+suggest there are more depressive symptoms among women than
+men (d ⫽ 0.27; Salk, Hyde, & Abramson, 2017).3
+
+Analytic Strategy
+Weights were incorporated in the estimation of coefficients and
+standard errors (SEs) in order to account for sampling bias (Asparouhov, 2005).4 We tested Hypothesis 1 (H1) using a one-sample
+t test and Hypothesis 2 (H2) using a paired-sample t test, with
+SPSS Version 24. To test Hypothesis 3 (H3) and Hypothesis 4
+(H4) we used structural equation modeling (SEM). To test Hypothesis 5 (H5) and Hypothesis 6 (H6), we used latent change
+score (LCS) modeling. In analyses for H3–H6 latent factors were
+specified for multiple-indicator variables (see McArdle, 2009) and
+the analyses were conducted in Mplus Version 8.3 (Muthén &
+Muthén, 2017). We used the Monte Carlo method to construct
+95% confidence intervals (CIs) of indirect and total effects in R
+Version 4.0.0 using the Modern Applied Statistics with S (MASS)
+3
+When control variables are removed, results are all consistent except
+for the effect of income on COVID-related news consumption and the
+direct effect of education on depressive symptoms, which were not significant. Detailed results are available on this study’s OSF site (https://doi
+.org/10.17605/OSF.IO/ARZF4).
+4
+Sampling weights are provided by RAND to match the sample to the
+U.S. population in multiple demographic characteristics based on data from
+the Current Population Survey Annual Social and Economic Supplement
+(administered in March of each year). See technical details of the weighting
+procedure in Pollard and Baird (2017).
+
+SES AND WELL-BEING DURING COVID-19
+
+1387
+
+Table 3
+Item-Level Comparisons on Patient Health Questionnaire (Depressive Symptoms) to Previous Population Norms
+Item
+
+This document is copyrighted by the American Psychological Association or one of its allied publishers.
+This article is intended solely for the personal use of the individual user and is not to be disseminated broadly.
+
+1.
+2.
+3.
+4.
+5.
+6.
+
+Little interest or pleasure in doing things
+Feeling down, depressed, or hopeless
+Trouble falling or staying asleep, or sleeping too much
+Feeling tired or having little energy
+Poor appetite or overeating
+Feeling bad about yourself—or that you are a failure or have let yourself or your
+family down
+7. Trouble concentrating on things, such as reading the newspaper or watching television
+8. Moving or speaking so slowly that other people could have noticed? Or the
+opposite—being so fidgety or restless that you have been moving around a lot more
+than usual
+Total scale
+
+Present sample
+(N ⫽ 1,141–1,143)
+
+Comparison sample
+(N ⫽ 5,924)
+
+One-sample
+t-test results
+
+.67 (.82)
+.57 (.75)
+.85 (.93)
+.89 (.89)
+.76 (.97)
+
+.40
+.35
+.62
+.77
+.40
+
+11.00ⴱⴱ
+9.94ⴱⴱ
+8.23ⴱⴱ
+4.53ⴱⴱ
+12.68ⴱⴱ
+
+.41 (.72)
+.43 (.73)
+
+.26
+.19
+
+6.93ⴱⴱ
+10.95ⴱⴱ
+
+.21 (.57)
+4.77 (4.83)
+
+.18
+3.16
+
+1.60
+11.28ⴱⴱ
+
+Note. Each item is answered on a 4-point scale (0 ⫽ not at all to 3 ⫽ nearly every day). Higher scores indicate higher levels of depressive symptoms.
+Under the “Present sample” column, weighted means are reported with SDs listed inside the parentheses. N ⫽ 1,141 for Item 4 and N ⫽ 1,143 for the other
+items. Comparison sample taken from Tomitaka et al. (2018).
+ⴱⴱ
+p ⬍ .01, two-tailed tests.
+
+package (Venables & Ripley, 2002).5 Complete responses were
+provided by 1,117 (98%) respondents. Following Newman (2014),
+we used maximum likelihood estimation to treat missing data,
+which also allowed us to utilize the sampling weights.
+
+Results
+Preliminary Analyses Results
+Means, standard deviations (SDs), correlations, and alphas
+for study variables are shown in Table 2. For the repeatedly
+measured multiple-item scales (i.e., perceived control, interpersonal resources, and depressive symptoms), a confirmatory
+factor analysis model with time-varying factor loadings did not
+fit the data significantly better than a model with fixed factor
+loadings (Satorra-Bentler scaled ⌬␹2 ⫽ 22.16, ⌬df ⫽ 15, p ⬎
+.05), supporting measurement equivalence of these scales at T1
+and T2.
+
+H1 and H2 Results
+Using population norms from Tomitaka et al. (2018), onesample t test results showed that depressive symptoms during the
+COVID-19 pandemic (M ⫽ 4.77, SD ⫽ 4.83) were higher than
+population norms before the pandemic (M ⫽ 3.16; t ⫽ 11.28, df ⫽
+1142, p ⬍ .01, Cohen’s d ⫽ .33; see Table 3). Therefore, H1 was
+supported. Using a paired-sample t test, results showed that depressive symptoms increased from before (M ⫽ 4.18, SD ⫽ 4.60)
+to during COVID-19 (M ⫽ 4.77, SD ⫽ 4.83; t ⫽ 4.55, df ⫽ 1142,
+p ⬍ .01, Cohen’s d ⫽ .13), supporting H2a. Life satisfaction
+decreased from before (M ⫽ 7.76, SD ⫽ 1.79) to during
+COVID-19 (M ⫽ 7.12, SD ⫽ 1.90; t ⫽ 12.52, df ⫽ 1115, p ⬍ .01,
+Cohen’s d ⫽ .38), supporting H2b.
+
+H3 and H4 Results
+We specified a model that included the effects of education
+and income on the mediators, which in turn had effects on
+depressive symptoms and life satisfaction during COVID-19.
+
+As reported in Table 4, the model explained 62% and 49% of
+the variance in depressive symptoms and life satisfaction during
+COVID-19, respectively. Estimates of indirect effects (to test
+H4) and total effects (to test H3) are reported in Table 5. In
+contrast to expectations for H3, education had a positive, rather
+than negative, total effect on depressive symptoms during
+COVID-19 (total effect ⫽ .040, 95% CI [.022, .060]; H3a) and
+a negative, rather than positive, total effect on life satisfaction
+during COVID-19 (total effect ⫽ ⫺.169, 95% CI [⫺.221, ⫺.116];
+H3b). Consistent with expectations for H3, income had a negative total effect on depressive symptoms (total effect ⫽ ⫺.014,
+95% CI [⫺.026, ⫺.002]; H3a) and a positive total effect on life
+satisfaction (total effect ⫽ .055, 95% CI [.024, .086]; H3b).
+With regard to H4, education was positively related to COVIDrelated knowledge (␤ ⫽ .07, SE ⫽ .03, p ⬍ .01), but COVIDrelated knowledge was not a significant mediator of the relationships between education and depressive symptoms and life
+satisfaction (see Table 5). Income was positively related to
+perceived financial resources (␤ ⫽ .06, SE ⫽ .01, p ⬍ .01),
+perceived control (␤ ⫽ .01, SE ⫽ .00, p ⬍ .05), interpersonal
+resources (␤ ⫽ .02, SE ⫽ .01, p ⬍ .05), and COVID-related
+news consumption (␤ ⫽ .03, SE ⫽ .01, p ⬍ .05). Each of these
+resources mediated the relationship between income and depressive symptoms and life satisfaction during COVID-19 (see
+Table 5). Overall, H4a– d received partial support with regard to
+income but not education.
+
+5
+Maximum likelihood estimation with robust standard errors (MLR)
+was used to incorporate weights into our analyses. The MLR method is not
+compatible with bootstrapping by resampling cases (which is the default
+bootstrapping procedure in Mplus). Therefore, we used the Monte Carlo
+method, which resamples estimates of parameters from sampling distributions, to construct 95% CIs of indirect and total effects (MacKinnon,
+Lockwood, & Williams, 2004).
+
+WANBERG, CSILLAG, DOUGLASS, ZHOU, AND POLLARD
+
+1388
+
+Table 4
+Estimates of Unstandardized Structural Path Coefficients Predicting Well-Being During COVID-19
+
+This document is copyrighted by the American Psychological Association or one of its allied publishers.
+This article is intended solely for the personal use of the individual user and is not to be disseminated broadly.
+
+Predictor
+Intercept
+Control variables
+Gender (0 ⫽ male, 1 ⫽ female)
+Non-Hispanic Black (0 ⫽ no, 1 ⫽ yes)
+Hispanic (0 ⫽ no, 1 ⫽ yes)
+Asian/Pacific Islander (0 ⫽ no, 1 ⫽ yes)
+Other racioethnicity (0 ⫽ no, 1 ⫽ yes)
+Age
+General health status
+SES
+Education
+Income
+Mediators
+Perceived financial resources during
+COVID
+Perceived control during COVID
+Interpersonal resources during COVID
+COVID-related knowledge
+COVID-related news consumption
+Residual variances
+R2
+
+Perceived
+Interpersonal
+financial
+Perceived
+resources
+COVID- COVID-related
+resources
+control during
+during
+related
+news
+during COVID
+COVID
+COVID
+knowledge
+consumption
+—
+
+—
+
+—
+
+3.89 (.08)ⴱⴱ
+
+4.28 (.08)ⴱⴱ
+
+⫺.05 (.07)
+.00 (.11)
+⫺.04 (.11)
+.24 (.17)
+.13 (.13)
+.02 (.00)ⴱⴱ
+.19 (.04)ⴱⴱ
+
+⫺.03 (.02)
+.06 (.03)ⴱ
+.02 (.03)
+⫺.07 (.05)
+.10 (.07)
+.003 (.00)ⴱⴱ
+.07 (.02)ⴱⴱ
+
+⫺.07 (.05)
+.19 (.08)ⴱ
+.05 (.09)
+⫺.07 (.15)
+.14 (.18)
+.01 (.00)ⴱⴱ
+.10 (.03)ⴱⴱ
+
+.06 (.08)
+⫺.31 (.15)ⴱ
+⫺.34 (.13)ⴱⴱ
+⫺.19 (.15)
+⫺.47 (.25)
+.02 (.00)ⴱⴱ
+.04 (.05)
+
+.05 (.08)
+.09 (.13)
+⫺.30 (.13)ⴱ
+⫺.95 (.47)ⴱ
+⫺.62 (.23)ⴱⴱ
+.01 (.00)ⴱ
+⫺.10 (.05)ⴱ
+
+.00 (.01)
+.01 (.00)ⴱ
+
+⫺.03 (.02)
+.02 (.01)ⴱ
+
+.03 (.02)
+.06 (.01)ⴱⴱ
+
+.07 (.03)ⴱⴱ
+.01 (.01)
+
+.04 (.04)
+.03 (.01)ⴱ
+
+Depressive
+symptoms
+during
+COVID
+
+Life
+satisfaction
+during
+COVID
+
+—
+
+6.99 (.13)ⴱⴱ
+
+.01 (.04)
+⫺.22 (.13)
+⫺.04 (.07)
+.61 (.19)ⴱⴱ
+⫺.02 (.07)
+.69 (.19)ⴱⴱ
+⫺.15 (.11)
+.52 (.38)
+⫺.17 (.11)
+.68 (.35)ⴱ
+⫺.01 (.00)ⴱⴱ
+.01 (.01)ⴱⴱ
+⫺.14 (.03)ⴱⴱ
+.39 (.08)ⴱⴱ
+.03 (.01)ⴱ
+.01 (.01)
+⫺.12 (.04)ⴱⴱ
+
+.45 (.06)ⴱⴱ
+.30
+
+.03 (.01)ⴱ
+.22
+
+.29 (.03)ⴱⴱ
+.08
+
+.75 (.05)ⴱⴱ
+.16
+
+.76 (.05)ⴱⴱ
+.12
+
+⫺.15 (.04)ⴱⴱ
+⫺.01 (.02)
+.53 (.12)ⴱⴱ
+
+⫺.99 (.37)ⴱⴱ 2.97 (.78)ⴱⴱ
+⫺.42 (.06)ⴱⴱ
+.71 (.15)ⴱⴱ
+⫺.01 (.02)
+.04 (.08)
+.05 (.03)ⴱ ⫺.16 (.08)ⴱ
+.15 (.02)ⴱⴱ 1.83 (.12)ⴱⴱ
+.62
+.49
+
+Note. N ⫽ 1,143. SES ⫽ socioeconomic status. Racioethnicity is coded as four dummy variables with non-Hispanic White as the referent category. Age,
+general health status, education, and income were mean centered. SEs are reported inside the parentheses. When only education was included as a predictor,
+it had significant positive effects on perceived financial resources during COVID, COVID-related knowledge, COVID-related news consumption, and
+depressive symptoms during COVID, and a significant negative effect on life satisfaction during COVID. When only income was included as a predictor,
+it had significant positive effects on perceived financial resources during COVID, perceived control during COVID, interpersonal resources during COVID,
+and COVID-related news consumption, and a significant negative effect on life satisfaction during COVID. All the effects of the mediators on the outcomes
+remained the same in these alternative models.
+ⴱ
+p ⬍ .05. ⴱⴱ p ⬍ .01, two-tailed tests.
+
+H5 and H6 Results
+We specified a LCS model including the effects of education
+and income on perceived financial resources during COVID-19,
+change in perceived control and interpersonal resources, and
+COVID-related knowledge and news consumption, which in turn
+had effects on changes in depressive symptoms and life satisfaction. As shown in Table 6, the model explained 28% and 21% of
+the variance in changes in depressive symptoms and life satisfaction, respectively. A latent change score represents the difference
+between T1 and T2 (T2 ⫽ T1 ⫹ change).6 A positive (negative)
+coefficient of a predictor on a latent change score means a higher
+level of the predictor is associated with a larger increase (decrease)
+in the outcome.
+Estimates of indirect effects (to test H6) and total effects (to test
+H5) of education and income on changes in depressive symptoms
+and life satisfaction are reported in Table 7. Of our competing
+hypotheses, H5a was not supported. In partial support of H5b,
+individuals with higher (vs. lower) education reported a larger
+increase in depressive symptoms (total effect ⫽ .032, 95% CI
+[.014, .049]) and a larger decrease in life satisfaction (total effect ⫽ ⫺.094, 95% CI [⫺.137, ⫺.042]) from before to during
+COVID-19. Income did not have significant total effects on
+changes in depressive symptoms or life satisfaction. Among the
+mediators hypothesized in H6, three had significant effects (see
+Table 7). Mediated by COVID-related knowledge, higher educa-
+
+tion was associated with a larger increase in life satisfaction (H6d),
+although overall higher education was associated with a larger
+decrease in life satisfaction. Mediated by perceived financial resources, higher income was associated with a larger increase in life
+satisfaction (H6c). However, mediated by COVID-related news
+consumption, higher income was associated with a larger decrease
+in life satisfaction (H6d). In other words, these two mediators of
+income operated in opposite directions, with financial resources
+contributing to an increase and COVID-related news consumption
+contributing to a decrease in life satisfaction.
+
+Additional Findings
+First, results from the null LCS model for within-person changes
+in well-being show additional support for H2. There was a significant increase in depressive symptoms (␣ ⫽ .09, SE ⫽ .03, p ⬍
+.01) and a significant decrease in life satisfaction (␣ ⫽ ⫺.65, SE ⫽
+.08, p ⬍ .01) from before to during COVID-19. Second, while
+changes in resources did not substantially explain the differences
+in well-being change for individuals of higher and lower SES, they
+did for the sample in general (see Table 6). For example, individuals who experienced a reduction in perceived control and interpersonal resources experienced a larger increase in depressive
+6
+
+Detailed model specification is provided on this study’s OSF site.
+
+Note. 95% CIs are reported inside the brackets. 95% CIs that excluded zero are bolded. 20,000 replications were used in the Monte Carlo procedure. SES ⫽ socioeconomic status.
+a
+The lower limit of this 95% CI was .00004 (with the 90% CI lower limit being .002). The 95% CI therefore did not include zero. b The upper limit of this 95% CI was ⫺.000004 (with the 90%
+CI upper limit being ⫺.001). The 95% CI therefore did not include zero. We interpret these indirect effects as statistically significant, although we encourage future research to further examine the
+robustness of these effects.
+
+.040 [.022, .060]
+⫺.014 [⫺.026, ⴚ.002]
+⫺.169 [⫺.221, ⴚ.116]
+.055 [.024, .086]
+.029 [.005, .053]
+.009 [⫺.006, .024]
+ⴚ.153 [ⴚ.223, ⴚ.083]
+⫺.012 [⫺.053, .029]
+.002 [⫺.002, .008]
+.002 [.000, .004]a
+⫺.006 [⫺.024, .004]
+ⴚ.005 [⫺.013, .000]b
+.003 [⫺.009, .016]
+ⴚ.009 [⫺.018, ⴚ.001]
+⫺.010 [⫺.045, .026]
+.027 [.006, .047]
+Depressive symptoms during COVID
+Depressive symptoms during COVID
+Life satisfaction during COVID
+Life satisfaction during COVID
+Education
+Income
+Education
+Income
+
+⫺.003 [⫺.010, .002]
+ⴚ.007 [ⴚ.012, ⴚ.002]
+.015 [⫺.009, .043]
+.030 [.015, .048]
+
+.011 [⫺.001, .023]
+⫺.009 [⫺.017, ⴚ.002]
+⫺.018 [⫺.043, .002]
+.016 [.003, .033]
+
+⫺.001 [⫺.004, .003]
+.000 [⫺.001, .001]
+.003 [⫺.008, .017]
+.000 [⫺.002, .003]
+
+Direct effect
+COVID-related news
+consumption
+COVID-related
+knowledge
+Indirect effect via . . .
+
+Interpersonal resources
+during COVID
+Perceived control
+during COVID
+Outcome
+Predictor
+
+Perceived financial
+resources during
+COVID
+
+Table 5
+Indirect Effects, Direct Effects, and Total Effects Between SES and Well-Being During COVID-19
+
+This document is copyrighted by the American Psychological Association or one of its allied publishers.
+This article is intended solely for the personal use of the individual user and is not to be disseminated broadly.
+
+Total effect
+
+SES AND WELL-BEING DURING COVID-19
+
+1389
+
+symptoms. Finally, as a supplemental analysis we examined the
+quadratic effects of education and income on the mediators and
+well-being. As shown in Figures 1 and 2, we found a significant
+curvilinear relationship between education and depressive symptoms during COVID-19 (␤ ⫽ ⫺.01, SE ⫽ .01, p ⬍ .05), and
+between income and change in life satisfaction from before to
+during COVID-19 (␤ ⫽ ⫺.01, SE ⫽ .00, p ⬍ .01). Figure 2
+portrays alternative support for H5b, for income. Education and
+income did not have significant curvilinear effects on the mediators. Full tables for the results in Figures 1 and 2 are hosted on the
+Open Science Framework platform available at https://doi.org/10
+.17605/OSF.IO/ARZF4.
+
+Discussion
+A nationally representative sample in the United States displayed an increase in depressive symptoms and a decrease in life
+satisfaction from before to during COVID-19. Levels of depressive
+symptoms during COVID-19 were also higher than previously
+established norms (Tomitaka et al., 2018).
+Contributing to the important goal of illustrating how the pandemic is affecting individuals of lower and higher SES, our study
+showed that during the first peak of the pandemic in the United
+States, higher education was positively associated with depressive
+symptoms and negatively associated with life satisfaction. This
+was contrary to expectations because individuals with lower SES
+generally have lower well-being. Consistent with expectations,
+higher income was associated with lower depressive symptoms
+and higher life satisfaction during the pandemic.
+Assessment of change from before to during the pandemic is
+important to diagnose how the pandemic affected well-being.
+Individuals with higher education experienced a greater increase in
+depressive symptoms and a greater decrease in life satisfaction
+from before to during COVID-19 than individuals with lower
+education. Income did not have linear relationship with changes in
+well-being, but supplemental analysis supported a curvilinear relationship showing that individuals at higher levels of income
+experienced a greater decrease in life satisfaction from before to
+during COVID-19 than individuals with lower levels of income
+(see Figure 2).
+These findings provide a partial replication of the AxiosIpsos poll, which indicated that in the United States, a higher
+proportion of higher SES individuals reported a decline in their
+emotional well-being due to the pandemic than those of lower
+SES (Talev, 2020). A major difference between our study and
+the Axios-Ipsos poll (beyond our use of comparison data from
+before the pandemic) is their use of an income and education
+composite to index SES. Income and education capture different parts of SES and can result in divergent empirical findings
+(e.g., Christie & Barling, 2009; DeGarmo, Forgatch, & Martinez, 1999), which we also reveal in this study.
+We examined four resource-based mechanisms to try to explain
+how SES may transmit to lower and reduced well-being. Tested
+mediators did not provide good explanatory value, especially for
+the effect of education. The one significant mediator, COVIDrelated knowledge, contributed to an increase in life satisfaction
+from before to during COVID-19, rather than a decrease. As such,
+COVID-related knowledge was not a valuable explanatory mech-
+
+WANBERG, CSILLAG, DOUGLASS, ZHOU, AND POLLARD
+
+1390
+
+Table 6
+Estimates of Unstandardized Structural Path Coefficients Predicting Change in Well-Being
+
+This document is copyrighted by the American Psychological Association or one of its allied publishers.
+This article is intended solely for the personal use of the individual user and is not to be disseminated broadly.
+
+Predictor
+Intercept
+Control variables
+Gender (0 ⫽ male, 1 ⫽ female)
+Non-Hispanic Black (0 ⫽ no, 1 ⫽ yes)
+Hispanic (0 ⫽ no, 1 ⫽ yes)
+Asian/Pacific Islander (0 ⫽ no, 1 ⫽ yes)
+Other racioethnicity (0 ⫽ no, 1 ⫽ yes)
+Age
+General health status
+SES
+Education
+Income
+Mediators
+Perceived financial resources during
+COVID
+Change in perceived control
+Change in interpersonal resources
+COVID-related knowledge
+COVID-related news consumption
+Residual variances
+R2
+
+Perceived
+financial
+resources
+during COVID
+
+Change in
+perceived
+control
+
+—
+
+.01 (.04)
+
+Change in
+interpersonal
+resources
+
+COVIDrelated
+knowledge
+
+COVIDrelated news
+consumption
+
+Change in
+depressive
+symptoms
+
+Change in
+life
+satisfaction
+
+⫺.06 (.07)
+
+3.89 (.08)ⴱⴱ
+
+4.28 (.08)ⴱⴱ
+
+.08 (.04)
+
+⫺.60 (.15)ⴱⴱ
+
+.06 (.08)
+⫺.31 (.15)ⴱ
+⫺.34 (.13)ⴱⴱ
+⫺.19 (.15)
+⫺.47 (.25)
+.02 (.00)ⴱⴱ
+.04 (.05)
+
+.05 (.08)
+.09 (.13)
+⫺.30 (.13)ⴱ
+⫺.95 (.47)ⴱ
+⫺.62 (.23)ⴱⴱ
+.01 (.00)ⴱ
+⫺.10 (.05)ⴱ
+
+⫺.04 (.05)
+.02 (.08)
+⫺.06 (.08)
+.02 (.10)
+⫺.27 (.13)ⴱ
+.00 (.00)
+⫺.01 (.03)
+
+⫺.26 (.14)
+.15 (.20)
+.70 (.25)ⴱⴱ
+.28 (.31)
+.37 (.24)
+.00 (.01)
+⫺.13 (.07)
+
+⫺.05 (.07)
+.00 (.11)
+⫺.04 (.11)
+.24 (.17)
+.13 (.13)
+.02 (.00)ⴱⴱ
+.19 (.04)ⴱⴱ
+
+⫺.08 (.05)
+⫺.09 (.08)
+⫺.07 (.07)
+⫺.02 (.12)
+⫺.05 (.11)
+.00 (.00)
+.03 (.02)
+
+⫺.05 (.06)
+.19 (.09)ⴱ
+⫺.07 (.10)
+⫺.10 (.14)
+⫺.04 (.24)
+.00 (.00)
+⫺.06 (.04)
+
+.03 (.02)
+.06 (.01)ⴱⴱ
+
+⫺.02 (.02)
+.00 (.01)
+
+.00 (.02)
+.00 (.01)
+
+.07 (.03)ⴱⴱ
+.01 (.01)
+
+.04 (.04)
+.03 (.01)ⴱ
+
+.03 (.01)ⴱ
+.00 (.01)
+⫺.08 (.05)
+
+.46 (.06)ⴱⴱ
+.29
+
+.14 (.02)ⴱⴱ
+.03
+
+.26 (.04)ⴱⴱ
+.04
+
+.75 (.05)ⴱⴱ
+.16
+
+.76 (.05)ⴱⴱ
+.12
+
+⫺.11 (.04)ⴱ
+⫺.03 (.03)
+.54 (.15)ⴱⴱ
+
+⫺.28 (.09)ⴱⴱ .76 (.28)ⴱⴱ
+⫺.36 (.07)ⴱⴱ .47 (.15)ⴱⴱ
+⫺.01 (.03)
+.28 (.09)ⴱⴱ
+⫺.01 (.03) ⫺.19 (.08)ⴱ
+.18 (.03)ⴱⴱ 2.28 (.25)ⴱⴱ
+.28
+.21
+
+Note. N ⫽ 1,143. SES ⫽ socioeconomic status. Racioethnicity is coded as four dummy variables with non-Hispanic White as the referent category. Age,
+general health status, education, and income were mean centered. SEs are reported inside the parentheses. When only education was included as a predictor,
+it had significant positive effects on perceived financial resources during COVID, COVID-related knowledge, COVID-related news consumption, and
+change in depressive symptoms, and had a significant negative effect on change in life satisfaction. When only income was included as a predictor, it had
+significant positive effects on perceived financial resources during COVID and COVID-related news consumption, and significant negative effect on change
+in life satisfaction but was not significantly related to change in depressive symptoms. All the effects of the mediators on the outcomes remained the same
+in these alternative models.
+ⴱ
+p ⬍ .05. ⴱⴱ p ⬍ .01, two-tailed tests.
+
+anism to explain why individuals with more education displayed
+an overall well-being decline. Further insight is thus needed. In
+supplemental analyses, education was not associated with job loss
+due to COVID-19, r ⫽ ⫺.06, p ⬎ .05. We also added having
+experienced job loss (furloughed or laid off) due to COVID-19 as
+another control variable. Results were consistent with or without
+this control. An unmeasured explanation is the increase in work
+responsibility that individuals of higher education may have encountered. The pandemic meant that many managers had to lead
+their business units and teams through staffing changes such as
+layoffs or pay cuts, producing substantial stress (Knight, 2020).
+Further, educational attainment is a key predictor of participation
+in the stock market (Cooper & Zhu, 2016), which represents a
+nuanced aspect of financial resources that our measure might not
+have fully captured. In the few weeks preceding our T2 assessment, the Dow Jones Industrial Average lost one third of its total
+value (S&P Dow Jones Indices, 2020), which may have contributed to a greater loss of wealth (and fear of loss) among individuals
+with higher levels of education.
+Finally, it is plausible that individuals of higher SES experience
+adaptation or an endowment effect whereby they have a higher
+expectation for a constant availability of resources (including ones
+not incorporated in our theorizing), and therefore experience
+greater declines in well-being when a crisis contracts or threatens
+their resource supplies (Diener & Biswas-Diener, 2002; Tversky &
+
+Kahneman, 1991). This possible explanation is particularly intriguing given that evidence suggests that the pandemic has hit
+individuals of lower SES very hard. As one of many examples of
+higher impacts to lower SES individuals, household crowding and
+higher odds of working on-site have been linked to higher rates of
+COVID-19 infections (Emeruwa et al., 2020; Oppel, Gebeloff, Lai,
+Wright, & Smith, 2020).
+Our study assessed well-being early in the pandemic and it is
+possible that the findings of more severe well-being decline among
+individuals of higher SES are temporary. Future research should
+examine well-being among groups of higher and lower SES over
+a longer time during the pandemic as well as moderators of the
+impact of education (e.g., personality traits). For organizational
+and managerial practice, as well as mental health practitioners, it
+will be key to identify the groups for whom the impacts are longer
+lasting in order to address inequities. It would also be intriguing to
+examine if our findings replicate in other countries, to consider the
+role of threat of loss versus actual loss of resources, and to theorize
+the role of factors such as age and general health as more central
+predictors of psychological well-being during COVID.
+There are several unique aspects to our investigation. Available
+pre–post studies of SES in the context of other crises have relied
+on data following versus during the event (Norris et al., 2002). Our
+study also expands collective knowledge by examining the role of
+resources in explaining SES differences in levels and changes in
+
+95% CIs are reported inside the brackets. 95% CIs that excluded zero are bolded. 20,000 replications were used in the Monte Carlo procedure. SES ⫽ socioeconomic status.
+Note.
+
+.032 [.014, .049]
+⫺.003 [⫺.013, .008]
+⫺.094 [⫺.137, ⴚ.042]
+⫺.003 [⫺.030, .021]
+.031 [.004, .057]
+.002 [⫺.017, .020]
+⫺.108 [⫺.191 ⴚ.025]
+⫺.029 [⫺.077, .020]
+⫺.001 [⫺.005, .003]
+.000 [⫺.004, .002]
+⫺.007 [⫺.023, .007]
+⫺.006 [ⴚ.015, ⴚ.0004]
+.004 [⫺.003, .015]
+.000 [⫺.005, .004]
+⫺.012 [⫺.037, .012]
+.001 [⫺.014, .010]
+depressive symptoms
+depressive symptoms
+life satisfaction
+life satisfaction
+Education
+Income
+Education
+Income
+
+Predictor
+
+Change
+Change
+Change
+Change
+
+in
+in
+in
+in
+
+Outcome
+
+⫺.002 [⫺.009, .002]
+⫺.005 [⫺.011, .001]
+.015 [⫺.009, .048]
+.030 [.014, .050]
+
+.001 [⫺.014, .012]
+.001 [⫺.005, .009]
+⫺.001 [⫺.016, .019]
+⫺.002 [⫺.012, .008]
+
+⫺.001 [⫺.005, .004]
+.000 [⫺.001, .001]
+.019 [.003, .040]
+.002 [⫺.006, .010]
+
+Direct effect
+COVID-related news
+consumption
+COVID-related
+knowledge
+Change in
+interpersonal
+resources
+Change in perceived
+control
+Perceived financial
+resources during
+COVID
+
+Indirect effect via . . .
+
+Table 7
+Indirect Effects, Direct Effects, and Total Effects Between SES and Change in Well-Being
+
+This document is copyrighted by the American Psychological Association or one of its allied publishers.
+This article is intended solely for the personal use of the individual user and is not to be disseminated broadly.
+
+Total effect
+
+SES AND WELL-BEING DURING COVID-19
+
+1391
+
+Figure 1. Curvilinear relationship between education and depressive
+symptoms during COVID-19. “Lower” ⫽ One SD below the M ⫽ 2.76,
+which, when rounded up, corresponds with high school graduate or equivalent. “Medium” ⫽ M ⫽ 4.57, which, when rounded up, corresponds with
+Associate degree. “Higher” ⫽ One SD above the M ⫽ 6.38, which, when
+rounded down, corresponds with bachelor’s degree.
+
+well-being during a crisis event. An additional major strength of
+our study is that it features a probability sample-based, nationally
+representative panel. This broad sampling strategy was essential to
+represent both low and high levels of SES, and to provide a more
+rigorous test of our hypotheses.
+We contribute to the conversation on socioeconomic inequality
+by illuminating how a crisis event afflicts well-being across the
+SES spectrum. The theory of fundamental social causes has primarily been examined with respect to physical health. Our study
+extends this theory to the examination of psychological well-being.
+We found more support for this theory with respect to income as
+an SES indicator than for education. Moreover, our study contrib-
+
+Figure 2. Curvilinear relationship between income and change in life
+satisfaction from before to during COVID-19. “Lower” ⫽ One SD below
+the M ⫽ 7.81, which, when rounded up, corresponds with $25,000 –29,999.
+“Medium” ⫽ M ⫽ 11.77, which, when rounded up, corresponds with
+$50,000-$59,999. “Higher” ⫽ One SD above the M ⫽ 15.73, which, when
+rounded up, corresponds with $125,000-$199,999.
+
+This document is copyrighted by the American Psychological Association or one of its allied publishers.
+This article is intended solely for the personal use of the individual user and is not to be disseminated broadly.
+
+1392
+
+WANBERG, CSILLAG, DOUGLASS, ZHOU, AND POLLARD
+
+utes to the dynamic testing of COR theory, which emphasizes the
+velocity of loss spirals underlying chronic resource shortages and
+suggests the primacy of acute resource losses (Ennis, Hobfoll, &
+Schröder, 2000; Hobfoll, 2010). Our findings provide some support for both of these tenets. We found inferior well-being during
+the pandemic among individuals with lower income and also
+observed well-being declines to a greater extent among individuals
+of higher education. Future research is needed to distinguish between the relative impact of chronic resource shortages and acute
+resource losses. We also invite more managerial research delineating how SES contexts shape psychological experiences in the
+face of societal and organizational crises (Bapuji, Patel, Ertug, &
+Allen, 2020; Fiske & Markus, 2012).
+As a limitation, our sample focused on individuals who participated in the Adult Social Networks and Well Being study that
+targeted U.S. adults between 30 and 80 years old. Future research
+can examine whether our results generalize to those under the age
+of 30. It is also important to qualify our inferences about
+COVID-19 per se being the definitive cause of well-being changes
+from 2019 to 2020. These dynamics may plausibly be explained by
+other factors that are not associated with the pandemic, such as the
+political environment. The consistent timing of well-being assessments in 2019 and 2020 mostly rule out alternative explanations
+related to seasonal effects.
+
+References
+Afridi, L., & Block, L. (2020, April 2). Frontline communities hit hardest
+by COVID-19. Association for Neighborhood & Housing Development.
+Retrieved from https://anhd.org/blog/frontline-communities-hit-hardestCOVID-19
+Algren, M. H., Ekholm, O., Nielsen, L., Ersbøll, A. K., Bak, C. K., &
+Andersen, P. T. (2020). Social isolation, loneliness, socioeconomic
+status, and health-risk behaviour in deprived neighbourhoods in Denmark: A cross-sectional study. SSM–Population Health, 10, 100546.
+http://dx.doi.org/10.1016/j.ssmph.2020.100546
+Anderson, C., Kraus, M. W., Galinsky, A. D., & Keltner, D. (2012). The
+local-ladder effect: Social status and subjective well-being. Psychological Science, 23, 764 –771. http://dx.doi.org/10.1177/095679
+7611434537
+Asparouhov, T. (2005). Sampling weights in latent variable modeling.
+Structural Equation Modeling, 12, 411– 434. http://dx.doi.org/10.1207/
+s15328007sem1203_4
+Bapuji, H., Ertug, G., & Shaw, J. D. (2020). Organizations and societal
+economic inequality: A review and way forward. The Academy of
+Management Annals, 14, 60 –91. http://dx.doi.org/10.5465/annals.2018
+.0029
+Bapuji, H., Patel, C., Ertug, G., & Allen, D. G. (2020). Corona crisis and
+inequality: Why management research needs a societal turn. Journal of
+Management, 46, 1205–1222. http://dx.doi.org/10.1177/01492063
+20925881
+Bhargava, A., Fukushima, E. A., Levine, M., Zhao, W., Tanveer, F.,
+Szpunar, S. M., & Saravolatz, L. (2020). Predictors for severe
+COVID-19 infection. Clinical Infectious Diseases. Advance online publication. http://dx.doi.org/10.1093/cid/ciaa674
+Boyd, M., & Nam, C. B. (2015, October). The newest Nam-Power-Boyd
+occupational scale: Development and insights Paper presented at the
+Southern Demographic Association Annual Meeting, San Antonio, TX.
+Retrieved from http://www.npb-ses.info/latest-scores.html
+Braveman, P., Egerter, S., & Williams, D. R. (2011). The social determinants of health: Coming of age. Annual Review of Public Health, 32,
+381–398. http://dx.doi.org/10.1146/annurev-publhealth-031210-101218
+
+Cheng, C., Cheung, S. F., Chio, J. H., & Chan, M. P. (2013). Cultural
+meaning of perceived control: A meta-analysis of locus of control and
+psychological symptoms across 18 cultural regions. Psychological Bulletin, 139, 152–188. http://dx.doi.org/10.1037/a0028596
+Christie, A. M., & Barling, J. (2009). Disentangling the indirect links
+between socioeconomic status and health: The dynamic roles of work
+stressors and personal control. Journal of Applied Psychology, 94,
+1466 –1478. http://dx.doi.org/10.1037/a0016847
+Cooper, R., & Zhu, G. (2016). Household finance over the life-cycle: What
+does education contribute? Review of Economic Dynamics, 20, 63– 89.
+http://dx.doi.org/10.1016/j.red.2015.12.001
+Côté, S. (2011). How social class shapes thoughts and actions in organizations. Research in Organizational Behavior, 31, 43–71. http://dx.doi
+.org/10.1016/j.riob.2011.09.004
+Cutler, D., Stantcheva, S., Alsan, M., & Yang, D. (2020). Disparities in
+COVID-19 reported incidence, knowledge, and behavior. medRxiv. Retrieved from http://dx.doi.org/10.1101/2020.05.15.20095927
+DeGarmo, D. S., Forgatch, M. S., & Martinez, C. R., Jr. (1999). Parenting
+of divorced mothers as a link between social status and boys’ academic
+outcomes: Unpacking the effects of socioeconomic status. Child Development, 70, 1231–1245. http://dx.doi.org/10.1111/1467-8624.00089
+Diemer, M. A., Mistry, R. S., Wadsworth, M. E., López, I., & Reimers, F.
+(2013). Best practices in conceptualizing and measuring social class in
+psychological research. Analyses of Social Issues and Public Policy, 13,
+77–113. http://dx.doi.org/10.1111/asap.12001
+Diener, E., & Biswas-Diener, R. (2002). Will money increase subjective
+well-being? Social Indicators Research, 57, 119 –169. http://dx.doi.org/
+10.1023/A:1014411319119
+Diener, E., Emmons, R. A., Larsen, R. J., & Griffin, S. (1985). The
+Satisfaction With Life Scale. Journal of Personality Assessment, 49,
+71–75. http://dx.doi.org/10.1207/s15327752jpa4901_13
+Emeruwa, U. N., Ona, S., Shaman, J. L., Turitz, A., Wright, J. D.,
+Gyamfi-Bannerman, C., & Melamed, A. (2020). Associations between
+built environment, neighborhood socioeconomic status, and SARSCoV-2 infection among pregnant women in New York City. Journal of
+the American Medical Association, 324, 390 –392. http://dx.doi.org/10
+.1001/jama.2020.11370
+Ennis, N. E., Hobfoll, S. E., & Schröder, K. E. E. (2000). Money doesn’t
+talk, it swears: How economic stress and resistance resources impact
+inner-city women’s depressive mood. American Journal of Community
+Psychology, 28, 149 –173. http://dx.doi.org/10.1023/A:1005183100610
+Fiske, S. K., & Markus, H. R. (Eds.). (2012). Facing social class: How
+societal rank influences interaction. New York, NY: Russell Sage Foundation.
+Galama, T. J., & van Kippersluis, H. (2019). A theory of socio-economic
+disparities in health over the life cycle. The Economic Journal, 129,
+338 –374. http://dx.doi.org/10.1111/ecoj.12577
+Ginexi, E. M., Weihs, K., Simmens, S. J., & Hoyt, D. R. (2000). Natural
+disaster and depression: A prospective investigation of reactions to the
+1993 Midwest floods. American Journal of Community Psychology, 28,
+495–518. http://dx.doi.org/10.1023/A:1005188515149
+Hinkin, T. R., & Schriesheim, C. A. (1989). Development and application
+of new scales to measure the French and Raven (1959) bases of social
+power. Journal of Applied Psychology, 74, 561–567. http://dx.doi.org/
+10.1037/0021-9010.74.4.561
+Hobfoll, S. E. (1989). Conservation of resources. A new attempt at conceptualizing stress. American Psychologist, 44, 513–524. http://dx.doi
+.org/10.1037/0003-066X.44.3.513
+Hobfoll, S. E. (2010). Conservation of resources theory: Its implications
+for stress, health, and resilience. In S. Folkman (Ed.), The Oxford
+handbook of stress, health, and coping (pp. 127–147). New York, NY:
+Oxford University Press. http://dx.doi.org/10.1093/oxfordhb/
+9780195375343.013.0007
+
+This document is copyrighted by the American Psychological Association or one of its allied publishers.
+This article is intended solely for the personal use of the individual user and is not to be disseminated broadly.
+
+SES AND WELL-BEING DURING COVID-19
+Hobfoll, S. E., Johnson, R. J., Ennis, N., & Jackson, A. P. (2003). Resource
+loss, resource gain, and emotional outcomes among inner city women.
+Journal of Personality and Social Psychology, 84, 632– 643. http://dx
+.doi.org/10.1037/0022-3514.84.3.632
+Hobfoll, S. E., Tirone, V., Holmgreen, L., & Gerhart, J. (2016). Conservation of resources theory applied to major stress. In G. Fink (Ed.),
+Stress: Concepts, cognition, emotion, and behavior (Vol. 1, pp. 65–71).
+Cambridge, MA: Academic Press. http://dx.doi.org/10.1016/C2013-012842-5
+House, J. S., Umberson, D., & Landis, K. R. (1988). Structures and
+processes of social support. Annual Review of Sociology, 14, 293–318.
+http://dx.doi.org/10.1146/annurev.so.14.080188.001453
+House, J., & Williams, D. R. (2000). Understanding and reducing socioeconomic and racial/ethnic disparities in health. In B. D. Smedley &
+S. L. Syme (Eds.), Promoting health: Intervention strategies from social
+and behavioral research (pp. 81–124). Washington, DC: National Academy Press.
+Hughes, M. E., Waite, L. J., Hawkley, L. C., & Cacioppo, J. T. (2004). A
+short scale for measuring loneliness in large surveys: Results from two
+population-based studies. Research on Aging, 26, 655– 672. http://dx.doi
+.org/10.1177/0164027504268574
+IHME. (2020, June 8). COVID-19 Projections United States of America.
+Retrieved from http://covid19.healthdata.org/united-states-of-america
+Kiviruusu, O., Huurre, T., Haukkala, A., & Aro, H. (2013). Changes in
+psychological resources moderate the effect of socioeconomic status on
+distress symptoms: A 10-year follow-up among young adults. Health
+Psychology, 32, 627– 636. http://dx.doi.org/10.1037/a0029291
+Knight, R. (2020, April 7). How to manage coronavirus layoffs with
+compassion. Harvard Business Review. Retrieved from https://hbr.org/
+2020/04/how-to-manage-coronavirus-layoffs-with-compassion
+Kobau, R., Sniezek, J., Zack, M. M., Lucas, R. E., & Burns, A. (2010).
+Well-being assessment: An evaluation of well-being scales for public
+health and population estimates of well-being among U.S. adults. Applied Psychology: Health and Well-Being, 2, 272–297. http://dx.doi.org/
+10.1111/j.1758-0854.2010.01035.x
+Kraus, M. W., Piff, P. K., Mendoza-Denton, R., Rheinschmidt, M. L., &
+Keltner, D. (2012). Social class, solipsism, and contextualism: How the
+rich are different from the poor. Psychological Review, 119, 546 –572.
+http://dx.doi.org/10.1037/a0028756
+Kroenke, K., Spitzer, R. L., & Williams, J. B. (2001). The PHQ-9: Validity
+of a brief depression severity measure. Journal of General Internal
+Medicine, 16, 606 – 613. http://dx.doi.org/10.1046/j.1525-1497.2001
+.016009606.x
+Kroenke, K., Strine, T. W., Spitzer, R. L., Williams, J. B. W., Berry, J. T.,
+& Mokdad, A. H. (2009). The PHQ-8 as a measure of current depression
+in the general population. Journal of Affective Disorders, 114, 163–173.
+http://dx.doi.org/10.1016/j.jad.2008.06.026
+Lachman, M. E., & Weaver, S. L. (1998). The sense of control as a
+moderator of social class differences in health and well-being. Journal of
+Personality and Social Psychology, 74, 763–773. http://dx.doi.org/10
+.1037/0022-3514.74.3.763
+Leana, C. R., & Meuris, J. (2015). Living to work and working to live:
+Income as a driver of organizational behavior. The Academy of Management Annals, 9, 55–95. http://dx.doi.org/10.5465/19416520.2015
+.1007654
+Lei, L., Huang, X., Zhang, S., Yang, J., Yang, L., & Xu, M. (2020).
+Comparison of prevalence and associated factors of anxiety and depression among people affected by versus people unaffected by quarantine
+during the COVID-19 epidemic in Southwestern China. Medical Science
+Monitor, 26, e924609. http://dx.doi.org/10.12659/MSM.924609
+Link, B. G., & Phelan, J. (1995). Social conditions as fundamental causes
+of disease. Journal of Health and Social Behavior, 35, 80 –94. http://dx
+.doi.org/10.2307/2626958
+
+1393
+
+Lorant, V., Deliège, D., Eaton, W., Robert, A., Philippot, P., & Ansseau,
+M. (2003). Socioeconomic inequalities in depression: A meta-analysis.
+American Journal of Epidemiology, 157, 98 –112. http://dx.doi.org/10
+.1093/aje/kwf182
+MacKinnon, D. P., Lockwood, C. M., & Williams, J. (2004). Confidence
+limits for the indirect effect: Distribution of the product and resampling
+methods. Multivariate Behavioral Research, 39, 99 –128. http://dx.doi
+.org/10.1207/s15327906mbr3901_4
+Mayo Clinic. (2020). COVID-19: Who’s at higher risk? Retrieved from
+https://www.mayoclinic.org/diseases-conditions/coronavirus/in-depth/
+coronavirus-who-is-at-risk/art-20483301
+McArdle, J. J. (2009). Latent variable modeling of differences and changes
+with longitudinal data. Annual Review of Psychology, 60, 577– 605.
+http://dx.doi.org/10.1146/annurev.psych.60.110707.163612
+Meuris, J., & Leana, C. (2018). The price of financial precarity: Organizational costs of employees’ financial concerns. Organization Science,
+29, 398 – 417. http://dx.doi.org/10.1287/orsc.2017.1187
+Muthén, L. K., & Muthén, B. O. (1998 –2017). Mplus user’s guide (8th
+ed.). Los Angeles, CA: Author. Retrieved from https://www.statmodel
+.com/download/usersguide/MplusUserGuideVer_8.pdf
+Newman, D. A. (2014). Missing data: Five practical guidelines. Organizational Research Methods, 17, 372– 411. http://dx.doi.org/10.1177/
+1094428114548590
+Norris, F. H., Friedman, M. J., Watson, P. J., Byrne, C. M., Diaz, E., &
+Kaniasty, K. (2002). 60,000 disaster victims speak: Part I. An empirical
+review of the empirical literature, 1981–2001. Psychiatry: Interpersonal
+and Biological Processes, 65, 207–239. http://dx.doi.org/10.1521/psyc
+.65.3.207.20173
+Oakes, J. M., & Rossi, P. H. (2003). The measurement of SES in health
+research: Current practice and steps toward a new approach. Social
+Science & Medicine, 56, 769 –784. http://dx.doi.org/10.1016/S02779536(02)00073-4
+Oppel, R. A., Jr., Gebeloff, R., Lai, R., Wright, W., & Smith, M. (2020,
+July 5). The fullest look yet at the racial inequity of coronavirus. The
+New York Times. Retrieved from https://www.nytimes.com/interactive/
+2020/07/05/us/coronavirus-latinos-african-americans-cdc-data.html
+Ornell, F., Schuch, J. B., Sordi, A. O., & Kessler, F. H. P. (2020).
+“Pandemic fear” and COVID-19: Mental health burden and strategies.
+Brazilian Journal of Psychiatry, 42, 232–235. http://dx.doi.org/10.1590/
+1516-4446-2020-0008
+Phelan, J. C., Link, B. G., & Tehranifar, P. (2010). Social conditions as
+fundamental causes of health inequalities: Theory, evidence, and policy
+implications. Journal of Health and Social Behavior, 51(S), S28 –S40.
+http://dx.doi.org/10.1177/0022146510383498
+Phifer, J. F. (1990). Psychological distress and somatic symptoms after
+natural disaster: Differential vulnerability among older adults. Psychology and Aging, 5, 412– 420. http://dx.doi.org/10.1037/0882-7974.5.3
+.412
+Pinquart, M., & Sörensen, S. (2000). Influences of socioeconomic status,
+social network, and competence on subjective well-being in later life: A
+meta-analysis. Psychology and Aging, 15, 187–224. http://dx.doi.org/10
+.1037/0882-7974.15.2.187
+Pollard, M., & Baird, M. D. (2017). The RAND American Life Panel:
+Technical description. Santa Monica, CA: RAND Corporation. http://
+dx.doi.org/10.7249/RR1651
+Qiu, J., Shen, B., Zhao, M., Wang, Z., Xie, B., & Xu, Y. (2020). A
+nationwide survey of psychological distress among Chinese people in
+the COVID-19 epidemic: Implications and policy recommendations.
+General Psychiatry, 33, e100213. http://dx.doi.org/10.1136/gpsych2020-100213
+Raven, B. H. (1993). The bases of power: Origins and recent developments. Journal of Social Issues, 49, 227–251. http://dx.doi.org/10.1111/
+j.1540-4560.1993.tb01191.x
+
+This document is copyrighted by the American Psychological Association or one of its allied publishers.
+This article is intended solely for the personal use of the individual user and is not to be disseminated broadly.
+
+1394
+
+WANBERG, CSILLAG, DOUGLASS, ZHOU, AND POLLARD
+
+Reeves, R. V., & Rothwell, J. (2020, March 27). Class and COVID: How
+the less affluent face double risks. The Brookings Institution. Retrieved
+from https://www.brookings.edu/blog/up-front/2020/03/27/class-andCOVID-how-the-less-affluent-face-double-risks/
+Salk, R. H., Hyde, J. S., & Abramson, L. Y. (2017). Gender differences in
+depression in representative national samples: Meta-analyses of diagnoses and symptoms. Psychological Bulletin, 143, 783– 822. http://dx.doi
+.org/10.1037/bul0000102
+S&P Dow Jones Indices. (2020). Dow Jones industrial average. Retrieved
+from https://www.spglobal.com/spdji/en/indices/equity/dow-jonesindustrial-average/#overview
+Talev, M. (2020, April 1). Axios-Ipsos Coronavirus Index: Rich sheltered,
+poor shafted amid virus. Axios. Retrieved from https://www.axios.com/
+axios-ipsos-coronavirus-index-rich-sheltered-poor-shafted-9e592100b8e6-4dcd-aee0-a6516892874b.html
+Teo, A. R., Choi, H., & Valenstein, M. (2013). Social relationships and
+depression: Ten-year follow-up from a nationally representative study.
+PLoS ONE, 8, e62396. http://dx.doi.org/10.1371/journal.pone.0062396
+Tomitaka, S., Kawasaki, Y., Ide, K., Akutagawa, M., Yamada, H., Ono, Y.,
+& Furukawa, T. A. (2018). Distributional patterns of item responses and
+total scores on the PHQ-9 in the general population: Data from the
+National Health and Nutrition Examination Survey. BMC Psychiatry,
+18, 108. http://dx.doi.org/10.1186/s12888-018-1696-9
+
+Tversky, A., & Kahneman, D. (1991). Loss aversion in riskless choice: A
+reference-dependent model. The Quarterly Journal of Economics, 106,
+1039 –1061. http://dx.doi.org/10.2307/2937956
+Venables, W. N., & Ripley, B. (2002). Modern applied statistics with S
+(4th ed.). New York, NY: Springer. http://dx.doi.org/10.1007/978-0387-21706-2
+Wang, C., Pan, R., Wan, X., Tan, Y., Xu, L., McIntyre, R. S., . . . Ho, C.
+(2020). A longitudinal study on the mental health of general population
+during the COVID-19 epidemic in China. Brain, Behavior, and Immunity, 87, 40 – 48. http://dx.doi.org/10.1016/j.bbi.2020.04.028
+Wang, J. L., Schmitz, N., & Dewa, C. S. (2010). Socioeconomic status and
+the risk of major depression: The Canadian National Population Health
+Survey. Journal of Epidemiology and Community Health, 64, 447– 452.
+http://dx.doi.org/10.1136/jech.2009.090910
+Warr, P., & Aung, L. L. (2019). Poverty and inequality impact of a natural
+disaster: Myanmar’s 2008 Cyclone Nargis. World Development, 122,
+446 – 461. http://dx.doi.org/10.1016/j.worlddev.2019.05.016
+World Health Organization (WHO). (2020). Mental health and psychosocial considerations during the COVID-19 outbreak (No. WHO/2019nCoV/MentalHealth/2020.1). Geneva, Switzerland: Author. Retrieved
+from https://www.who.int/docs/default-source/coronaviruse/mentalhealth-considerations.pdf?sfvrsn⫽6d3578af_2
+
+SES AND WELL-BEING DURING COVID-19
+
+1395
+
+Appendix
+Study Measures
+Educational Attainment
+
+This document is copyrighted by the American Psychological Association or one of its allied publishers.
+This article is intended solely for the personal use of the individual user and is not to be disseminated broadly.
+
+What is the highest level of school you have completed or the
+highest degree you have received?
+1.
+2.
+3.
+4.
+5.
+6.
+7.
+8.
+9.
+
+Less than high school
+Some high school, no diploma
+High school graduate or equivalent
+Some college, no degree
+Associate’s degree
+Bachelor’s degree
+Master’s degree
+Professional school degree
+Doctorate degree
+
+Been worried about your financial situation? (R)
+Felt satisfied with your financial situation?
+Felt overwhelmed by your financial obligations? (R)
+Felt that you did not have enough money? (R)
+
+Perceived Control (Lachman & Weaver, 1998)
+Now we’re going to ask you some questions about feelings you
+might have. Some of these questions have to do with how much
+control you feel you have over your life. Some of these questions
+might make you feel uncomfortable. Remember that you do not
+have to answer any question that you do not want to answer.
+
+Annual Household Income
+Which category represents the total combined income of all
+members of your family (living here) during the past 12 months?
+This includes money from jobs, net income from business, farm or
+rent, pensions, dividends, interest, social security payments and
+any other money income received by members of your family who
+are 15 years of age or older.
+1.
+2.
+3.
+4.
+5.
+6.
+7.
+8.
+9.
+10.
+11.
+12.
+13.
+14.
+15.
+16.
+17.
+
+1.
+2.
+3.
+4.
+
+Less than $5,000
+$5,000 to $7,499
+$7,500 to $9,999
+$10,000 to $12,499
+$12,500 to $14,999
+$15,000 to $19,999
+$20,000 to $24,999
+$25,000 to $29,999
+$30,000 to $34,999
+$35,000 to $39,999
+$40,000 to $49,999
+$50,000 to $59,999
+$60,000 to $74,999
+$75,000 to $99,999
+$100,000 to $124,999
+$125,000 to $199,999
+$200,000 or more
+
+1
+2
+3
+4
+5
+
+⫽
+⫽
+⫽
+⫽
+⫽
+
+1.
+2.
+
+Strongly disagree
+Disagree
+Agree
+Strongly agree
+Do not know
+
+I can do just about anything I really set my mind to.
+There is really no way I can solve some of the problems
+I have.
+Sometimes I feel that I’m being pushed around in life. (R)
+I have little control over the things that happen to me. (R)
+What happens to me in the future mostly depends on me. (R)
+I often feel helpless in dealing with the problems of life. (R)
+There is little I can do to change many of the important things
+in my life. (R)
+
+3.
+4.
+5.
+6.
+7.
+
+Interpersonal Resources (Hughes et al., 2004)
+Since the start of the COVID-19 pandemic in the United Sates,
+to what extent have things gotten worse or better for you?
+1 ⫽ Hardly ever
+2 ⫽ Some of the time
+3 ⫽ Often
+1.
+2.
+3.
+
+How often do you feel that you lack companionship? (R)
+How often do you feel left out? (R)
+How often do you feel isolated from others? (R)
+
+COVID-Related Knowledge
+Perceived Financial Resources (Meuris & Leana, 2018)
+Since the start of the COVID-19 pandemic in the United Sates,
+how often have you . . .
+1
+2
+3
+4
+5
+
+⫽
+⫽
+⫽
+⫽
+⫽
+
+Never
+Rarely
+Sometimes
+Often
+Always
+
+How knowledgeable would you rate yourself with regards to
+COVID-19 (e.g., symptoms, how to prevent getting the virus, and
+prevalence in your state)?
+1
+2
+3
+4
+5
+
+⫽
+⫽
+⫽
+⫽
+⫽
+
+(Appendix continues)
+
+Not at all knowledgeable
+Slightly knowledgeable
+Somewhat knowledgeable
+Moderately knowledgeable
+Extremely knowledgeable
+
+WANBERG, CSILLAG, DOUGLASS, ZHOU, AND POLLARD
+
+1396
+
+COVID-Related News Consumption
+Since the start of the COVID-19 pandemic in the United Sates,
+how frequently have you followed the news related to the pandemic?
+1
+2
+3
+4
+5
+
+⫽
+⫽
+⫽
+⫽
+⫽
+
+This document is copyrighted by the American Psychological Association or one of its allied publishers.
+This article is intended solely for the personal use of the individual user and is not to be disseminated broadly.
+
+1.
+2.
+3.
+4.
+
+Poor appetite or overeating.
+Feeling bad about yourself— or that you are a failure or
+have let yourself or your family down.
+Trouble concentrating on things, such as reading the
+newspaper or watching TV.
+Moving or speaking so slowly that other people could
+have noticed? Or the opposite— being so fidgety or restless that you have been moving around a lot more than
+usual.
+
+Life Satisfaction (Kobau et al., 2010)
+
+Over the LAST 2 WEEKS, how often have you been bothered
+by any of the following problems?
+⫽
+⫽
+⫽
+⫽
+
+7.
+8.
+
+Never
+Rarely
+Occasionally
+A moderate amount
+A great deal
+
+Depressive Symptoms (Kroenke et al., 2009)
+
+0
+1
+2
+3
+
+5.
+6.
+
+Not at all
+Several days
+More than half the days
+Nearly every day
+
+Using a scale of 1 to 10 where 1 means very dissatisfied and 10
+means very satisfied, how do you feel about your life as a whole
+right now?
+
+General Health Status
+In general, would you say your health is excellent, very good,
+good, fair, or poor?
+Note. (R) indicates reverse scored.
+
+Little interest or pleasure in doing things.
+Feeling down, depressed, or hopeless.
+Trouble falling or staying asleep, or sleeping too much.
+Feeling tired or having little energy.
+
+Received June 18, 2020
+Revision received August 1, 2020
+Accepted August 5, 2020 䡲
+
+Call for Nominations
+The Publications and Communications (P&C) Board of the American Psychological Association
+has opened nominations for the editorships of Developmental Psychology, Journal of Consulting
+and Clinical Psychology, and Journal of Experimental Psychology: General. Eric Dubow, PhD,
+Joanne Davila, PhD, and Nelson Cowan, PhD are the incumbent editors.
+Candidates should be members of APA and should be available to start receiving manuscripts in
+early 2022 to prepare for issues published in 2023. The APA Journals program values equity,
+diversity, and inclusion and encourages the application of members of all groups, including women,
+people of color, LGBTQ psychologists, and those with disabilities, as well as candidates across all
+stages of their careers. Self-nominations are also encouraged.
+Search chairs have been appointed as follows:
+● Developmental Psychology, Chair: Pamela Reid, PhD
+● Journal of Consulting and Clinical Psychology, Chair: Danny Wedding, PhD
+● Journal of Experimental Psychology: General, Co-Chairs: Richard Petty, PhD and Michael
+Roberts, PhD
+Nominate candidates through APA’s Editor Search website (https://editorsearch.apa.org).
+Prepared statements of one page or less in support of a nominee can also be submitted by e-mail to
+Jen Chase, Journal Services Associate (jchase@apa.org).
+Deadline for accepting nominations is Monday, January 11, 2021, after which phase one vetting will
+begin.
+
+

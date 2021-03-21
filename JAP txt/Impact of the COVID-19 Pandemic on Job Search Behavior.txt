@@ -1,0 +1,1604 @@
+Journal of Applied Psychology
+© 2020 American Psychological Association
+ISSN: 0021-9010
+
+2020, Vol. 105, No. 11, 1207–1217
+http://dx.doi.org/10.1037/apl0000782
+
+Impact of the COVID-19 Pandemic on Job Search Behavior:
+An Event Transition Perspective
+Lynn A. McFarland
+
+Sydney Reeves and W. Benjamin Porr
+
+University of South Carolina
+
+Harver, New York, New York
+
+Robert E. Ployhart
+This document is copyrighted by the American Psychological Association or one of its allied publishers.
+This article is intended solely for the personal use of the individual user and is not to be disseminated broadly.
+
+University of South Carolina
+This study examines how job search behavior changed at the onset of the COVID-19 pandemic, the
+weeks following the event’s onset, and if the physical contact required by different jobs moderated these
+trends. Based on event system theory, we argue that the onset of the pandemic created a strong event
+because it was highly novel, disruptive, and critical. We test this by examining 16 weeks of job
+applications for 14 organizations that differ in terms of whether the jobs require employees to work from
+home or face-to-face. We use Bliese, Adler, and Flynn’s (2017) transition framework and discontinuous
+random coefficient growth curve modeling to test the pandemic’s effect on job search behavior both
+during the event onset and then the weeks following the onset. Importantly, we include a 9-week preonset
+baseline period to provide more rigorous tests of change. Results show that the onset of the pandemic
+created an immediate increase in job search behavior (job applications), and this effect endured into the
+postonset period. Job type moderated these trends, such that the onset and postonset applications were
+substantially greater for work-from-home jobs (which followed a negatively accelerated curve) compared
+to face-to-face jobs. These findings advance the job search literature by introducing event system theory
+and transition frameworks to better understand how and why events uniquely influence job search
+behavior over time.
+Keywords: job search, recruitment, selection, longitudinal
+
+pandemic shapes job search behavior and what organizations can
+do about it.
+In their comprehensive review of the job search literature,
+Wanberg, Ali, and Csillag (2020) noted that more research on
+context (macroeconomic conditions) is needed to provide “deeper
+and richer insight into the predictors and moderators involved in
+job search success” (p. 329). Toward this end, the goal of this
+article is to test whether the onset of the COVID-19 pandemic
+changed job search behavior (i.e., job applications) over time and,
+in doing so, advance a broader understanding of events and transitions in job search. First, we integrate event system theory
+(Morgeson, Mitchell, & Liu, 2015) with the job search literature to
+better understand and conceptualize how macro events, such as the
+COVID-19 pandemic, affect job search behavior. Compared to
+other macro events such as recessions or stock market changes, the
+pandemic’s onset is a macro event of higher novelty, disruption,
+and criticality. Second, we apply frameworks for studying transitions (Bliese & Lang, 2016; Lang & Bliese, 2009) to distinguish
+between the transition created at the onset of COVID-19 from the
+postonset slope. As such, we focus specifically on how the pandemic led to a transition (Bliese et al., 2017) and produced an
+immediate change in job applications across organizations. The
+immediate onset period has not been examined in prior job search
+research, which has instead emphasized the study of processes
+after an event’s occurrence (e.g., job search following job loss).
+Such an omission is problematic because the immediate conse-
+
+The COVID-19 pandemic is producing unprecedented global
+health and economic disruptions. Workers and organizations alike
+are struggling to adapt to “the new normal” (Alter & Villa, 2020;
+Mull, 2020; Solomon, 2020). Currently, there is more opinion than
+evidence, especially in terms of understanding how the pandemic
+is influencing worker preferences. A small but important literature
+has shown that large-scale macro events (e.g., recessions) can
+shape jobseeker perceptions (see Bianchi, 2020). However, even
+this research has focused on reactions to macro events after they
+occur, rather than understanding the transition created by the
+introduction of an acute event (Bliese, Adler, & Flynn., 2017).
+This is especially true for macro events that are unexpected or
+difficult to predict. Consequently, little is known about how the
+
+This article was published Online First October 8, 2020.
+X Lynn A. McFarland, Department of Management, Darla Moore
+School of Business, University of South Carolina; Sydney Reeves and W.
+Benjamin Porr, People Science, Harver, New York, New York; Robert E.
+Ployhart, Department of Management, Darla Moore School of Business,
+University of South Carolina.
+We thank Paul Bliese for his assistance with the analyses and for
+providing comments on an earlier version of this article.
+Correspondence concerning this article should be addressed to Lynn A.
+McFarland, Department of Management, Darla Moore School of Business,
+University of South Carolina, 1014 Greene Street, Columbia, SC 29208.
+E-mail: Lynn.McFarland@moore.sc.edu
+1207
+
+MCFARLAND, REEVES, PORR, AND PLOYHART
+
+quences of an event may differ from effects later in time (Bliese et
+al., 2017). We disentangle the effects of the event onset on job
+search behavior from the more commonly studied postevent period
+to better understand the full consequences of an event. Finally, we
+theorize that the financial and health-related consequences of the
+COVID-19 pandemic affect the type of jobs to which applicants
+apply. We show that the onset of the pandemic produces a sizable
+shift in job search behavior toward jobs that require less physical
+contact, and this effect is maintained in subsequent weeks following the onset. The introduction of event system theory into the job
+search literature, along with the transition modeling framework,
+offers new ways to theorize and model the impact that events have
+on job search processes that can be adopted in future research, thus
+providing implications that endure beyond the COVID-19 pandemic. The findings also have implications for practice, particularly in terms of whether there is value in offering work-fromhome opportunities and for understanding the consequences of
+macro events more generally.
+Importantly, we use a longitudinal methodology (discontinuous
+random coefficient growth curve models [DRCGCM]; Lang &
+Bliese, 2009; Singer & Willett, 2003) that enables a rigorous test
+of the effects of the pandemic’s onset on job search behavior.
+Examining the immediate transition caused by the COVID-19
+onset event can only be accurately performed when there is a
+sufficiently long baseline period to observe before the event
+(Bliese et al., 2017). This study employs a baseline of 9 weeks
+prior to the pandemic’s onset and 6 weeks following the pandemic’s onset. DRCGCM leverages these data in a way that enables the
+decomposition of variance in job applications to preonset,
+COVID-19 onset, and postonset periods. Therefore, the models
+test the strength of the pandemic’s effect on the onset and postonset duration, relative to prepandemic levels.
+
+Theoretical Foundation
+Job search involves psychological processes, behaviors, and
+contexts surrounding an individual’s attempt to find and get a
+job. Prior research has focused primarily on understanding
+either individual difference predictors of search activities and
+outcomes or interventions aimed to enhance job search outcomes (e.g., Kanfer, Wanberg, & Kantrowitz, 2001; Klehe &
+van Hooft, 2018; Liu, Huang, & Wang, 2014). In contrast, much
+less research has examined the macro events that shape the
+manifestation and experience of job search (Wanberg, Ali, et
+al., 2020). Here, the focus is not on enduring macro conditions
+(e.g., slowly changing economic conditions) but rather on
+events that originate at broad economic levels and simultaneously influence multiple organizations and individuals. Event
+system theory (Morgeson et al., 2015) helps understand the
+nature of such macro events and when they shape individual and
+collective responses but, to our knowledge, has not been used to
+understand macro effects on job search.
+Event system theory defines events as “discrete and bounded in
+space and time” (Morgeson et al., 2015, p. 516). Events differ in
+their strength and thus lie on a continuum from weak to strong.
+Events that are more novel (different from prior routines), disruptive (magnitude of change), and critical (demand attention and
+reprioritization) have stronger influences on outcomes. Events that
+originate at higher (macro) levels also have broader impact and are
+more enduring. A macro event has a beginning (i.e., onset) and
+thus the event creates a temporally defined transition period between the introduction of the event and the start of a posttransition
+period (Bliese et al., 2017). Figure 1 provides an illustration of
+these distinct periods (the figure juxtaposes Bliese et al.’s framework with the pandemic event of interest in this study). The
+transition period has a specific start and end, but the posttransition
+
+Work-from-home
+jobs
+Event Introduction
+
+Face-to-face jobs
+
+Transition Period
+
+This document is copyrighted by the American Psychological Association or one of its allied publishers.
+This article is intended solely for the personal use of the individual user and is not to be disseminated broadly.
+
+1208
+
+Baseline Period
+
+0
+
+1
+
+2…
+
+Preonset
+
+…
+
+…9
+
+Posttransition Period
+
+10
+
+Onset
+
+11
+
+12…
+
+…
+
+…15 Time Periods
+
+Postonset
+
+COVID-19 Pandemic
+
+Figure 1. Illustration of baseline, transition, and posttransition periods. The solid line represents face-to-face
+job applications and the “solid-dot” line represents work-from-home applications. Vertical dotted lines define the
+transition period. The arrows indicate the slopes that would have been estimated using only the baseline period
+data.
+
+This document is copyrighted by the American Psychological Association or one of its allied publishers.
+This article is intended solely for the personal use of the individual user and is not to be disseminated broadly.
+
+COVID-19: EFFECTS ON JOB SEARCH
+
+consequences of the event can endure and change over time.
+Therefore, it is critical to ensure there are a sufficient number of
+opportunities to observe behavior before and after the transition
+period. Indeed, Bliese et al. (2017) note that “studies that attempt
+to determine responses to events or postevent recovery trajectories
+without . . . [preevent] . . . data are remarkably difficult to
+interpret” (p. 274).
+The introduction of a stronger macro event can thus produce
+both immediate and long-term changes to behavior, and the effects
+of predictors may change across these periods. The Great Recession offers one example. This macro event created a period of
+strong disruption with distinct periods of transition and postrecession recovery, with predictive relationships changing across event
+onset and postonset periods (e.g., Kim & Ployhart, 2014).
+Unfortunately, prior job search research has not adopted such
+models when examining macro events. As a consequence, prior
+research has not been able to precisely estimate the variance
+specific to macro events and their transition periods or disentangle
+the variance between an event’s onset and postonset responses. For
+example, research has examined the effects of unemployment or
+job loss events influencing job search (Boswell, Zimmerman, &
+Swider, 2012; Wanberg, Basbug, van Hooft, & Samtani, 2012).
+However, this research tends to emphasize postevent reactions,
+rather than study the transition caused by the event itself. In this
+sense, there is some understanding of how macro events shape
+responses after the event is introduced but not research on the
+experience of the event’s introduction (an omission of research
+more generally; see Bliese et al., 2017; Morgeson et al., 2015).
+Thus, the field lacks a clear understanding of how macro events
+produce change in job search behavior, both at the event’s onset
+and subsequently over time.
+This is not a criticism of prior research (or the researchers) but
+rather recognition of the difficulty in studying macro events.
+Besides the usual challenges associated with collecting longitudinal data, the use of DRCGCM carries additional requirements,
+such as at least six measurement occasions, at least three measurement occasions before the event onset, and an ability to capture the
+event’s introduction to define the transition period (Bliese et al.,
+2017; Bliese & Lang, 2016). Such requirements are even more
+daunting when trying to estimate rare and/or unexpected macro
+events (e.g., terrorist attacks), as preevent baseline data and event
+transition data are usually lacking (Bliese et al., 2017).
+However, we are able to theorize and test such effects in this
+study. The COVID-19 pandemic represents a particularly strong
+macro event because it occurs at a high level (i.e., at the global
+omnibus level) and is higher in novelty, disruption, and criticality
+than most macro events, as predicted by event system theory
+(Morgeson et al., 2015). First, the last event similar to the
+COVID-19 pandemic was the 1918 flu epidemic; thus, it is highly
+novel. Second, the pandemic is extremely disruptive as it led entire
+countries to shut down their businesses, prohibited most travel, and
+resulted in stay-at-home orders across the nation almost immediately. Third, the pandemic is critical in the sense that it has both
+financial implications and health consequences. Morgeson et al.
+(2015) note, “The more critical the event, the more likely it will be
+seen as salient and require unusual attention and action” (p. 521).
+Therefore, criticality is particularly important for determining
+which behaviors are most likely to be affected by an event. In the
+case of the pandemic, we argue that actions that influence financial
+
+1209
+
+well-being and physical health are relevant to employment; thus,
+this event is likely to influence job search.
+When viewed from event system theory, it is clear that the
+COVID-19 pandemic is similar to, but stronger than, purely economic macro events like recessions. First, recessions are less novel
+as they occur with some frequency (about every 5– 6 years),
+whereas the COVID-19 pandemic was introduced quickly and
+unexpectedly. Second, recessions can be reasonably well predicted
+and tend to be introduced more gradually; thus, recession effects
+are more likely to unfold over time, and the immediate disruption
+is usually minimal. Third, while recessions have health consequences in that people may lose access to health care, the
+COVID-19 pandemic has direct health consequences in terms of
+hospitalization or death. Thus, the COVID-19 pandemic represents
+a particularly strong macro event. This fact, combined with the
+understanding that most prior research on macro events has not
+examined the immediate effects of an event (i.e., at onset), suggests there is much to learn about how the COVID-19 pandemic
+may shape job search behavior and how such macro events influence job search more generally.
+
+Context and Hypotheses
+Based on job search theory and research (Bianchi, 2020; Wanberg, Ali, et al., 2020) and informed by event system theory
+(Morgeson et al., 2015), we first consider the extent to which
+recognition of the COVID-19 pandemic changed job search behavior during the transition period immediately following the
+event. Event system theory suggests that events originating at a
+higher level (i.e., omnibus context; Johns, 2006, 2017) are likely to
+influence behavior across a wider range of contexts. Further, as
+explained above, the pandemic has higher event strength (i.e.,
+higher novelty, disruptiveness, and criticality; Morgeson et al.,
+2015) than other macro events and thus should produce immediate
+consequences. The question then becomes, how will job search
+behavior change as a result of this strong and far-reaching event?
+We posit that research examining job search during economic
+recessions provides some clues. Bianchi (2020) notes that “recessions provoke uncertainty and a loss of control” (p. 121). Individuals tend to respond to such threats by seeking to regain control,
+and one way this can be accomplished is by proactively applying
+to new jobs (Bianchi, 2013; Porter et al., 2019; Wanberg, Ali, et
+al., 2020; Wanberg et al., 2012). Thus, job search research supports the inference that applications will increase under conditions
+of uncertainty and stress because job search offers a means to cope
+with these stressors, particularly in the short term (Trope & Liberman, 2010; Wanberg, Kanfer, & Rotundo, 1999).
+March 11, 2020, is the day COVID-19 was officially recognized
+as a global pandemic by the World Health Organization (2020). On
+this day, the National Basketball Association also officially postponed its season and the U.S. president banned travel from Europe.
+Further, the response to this event was almost immediate, with
+business and school closures occurring that same day in many
+areas of the United States. Therefore, in this study, we examine
+preonset (baseline) job search as the weeks before March 11 and
+postonset job search as the weeks following March 11. The onset
+is the transition period during the week that includes March 11.
+Given the pandemic’s strength (and, in particular, the immediate
+
+1210
+
+MCFARLAND, REEVES, PORR, AND PLOYHART
+
+and severe disruption), the onset period should show a large
+immediate increase in job applications.
+
+This document is copyrighted by the American Psychological Association or one of its allied publishers.
+This article is intended solely for the personal use of the individual user and is not to be disseminated broadly.
+
+Hypothesis 1 (H1): Formal recognition of COVID-19 as a
+global pandemic produces an increase in job applications
+during the onset (transition) period (relative to preonset application rates).
+Job search theory and research do not explain precisely how
+macro events change job search behavior over time. However,
+event system theory predicts the nature of the posttransition
+change should depend on event strength as time progresses
+(Morgeson et al., 2015). For example, a recession may see little
+change in job search behavior at the onset because the event is not
+immediately disruptive or critical. As the effects of the recession
+become more apparent (disruption increases), job search behavior
+changes drastically. On the other hand, a terrorist attack may be
+immediately disruptive and critical and thus may quickly change
+job search behavior, but the effects of this event on job search
+become less apparent over time (as disruption and criticality decrease). In this way, the differences in event strength are associated
+with differences in the timing, duration, and magnitude of consequences (Bliese et al., 2017).
+We predict that the rate of applications should continue to
+increase after the onset of the pandemic (postonset period) because
+the macro context following the pandemic’s onset continued to
+evolve. The pandemic’s novelty obviously decreased after the
+onset transition period. However, as the virus became more widespread, the pandemic’s disruption and criticality likely increased.1
+Unemployment rates and layoffs began to rise sharply, and the
+number of people not able to work increased because of shutdowns. The growing environmental uncertainty during the postonset period likely contributed to greater employment uncertainty
+and thus more applications (Bianchi, 2013; Porter et al., 2019;
+Wanberg et al., 2012; Wanberg, van Hooft, et al., 2020).
+Hypothesis 2 (H2): Relative to preonset applications, postonset applications will increase over time.
+The first two hypotheses test whether the COVID-19 pandemic
+changed job search behavior. We now seek to provide a more
+nuanced understanding of these effects by examining if they are
+consistent across different types of jobs. We hypothesize that the
+onset of the COVID-19 pandemic should result in increases in job
+applications to work-from-home jobs, relative to preonset levels.
+We note above that stronger macroeconomic events prompt uncertainty and loss of control (Bianchi, 2020; Sirola & Pitesa,
+2018). The COVID-19 pandemic is stronger than most macro
+events because it creates threats to economic and physical health.
+Health and safety are not frequently considered in prior research
+on characteristics influencing job search. However, theory from
+labor economics suggests that shifts in job search can result from
+the safety and security offered by an occupation (e.g., Bellante &
+Link, 1981; Cappelli, 2008).
+Event system theory (Morgeson et al., 2015) and Bliese et al.
+(2017) offer insights regarding why job applications to work-fromhome jobs will increase. Criticality is the dimension that pertains to an
+event’s potential to have an influence on “the ‘horizon’ . . . and may
+curtail the attainment of important goals such that the ‘centrality of the
+goal at stake in the exchange matters” (Morgeson et al., 2015, p. 521).
+
+The pandemic event specifically makes face-to-face jobs unsafe, from
+both a financial perspective (face-to-face jobs are most likely to be
+lost during the pandemic because of business closures) and a health
+perspective (face-to-face jobs are more likely to result in one getting
+sick; Rudolph et al., in press). Therefore, work-from-home jobs are a
+better alternative at the pandemic’s onset, leading to the prediction
+that applications to work-from-home jobs will increase.
+Hypothesis 3 (H3): Relative to preonset application rates,
+organizations offering work-from-home jobs will experience
+an increase in applications during the onset of the COVID-19
+pandemic (transition period) compared to organizations offering face-to-face jobs.
+Likewise, postonset, jobseekers will apply to work-from-home jobs
+at an increasing rate relative to preonset levels. H3 argues that workfrom-home jobs offer the greatest means to increase control and
+reduce uncertainty caused by the pandemic’s simultaneous impact on
+economics and health. Further, time increases the disruption and
+criticality associated with the event, thus increasing event strength.
+Specifically, as the health (e.g., the virus becomes more widespread
+and individuals begin to see the effects of the virus on people close to
+them) and economic (e.g., the loss of face-to-face jobs in the community increases) environments worsen, the desire for work-fromhome jobs will increase in an attempt to offset the potential negative
+consequences associated with the virus (e.g., Rudolph et al., in press).
+Thus, as the pandemic spreads in the postonset period, workers should
+increasingly apply to work-from-home jobs relative to preonset levels.
+Hypothesis 4 (H4): Relative to preonset application rates,
+organizations offering work-from-home jobs will experience a
+postonset increase in applications compared to organizations
+offering face-to-face jobs.
+
+Method
+Sample and Procedure
+The data in this sample are based on 14 organizations that were
+clients of a global talent acquisition vendor (University of South
+Carolina IRB Pro00100146; “Job Search Change as a Result of a
+Disruptive Event”). This is the first publication from a larger data set.
+Four of the organizations offer work-from-home jobs, while the
+remaining 10 organizations offer traditional face-to-face jobs (see
+Table 1). The organizations represent a fairly diverse range of industries. Eight of the firms hired nationally, with the remainder focused
+on regional hiring (e.g., Southwest, Northeast). Six of the firms hired
+in urban areas, two in suburban areas, and the rest a mix of both.2 The
+vendor tracks the number of applications to each organization on a
+daily basis (no demographic data were collected during the application stage). We cluster the data weekly as a means to balance having
+a large number of repeated observations versus having so many that
+the models run into convergence problems (see Ployhart & Vandenberg, 2010). Thus, the pandemic onset occurs the week of March 9,
+1
+The fact that the pandemic’s strength (i.e., novelty, disruption, and
+criticality) theoretically changes between onset and postonset periods is yet
+another reason why onset and postonset periods should be disentangled.
+2
+Geographic location and urban/suburban status are unrelated to
+changes in job application trends (results available upon request).
+
+COVID-19: EFFECTS ON JOB SEARCH
+
+1211
+
+Table 1
+Characteristics of Organizations in Sample
+
+This document is copyrighted by the American Psychological Association or one of its allied publishers.
+This article is intended solely for the personal use of the individual user and is not to be disseminated broadly.
+
+Variable
+
+Mweekly applications
+
+Face-to-face organizations
+1.
+2.
+3.
+4.
+5.
+6.
+7.
+8.
+9.
+10.
+Subtotal
+Work-from-home organizations
+11.
+12.
+13.
+14.
+Subtotal
+
+SDweekly applications
+
+176.69
+158.06
+8.44
+11.31
+29.88
+12.56
+88.44
+26.88
+1,017.75
+64.25
+159.43
+
+69.02
+30.36
+5.76
+9.46
+10.28
+9.04
+72.36
+8.11
+570.30
+32.56
+81.73
+
+1,334.88
+3,705.56
+3,171.25
+1,953.75
+2,541.36
+
+1,929.53
+4,296.80
+1,594.22
+1,660.33
+2,370.22
+
+with data collection starting January 6 and ending the week of April
+20. All 14 organizations, each with 16 weeks of data and all job
+applications in this window, are included in the analyses.
+To provide further insights into the change in job applications, we
+also examined weekly mean selection test performance. Each firm
+uses a battery of cognitive, noncognitive, and situational judgment
+assessments. The specific constructs measured and the weighting of
+the different scores are specific to each firm as determined by a job
+analysis and validation study. The vendor converts applicant scores
+into a percentage from zero to 100 (100% indicates perfect fit).
+
+Analytic Approach
+A strength of this study’s design is the multiple waves of data and,
+importantly, 9 weeks of preonset baseline data (see Table 2).
+DRCGCMs are ideally suited for this situation (Bliese et al., 2017)
+
+Roles
+
+Industry
+
+Customer service
+Customer service and sales
+Finance and sales
+Food preparation and management
+Research and management
+Sales
+Customer service and maintenance
+Sales and management
+Customer service and technician
+Research and management
+
+Information technology & services
+Retail
+Financial services
+Hospitality
+Biotechnology
+Real estate
+Hospitality
+Transportation
+Consumer goods
+Food and beverage
+
+Sales
+Customer service and sales
+Customer service and sales
+Customer service and sales
+
+Insurance
+Consumer services
+Outsourcing
+Outsourcing
+
+because they enable one to test whether the pandemic’s onset and
+postonset slope differ relative to the preonset slope, as a means to
+estimate how much the pandemic changed job search application
+behavior relative to the baseline period. Further, these models enable
+us to test whether differences observed in the onset and postonset
+slopes are (at least in part) explained by job type (face-to-face vs.
+work-from-home). We followed the approach described by Bliese,
+Lang, and colleagues (Bliese et al., 2017; Bliese & Lang, 2016; Lang
+& Bliese, 2009) and used in research seeking to examine discontinuous trends (e.g., the Great Recession; Kim & Ployhart, 2014).
+DRCGCMs are extensions of the basic growth curve model (Singer &
+Willett, 2003) and similar to regression discontinuity designs used in
+economics (Imbens & Lemieux, 2008).
+The DRCGCM regresses the outcome (vector of each firm’s
+weekly job applications) onto a set of growth terms. These terms are
+
+Table 2
+Discontinuous Random Coefficient Growth Curve Model Terms
+Time period
+Preonset
+
+Pandemic onset
+Postonset
+
+Date (month
+/day/year)
+
+Intercept
+
+Preonset
+slope
+
+Pandemic
+onset event
+
+Postonset
+slope
+
+Postonset
+slope2
+
+1/6/2020
+1/13/2020
+1/20/2020
+1/27/2020
+2/3/2020
+2/10/2020
+2/17/2020
+2/24/2020
+3/2/2020
+3/9/2020
+3/16/2020
+3/23/2020
+3/30/2020
+4/6/2020
+4/13/2020
+4/20/2020
+
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+
+0
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+1
+1
+1
+1
+1
+1
+
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+1
+2
+3
+4
+5
+
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+1
+4
+9
+16
+25
+
+Note. The week of 3/9/2020 was when the pandemic onset occurred (with the pandemic specifically recognized
+on March 11, 2020).
+
+—
+0.69ⴱⴱ
+—
+0.99ⴱⴱⴱ
+0.62ⴱ
+—
+0.93ⴱⴱⴱ
+0.98ⴱⴱⴱ
+0.73ⴱⴱ
+—
+0.97ⴱⴱⴱ
+0.99ⴱⴱⴱ
+1ⴱⴱⴱ
+0.7ⴱⴱ
+—
+0.9ⴱⴱⴱ
+0.95ⴱⴱⴱ
+0.84ⴱⴱⴱ
+0.91ⴱⴱⴱ
+0.89ⴱⴱⴱ
+—
+0.58ⴱ
+0.24
+0.32
+0.18
+0.27
+0.69ⴱⴱ
+—
+0.92ⴱⴱⴱ
+0.74ⴱⴱ
+0.45
+0.55ⴱ
+0.37
+0.49
+0.75ⴱⴱ
+Note. n ⫽ 14 organizations. Job type is coded 0 ⫽ face-to-face (n ⫽ 10); 1 ⫽ work-from-home (n ⫽ 4).
+ⴱ
+p ⬍ .05. ⴱⴱ p ⬍ .01. ⴱⴱⴱ p ⬍ .001.
+
+—
+0.85ⴱⴱⴱ
+0.58ⴱ
+0.78ⴱⴱⴱ
+0.63ⴱ
+0.73ⴱⴱ
+0.56ⴱ
+0.67ⴱⴱ
+0.68ⴱⴱ
+—
+0.94ⴱⴱⴱ
+0.71ⴱⴱ
+0.41
+0.86ⴱⴱⴱ
+0.84ⴱⴱⴱ
+0.87ⴱⴱⴱ
+0.79ⴱⴱⴱ
+0.86ⴱⴱⴱ
+0.71ⴱⴱ
+—
+0.83ⴱⴱⴱ
+0.97ⴱⴱⴱ
+0.87ⴱⴱⴱ
+0.63ⴱ
+0.72ⴱⴱ
+0.48
+0.63ⴱ
+0.39
+0.52
+0.66ⴱⴱ
+—
+0.96ⴱⴱⴱ
+0.79ⴱⴱⴱ
+0.92ⴱⴱⴱ
+0.8ⴱⴱⴱ
+0.58ⴱ
+0.67ⴱⴱ
+0.41
+0.55ⴱ
+0.31
+0.45
+0.71ⴱⴱ
+—
+0.94ⴱⴱⴱ
+0.98ⴱⴱⴱ
+0.9ⴱⴱⴱ
+0.99ⴱⴱⴱ
+0.9ⴱⴱⴱ
+0.67ⴱⴱ
+0.81ⴱⴱⴱ
+0.6ⴱ
+0.72ⴱⴱ
+0.52
+0.64ⴱ
+0.75ⴱⴱ
+—
+0.92ⴱⴱⴱ
+0.84ⴱⴱⴱ
+0.91ⴱⴱⴱ
+0.7ⴱⴱ
+0.87ⴱⴱⴱ
+0.99ⴱⴱⴱ
+0.89ⴱⴱⴱ
+0.68ⴱⴱ
+0.38
+0.5
+0.3
+0.42
+0.7ⴱⴱ
+—
+0.94ⴱⴱⴱ
+0.97ⴱⴱⴱ
+0.88ⴱⴱⴱ
+0.93ⴱⴱⴱ
+0.9ⴱⴱⴱ
+0.97ⴱⴱⴱ
+0.94ⴱⴱⴱ
+0.75ⴱⴱ
+0.82ⴱⴱⴱ
+0.63ⴱ
+0.71ⴱⴱ
+0.56ⴱ
+0.66ⴱ
+0.79ⴱⴱⴱ
+—
+0.87ⴱⴱⴱ
+0.72ⴱⴱ
+0.85ⴱⴱⴱ
+0.86ⴱⴱⴱ
+0.79ⴱⴱⴱ
+0.87ⴱⴱⴱ
+0.84ⴱⴱⴱ
+0.72ⴱⴱ
+0.53
+0.78ⴱⴱⴱ
+0.66ⴱⴱ
+0.68ⴱⴱ
+0.59ⴱ
+0.66ⴱ
+0.88ⴱⴱⴱ
+—
+0.72ⴱⴱ
+0.38
+0.31
+0.4
+0.61ⴱ
+0.39
+0.32
+0.34
+0.3
+0.27
+0.37
+0.18
+0.21
+0.1
+0.16
+0.69ⴱⴱ
+
+17
+16
+15
+14
+13
+12
+11
+10
+9
+8
+7
+6
+5
+4
+3
+2
+1
+SD
+
+2,202.9
+1,051.9
+974.2
+896.6
+686.3
+649.3
+634.0
+624.5
+495.7
+812.3
+2,084.0
+2,162.8
+3,424.0
+2,271.5
+3,850.1
+2,034.0
+0.5
+1,082.4
+827.4
+737.1
+608.6
+508.4
+488.3
+467.1
+476.9
+384.1
+532.6
+1,011.1
+1,241.1
+1,540.1
+1,081.3
+1,522.1
+931.0
+0.3
+Week 0
+Week 1
+Week 2
+Week 3
+Week 4
+Week 5
+Week 6
+Week 7
+Week 8
+Week 9
+Week 10
+Week 11
+Week 12
+Week 13
+Week 14
+Week 15
+Job type
+1.
+2.
+3.
+4.
+5.
+6.
+7.
+8.
+9.
+10.
+11.
+12.
+13.
+14.
+15.
+16.
+17.
+
+Descriptive statistics are in Table 3. Model 1 (see Table 4), an
+unconditional model that only contains the growth terms, shows
+H1 is supported. The average number of applications in Week 1
+was 878.52 (i.e., the intercept). Applications declined 59.39 (on
+average) per week before the pandemic. When the pandemic hit
+
+M
+
+Hypothesis Tests
+
+Variable
+
+Results
+Table 3
+Descriptive Statistics
+
+This document is copyrighted by the American Psychological Association or one of its allied publishers.
+This article is intended solely for the personal use of the individual user and is not to be disseminated broadly.
+
+structured so that they model specific forms of hypothesized change
+and thus disentangle different forms of variance (see Table 2). The
+preonset term captures the linear baseline slope. The pandemic onset
+term is coded zero (before the event) and 1 (after the event), thus
+estimating how applications changed the week of March 9. As the unit
+for “time” in our study is 1 week, we specify the transition period to
+be the shortest period possible to provide the most precise estimate of
+the event variance (Bliese & Lang, 2016). Longer periods of time
+would confound the onset variance with the postonset variance. We
+consider the possibility of nonlinear (quadratic or negatively accelerated) change in the postonset period by using two terms: postonset
+and postonset squared (e.g., Lang & Bliese, 2009). The postonset
+terms use zeros before and during the pandemic’s onset so that change
+is modeled only after the transition period. The intercept is a constant
+of 1s to estimate the start period.
+Just as dummy codes or effects coding enable different contrasts in
+the general linear model, the terms in Table 2 work together to
+uniquely estimate preonset, onset, and postonset variance as shown in
+Figure 1. H1 is supported by a significant pandemic onset term, H2 is
+supported by significant postonset terms, H3 is supported by significant pandemic onset by job type interaction, and H4 is supported by
+a significant postonset by job type interaction and postonset2 by job
+type interaction (both terms must be significant for full support; one
+significant term is indicative of partial support). SAS (Version 9.4)
+proc mixed with restricted maximum likelihood is used for the analyses. H tests are based on Type I sequential sums of squares, which
+means that the coefficients are tested sequentially based on the order
+they enter the model. Order of entry is important when using polynomials, so one should test the lower-order terms before adding
+higher-order terms (Bliese & Ployhart, 2002). Pseudo-R2 is estimated
+using Xu (2003).
+DRCGCMs allow the estimation of variance components or the
+amount of between-firm variability in each term in Table 2. Allowing
+the growth terms to vary across firms, including the intercept (initial
+status), enables us to model how the pandemic has influenced application rates across firms and helps reduce concerns about preexisting
+between-firm differences (see Bliese & Lang, 2016; Bliese, Schepker,
+Essman, & Ployhart, 2020). This allows one to disentangle the variance associated with the preonset, onset, and postonset periods (see
+Bliese et al., 2017; Bliese & Lang, 2016; Lang & Bliese, 2009).
+Statistical tests for variance components are low power because
+variance components cannot fall below zero (Bliese & Ployhart,
+2002), so one-tailed tests are used according to common practice
+(Littell, Milliken, Stroup, & Wolfinger, 1996). But perhaps the most
+important benefit of using DRCGCMs is that pandemic onset effect
+and postonset slope are compared relative to preonset slopes (i.e.,
+baseline levels). For example, the onset by job type interaction is
+tested relative to what would have been predicted given the baseline
+data.
+
+—
+
+MCFARLAND, REEVES, PORR, AND PLOYHART
+
+1212
+
+z ⫽ .78
+z ⫽ 5.32ⴱⴱⴱ
+
+6,564.43 [1,106.43, 1,664,809]
+164,459 [624,930, 1,313,751]
+3,723.1
+11
+.74ⴱⴱⴱ
+.047
+
+a
+
+z ⫽ 1.26
+z ⫽ .25
+z ⫽ 1.78ⴱ
+
+706,018 [290,482, 11,122,530]
+4,014.45 [91.00, 5.688E27]
+878,704 [659,467, 7,170,651]
+
+z test (one-tailed)
+
+F(1, 206) ⫽ .22
+F(1, 206) ⫽ 3.89ⴱ
+F(1, 206) ⫽ .04
+F(1, 206) ⫽ 1.96
+
+Type I (sequential)
+F test
+
+26,499
+1,724.06
+161,363
+937,506
+14,564
+947,125
+
+Coefficient
+
+396.37
+⫺59.39
+726.99
+374.86
+⫺63.19
+1,687.54
+
+Coefficient
+
+.053
+
+3,697.3
+12
+
+a
+
+59,369 [3,501.52, 8.908E11]
+1,809.27 [448.26, 93,857]
+217,752 [33,519, 90,751,106]
+905,728 [261,752, 30,014,198]
+22,099 [2,178.669, 40,804,554]
+
+SE [95% CI]
+
+171.71 [22.24, 770.50]
+30.71 [⫺119.93, 1.16]
+314.11 [107.70, 1346.28]
+341.98 [⫺299.38, 1,049.10]
+53.41 [⫺168.48, 42.11]
+227.42 [1,192.04, 2,183.04]
+
+SE [95% CI]
+
+Model 2 (job type main effect)
+
+z ⫽ .45
+z ⫽ .95
+z ⫽ .74
+z ⫽ 1.04
+z ⫽ .66
+z ⫽ .0
+
+z test (one-tailed)
+
+F(1, 206) ⫽ .24
+F(1, 206) ⫽ 6.33ⴱ
+F(1, 206) ⫽ .04
+F(1, 206) ⫽ 1.40
+F(1, 12) ⫽ 55.06ⴱⴱⴱ
+
+Type I (sequential)
+F test
+
+4,607.08
+877,826
+
+b
+
+53,696
+2,942.42
+608,600
+
+Coefficient
+
+231.32
+⫺5.37
+⫺55.13
+⫺31.46
+5.39
+2,265.22
+⫺189.06
+(H3) 2,737.42
+(H4) 1,422.11
+(H4) ⫺240.04
+
+Coefficient
+
+.069
+
+2,656.93 [1,914.51, 22,286]
+94,449 [718,574, 1,096,886]
+3,635.3
+15
+
+81,915 [9,974.60, 1.6359E8]
+2,820.76 [826.95, 90,048]
+498,326 [194,863, 8,561,060]
+
+SE [95% CI]
+
+188.93 [⫺180.32, 642.96]
+36.86 [⫺78.04, 67.30]
+417.05 [⫺877.47, 767.20]
+254.68 [⫺533.64, 470.72]
+53.03 [⫺99.17, 109.95]
+353.46 [1,495.11, 3,035.34]
+68.95 [⫺325.01, ⫺53.11]
+780.23 [1,198.98, 4,275.87]
+476.47 [482.63, 2,361.60]
+99.21 [⫺435.65, ⫺44.42]
+
+SE [95% CI]
+
+Model 3 (job type interactions)
+
+z ⫽ 1.73ⴱ
+z ⫽ 9.29ⴱⴱⴱ
+
+z ⫽ .66
+z ⫽ 1.04
+z ⫽ 1.22
+
+z test (one-tailed)
+
+F(1, 202) ⫽ 1.40
+F(1, 202) ⫽ 9.86ⴱⴱ
+F(1, 202) ⫽ .28
+F(1, 202) ⫽ 1.99
+F(1, 12) ⫽ 39.15ⴱⴱⴱ
+F(1, 202) ⫽ 6.20ⴱ
+F(1, 202) ⫽ 28.65ⴱⴱⴱ
+F(1, 202) ⫽ .80
+F(1, 206) ⫽ 5.85ⴱ
+
+Type I (sequential)
+F test
+
+Note. n ⫽ 224 (16 repeated observations nested within 14 organizations). Job type 0 ⫽ face-to-face; 1 ⫽ work-from-home. Confidence intervals are based on estimates where order of entry does
+not matter. The z tests for variance components are one-tailed according to standard practice (Littell, Milliken, Stroup, & Wolfinger, 1996). Hypothesis tests use Type I sequential sums of squares,
+which test each coefficient based on order of entry in the model (e.g., the second variable is tested after inclusion of the first). H ⫽ hypothesis; LLR ⫽ log-likelihood ratio.
+a
+SAS set this value to zero to reach convergence. b This component created convergence problems and is not estimated.
+ⴱ
+p ⬍ .05. ⴱⴱ p ⬍ .01. ⴱⴱⴱ p ⬍ .001.
+
+886,975
+1,001.70
+1,561,095
+1,023,260
+5,101.58
+875,222
+
+SE [95% CI]
+
+Coefficient
+
+Variance components
+Intercept
+Preonset slope
+Pandemic onset
+Postonset slope
+Postonset slope2
+Error
+⫺2LLR
+df
+Intraclass correlation
+Pseudo-R2
+
+291.46 [248.85, 1,508.20]
+28.80 [⫺116.16, ⫺2.61]
+438.22 [⫺136.98, 1,590.95]
+345.37 [⫺306.06, 1,055.78]
+45.16 [⫺152.21, 25.84]
+
+878.52
+⫺59.39
+(H1) 726.99
+(H2) 374.86
+⫺63.19
+
+Intercept
+Preonset slope
+Pandemic onset
+Postonset slope
+Postonset slope2
+Job type
+Job Type ⫻ Preonset Slope
+Job Type ⫻ Pandemic Onset
+Job Type ⫻ Postonset Slope
+Job Type ⫻ Postonset Slope2
+
+SE [95% CI]
+
+Coefficient
+
+Variable
+
+Model 1 (unconditional model)
+
+Table 4
+Discontinuous Random Coefficient Growth Curve Models of Weekly Application Rates
+
+This document is copyrighted by the American Psychological Association or one of its allied publishers.
+This article is intended solely for the personal use of the individual user and is not to be disseminated broadly.
+
+COVID-19: EFFECTS ON JOB SEARCH
+
+1213
+
+This document is copyrighted by the American Psychological Association or one of its allied publishers.
+This article is intended solely for the personal use of the individual user and is not to be disseminated broadly.
+
+1214
+
+MCFARLAND, REEVES, PORR, AND PLOYHART
+
+(week of Marth 9), applications jumped a statistically significant
+726.99 relative to expected preonset levels. The variance component for the pandemic onset (u ⫽ 1,561,095) is statistically significant, suggesting there are between-firm differences in the effect
+of the pandemic onset. In contrast, H2 is not supported, as neither
+the postonset slopes nor their variance components were statistically significant. Altogether, Model 1 suggests the onset of the
+pandemic produces a large mean increase in applications during
+the onset of the pandemic, and this transition effect continues
+through the postonset period. The pandemic’s onset effect is so
+strong that it largely determines the shape of the postonset period.
+H3 predicted that, relative to expected preonset trends, organizations offering work-from-home jobs will experience an increase
+in applications during the onset of the COVID-19 pandemic compared to organizations offering face-to-face jobs. Model 3 (see
+Table 4) shows H3 is supported. Organizations that offer workfrom-home jobs see a significant increase of 2,737.42 more applications during the onset of the pandemic than organizations offering face-to-face jobs (relative to preonset levels). Further, the
+variance component for the pandemic onset term is no longer
+statistically significant, indicating that job type (face-to-face vs.
+work-from-home) accounts for the explainable variance. H4 is
+marginally supported, as the quadratic term (postonset slope2) is
+significant but the linear postonset slope is not (there was also
+difficulty getting an estimate for the slope’s variance component,
+which is common when modeling such trends; Ployhart & Vandenberg, 2010). This means that work-from-home jobs exhibit a
+modest negatively accelerated increase in applications. Figure 2
+illustrates Model 3.3
+
+Supplemental Analyses
+We report a number of supplemental analyses to evaluate the
+robustness of the findings and consider alternative explanations.
+First, one might question whether unemployment rates are causing
+the increase in job applications. To test this possibility, we modeled weekly unemployment claims as a time-varying predictor in
+the DRCGCMs along with the existing terms. The results found
+that unemployment claims did not significantly predict job applications (p ⫽ .17), while the significant effects for the pandemic
+onset and job type still held. Indeed, the unemployment claims rate
+was relatively steady and did not rise until after the pandemic’s
+onset, which argues against unemployment causing the onset effect
+(lagging the unemployment–application relationships by 1- or
+2-week intervals made no difference). Further, hypothesis tests
+suggest that only work-from-home jobs saw a significant increase
+in the pandemic onset and postonset periods. If unemployment was
+the primary explanation for the increase in job applications, one
+would expect there to be at least some meaningful increase in
+applications to face-to-face jobs, but this is not the case. Second,
+we tested for the possibility of cyclical hiring trends by comparing
+2020 data to a subset of the organizations that were clients during
+the same weeks (January–April) in 2019. No significant onset was
+found in the same time period in 2019, and the pattern of applications differed from 2020, suggesting cyclical effects are not
+present.
+Third, we consider whether changes in the quality of applicants
+over time might account for the differences in application rates.
+We used the same models used to test the hypotheses but with
+
+candidate test scores as the outcome. The results found no significant changes in applicant quality over time and no significant
+differences between job types. The mean candidate fit was essentially unchanged over time and not an explanation of the changes
+in job applications. Fourth, we examine if changes in job openings
+affect applications. Based on a survey of the client project managers, one work-from-home organization and four face-to-face
+organizations indicated increased job openings, two face-to-face
+organizations indicated decreased job openings, and the rest were
+unchanged. Including job openings as a variable in the model
+(coded 1 ⫽ increased openings, 0 ⫽ no change, ⫺1 ⫽ decreased
+openings) does not change support for any of the hypotheses.
+Thus, volume in applications did not change because of job openings.
+Finally, given that work-from-home jobs have a larger number
+of job applications at all time periods, one may question whether
+the comparison between the two groups is fair. Applying the
+DRCGCM to only the face-to-face organizations found no significant change for the preonset, onset, or postonset periods— essentially a flat line over time. In contrast, applying the models on only
+the work-from-home firms produced a trajectory similar to the
+hypothesis tests and found significant effects for the pandemic
+onset. Thus, the job application rates are not affected by changes
+in applicant supply (unemployment rates), changes in applicant
+quality (test scores), or changes in demand (job openings). All of
+these results are available upon request.
+
+Discussion
+The COVID-19 pandemic is unprecedented in terms of speed
+and global impact. We sought to advance practice in ways that help
+organizations understand the crisis created by COVID-19 while
+simultaneously advancing job search theory in ways that generalize beyond the crisis. By applying a rigorous DRCGCM approach,
+we found (a) the COVID-19 pandemic’s onset led to a large
+immediate increase in job applications, (b) this increase occurred
+primarily due to a stronger increase in applications to work-fromhome jobs, and (c) most of the impact occurred during the pandemic’s onset, as the postonset period showed a modest negatively
+accelerated increase in applications for work-from-home jobs. The
+longitudinal baseline and modeling approach used in this study
+offer reasonably strong evidence that it was the introduction of the
+COVID-19 pandemic that created this disruption in job applications. Supplemental analyses reinforce this interpretation, as neither unemployment claims nor candidate quality scores account for
+the change in applications.
+3
+Although the diversity of organizations in this study helps ensure
+findings are not industry specific, it could also create difficulties in making
+comparisons across firms or jobs. To evaluate this possibility, we ran
+analyses that limited the organizations to jobs that focused only on customer service or sales (Organizations 1, 2, 6, and 11–14 in Table 1) and
+analyses that excluded organizations with jobs that were not focused
+primarily on customer service or sales job (i.e., excluding Organizations 4,
+5, and 10 in Table 1). We compared these results to each other and the
+effects reported above. The effect sizes were highly similar across models,
+and support for all hypothesis tests was the same except for H4, which
+approached but did not reach statistical significance (perhaps because this
+analysis used only 3 of the 10 face-to-face organizations). Analyses are
+available upon request.
+
+This document is copyrighted by the American Psychological Association or one of its allied publishers.
+This article is intended solely for the personal use of the individual user and is not to be disseminated broadly.
+
+COVID-19: EFFECTS ON JOB SEARCH
+
+Figure 2.
+
+1215
+
+Average number of applicants over time by job type.
+
+This research offers important implications for job search theory
+and for directing future research, especially given that context has
+not played a central role in the job search literature (Boswell et al.,
+2012; Wanberg et al., 2012). First, we introduce event system
+theory and transition frameworks as a means to conceptualize,
+theorize, and analyze job search. Job search is punctuated by many
+acute events, including college graduation, job acceptance, and job
+loss. A nascent area of research is starting to recognize that macro
+events may also influence search, such that job search during times
+of hardship and uncertainty contributes to a loss of control or
+increased gratitude (Bianchi, 2020; Peterson & Seligman, 2003).
+Yet in prior research, the event itself is rarely given careful
+theoretical attention, and the transition period associated with the
+event is usually ignored or confounded with the posttransition
+period.
+The approach used in this study thus offers new ways to think
+about events that punctuate job search—macro or otherwise. Not
+all events have the same consequences. The effects of an event are
+largely determined by event strength, which lies on a continuum.
+Research should apply event system theory to compare and contrast the strength of different events (e.g., compare the novelty,
+disruption, and criticality of furloughs, expected job loss, unexpected job loss, layoffs) to determine how they create different
+transition and posttransition reactions (see Halbesleben, Wheeler,
+& Paustian-Underdahl, 2013, for one example).4 Failing to appropriately understand events can lead to inconsistent or even contradictory findings. For example, the effectiveness of interventions
+used to facilitate job search during times of economic recession
+may differ from the effectiveness during times of economic pros-
+
+perity (Liu et al., 2014). Conceptualizing job search events along
+a continuum of event strength, as proposed by Morgeson et al.
+(2015), should help improve the understanding and reporting of
+context in job search articles, which in turn could improve metaanalyses and the ability to identify contextual moderators of predictive relationships (Wanberg, Ali, et al., 2020).
+A second theoretical implication involves consideration of how
+outcomes and the predictors of such outcomes may change across
+event preonset, onset, and postonset periods. Our study found a
+slow decline in job applications to work-from-home jobs, but this
+changed abruptly and significantly once the pandemic onset occurred, suggesting the predictors of job application behavior (i.e.,
+job type) changed over time. Future research should examine if the
+predictors of job search behavior change across preonset, onset,
+and postonset periods for different types of events (varying on
+strength). Such relationships cannot be examined without sufficient baseline data and the application of models capable of testing
+discontinuity and change (Bliese et al., 2017). Thus, this study’s
+approach may be used to better understand how the strength of
+events, macro and micro, influence the predictors of job search
+over time.
+
+4
+We compared the effects of the COVID-19 onset to other macro events
+occurring in 2020 (Brexit) and 2019 (Trump impeachment). Theoretically,
+these other events are weaker than the COVID-19 onset because they are
+both less disruptive and critical for employment. Consistent with event
+system theory predictions, neither of these other events created a significant onset effect. We thank an anonymous reviewer for this suggestion.
+
+This document is copyrighted by the American Psychological Association or one of its allied publishers.
+This article is intended solely for the personal use of the individual user and is not to be disseminated broadly.
+
+1216
+
+MCFARLAND, REEVES, PORR, AND PLOYHART
+
+Our study also offers some important practical implications.
+First, event system theory and the transitions framework introduced here can help firms understand events in new ways and thus
+provide a greater ability to strategically anticipate or respond to
+macro events. Reeves, Whitaker, and Ketels (2019) argue that
+environmental complexity and uncertainty appear to be more frequent. If firms try to understand the wide variety of potential
+macro events without an organizing framework, then strategies
+will need to be based on each event (e.g., responses for terrorist
+attacks, health crises, economic crises, and all the variations within
+these). This is obviously an unwieldy and impractical approach,
+especially for events that are strong but infrequent or difficult to
+predict. On the other hand, organizations could apply event system
+theory to understand these events in terms of their key underlying
+features: novelty, disruption, and criticality. It is likely that many
+seemingly different events are actually similar in terms of their
+strength, and hence the organizational responses can be similar as
+well. This provides a simpler and more flexible approach to
+strategic planning.
+Second, recognizing that the onset transition is different from
+the postonset period helps firms better react to change. For example, it may seem apparent that people will apply to work-fromhome jobs when a pandemic begins. However, the difficult question facing managers is whether these effects are strong enough
+and last long enough to justify investing in work-from-home
+opportunities. Strategy is about making choices about where to
+invest and where not to invest. Should firms make more workfrom-home opportunities, recognizing that doing so will require
+significant resource investments (e.g., hardware, infrastructure),
+training (performance management), and cultural change? If one
+believed the increase in work-from-home jobs was driven by
+unemployment, a firm may decide not to make such investments,
+believing the demand will subside as unemployment decreases.
+Our study shows this is not the case. Thus, event system theory and
+the transition approach provide a way for firms to make better
+strategic decisions and can be used as a tool to improve strategic
+planning and forecasting.
+Of course, this study has potential limitations that need to be
+addressed in future research. First, we were not able to measure the
+psychological reactions or experience of the pandemic’s onset
+period. We theorized that the onset created uncertainty that led to
+increased applications, but such explanatory processes need to be
+tested in future research. Consistent with such expectations, a
+follow-up survey administered to a nationally representative sample of U.S. workers in late March found that 82% of job seekers
+were more anxious about their current job search than they would
+be normally (z ⫽ 5.76; p ⬍ .001), and 74% indicated they needed
+additional job search support (z ⫽ 6.97; p ⬍ .001; results available
+upon request). Future research thus needs to consider how the
+perceptions and experiences observed shortly after the pandemic’s
+onset continue as the pandemic evolves. Second, we modeled the
+transition period as the week during which the COVID-19 virus
+was recognized as a pandemic. This is consistent with similar
+approaches using DRCGCM and provides the most rigorous test of
+the onset (Bliese & Lang, 2016), but theoretical work is needed to
+more precisely define when a transition point ends. Third, in the
+weeks following the onset, many locations have reopened their
+economies and so the effects observed here may (or may not)
+generalize to later time periods. There may also be differences
+
+across geographic regions, and although we did not find any
+effects due to the geographic location of hiring (national vs.
+regional) or population type (urban/suburban), future research
+should explore this further.
+One century ago, the Journal of Applied Psychology was born at
+a time when applied psychology was desperately needed: World
+War I was waging and the 1918 flu pandemic was beginning. It
+began from a desire to apply the best of psychological science to
+better human work conditions (Hall, Baird, & Geissler, 1917). We
+have sought to follow this tradition by seeking to understand the
+effects of COVID-19 (and event strength more broadly) on job
+search behavior, to help individuals and organizations better adapt
+to a changing world.
+
+References
+Alter, C., & Villa, L. (2020, March). “You must act now”: How states and
+cities have responded to the coronavirus pandemic. Time. Retrieved
+from https://time.com/5803334/coronavirus-pandemic-local-govern
+ments/
+Bellante, D., & Link, A. N. (1981). Are public sector workers more risk
+averse than private sector workers? Industrial & Labor Relations Review, 34, 408 – 412. http://dx.doi.org/10.1177/001979398103400307
+Bianchi, E. C. (2013). The bright side of bad times: The affective advantages of entering the workforce in a recession. Administrative Science
+Quarterly, 58, 587– 623. http://dx.doi.org/10.1177/0001839213509590
+Bianchi, E. C. (2020). How the economy shapes the way we think about
+ourselves and others. Current Opinion in Psychology, 32, 120 –123.
+http://dx.doi.org/10.1016/j.copsyc.2019.07.007
+Bliese, P. D., Adler, A. B., & Flynn, P. J. (2017). Transition processes: A
+review and synthesis integrating methods and theory. Annual Review of
+Organizational Psychology and Organizational Behavior, 4, 263–286.
+http://dx.doi.org/10.1146/annurev-orgpsych-032516-113213
+Bliese, P. D., & Lang, J. W. B. (2016). Understanding relative and absolute
+change in discontinuous growth models: Coding alternatives and implications for hypothesis testing. Organizational Research Methods, 19,
+562–592. http://dx.doi.org/10.1177/1094428116633502
+Bliese, P. D., & Ployhart, R. E. (2002). Growth modeling using random
+coefficient models: Model building, testing, and illustrations. Organizational Research Methods, 5, 362–387. http://dx.doi.org/10.1177/
+109442802237116
+Bliese, P. D., Schepker, D. J., Essman, S. M., & Ployhart, R. E. (2020).
+Bridging methodological divides between macro- and micro research:
+Endogeneity and methods for panel data. Journal of Management, 46,
+70 –99. http://dx.doi.org/10.1177/0149206319868016
+Boswell, W. R., Zimmerman, R. D., & Swider, B. W. (2012). Employee
+job search: Toward an understanding of search context and search
+objectives. Journal of Management, 38, 129 –163. http://dx.doi.org/10
+.1177/0149206311421829
+Cappelli, P. (2008). Talent on demand: Managing talent in an age of
+uncertainty. Cambridge, MA: Harvard Business School Publishing.
+Halbesleben, J. R., Wheeler, A. R., & Paustian-Underdahl, S. C. (2013).
+The impact of furloughs on emotional exhaustion, self-rated performance, and recovery experiences. Journal of Applied Psychology, 98,
+492–503. http://dx.doi.org/10.1037/a0032242
+Hall, G. S., Baird, J. W., & Geissler, L. R. (1917). Foreword. Journal of
+Applied Psychology, 1, 5–7. http://dx.doi.org/10.1037/h0065981
+Imbens, G., & Lemieux, T. (2008). Regression discontinuity designs: A
+guide to practice. Journal of Econometrics, 142, 615– 635. http://dx.doi
+.org/10.1016/j.jeconom.2007.05.001
+Johns, G. (2006). The essential impact of context on organizational behavior. Academy of Management Review, 31, 386 – 408. http://dx.doi.org/
+10.5465/amr.2006.20208687
+
+This document is copyrighted by the American Psychological Association or one of its allied publishers.
+This article is intended solely for the personal use of the individual user and is not to be disseminated broadly.
+
+COVID-19: EFFECTS ON JOB SEARCH
+Johns, G. (2017). Reflections on the 2016 Decade Award: Incorporating
+context in organizational research. Academy of Management Review, 42,
+577–595. http://dx.doi.org/10.5465/amr.2017.0044
+Kanfer, R., Wanberg, C. R., & Kantrowitz, T. M. (2001). Job search and
+employment: A personality-motivational analysis and meta-analytic review. Journal of Applied Psychology, 86, 837– 855. http://dx.doi.org/10
+.1037/0021-9010.86.5.837
+Kim, Y., & Ployhart, R. E. (2014). The effects of staffing and training on
+firm productivity and profit growth before, during, and after the Great
+Recession. Journal of Applied Psychology, 99, 361–389. http://dx.doi
+.org/10.1037/a0035408
+Klehe, U., & van Hooft, E. (2018). The Oxford handbook of job loss and
+job search. New York, NY: Oxford University Press.
+Lang, J. W. B., & Bliese, P. D. (2009). General mental ability and two
+types of adaptation to unforeseen change: Applying discontinuous
+growth models to the task-change paradigm. Journal of Applied Psychology, 94, 411– 428. http://dx.doi.org/10.1037/a0013803
+Littell, R. C., Milliken, G. A., Stroup, W. W., & Wolfinger, R. D. (1996).
+SAS system for mixed models. Cary, NC: SAS Institute.
+Liu, S., Huang, J. L., & Wang, M. (2014). Effectiveness of job search
+interventions: A meta-analytic review. Psychological Bulletin, 140,
+1009 –1041. http://dx.doi.org/10.1037/a0035923
+Morgeson, F. P., Mitchell, T. R., & Liu, D. (2015). Event system theory:
+An event-oriented approach to the organizational sciences. Academy of
+Management Review, 40, 515–537. http://dx.doi.org/10.5465/amr.2012
+.0099
+Mull, A. (2020, March). The Coronavirus customer-service crisis: When
+the public panics, service workers are the first to deal with it. The
+Atlantic. Retrieved from https://www.theatlantic.com/health/archive/
+2020/03/customer-service-workers-are-charge-pandemic/607801/
+Peterson, C., & Seligman, M. E. P. (2003). Character strengths before and
+after September 11. Psychological Science, 14, 381–384. http://dx.doi
+.org/10.1111/1467-9280.24482
+Ployhart, R. E., & Vandenberg, R. J. (2010). Longitudinal research: The
+theory, design, and analysis of change. Journal of Management, 36,
+94 –120. http://dx.doi.org/10.1177/0149206309352110
+Porter, C. M., Posthuma, R. A., Maertz, C. P., Joplin, J. R. W., Rigby, J.,
+Gordon, M., & Graves, K. (2019). On-the-job and off-the-job embeddedness differentially influence relationships between informal job
+search and turnover. Journal of Applied Psychology, 104, 678 – 689.
+http://dx.doi.org/10.1037/apl0000375
+Reeves, M., Whitaker, K., & Ketels, C. (2019, April). Companies need to
+prepare for the next economic downturn. Harvard Business Review.
+Retrieved from https://hbr.org/2019/04/companies-need-to-prepare-forthe-next-economic-downturn
+
+1217
+
+Rudolph, C., Allan, B., Clark, M., Hertel, G., Hirschi, A., Kunze, F., . . .
+Zacher, H. (in press). Pandemics: Implications for research and practice
+industrial and organizational psychology. Industrial and Organizational
+Psychology: Perspectives on Science and Practice.
+Singer, J. D., & Willett, J. B. (2003). Applied longitudinal data analysis:
+Modeling change and event occurrence. New York, NY: Oxford University Press. http://dx.doi.org/10.1093/acprof:oso/9780195152968.001
+.0001
+Sirola, N., & Pitesa, M. (2018). The macroeconomic environment and the
+psychology of work evaluation. Organizational Behavior and Human
+Decision Processes, 144, 11–24. http://dx.doi.org/10.1016/j.obhdp.2017
+.09.003
+Solomon, A. (2020, April 9). When the pandemic leaves us alone, anxious,
+and depressed. New York Times. Retrieved from https://www.nytimes
+.com/2020/04/09/opinion/sunday/coronavirus-depression-anxiety.html
+Trope, Y., & Liberman, N. (2010). Construal-level theory of psychological
+distance. Psychological Review, 117, 440 – 463. http://dx.doi.org/10
+.1037/a0018963
+Wanberg, C. R., Ali, A. A., & Csillag, B. (2020). Job seeking: The process
+and experience of looking for a job. Annual Review of Organizational
+Psychology and Organizational Behavior, 7, 315–337. http://dx.doi.org/
+10.1146/annurev-orgpsych-012119-044939
+Wanberg, C., Basbug, G., van Hooft, E. A. J., & Samtani, A. (2012).
+Navigating the black hole: Explicating layers of job search context and
+adaptational responses. Personnel Psychology, 65, 887–926. http://dx
+.doi.org/10.1111/peps.12005
+Wanberg, C. R., Kanfer, R., & Rotundo, M. (1999). Unemployed individuals: Motives, job-search competencies, and job-search constraints as
+predictors of job seeking and reemployment. Journal of Applied Psychology, 84, 897–910. http://dx.doi.org/10.1037/0021-9010.84.6.897
+Wanberg, C. R., van Hooft, E. A. J., Dossinger, K., van Vianen, A. E. M.,
+& Klehe, U. C. (2020). How strong is my safety net? Perceived unemployment insurance generosity and implications for job search, mental
+health, and reemployment. Journal of Applied Psychology, 105, 209 –
+229. http://dx.doi.org/10.1037/apl0000435
+World Health Organization. (2020). Who Director-General’s opening remarks at the media briefing on COVID-19 - 11 March 2020. Retrieved
+from https://www.who.int/dg/speeches/detail/who-director-general-sopening-remarks-at-the-media-briefing-on-covid-19---11-march-2020
+Xu, R. (2003). Measuring explained variation in linear mixed effects
+models. Statistics in Medicine, 22, 3527–3541. http://dx.doi.org/10
+.1002/sim.1572
+
+Received May 20, 2020
+Revision received July 30, 2020
+Accepted July 31, 2020 䡲
+
+

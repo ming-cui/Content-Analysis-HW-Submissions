@@ -1,0 +1,2733 @@
+Journal of Applied Psychology
+© 2020 American Psychological Association
+ISSN: 0021-9010
+
+2020, Vol. 105, No. 12, 1408 –1422
+http://dx.doi.org/10.1037/apl0000843
+
+This document is copyrighted by the American Psychological Association or one of its allied publishers.
+This article is intended solely for the personal use of the individual user and is not to be disseminated broadly.
+
+Supporting Interdependent Telework Employees: A Moderated-Mediation
+Model Linking Daily COVID-19 Task Setbacks to Next-Day
+Work Withdrawal
+SinHui Chong and Yi Huang
+
+Chu-Hsiang (Daisy) Chang
+
+Nanyang Technological University
+
+Michigan State University
+
+The COVID-19 crisis has compelled many organizations to implement full-time telework for their employees
+in a bid to prevent a transmission of the virus. At the same time, the volatile COVID-19 situation presents
+unique, unforeseen daily disruptive task setbacks that divert employees’ attention from routinized work tasks
+and require them to respond adaptively and effortfully. Yet, little is known about how telework employees
+react to such complex demands and regulate their work behaviors while working from home. Drawing on
+Hobfoll’s (1989) conservation of resources (COR) theory, we develop a multilevel, two-stage moderatedmediation model arguing that daily COVID-19 task setbacks are stressors that would trigger a resource loss
+process and will thus be positively related to the employee’s end-of-day emotional exhaustion. The emotionally exhausted employee then enters a resource preservation mode that precipitates a positive relationship
+between end-of-day exhaustion and next-day work withdrawal behaviors. Based on COR, we also predict that
+the relation between daily COVID-19 task setbacks and exhaustion would be more positive in telework
+employees who have higher (vs. lower) task interdependence with coworkers, but organizations could
+alleviate the positive relation between end-of-day exhaustion and next-day work withdrawal behavior by
+providing employees with higher (vs. lower) telework task support. We collected daily experience-sampling
+data over 10 workdays from 120 employees (Level 1, n ⫽ 1,022) who were teleworking full-time due to the
+pandemic lockdown. The results generally supported our hypotheses, and their implications for scholars and
+managers during and beyond the pandemic are discussed.
+Keywords: COVID-19 task setbacks, telework, withdrawal, task interdependence, perceived
+organizational support
+Supplemental materials: http://dx.doi.org/10.1037/apl0000843.supp
+
+essary for performing their job and interact face-to-face with
+coworkers to coordinate work tasks (Gajendran & Harrison, 2007).
+Past research has associated this type of voluntary, partial telework
+with reduced stress and withdrawal, as well as better performance,
+and they attributed these benefits to the greater autonomy and
+schedule flexibility that telework extends to employees (Allen,
+Golden, & Shockley, 2015; Gajendran & Harrison, 2007).
+However, the coronavirus disease 2019 (COVID-19) that swept
+rapidly across the globe in early 2020 conferred a new meaning to
+telework. As this acute respiratory disease transmits through physical contact (World Health Organization, 2020), many organizations have since discouraged or forbidden nonessential employees
+from physically reporting to work in order to observe social
+distancing for halting the virus spread (Guyot & Sawhill, 2020).
+This pushed the incidence of telework to an unprecedented tipping
+point. In the United States, 65% of the workforce were teleworking
+full-time in early May 2020 (Gallup, 2020), a multifold increase
+from the 11% who had access to partial telework pre-COVID-19
+(U.S. Bureau of Labor Statistics, 2019). All other regions, including Europe (Lomas, 2020) and Asia (Liang, 2020; Tay, 2020), saw
+record telework rates in the period too. We argue that this form of
+mandatory telework is fundamentally distinct from the aforementioned partial telework offered as a flexible work arrangement.
+
+Many organizations have long offered telework, also known as
+telecommuting, remote work, or working from home, as a form of
+flexible work arrangement to enable employees to better manage
+increasing demands from their work and family (Shockley &
+Allen, 2010). Under a typical telework arrangement, an employee
+splits their work time between working at the office and working
+from home or a preferred off-site location. When physically at the
+office, the employee can access organizational infrastructure nec-
+
+Editor’s Note. Jonas W. B. Lang served as the action editor for this
+article.—LTE
+
+This article was published Online First October 15, 2020.
+X SinHui Chong and Yi Huang, Division of Leadership, Management,
+and Organization, Nanyang Technological University; Chu-Hsiang (Daisy)
+Chang, Department of Psychology, Michigan State University.
+This research was supported by a startup grant awarded to SinHui Chong
+by Nanyang Technological University, Singapore.
+Correspondence concerning this article should be addressed to SinHui
+Chong, Division of Leadership, Management, and Organization, Nanyang
+Technological University, 50 Nanyang Avenue, S3-01C-101, Singapore
+639798. E-mail: sinhui.chong@ntu.edu.sg
+1408
+
+This document is copyrighted by the American Psychological Association or one of its allied publishers.
+This article is intended solely for the personal use of the individual user and is not to be disseminated broadly.
+
+DAILY COVID-19 TASK SETBACKS AND WORK WITHDRAWAL
+
+This is because employees now have little or no volition to decide
+whether and when to telework, and their ability to access to
+physical infrastructure, tools, and resources in their workplaces is
+also severely restricted under this work arrangement.
+To complicate matters, the COVID-19 crisis has far-reaching
+impacts on diverse occupations, because effective responses to
+COVID-19 require joint and collective efforts across nations,
+governments, industries, and communities. The evolving and volatile nature of both the COVID-19 situation and the adaptive
+countermeasures creates new and unfamiliar problems that disrupt
+the original job scopes of many telework employees working in
+diverse fields. For examples, public sector employees have to now
+deal with pressing issues such as health care provision, abrupt and
+rapidly rising unemployment, and trade disruptions due to restrained international mobility (Evans, 2020). Educators have to
+conduct classes virtually (Lim-Lange, 2020). Hospitality staff need
+to devise creative ways to maintain revenue while observing social
+distancing guidelines and travel bans (Djeebet, 2020).
+Integrating past research on organizational constraints (Pindek
+& Spector, 2016) and goal disruption (Zohar, 1999) into the
+current situation, we define the abovementioned task-related disruptions and inhibitions arising from the COVID-19 situation as
+C19 task setbacks. They encompass constraints or disruptive
+events broadly related to the COVID-19 situation, such as but not
+limited to lockdown regulations, social-distancing rules, trade or
+travel disruptions, COVID-19’s impact on business operations,
+preparation for business reopening after the lockdown, or any
+issues that originated from the COVID-19 situation and did not
+exist prior to the pandemic. These C19 task setbacks are distinct
+from conventional organizational constraints like faulty equipment
+or poor communication that are directly embedded in employees’
+immediate work situation (Pindek & Spector, 2016) because they
+are linked to the dynamic macroenvironment beyond employees’
+organization. The unpredictability C19 task setbacks interfere with
+employees’ focus, divert their attention from their typical day-today job scope, and require effortful responses. We therefore contend that these unforeseen, unique C19 task setbacks could have
+undesirable effects on the daily psychological and behavioral
+outcomes of telework employees.
+Drawing on Hobfoll’s (1989) conservation of resources (COR)
+theory, we develop a multilevel, moderated-mediation model to
+argue that daily C19 task setbacks are positively related to endof-day emotional exhaustion and subsequently next-day work
+withdrawal behaviors in telework employees. We also predict that
+the link between daily C19 task setbacks and exhaustion would be
+more positive in telework employees with higher (vs. lower) task
+interdependence with their coworkers, but organizations can alleviate the relationship between end-of-day exhaustion and next-day
+work withdrawal by providing employees with higher (vs. lower)
+telework task support.
+Our research aims to make several contributions. First, we take
+a theoretically driven approach to generate timely knowledge for
+understanding how the COVID-19 pandemic affects employees.
+Being a deadly pandemic, COVID-19 is an “exogenous sanitary
+shock” to the economy (Strauss-Kahn, 2020). It is accompanied by
+an onslaught of economic, societal, and mortality concerns that are
+matchless by both past financial crises (Tooze, 2020) and former
+day-to-day task disruptions or organizational constraints that employees were used to (Newton, 2020). Our examination of how
+
+1409
+
+daily C19 task setbacks are linked to employees’ daily exhaustion
+and withdrawal behaviors is therefore critical to assess the extent
+of damage generated by the pandemic and the readiness of employees and organizations to tackle it.
+Second, the COVID-19 pandemic unearths an unstudied domain
+within the telework literature. Many organizations had little choice
+but to hastily transition to mandatory, full-time telework to counter
+the spread of COVID-19. This mandatory form of full-time telework is unlike the erstwhile flexible, partial telework that existing
+research had studied and that employees were used to. In fact, the
+COVID-19 situation has removed a large degree of flexibility or
+volition that telework used to offer workers. It is thus essential to
+investigate how this current form of telework holds up during the
+pandemic and for whom it is more or less suitable. By examining
+task interdependence as our hypothesized first-stage moderator, we
+take a step in identifying a group of employees who may find it
+more difficult working at decentralized locations as their coworkers during a trying period like this.
+Finally, examining organizational task support for telework as a
+second-stage moderator identifies a contextual factor that may
+mitigate the negative effect of C19 task setbacks. This offers
+insights into how organizations can assuage the toll that daily C19
+task setbacks take on their employees who are now compelled to
+work from home.
+
+COR Theory and Model Development
+The COR theory offers a framework for understanding employee stress from the perspective of why and how employees lose
+resources, protect existing resources, and gain new resources
+(Hobfoll, 1989). Resources in this context refer to “anything
+perceived by the individual to help attain his or her goals” (p. 5)
+and can include energies and emotions (Halbesleben, Neveu,
+Paustian-Underdahl, & Westman, 2014). Fluctuation of resources
+is one of the theory’s key elements, and Halbesleben et al. (2014)
+recommended researchers to adopt an episodic, experiencesampling approach to examine resource trajectories within the
+limits of a timeframe when testing COR. We regard the episodic
+approach highly suitable for this research because COVID-19 is an
+ongoing pandemic that unfolds bit by bit, and organizations revise
+their advisories and practices by the day to deal with the frequent
+turns of events (Ellis, 2020; Lyons, 2020). Telework employees
+may therefore receive new and sometimes contradictory work
+instructions on different days that disrupt how they originally
+perform their work duties (U.S. Centers for Disease Control and
+Prevention, 2020). These task-related disruptions and complications brought specifically about by the pandemic are daily C19
+task setbacks. Considering Halbesleben et al.’s (2014) advice
+alongside the volatile nature of the pandemic, we focus on examining the within-person relationships between daily C19 task setbacks and next-day work withdrawal behavior via end-of-day
+exhaustion.
+Halbesleben et al. (2014) also highlighted the importance of
+context in understanding within-person resource fluctuations based
+on the COR theory. They explained that the context, such as job
+nature, organizational climate, and organizational support, acts as
+boundaries that potentially signal to an individual how resourcedraining a trigger is or how valuable resources are. Incorporating
+this premise into our model, we identify task interdependence as a
+
+1410
+
+CHONG, HUANG, AND CHANG
+
+first-stage moderator that exacerbates the relation of daily C19 task
+setbacks with end-of-day exhaustion and organizational telework
+task support as a second-stage moderator that alleviates the relation of end-of-day exhaustion with next-day work withdrawal in
+telework employees. Our model is summarized in Figure 1.
+
+This document is copyrighted by the American Psychological Association or one of its allied publishers.
+This article is intended solely for the personal use of the individual user and is not to be disseminated broadly.
+
+Daily C19 Task Setbacks and End-of-Day
+Emotional Exhaustion
+The COR theory argues that a resource loss can be caused by a
+“shock to one’s cognitive processing that forces the individual to
+carefully evaluate this new information” (Halbesleben et al., 2014,
+p. 18). The COVID-19 crisis has generated additional and unpredictable work demands for many occupations in different industries. Policy and operational changes enacted jointly by public and
+private agencies to counter the pandemic permeate from the ecological environment into the organizational environment. We regard these daily C19 task setbacks as work-related stressors that
+function in a similar manner as organizational constraints (Pindek
+& Spector, 2016) and goal-disruptive events (Zohar, 1999) to
+trigger a resource loss process characterized by end-of-day emotional exhaustion.
+These C19 task setbacks require employees to appraise unforeseen problems, unlearn their existing automatic task scripts
+promptly, develop novel solutions, learn new ways of operations,
+and adapt to updated rules and advisories, all of which are complex
+cognitive activities that deplete resources rapidly (Muraven &
+Baumeister, 2000; Schmeichel, Vohs, & Baumeister, 2003). C19
+task setbacks also reinforce the salience of this pandemic’s threats,
+which may evoke stress and worry about mortality and job security
+(Tan, 2020). Hence, employees must exert regulatory resources to
+manage negative thoughts and emotions to continue focusing on
+their tasks, which further drain their resources (Johns, Inzlicht, &
+Schmader, 2008). We therefore argue that daily C19 task setbacks
+can rapidly drain the resources of telework employees and reduce
+them to emotional exhaustion by the end of the day (Maslach &
+Jackson, 1981).
+Hypothesis 1 (H1): Daily C19 task setbacks are positively
+related to end-of-day emotional exhaustion.
+
+Task Interdependence as First-Stage Moderator
+The COR theory asserts the importance of considering the
+extraindividual context that can serve as a “fertile or infertile
+ground” (p. 107) to steep the within-person resource fluctuation
+process (Hobfoll, Halbesleben, Neveu, & Westman, 2018). We
+contend that telework employees who have higher (vs. lower) task
+interdependence with their coworkers will experience greater endof-day exhaustion from daily C19 task setbacks. Employees with
+higher task interdependence rely on and interact frequently with
+their coworkers to coordinate efforts toward achieving common
+work goals (Morgeson & Humphrey, 2006). They have shared
+habitual mental models of how to perform work tasks interdependently (Burke, Stagl, Salas, Pierce, & Kendall, 2006). Therefore,
+when daily C19 task setbacks hit employees with higher task
+interdependence, the setbacks will likely implicate an entire cluster
+of interdependent employees. This deviation from shared work
+routines brought about by daily C19 task setbacks will require not
+only a teleworker’s direct investment of resources into appraising
+the situation and developing action plans but also resources into
+communicating, coordinating, and synchronizing efforts with coworkers in order to resolve the issues at hand collectively (Shepperd, 1993) while working at different locations. As highlighted by
+Burke et al. (2006), team-level situational assessment, plan formulation, execution, and learning consume a considerable amount of
+individual and shared resources. Considering employees’ unfamiliarity with the COVID-19 crisis, it is more likely for interdependent employees to have to expend greater resources into tackling
+daily C19 task setbacks, thus draining their resources more rapidly
+and leading to greater exhaustion by the end of the day.
+Hypothesis 2 (H2): The relationship between daily C19 task
+setbacks and end-of-day exhaustion is more positive in telework employees who have higher (vs. lower) task interdependence with their coworkers.
+
+End-of-Day Emotional Exhaustion and Next-Day
+Work Withdrawal Behavior
+One of the COR principles states that when people exhaust their
+resources, they focus on preserving themselves from a further loss
+
+Figure 1. Results of hypothesized moderated-mediation model. Coefficients are unstandardized. The figure
+only shows hypothesized paths. The full path model includes main effects of task interdependence on emotional
+exhaustion, task support on next-day withdrawal, control variables of prior-day sleep quality and Friday on
+emotional exhaustion, and current-day work withdrawal and Friday on next-day withdrawal. These nonhypothesized paths are omitted from the figure for parsimony; please refer to Table 5, Model 4 for the full estimated
+model. ⴱ p ⬍ .05. ⴱⴱ p ⬍ .01.
+
+This document is copyrighted by the American Psychological Association or one of its allied publishers.
+This article is intended solely for the personal use of the individual user and is not to be disseminated broadly.
+
+DAILY COVID-19 TASK SETBACKS AND WORK WITHDRAWAL
+
+of resources (Hobfoll et al., 2018). This suggests a positive relationship between end-of-day exhaustion and next-day work withdrawal behavior. Withdrawal is a counterproductive work behavior
+that characterizes an employee’s bid to avoid their work in order to
+escape from job stressors (Spector et al., 2006). It entails restricting the amount of time and effort spent on work, such as absence,
+late arrival or early departure, and taking undeserved breaks (Spector et al., 2006). As telework employees are not constantly visible
+to their supervisor and coworkers, there is comparatively less
+deterrence for them to engage in work withdrawal behavior. Telework employees can usually decide their preferred time to begin or
+end work with less immediate social sanction from coworkers, and
+they can engage in personal activities during their work hours.
+Under these telework conditions, we expect the experience of
+exhaustion from C19 task setbacks the previous day to activate the
+resource preservation mode and prompt work withdrawal the next
+day in telework employees. Doing so offers them a temporary
+respite from C19 task setbacks for preventing further loss of
+resource (Chong, Kim, Lee, Johnson, & Lin, 2020; Kiazad, Seibert, & Kraimer, 2014). Relatedly, past research showed that withdrawal is an emotion-based coping strategy for exhausted employees who have little control over their job stressors (Krischer,
+Penney, & Hunter, 2010). This is analogous to the lack of control
+that employees have over the COVID-19 situation. Finally, withdrawal from work also buys employees time for their resource pool
+to replenish (Trougakos & Hideg, 2009). Thus, we hypothesize the
+following:
+Hypothesis 3 (H3): End-of-day emotional exhaustion is positively related to next-day work withdrawal behavior.
+
+Organizational Telework Task Support as SecondStage Moderator
+For the final part of our model, we refer back to the COR for
+potential ways to mitigate the above hypothesized dysfunctional selfpreservation behavior (withdrawal) in response to depleted resources
+(exhaustion). The COR emphasizes that “ecological conditions [such
+as social and environmental conditions can] foster and nurture or limit
+and block resource creation and sustenance” (p. 107) after individuals
+experience resource loss (Hobfoll et al., 2018). The COVID-19 crisis
+compelled the majority of employees to switch to full-time telework
+relatively abruptly without much option to prepare for this work
+arrangement (Agade, 2020; Liang, 2020; Lomas, 2020). Thus, we
+propose the importance of organizational telework task support as an
+environmental factor that expands employees’ capacity and resource
+pool for mitigating the relationship between end-of-day exhaustion
+and next-day withdrawal behavior. Adapting the definition of perceived organizational support (Eisenberger, Stinglhamber, Vandenberghe, Sucharski, & Rhoades, 2002), we define organizational telework task support as employees’ belief in how much the organization
+is making an effort to provide them with necessary telework-related
+resources while they are working from home, such as information
+technology (IT) support, timely information, relevant work materials,
+and decision-making authority.
+Social cues presented by an organization can shape employees’
+responses toward resource loss (Halbesleben et al., 2014). Based on
+the crossover mechanism in COR, when employees perceive their
+organizations’ efforts to help them work well from home, they will
+
+1411
+
+recognize that they can draw from this organizational support (i.e., an
+external resource pool) to replenish their own resources after experiencing exhaustion from C19 task setbacks the previous day. The
+telework task support offered by the organization also serves to
+enhance employees’ perceived control over their environment,
+thereby regenerating their coping efficacy (Richardson, Yang, Vandenberg, DeJoy, & Wilson, 2008). On the other hand, if an organization is indifferent about offering telework task support, it may
+further convince exhausted employees that they are isolated and
+unable to rely on organizational resources to replenish their own
+resources in their endeavor to overcome the job stressors (Richardson
+et al., 2008). This crippling feeling will likely strengthen the positive
+relationship between end-of-day exhaustion and next-day withdrawal
+behavior.
+Hypothesis 4 (H4): The relationship between end-of-day emotional exhaustion and next-day work withdrawal behavior is
+more positive in employees who perceive lower (vs. higher)
+organizational support for telework.
+We integrate the prior hypotheses into a two-stage moderated
+mediation model to address why daily C19 task setbacks are related to
+next-day work withdrawal behavior (i.e., via end-of-day exhaustion),
+for whom the relationship will be more readily observed (i.e., for
+telework employees who have higher task interdependence with coworkers), and finally how to mitigate this relationship (i.e., by providing higher organizational telework task support). This specific
+positioning of task interdependence as a first-stage moderator and
+organizational telework task support as a second-stage moderator is
+based on two key principles of COR. First, the resource loss process
+possesses greater momentum than that of preventing resource loss
+(Hobfoll et al., 2018). This suggests that in the face of an external
+shock (i.e., daily C19 task setbacks), the moderating effect of a factor
+that exacerbates resource loss (i.e., higher task interdependence) will
+be more salient and observable than the moderating effect of a factor
+that prevents resource loss (i.e., higher organizational telework task
+support). Thus, we expect task interdependence to function as a
+first-stage moderator.
+Second, the COR theory (Hobfoll et al., 2018) asserts that individuals will actively seek to prevent further loss and to regain resources
+by drawing from internal or external resource pools typically after
+they have experienced the loss (i.e., emotional exhaustion in our case).
+This means that individuals experiencing emotional exhaustion will
+try turning their attention away from stressors that deplete them (i.e.,
+daily C19 task setbacks and task interdependence) and direct their
+focus on potential means of redress (i.e., organizational telework task
+support) in order to set their resource reclamation process in motion.
+Some past research offers preliminary evidence for our arguments.
+They demonstrated resource pool or capacity (i.e., job control or trait
+emotional control) as a significant second-stage moderator mitigating
+the relations between resource loss (e.g., depletion or negative emotions) and work behavioral outcomes (Lanaj, Johnson, & Barnes,
+2014; Tong, Chong, & Johnson, 2019), instead of a first-stage moderator buffering the effects of stressors on resource loss.
+Hypothesis 5 (H5): The indirect positive relationship between
+daily C19 task setbacks and next-day work withdrawal behaviors via end-of-day emotional exhaustion is the most positive
+in employees with higher (vs. lower) task interdependence and
+lower (vs. higher) organizational telework support.
+
+CHONG, HUANG, AND CHANG
+
+1412
+Method
+
+This document is copyrighted by the American Psychological Association or one of its allied publishers.
+This article is intended solely for the personal use of the individual user and is not to be disseminated broadly.
+
+Contextual Background, Procedure, and Participants
+The data for this article were part of a broader data collection effort.
+The procedure was reviewed and approved by the Nanyang Technological University Institutional Review Board (IRB-2019 – 090-037–
+01; Title: Work Experience of Individuals). We collected the data in
+Singapore during its 8-week nationwide lockdown that began on
+April 7, 2020, during which it was mandatory for all employees to
+telework where possible. This resulted in 85% of the workforce
+working from home (Tay, 2020). Only individuals employed in essential services such as health care, cleaning, and food preparation
+were permitted to report physically to their workplaces. The surveys
+were administered between the fifth and seventh weeks of the lockdown. By this time, employees would have acclimatized to the telework arrangement, thus allowing us to avoid any initial honeymoonhangover effect (Boswell, Boudreau, & Tichy, 2005) associated with
+the novelty of mandatory telework.
+Participants were recruited via snowball sampling. The first
+author posted a recruitment advertisement on her social media
+profile and disseminated the advertisement directly to 20 personal
+and professional contacts working in diverse occupations for
+snowball sharing. The advertisement indicated that this was a
+research on work attitudes and behaviors without disclosing the
+exact research topic. It stated that participants would receive S$65
+for completing a baseline survey and 10 daily surveys. Interested
+individuals accessed a survey link to answer eligibility questions,
+which included age (at least 18 years old), residence (Singapore),
+and employment status (employed and teleworking full-time). Out
+of the 228 individuals who responded to the eligibility survey
+
+within 2 days, 204 met all eligibility criteria and were invited to
+complete the baseline survey, and 128 completed the baseline
+survey by the stipulated deadline. In the following week, we
+emailed and texted a survey link to participants at 8 p.m. for 10
+workdays. They had to complete the survey before 3 a.m. the next
+day. Participants submitted the survey at 9:05 p.m. on average. Out
+of the participants who completed the baseline survey, 127 completed at least one daily survey, and we received 1,197 daily
+responses in total (response rate of 93.5%). As the outcome variable was work withdrawal behavior on the next workday (i.e., a
+lagged variable), participants who completed only one daily survey
+(n ⫽ 7) were dropped. The predictor and mediator data collected
+on days that had missing consecutive next-day responses due to
+participants skipping a survey (n ⫽ 48) and on Day 10 (i.e., there
+was no Day 11 withdrawal behavior data after the final Day 10
+survey; n ⫽ 120) were also excluded. This resulted in a final
+sample of 1,022 daily responses (Level 1 n) from 120 participants
+(Level 2 n).
+Participants were 65.8% females and 97.5% ethnic Chinese, and
+they had a mean age of 32.3 (SD ⫽ 5.0). On average, their
+organizational tenure was 4.4 years (SD ⫽ 4.1) and weekly work
+hours were 40.6 (SD ⫽ 16.3). They came from diverse industries,
+for example, civil service (20.0%), specialized fields of law or
+research (15.8%), financial sector (15.0%), and education (7.5%).
+
+Measures
+Focal variables. Details of our focal variable measures are
+presented in Table 1. All adapted or self-developed items for any
+measures are reported in the Appendix.
+
+Table 1
+Measures of Focal Variables
+Variable name and source of measure
+Baseline survey
+General task interdependence
+(Pearce & Gregersen, 1991)
+Perceived organizational telework
+task support
+Adapted existing supportive
+behavior scale (Trougakos,
+Beal, Cheng, Hideg, & Zweig,
+2015) to COVID-19 telework
+context
+Demographics
+Daily survey
+Daily C19 task setbacks
+Adapted disruptive work events
+scale (Zohar, Tzischinski, &
+Epstein, 2003) to COVID-19
+situation
+End-of-day emotional exhaustion
+(Maslach & Jackson, 1981;
+Teuchmann, Totterdell, &
+Parker, 1999)
+Daily work withdrawal behavior
+Adapted work withdrawal
+behavior scale (Spector et al.,
+2006) to telework context
+
+Number of items and response scale
+
+Sample item
+
+Five items; 1 ⫽ not at all; 5 ⫽ a
+great deal
+Three items; 1 ⫽ strongly disagree;
+5 ⫽ strongly agree
+
+“In my job in general, I frequently must coordinate my efforts
+with other coworkers.”
+“During this COVID-19 work-from-home period, my company
+goes out of its way to provide me with task support
+(e.g., IT support, decision-making authority, etc.).”
+[Complete list of the items shown in the Appendix.]
+
+Age, gender, race, industry, organizational tenure, general
+weekly work hours
+Three items; 1 ⫽ not at all; 5 ⫽ a
+great deal
+
+“Today, I had to divert time or effort from my typical, original
+work duties to handle issues or reasons related to the
+COVID-19 situation.” [Complete list of the items
+shown in the Appendix.]
+
+Two items; 1 ⫽ not at all; 5 ⫽ a
+great deal
+
+“I feel burned out at the moment.”
+
+Four items; 1 ⫽ not at all; 5 ⫽ a
+great deal
+
+“I worked less hours than allowed today.” [Complete list of
+the items shown in the Appendix.]
+
+DAILY COVID-19 TASK SETBACKS AND WORK WITHDRAWAL
+
+1413
+
+Table 2
+Means, Standard Deviations, and Correlations of Study Variables
+
+This document is copyrighted by the American Psychological Association or one of its allied publishers.
+This article is intended solely for the personal use of the individual user and is not to be disseminated broadly.
+
+Variable
+
+M
+
+Within-person
+1. Current-day C19 task setbacks
+2. Current end-of-day emotional exhaustion
+3. Next-day withdrawal behavior
+4. Previous day sleep quality
+5. Current-day withdrawal behavior
+Between-person
+1. Current-day C19 task setbacks
+2. Current end-of-day emotional exhaustion
+3. Next-day withdrawal behavior
+4. Previous day sleep quality
+5. Current-day withdrawal behavior
+6. Task interdependence
+7. Organizational telework task support
+8. Gender
+9. Age
+10. Organizational tenure
+11. General work hours per week
+
+SD
+
+1
+
+2
+
+3
+
+4
+
+5
+
+1.78
+2.17
+1.37
+3.22
+1.38
+
+.61
+.72
+.41
+.71
+.40
+
+(.87)
+.20ⴱⴱ
+.00
+⫺.05
+⫺.01
+
+(.88)
+.08ⴱ
+⫺.16ⴱⴱ
+⫺.00
+
+(.61)
+.03
+.02
+
+—
+⫺.03
+
+(.61)
+
+1.78
+2.17
+1.37
+3.22
+1.38
+3.81
+3.64
+.33
+32.33
+4.42
+40.64
+
+.80
+1.03
+.40
+.63
+.39
+.73
+.93
+.47
+4.96
+4.05
+16.33
+
+(.97)
+.35ⴱⴱ
+.31ⴱⴱ
+⫺.20ⴱ
+.28ⴱⴱ
+⫺.09
+⫺.13
+.08
+.07
+.13
+⫺.07
+
+(.99)
+.17
+⫺.36ⴱⴱ
+.18ⴱ
+.13
+⫺.08
+.09
+⫺.04
+⫺.08
+.14
+
+(.78)
+⫺.15
+1.00ⴱⴱ
+⫺.18ⴱ
+⫺.01
+⫺.05
+⫺.07
+⫺.06
+⫺.04
+
+—
+⫺.15
+.16
+.09
+.12
+⫺.06
+⫺.03
+⫺.08
+
+(.78)
+⫺.18ⴱ
+.03
+⫺.03
+⫺.11
+⫺.08
+⫺.04
+
+6
+
+7
+
+8
+
+9
+
+10
+
+(.87)
+.08
+.14
+.02
+⫺.06
+.21
+
+(.89)
+.02
+⫺.11
+.06
+⫺.01
+
+—
+.11
+⫺.07
+.13
+
+—
+.47ⴱⴱ
+.01
+
+—
+.00
+
+Note. Level 1, n ⫽ 1,022; Level 2, n ⫽ 120. Correlations with gender (1 ⫽ male; 0 ⫽ female) are based on n ⫽ 117 as 3 people chose not to report their
+gender. Parentheses on the diagonals indicate the within-person and between-person Cronbach’s alphas of the scales. These multilevel alphas were
+calculated by [(the squared number of indicators present at a given level of analysis ⫻ the average interitem covariance at the same level)/the sum of all
+elements in the full covariance matrix at the same level] (Geldhof, Preacher, & Zyphur, 2014).
+ⴱ
+p ⬍ .05. ⴱⴱ p ⬍ .01.
+
+Control variables. We controlled for prior day sleep quality
+(i.e., “How well did you sleep last night?” 1 ⫽ very poorly; 5 ⫽
+very well) when predicting end-of-day exhaustion as sleep quality
+affects exhaustion (Söderström, Jeding, Ekstedt, Perski, & Åkerstedt, 2012). We also controlled for current-day work withdrawal
+behavior when predicting next-day work withdrawal behavior to
+account for autoregression. Finally, we controlled for Friday (1 ⫽
+Friday; 0 ⫽ other days) when predicting exhaustion and withdrawal behavior to account for any “Thank-God-it’s-Friday” effects (Stone, Schneider, & Harter, 2012).
+
+Results
+Table 2 presents the correlations of the variables, and Table 3
+presents the variances and intraclass correlation ICC(1) values.
+Within-person variances ranged from 33.13% to 54.55%, justifying
+the use of experience sampling. We conducted a multilevel confirmatory factor analysis to assess the measurement model. Daily C19
+task setbacks, exhaustion, and work withdrawal were estimated on
+both the within-person and between-person levels, and general task
+interdependence and organizational telework support were estimated
+on the between-person level.1 The factor structure had fit indices of
+␹2(131) ⫽ 225.489, comparative fix index (CFI) ⫽ .98, root mean
+square error of approximation (RMSEA) ⫽ .03, standardized root
+mean square residual (SRMR)Within ⫽ .02, and SRMRBetween ⫽ .09.
+All alternative models, in which items from two factors were loaded
+onto a single factor, had a poorer fit to the data (218.96 ⱕ ⌬␹2(4 ⬍
+⌬df ⬍ 6) ⱕ 1,171.94, p ⬍ .01), thus supporting our five focal
+variables as distinct.
+To test our hypotheses, we ran a multilevel moderatedmediation model in MPlus v8 (Muthén & Muthén, 2012) using
+observed variables. The use of observed over latent variables was
+guided by precedence (Lanaj et al., 2014; Uy, Lin, & Ilies, 2017)
+
+and more importantly informed by scholars who have raised concerns about the interpretability of estimating cross-level interactions using latent variables (Hayes, Montoya, & Rockwood, 2017;
+Maslowsky, Jager, & Hemken, 2015). We created a lagged variable to match next-workday withdrawal behavior to current-day
+C19 task setback (predictor) and exhaustion (mediator) for analyses. Exogenous between-person variables were grand-meancentered and exogenous within-person variables were groupmean-centered (Aguinis, Gottfredson, & Culpepper, 2013). To
+examine slope variability (Bliese, 2016; Snijders & Bosker, 2012),
+we compared the ⫺2 loglikelihood of a model with and a model
+without random slopes between daily C19 task setbacks, end-ofday exhaustion, and next-day withdrawal (refer to Table 4). The
+difference of 67.78 indicated significant between-person slope
+variability, p ⫽ .00, and justified the use random slopes for the a
+path (i.e., predictor-mediator) and b path (i.e., mediator-outcome).
+Paths involving control variables were modeled as fixed slopes
+(Wang, Liao, Zhan, & Shi, 2011).
+The results from the full hypothesized moderated-mediation
+model are summarized in Figure 1 and Table 5 (Model 4). Daily
+C19 task setbacks were positively related to end-of-day exhaustion
+(␥ ⫽ .18, SE ⫽ 06, p ⫽ .00), thus supporting H1. This relationship
+was significantly moderated by task interdependence (␥ ⫽ .17,
+1
+Following guidelines from past scale development research for detecting common error variance (Avolio, Bass, & Jung, 1999; Miller, Jenkins,
+Kaplan, & Salonen, 1995), we allowed two items of the withdrawal
+scale—“I took a longer break from work than allowed today” and “I
+worked less hours than formally allowed today”—with a high modification
+index (⬎200) to covary within the factor, without any change to the factor
+structure. Before covarying them, the fit indices of the factor structure
+were ␹2(133) ⫽ 628.19, CFI ⫽ .90, RMSEA ⫽ .06, SRMRWithin ⫽ .08,
+SRMRBetween ⫽ .12.
+
+CHONG, HUANG, AND CHANG
+
+1414
+
+Table 3
+Variance Components of Within-Person Variables
+Within-person variance (r2) Between-person variance (u2) ICC(1)
+
+Variable
+Current-day C19 task setbacks
+Current end-of-day emotional exhaustion
+Next-day withdrawal behavior
+
+.38
+.53
+.18
+
+.64
+1.07
+.15
+
+.63
+.67
+.45
+
+This document is copyrighted by the American Psychological Association or one of its allied publishers.
+This article is intended solely for the personal use of the individual user and is not to be disseminated broadly.
+
+Note. Level 1, n ⫽ 1,022; Level 2, n ⫽ 120. ICC(1) values represent the proportion of variance that can be
+explained by the between-person level, which was computed using the equation [between-person variance/
+(within-person variance ⫹ between-person variance)]. ICC(1) ⫽ intraclass correlation(1).
+
+SE ⫽ .07, p ⫽ .02), such that it was more positive for employees
+who had higher (vs. lower) task interdependence with their coworkers, thus supporting H2. Figure 2 illustrates the simple slopes
+(Preacher, Curran, & Bauer, 2006). End-of-day exhaustion was not
+significantly related to next-workday withdrawal behavior (␥ ⫽
+.02, SE ⫽ .02, p ⫽ .33), thus not supporting H3. Nevertheless, the
+second-stage moderation was significant and supported H4
+(␥ ⫽ ⫺.05, SE ⫽ .02, p ⫽ .03). The simple slopes (see Figure 3)
+showed that the relationship between end-of-day exhaustion and
+next-day withdrawal behavior was positive and significant for
+employees who perceived lower organizational telework task support, and it was not significant for employees who perceived
+higher organizational task support for telework. To evaluate effect
+sizes, we calculated R2 values. There are several R2 approaches for
+multilevel research. Lang, Bliese, and Runge (2019) recommended
+using a generalized R2 statistic for estimating simple multilevel
+models, while Rights and Sterba (2019a, 2019b) encouraged the
+decomposition of R2 values into their respective levels for complex
+models. Given that our model is relatively complex with a twostage, cross-level moderated mediation, we reported the multilevel
+
+R2 values suggested by Rights and Sterba (2019a, 2019b) to
+understand how our predictors at the two levels contribute to the
+explained variances of dependent variables (see Table 6).
+We calculated conditional indirect effects using a Monte Carlo
+simulation with 10,000 replications to construct confidence intervals around the estimates (Bauer, Preacher, & Gil, 2006). As
+shown in Table 7, the indirect relationship between daily C19 task
+setbacks and next-day withdrawal behavior via end-of-day exhaustion was most positive and significant for employees whose task
+interdependence was higher (vs. lower) and whose perceived organizational telework task support was lower (vs. higher), where
+its 95% CIs [.001, .042] did not include zero. Adopting the
+subgroup approach by Edwards and Lambert (2007), we tested the
+significance of the moderated mediation by comparing the indirect
+effects between two subgroups in which the two moderators had
+opposing values (i.e., higher interdependence and lower support
+group vs. lower interdependence and higher support group). The
+difference was significant with 95% CIs [.002, .043], thus supporting H5.
+
+Table 4
+Comparison Between Using Fixed Versus Random Slopes Between X, M, and Y
+Model with fixed slopes for X ¡ M,
+M ¡ Y, and X ¡ Y
+Variable
+Predicting end-of-day emotional exhaustion
+Daily C19 task setbacks
+Predicting next-day work withdrawal behavior
+Daily C19 task setbacks
+End-of-day emotional exhaustion
+Within-person residual variance
+End-of-day emotional exhaustion
+Next-day work withdrawal behavior
+Between-person residual variance
+End-of-day emotional exhaustion
+Next-day work withdrawal behavior
+Random slope (X ¡ M)
+Random slope (M ¡ Y)
+Random slope (X ¡ Y)
+AIC
+BIC
+Loglikelihood value
+
+Model with random slopes for X ¡ M,
+M ¡ Y, and X ¡ Y
+
+b
+
+SE
+
+t
+
+p
+
+b
+
+SE
+
+t
+
+p
+
+.23
+
+.04
+
+5.99ⴱⴱ
+
+.00
+
+.18
+
+.06
+
+3.09ⴱⴱ
+
+.00
+
+⫺.01
+.05
+
+.02
+.02
+
+⫺.37
+2.41ⴱⴱ
+
+.71
+.02
+
+⫺.03
+.04
+
+.02
+.02
+
+⫺1.07
+1.74†
+
+.29
+.08
+
+.51
+.17
+
+.02
+.01
+
+21.24
+21.24
+
+.00
+.00
+
+.46
+.16
+
+.02
+.01
+
+20.35
+19.76
+
+.00
+.00
+
+1.07
+.15
+—
+—
+—
+
+.15
+.02
+—
+—
+—
+
+7.35
+6.79
+—
+—
+—
+3,936.44
+3,980.80
+⫺1,959.22
+
+.00
+.00
+—
+—
+—
+
+1.07
+.08
+.11
+.01
+.00
+
+.15
+.02
+.04
+.00
+.01
+
+7.38
+4.04
+2.85
+3.48
+.29
+3,876.66
+3,940.75
+⫺1,925.33
+
+.00
+.00
+.00
+.00
+.77
+
+Note. X (daily C19 task setbacks), M (end-of-day emotional exhaustion), and Y (next-day work withdrawal behavior). To examine slope variability
+(Bliese, 2016; Snijders & Bosker, 2012), we compared the ⫺2 loglikelihood of the two models above (i.e., ⌬␹2 ⫽ (⫺2 ⫻ ⫺1,959.22) ⫺
+(⫺2 ⫻ ⫺1,925.33) ⫽ 67.78, p ⫽ .00). The above models were estimated to compare fixed and random slopes between X, M, and Y. They do not
+contain Level 1 control variables or Level 2 variables. Thus, the path coefficients and variance estimates reported here are different from Models
+2a and 2b presented in Table 5. AIC ⫽ Akaike information criterion; BIC ⫽ Bayesian information criterion.
+†
+p ⬍ .10. ⴱⴱ p ⬍ .01.
+
+DAILY COVID-19 TASK SETBACKS AND WORK WITHDRAWAL
+
+1415
+
+Table 5
+Coefficients From Path Models
+Model 1: With control variables
+added as fixed slopes
+
+Model 0: Null model
+
+This document is copyrighted by the American Psychological Association or one of its allied publishers.
+This article is intended solely for the personal use of the individual user and is not to be disseminated broadly.
+
+Variable
+Predicting end-of-day emotional exhaustion
+Daily C19 task setbacks
+General task interdependence
+Daily C19 Task Setbacks ⫻ General Task
+Interdependence
+Previous-day sleep quality (control)
+Friday (control)
+Predicting next-day work withdrawal
+Daily C19 task setbacks
+End-of-day emotional exhaustion
+Organizational telework task support
+End-of-Day Emotional Exhaustion ⫻ Organizational
+Telework Task Support
+Previous-day work withdrawal (control)
+Friday (control)
+Within-person residual variance
+End-of-day emotional exhaustion
+Next-day work withdrawal
+Between-person residual variance
+End-of-day emotional exhaustion
+Next-day work withdrawal
+Random slope (X ¡ M)
+Random slope (M ¡ Y)
+Random slope (X ¡ Y)
+Model fit
+AIC
+BIC
+Loglikelihood value
+
+Variable
+Predicting end-of-day emotional exhaustion
+Daily C19 task setbacks
+General task interdependence
+Daily C19 Task Setbacks ⫻ General Task
+Interdependence
+Previous-day sleep quality (control)
+Friday (control)
+Predicting next-day work withdrawal
+Daily C19 task setbacks
+End-of-day emotional exhaustion
+Organizational telework task support
+End-of-Day Emotional Exhaustion ⫻ Organizational
+Telework Task Support
+Previous-day work withdrawal (control)
+Friday (control)
+Within-person residual variance
+End-of-day emotional exhaustion
+Next-day work withdrawal
+Between-person residual variance
+End-of-day emotional exhaustion
+Next-day work withdrawal
+Random slope (X ¡ M)
+
+b
+
+SE
+
+t
+
+p
+
+b
+
+SE
+
+t
+
+p
+
+—
+—
+
+—
+—
+
+—
+—
+
+—
+—
+
+—
+—
+
+—
+—
+
+—
+—
+
+—
+—
+
+—
+—
+—
+—
+—
+—
+—
+
+—
+—
+—
+—
+—
+—
+—
+
+—
+—
+—
+—
+—
+—
+—
+
+—
+—
+—
+—
+—
+—
+—
+
+—
+⫺.17
+⫺.09
+—
+—
+—
+—
+
+—
+.03
+.05
+—
+—
+—
+—
+
+—
+⫺4.99ⴱⴱ
+⫺1.63
+—
+—
+—
+—
+
+—
+.00
+.10
+—
+—
+—
+—
+
+—
+—
+—
+
+—
+—
+—
+
+—
+—
+—
+
+—
+—
+—
+
+—
+⫺.04
+⫺.04
+
+—
+.03
+.03
+
+—
+⫺1.10
+⫺1.15
+
+—
+.27
+.25
+
+.53
+.18
+
+.03
+.01
+
+21.24ⴱⴱ
+21.34ⴱⴱ
+
+.00
+.00
+
+.51
+.17
+
+.02
+.01
+
+21.24ⴱⴱ
+21.23ⴱⴱ
+
+.00
+.00
+
+1.07
+.15
+—
+—
+—
+
+.15
+.02
+—
+—
+—
+
+7.33ⴱⴱ
+6.79ⴱⴱ
+—
+—
+—
+
+.00
+.00
+—
+—
+—
+
+1.07
+.15
+—
+—
+—
+
+.15
+.02
+—
+—
+—
+
+7.34ⴱⴱ
+6.79ⴱⴱ
+—
+—
+—
+
+.00
+.00
+—
+—
+—
+
+10,514.30
+10,603.03
+⫺5,239.15
+
+6,317.48
+6,401.28
+⫺3,141.74
+
+Model 2a: Fixed slopes mediation
+model without moderators
+
+Model 2b: Random slopes mediation
+model without moderators
+
+b
+
+SE
+
+.22
+—
+
+.04
+—
+
+—
+⫺.15
+⫺.08
+—
+⫺.01
+.05
+—
+
+t
+
+p
+
+b
+
+SE
+
+t
+
+p
+
+5.75ⴱⴱ
+—
+
+.00
+—
+
+.17
+—
+
+.06
+—
+
+2.92ⴱⴱ
+—
+
+.00
+—
+
+—
+.03
+.05
+—
+.02
+.02
+—
+
+—
+⫺4.68ⴱⴱ
+⫺1.43
+—
+⫺.41
+2.35ⴱ
+—
+
+—
+.00
+.15
+—
+.68
+.02
+—
+
+—
+⫺.16
+⫺.07
+—
+⫺.03
+.04
+—
+
+—
+.03
+.05
+—
+.02
+.02
+—
+
+—
+⫺4.90ⴱⴱ
+⫺1.34
+—
+⫺1.09
+1.71†
+—
+
+—
+.00
+.18
+—
+.28
+.09
+—
+
+—
+⫺.04
+⫺.03
+
+—
+.03
+.03
+
+—
+⫺1.11
+⫺1.02
+
+—
+.27
+.31
+
+—
+⫺.04
+⫺.03
+
+—
+.03
+.03
+
+—
+⫺1.20
+⫺.93
+
+—
+.23
+.35
+
+.49
+.17
+
+.02
+.01
+
+21.24ⴱⴱ
+21.24ⴱⴱ
+
+.00
+.00
+
+.45
+.16
+
+.02
+.01
+
+1.07
+.15
+—
+
+.15
+.02
+—
+
+7.35ⴱⴱ
+6.79ⴱⴱ
+—
+
+.00
+.00
+—
+
+1.08
+.08
+.11
+
+.15
+.02
+.04
+
+20.35ⴱⴱ
+19.67ⴱⴱ
+
+.00
+.00
+
+7.39ⴱⴱ
+.00
+3.99ⴱⴱ
+.00
+2.90ⴱⴱ
+.00
+(table continues)
+
+CHONG, HUANG, AND CHANG
+
+1416
+Table 5 (continued)
+
+Model 2a: Fixed slopes mediation
+model without moderators
+Variable
+
+This document is copyrighted by the American Psychological Association or one of its allied publishers.
+This article is intended solely for the personal use of the individual user and is not to be disseminated broadly.
+
+Random slope (M ¡ Y)
+Random slope (X ¡ Y)
+Model fit
+AIC
+BIC
+Loglikelihood value
+
+b
+—
+—
+
+Variable
+Predicting end-of-day emotional exhaustion
+Daily C19 task setbacks
+General task interdependence
+Daily C19 Task Setbacks ⫻ General Task
+Interdependence
+Previous-day sleep quality (control)
+Friday (control)
+Predicting next-day work withdrawal
+Daily C19 task setbacks
+End-of-day emotional exhaustion
+Organizational telework task support
+End-of-Day Emotional Exhaustion ⫻ Organizational
+Telework Task Support
+Previous-day work withdrawal (control)
+Friday (control)
+Within-person residual variance
+End-of-day emotional exhaustion
+Next-day work withdrawal
+Between-person residual variance
+End-of-day emotional exhaustion
+Next-day work withdrawal
+Random slope (X ¡ M)
+Random slope (M ¡ Y)
+Random slope (X ¡ Y)
+Model fit
+AIC
+BIC
+Loglikelihood value
+
+SE
+—
+—
+
+t
+—
+—
+
+Model 2b: Random slopes mediation
+model without moderators
+p
+—
+—
+
+b
+.01
+.00
+
+SE
+.00
+.01
+
+t
+3.48
+.37
+
+p
+ⴱⴱ
+
+4,512.51
+4,596.31
+⫺2,239.25
+
+4,450.93
+4,554.45
+⫺2,204.47
+
+Model 3: Random slopes model with
+Level 2 task interdependence and
+telework task support added as main
+effects without moderating effects yet
+
+Model 4: Full hypothesized
+random slopes model with
+cross-level moderations
+
+b
+
+SE
+
+t
+
+p
+
+.17
+.24
+
+.06
+.14
+
+2.93ⴱⴱ
+1.71†
+
+—
+⫺.16
+⫺.07
+
+—
+.03
+.05
+
+⫺.02
+.03
+.05
+
+.00
+.71
+
+b
+
+SE
+
+t
+
+p
+
+.00
+.09
+
+.18
+.24
+
+.06
+.14
+
+3.26ⴱⴱ
+1.72†
+
+.00
+.09
+
+—
+⫺4.90ⴱⴱ
+⫺1.34
+
+—
+.00
+.18
+
+.17
+⫺.15
+⫺.07
+
+.07
+.03
+.05
+
+2.28ⴱ
+⫺4.80ⴱⴱ
+⫺1.37
+
+.02
+.00
+.17
+
+.02
+.02
+.04
+
+⫺.99
+1.16
+1.25
+
+.32
+.25
+.21
+
+⫺.02
+.02
+.11
+
+.02
+.02
+.05
+
+⫺.97
+.98
+2.36ⴱ
+
+.33
+.33
+.02
+
+—
+⫺.04
+⫺.03
+
+—
+.03
+.03
+
+—
+⫺1.19
+⫺.94
+
+—
+.23
+.35
+
+⫺.05
+⫺.04
+⫺.03
+
+.02
+.03
+.03
+
+⫺2.18ⴱ
+⫺1.06
+⫺.92
+
+.03
+.29
+.36
+
+.45
+.16
+
+.02
+.01
+
+20.36ⴱⴱ
+19.71ⴱⴱ
+
+.00
+.00
+
+.45
+.16
+
+.02
+.01
+
+20.34ⴱⴱ
+19.81ⴱⴱ
+
+.00
+.00
+
+1.06
+.08
+.12
+.01
+.00
+
+.14
+.02
+.04
+.00
+.01
+
+7.38ⴱⴱ
+3.97ⴱⴱ
+2.92ⴱⴱ
+3.55ⴱⴱ
+.36
+
+.00
+.00
+.00
+.00
+.72
+
+1.06
+.08
+.10
+.01
+.00
+
+.14
+.02
+.04
+.00
+.01
+
+7.37ⴱⴱ
+4.05ⴱⴱ
+2.67ⴱⴱ
+3.33ⴱⴱ
+.37
+
+.00
+.00
+.01
+.00
+.71
+
+4,452.25
+4,570.55
+⫺2,202.12
+
+4,446.43
+4,574.60
+⫺2,197.21
+
+Note. Level 1, n ⫽ 1,022; Level 2, n ⫽ 120. Friday (1 ⫽ Friday, 0 ⫽ other weekdays). X (daily C19 task setbacks), M (end-of-day emotional exhaustion),
+and Y (next-day work withdrawal behavior). AIC ⫽ Akaike information criterion; BIC ⫽ Bayesian information criterion. The Mplus output of Model 4
+is provided in the online supplemental materials of this article.
+†
+p ⬍ .10. ⴱ p ⬍ .05. ⴱⴱ p ⬍ .01.
+
+Finally, we conducted supplemental analyses and estimated two
+models (see Table 8) in which we switched the stages of the two
+moderators (Model 5) or included both moderators at both stages
+(Model 6). Both models supported general task interdependence as
+a significant first-stage but not second-stage moderator and organizational telework support as a significant second-stage but not
+first-stage moderator.
+
+Discussion
+Theoretical and Practical Implications
+Our findings have several theoretical and practical implications, and we discuss them jointly. First, amid the upheaval set
+
+off by the COVID-19 crisis, our research was a timely attempt
+that examined the work-related psychological implications of
+the new telework norm brought about by the pandemic. Prior
+research has associated telework with beneficial outcomes for
+employees and organizations (Allen et al., 2015; Gajendran &
+Harrison, 2007). Our research, on the other hand, was based on
+a unique form of telework that was rather abruptly imposed on
+employees as a mandatory precautionary measure in light of the
+pandemic instead of a flexi-work option. The results uncovered
+potential difficulties and detriments that employees, especially
+those with higher task interdependence, may face as they tackle
+unforeseen and unfamiliar daily task setbacks (i.e., C19 task
+setbacks) while being confined to working from home, physically distantly from their coworkers. Thus, we have identified a
+
+DAILY COVID-19 TASK SETBACKS AND WORK WITHDRAWAL
+
+1417
+
+forces and taking multipronged approaches to fight the pandemic during this period. Our research therefore highlighted
+additional sources of constraints worthy of examination by
+organizational researchers.
+
+This document is copyrighted by the American Psychological Association or one of its allied publishers.
+This article is intended solely for the personal use of the individual user and is not to be disseminated broadly.
+
+Limitations, Future Directions, and Conclusion
+
+Figure 2. Simple slopes between daily C19 task setbacks and end-of-day
+emotional exhaustion at different levels of task interdependence.
+
+specific group of employees (i.e., those with higher interdependence) who are deserving of greater attention and support when
+transitioning to telework.
+Second, we shed light on a new aspect of telework, that is, the
+use of telework as a crisis response. Our results highlighted the
+need for further research to understand how to assist organizations and employees to transition smoothly and promptly to
+telework without compromising on their well-being and performance. This is especially relevant both during and after the
+pandemic because some organizations have expressed an intent
+to implement permanent telework for their employees after the
+pandemic (Heater, 2020; Rooney, 2020). As the circumstances
+surrounding large-scale telework may be different (i.e., hasty
+switch during pandemic vs. planned effort at a later time), we
+recommend future research to tease out nuances in the construct
+of telework, such as voluntary versus mandatory telework,
+planned versus unplanned implementation, partial versus fulltime telework, and independent versus interdependent tasks, in
+order to gain greater insights into how to best execute and
+facilitate telework.
+Third, our results extended past COR findings by showing
+that exhausted employees could also draw from external resources (i.e., organizational telework task support) for replenishment. This should encourage further research on cross-level
+and cross-domain mechanisms of resource exchange (Hobfoll et
+al., 2018), as these might generate findings to help organizations develop effective interventions for sustaining engaged and
+resilient employees. Practically, our findings highlighted the
+need for organizations to provide telework task support for
+exhausted telework employees who face unanticipated daily
+C19 task setbacks, especially those whose jobs require higher
+interdependence.
+In addition, we opened a potential avenue for future research
+on organizational constraints. Conventional organizational constraints (Pindek & Spector, 2016) largely refer to situational
+obstacles within the organization that inhibit employees from
+performing optimally, such as machine malfunctions or poor
+information flow (Spector & Jex, 1998). C19 task setbacks, in
+contrast, are broader and arise from more complex and dynamic
+origins that could be intraorganizational, extraorganizational, or
+both, as various internal and external stakeholders may join
+
+We acknowledge several limitations in our research. First, although our sample of participants from diverse occupations and
+industries allowed us to achieve variance in general task interdependence and organizational telework task support for testing our
+hypotheses, we recognize that this could also be a limitation
+because we did not specifically measure or control for the readiness of companies or industries in shifting to telework. Participants
+from telework-ready companies may feel more equipped to tackle
+daily C19 task setbacks while they work from home. This can lead
+to a restricted range of task setbacks as they work from home.
+Future research can consider studying industrial or organizational
+characteristics to generate practical insights for specific industries
+or organizations.
+Second, we assessed organizational telework task support based
+on employee perceptions. This allowed us to establish the importance of perceived organizational telework task support for helping
+employees overcome daily exhaustion, but it did not shed light on
+the exact content of effective organizational telework support
+strategies. Future research can endeavor to develop a checklist of
+telework task support strategies (Andriessen, 2007) and conduct a
+field experiment (Eden, 2017) to test their effectiveness.
+Third, we could not include all conceivable resource-related
+variables linked to the pandemic and telework into our model. For
+instance, telework success may be determined in part by the
+resources that employees have at home, such as Internet connectivity and decent workspace (Allen et al., 2015). Employees from
+more affluent backgrounds tend to have greater access to these
+resources (Desilver, 2020), and thus future research could seek to
+identify vulnerable employees or include socioeconomic background as a control variable.
+Finally, we acknowledge that our model is a complex one that
+included eight variables, a mediating chain, and two cross-level moderations. Saylors and Trafimow (2020) warned that complex models
+
+Figure 3. Simple slopes between end-of-day emotional exhaustion and
+next-day withdrawal behavior at different levels of organizational telework
+task support.
+
+CHONG, HUANG, AND CHANG
+
+1418
+
+Table 6
+Multilevel R2 Measures Based on Within-Person and Between-Person Variances Explained
+
+This document is copyrighted by the American Psychological Association or one of its allied publishers.
+This article is intended solely for the personal use of the individual user and is not to be disseminated broadly.
+
+Variable
+Model 0: Null model
+Model 1: Daily controls (previous-day sleep
+quality and Friday) added as Level 1 fixed
+slopes
+Model 2a: Daily C19 task setbacks added as
+Level 1 fixed slope
+Model 2b: Daily C19 task setbacks added as
+Level 1 random slope
+Model 3: General task interdependence added
+as Level 2 main effect
+Model 4: Random slope (X ¡ M) regressed
+on Level 2 general task interdependence for
+cross-level moderation
+
+Model 0: Null model
+Model 1: Daily controls (previous-day
+withdrawal and Friday) added as Level 1
+fixed slopes
+Model 2a: End-of-day exhaustion added as
+Level 1 fixed slope
+Model 2b: End-of-day exhaustion added as
+Level 1 random slope
+Model 3: Organizational telework task support
+added as Level 2 main effect
+Model 4: Random slope (M ¡ Y) regressed
+on Level 2 organizational telework task
+support for cross-level moderation
+
+Within-person residual
+variance in M
+
+Between-person residual
+variance in M
+
+Between-person residual variance
+in random slope between X
+and M
+
+.525
+
+1.067
+
+—
+
+.509; Rw2(f1) ⫽ 3.05%
+
+1.067
+
+—
+
+⫽ 6.48%
+
+1.069
+
+—
+
+1.076
+
+.114
+
+.491;
+
+Rw2(f1)
+
+.450; Rw2(v) ⫽ 14.29%
+1.060;
+
+R2(f2)
+b
+
+⫽ 1.49%
+
+.450
+
+1.060
+
+.099; R2(m)
+⫽ 13.16%
+b
+
+Within-person residual
+variance in Y
+
+Between-person residual
+variance in Y
+
+Between-person residual variance
+in random slope between M
+and Y
+
+.175
+
+.151
+
+—
+
+.174; Rw2(f1) ⫽ .57%
+
+.151
+
+—
+
+.173; Rw2(f1) ⫽ 1.14%
+
+.151
+
+—
+
+.164; Rw2(v) ⫽ 6.29%
+
+.080
+
+.012
+
+.079; R2(f2)
+⫽ 1.25%
+b
+.163
+
+.082
+
+.011; R2(m)
+⫽ 8.33%
+b
+
+Note. X (daily C19 task setbacks), M (end-of-day emotional exhaustion), and Y (next-day work withdrawal behavior). Model numbers correspond with
+the models presented in Table 5. Rw2(f1) represents within-person variance explained by Level 1 predictor added as fixed slope; Rw2(v) represents within-person
+variance explained by Level 1 predictor added as random slope; R2(f2)
+represents between-person variance explained by main effect of Level 2 moderator;
+b
+R2(m)
+represents random slope variance explained by estimating cross-level moderation (Rights & Sterba, 2019a, 2019b). The R2 values were calculated
+b
+using [(baseline residual variance ⫺ model residual variance)/baseline residual variance]. Rw2(f1) and Rw2(f1) used Model 0 as the baseline, while R2(f2)
+and R2(m)
+b
+b
+used Model 2b, in which random slopes were first estimated, as the baseline.
+
+have a lower likelihood of being true because it is more difficult for
+the large number of correlations in its matrix to possess the right
+causal status. It will therefore be beneficial to unpack our model in
+future and test each relationship individually using lab or field experiments where possible to establish causality.
+
+In conclusion, we demonstrated that daily C19 task setbacks are
+positively related to next-day work withdrawal behavior via endof-day emotional exhaustion, especially for telework employees
+who have higher task interdependence with coworkers and perceive lower organizational telework task support. This investiga-
+
+Table 7
+Conditional Indirect Effects at Different Levels of Task Interdependence and Organizational Telework Task Support
+First-stage moderator
+(general task
+interdependence)
+
+Second-stage moderator
+(organizational telework
+task support)
+
+Conditional
+indirect
+effect
+
+95% CIs of the
+conditional indirect
+effect
+
+95% CIs of the difference
+between conditional
+indirect effectsa
+
+Lower (⫺1 SD)
+
+Lower (⫺1 SD)
+Higher (⫹1 SD)
+Lower (⫺1 SD)
+Higher (⫹1 SD)
+
+.004
+⫺.001
+.021
+⫺.006
+
+[⫺.006, .015]
+[⫺.006, .004]
+[.001, .042]
+[⫺.026, .013]
+
+[⫺.003, .035]
+[.002, .043]
+Comparison baseline
+[⫺.001, .054]
+
+Higher (⫹1 SD)
+
+Note. Indirect effect refers to the relationship of daily C19 task setbacks with next-day withdrawal via end-of-day emotional exhaustion. A Monte Carlo
+simulation with 10,000 replications was used to compute the 95% CIs around the estimates. CIs that do not contain zero are significant (bolded in table).
+a
+Using the subgroup approach (Edwards & Lambert, 2007), indirect effects at higher (⫹1 SD) and lower (⫺1 SD) values of the moderators were compared
+to the hypothesized strongest indirect effect at higher task interdependence and lower organizational telework task support.
+
+DAILY COVID-19 TASK SETBACKS AND WORK WITHDRAWAL
+
+1419
+
+Table 8
+Models From Supplemental Analyses
+Model 5: Switched organizational
+telework task support to firststage moderator and general task
+interdependence to second-stage
+moderator
+
+This document is copyrighted by the American Psychological Association or one of its allied publishers.
+This article is intended solely for the personal use of the individual user and is not to be disseminated broadly.
+
+Variable
+Predicting end-of-day emotional exhaustion
+Daily C19 task setbacks
+General task interdependence
+Organizational telework task support
+Daily C19 Task Setbacks ⫻ General Task Interdependence
+Daily C19 Task Setbacks ⫻ Organizational Telework Task Support
+Previous-day sleep quality (control)
+Friday (control)
+Predicting next-day work withdrawal behavior
+Daily C19 task setbacks
+End-of-day emotional exhaustion
+General task interdependence
+Organizational telework task support
+End-of-Day Emotional Exhaustion ⫻ General Task Interdependence
+End-of-Day Emotional Exhaustion ⫻ Organizational Telework Task Support
+Previous-day work withdrawal (control)
+Friday (control)
+Within-person residual variance
+End-of-day emotional exhaustion
+Next-day work withdrawal
+Between-person residual variance
+End-of-day emotional exhaustion
+Next-day work withdrawal
+Random slope (X ¡ M)
+Random slope (M ¡ Y)
+Random slope (X ¡ Y)
+Model fit
+AIC
+BIC
+Loglikelihood value
+
+Model 6: With task
+interdependence and
+organizational telework task
+support as concurrent
+moderators at both stages
+
+b
+
+SE
+
+t
+
+p
+
+b
+
+SE
+
+.16
+—
+⫺.10
+—
+⫺.06
+⫺.16
+⫺.07
+
+.06
+—
+.11
+—
+.06
+.03
+.05
+
+2.84ⴱⴱ
+—
+⫺.99
+—
+⫺1.01
+⫺4.88ⴱⴱ
+⫺1.36
+
+.00
+—
+.32
+—
+.32
+.00
+.17
+
+.18
+.19
+⫺.10
+.16
+⫺.07
+⫺.15
+⫺.07
+
+.06
+.13
+.10
+.07
+.06
+.03
+.05
+
+3.12ⴱⴱ
+1.45
+⫺.93
+2.17ⴱ
+⫺1.20
+⫺4.79ⴱⴱ
+⫺1.39
+
+.00
+.15
+.35
+.03
+.23
+.00
+.16
+
+⫺.03
+.03
+⫺.17
+—
+.02
+—
+⫺.04
+⫺.03
+
+.02
+.02
+.06
+—
+.03
+—
+.03
+.03
+
+⫺1.13
+1.28
+⫺2.64ⴱⴱ
+—
+.76
+—
+⫺1.18
+⫺.95
+
+.26
+.20
+.00
+—
+.45
+—
+.24
+.34
+
+⫺.03
+.03
+⫺.17
+.12
+.03
+⫺.05
+⫺.03
+⫺.03
+
+.02
+.02
+.06
+.05
+.03
+.02
+.03
+.03
+
+⫺1.15
+1.07
+⫺2.72ⴱⴱ
+2.58ⴱ
+1.06
+⫺2.37ⴱ
+⫺1.02
+⫺.92
+
+.25
+.29
+.01
+.10
+.29
+.02
+.31
+.36
+
+.45
+.16
+
+.02
+.01
+
+20.37
+19.69
+
+.00
+.00
+
+.45
+.16
+
+.02
+.01
+
+20.37
+19.80
+
+.00
+.00
+
+1.07
+.07
+.12
+.01
+.00
+
+.15
+.02
+.04
+.00
+.01
+
+7.38
+3.78
+2.96
+3.60
+.27
+
+.00
+.00
+.00
+.00
+.79
+
+1.05
+.07
+.10
+.01
+.00
+
+.14
+.02
+.04
+.00
+.01
+
+7.38
+3.79
+2.74
+3.42
+.30
+
+.00
+.00
+.01
+.00
+.77
+
+4,449.68
+4,577.85
+⫺2,198.84
+
+t
+
+p
+
+4,443.51
+4,591.39
+⫺2,191.75
+
+Note. Level 1, n ⫽ 1,022; Level 2, n ⫽ 120. Friday (1 ⫽ Friday, 0 ⫽ other weekdays). X (daily C19 task setbacks), M (end-of-day emotional exhaustion),
+and Y (next-day work withdrawal behavior) In Model 5, the order of our hypothesized moderators was switched. In Model 6, both task interdependence
+and organizational teleworks support were modeled as concurrent moderators at both stages (i.e., two moderators at both stages). AIC ⫽ Akaike information
+criterion; BIC ⫽ Bayesian information criterion.
+ⴱ
+p ⬍ .05. ⴱⴱ p ⬍ .01.
+
+tion highlights the importance of supporting telework employees
+during this trying period.
+
+References
+Agade, H. (2020). Coronavirus: Experiences of people working from
+home. CGTN Africa. Retrieved from https://africa.cgtn.com/2020/03/26/
+coronavirus-experiences-of-people-working-from-home/
+Aguinis, H., Gottfredson, R. K., & Culpepper, S. A. (2013). Best-practice
+recommendations for estimating cross-level interaction effects using
+multilevel modeling. Journal of Management, 39, 1490 –1528. http://dx
+.doi.org/10.1177/0149206313478188
+Allen, T. D., Golden, T. D., & Shockley, K. M. (2015). How effective is
+telecommuting? Assessing the status of our scientific findings. Psychological Science in the Public Interest, 16, 40 – 68. http://dx.doi.org/10
+.1177/1529100615593273
+Andriessen, D. (2007). Designing and testing an OD intervention:
+Reporting intellectual capital to develop organizations. Journal of
+Applied Behavioral Science, 43, 89 –107. http://dx.doi.org/10.1177/
+0021886306297010
+
+Avolio, B. J., Bass, B. M., & Jung, D. I. (1999). Re-examining the
+components of transformational and transactional leadership using the
+Multifactor Leadership. Journal of Occupational and Organizational
+Psychology, 72, 441– 462. http://dx.doi.org/10.1348/096317999166789
+Bauer, D. J., Preacher, K. J., & Gil, K. M. (2006). Conceptualizing and
+testing random indirect effects and moderated mediation in multilevel
+models: New procedures and recommendations. Psychological Methods,
+11, 142–163. http://dx.doi.org/10.1037/1082-989X.11.2.142
+Bliese, P. D. (2016). Multilevel modeling in R (2.6): A brief introduction to
+R, the multilevel package and the nlme package. Retrieved from https://
+cran.r-project.org/doc/contrib/Bliese_Multilevel.pdf
+Boswell, W. R., Boudreau, J. W., & Tichy, J. (2005). The relationship
+between employee job change and job satisfaction: The honeymoonhandover effect. Journal of Applied Psychology, 90, 882– 892. http://dx
+.doi.org/10.1037/0021-9010.90.5.882
+Burke, C. S., Stagl, K. C., Salas, E., Pierce, L., & Kendall, D. (2006).
+Understanding team adaptation: A conceptual analysis and model. Journal of Applied Psychology, 91, 1189 –1207. http://dx.doi.org/10.1037/
+0021-9010.91.6.1189
+
+This document is copyrighted by the American Psychological Association or one of its allied publishers.
+This article is intended solely for the personal use of the individual user and is not to be disseminated broadly.
+
+1420
+
+CHONG, HUANG, AND CHANG
+
+Chong, S., Kim, Y. J., Lee, H. W., Johnson, R. E., & Lin, S.-H. J. (2020).
+Mind your own break! The interactive effect of workday respite activities and mindfulness on employee outcomes via affective linkages.
+Organizational Behavior and Human Decision Processes, 159, 64 –77.
+http://dx.doi.org/10.1016/j.obhdp.2019.11.001
+Desilver, D. (2020). Before the coronavirus, telework was an optional
+benefit, mostly for the affluent few. Retrieved from https://www
+.pewresearch.org/fact-tank/2020/03/20/before-the-coronavirustelework-was-an-optional-benefit-mostly-for-the-affluent-few/
+Djeebet, H. (2020). What is the impact of COVID-19 on the global
+hospitality industry? Retrieved from https://www.hospitalitynet.org/
+opinion/4098062.html
+Eden, D. (2017). Field experiments in organizations. Annual Review of
+Organizational Psychology and Organizational Behavior, 4, 91–122.
+http://dx.doi.org/10.1146/annurev-orgpsych-041015-062400
+Edwards, J. R., & Lambert, L. S. (2007). Methods for integrating moderation and mediation: A general analytical framework using moderated
+path analysis. Psychological Methods, 12, 1–22. http://dx.doi.org/10
+.1037/1082-989X.12.1.1
+Eisenberger, R., Stinglhamber, F., Vandenberghe, C., Sucharski, I. L., & Rhoades,
+L. (2002). Perceived supervisor support: Contributions to perceived organizational support and employee retention. Journal of Applied Psychology, 87,
+565–573. http://dx.doi.org/10.1037/0021-9010.87.3.565
+Ellis, R. (2020). WHO changes stance, says public should wear masks.
+Retrieved from https://www.webmd.com/lung/news/20200608/whochanges-stance-says-public-should-wear-masks
+Evans, J. (2020). European governments scramble to find farm workers for
+harvest. Financial Times. Retrieved from https://www.ft.com/content/
+601a4dd9-b996-4c49-bc22-8f49bfd06ea0
+Gajendran, R. S., & Harrison, D. A. (2007). The good, the bad, and the
+unknown about telecommuting: Meta-analysis of psychological mediators and individual consequences. Journal of Applied Psychology, 92,
+1524 –1541. http://dx.doi.org/10.1037/0021-9010.92.6.1524
+Gallup. (2020). COVID-19: A leader’s guide to developing a work-from-home
+strategy. Retrieved from https://www.gallup.com/workplace/310988/covid19-working-from-home-guide.aspx
+Geldhof, G. J., Preacher, K. J., & Zyphur, M. J. (2014). Reliability
+estimation in a multilevel confirmatory factor analysis framework. Psychological Methods, 19, 72–91. http://dx.doi.org/10.1037/a0032138
+Guyot, K., & Sawhill, I. V. (2020). Telecommuting will likely continue long after
+the pandemic. Retrieved from https://www.brookings.edu/blog/up-front/2020/
+04/06/telecommuting-will-likely-continue-long-after-the-pandemic/
+Halbesleben, J. R., Neveu, J.-P., Paustian-Underdahl, S. C., & Westman,
+M. (2014). Getting to the “COR” understanding the role of resources in
+conservation of resources theory. Journal of Management, 40, 1334 –
+1364. http://dx.doi.org/10.1177/0149206314527130
+Hayes, A. F., Montoya, A. K., & Rockwood, N. J. (2017). The analysis of
+mechanisms and their contingencies: PROCESS versus structural equation modeling. Australasian Marketing Journal, 25, 76 – 81. http://dx.doi
+.org/10.1016/j.ausmj.2017.02.001
+Heater, B. (2020). Twitter says staff can continue working from home permanently. Tech Crunch. Retrieved from https://techcrunch.com/2020/05/12/
+twitter-says-staff-can-continue-working-from-home-permanently/
+Hobfoll, S. E. (1989). Conservation of resources: A new attempt at conceptualizing stress. American Psychologist, 44, 513–524. http://dx.doi
+.org/10.1037/0003-066X.44.3.513
+Hobfoll, S. E., Halbesleben, J., Neveu, J.-P., & Westman, M. (2018).
+Conservation of resources in the organizational context: The reality of
+resources and their consequences. Annual Review of Organizational
+Psychology and Organizational Behavior, 5, 103–128. http://dx.doi.org/
+10.1146/annurev-orgpsych-032117-104640
+Johns, M., Inzlicht, M., & Schmader, T. (2008). Stereotype threat and
+executive resource depletion: Examining the influence of emotion reg-
+
+ulation. Journal of Experimental Psychology: General, 137, 691–705.
+http://dx.doi.org/10.1037/a0013834
+Kiazad, K., Seibert, S. E., & Kraimer, M. L. (2014). Psychological contract
+breach and employee innovation: A conservation of resources perspective. Journal of Occupational and Organizational Psychology, 87, 535–
+556. http://dx.doi.org/10.1111/joop.12062
+Krischer, M. M., Penney, L. M., & Hunter, E. M. (2010). Can counterproductive work behaviors be productive? CWB as emotion-focused coping. Journal of Occupational Health Psychology, 15, 154 –166. http://
+dx.doi.org/10.1037/a0018349
+Lanaj, K., Johnson, R. E., & Barnes, C. M. (2014). Beginning the workday
+yet already depleted? Consequences of late-night smartphone use and
+sleep. Organizational Behavior and Human Decision Processes, 124,
+11–23. http://dx.doi.org/10.1016/j.obhdp.2014.01.001
+Lang, J. W., Bliese, P. D., & Runge, J. M. (2019). Detecting consensus
+emergence in organizational multilevel data: Power simulations. Organizational Research Methods. Advance online publication. http://dx.doi
+.org/10.1177/1094428119873950
+Liang, L.-H. (2020). How Covid-19 led to a nationwide work-from-home experiment. Retrieved from https://www.bbc.com/worklife/article/20200309coronavirus-covid-19-advice-chinas-work-at-home-experiment
+Lim-Lange, C. (2020). COVID-19’s education revolution—where going digital is just half the battle. Retrieved from https://www.channelnewsasia.com/
+news/commentary/covid-19-coronavirus-education-digital-revolutiontransformation-12650974
+Lomas, N. (2020). European Commission goes teleworking by default over
+COVID-19. Retrieved from https://techcrunch.com/2020/03/12/
+european-commission-goes-teleworking-by-default-over-covid-19/
+Lyons, K. (2020). AMC Theaters changes course and will require customers to wear face masks. Retrieved from https://www.theverge.com/2020/
+6/19/21296698/amc-theaters-ceo-masks-coronavirus-covid-19-adamaron-reopening
+Maslach, C., & Jackson, S. E. (1981). The measurement of experienced
+burnout. Journal of Organizational Behavior, 2, 99 –113. http://dx.doi
+.org/10.1002/job.4030020205
+Maslowsky, J., Jager, J., & Hemken, D. (2015). Estimating and interpreting
+latent variable interactions: A tutorial for applying the latent moderated
+structural equations method. International Journal of Behavioral Development, 39, 87–96. http://dx.doi.org/10.1177/0165025414552301
+Miller, T. Q., Jenkins, C. D., Kaplan, G. A., & Salonen, J. T. (1995). Are
+all hostility scales alike? Factor structure and covariation among measures of hostility. Journal of Applied Social Psychology, 25, 1142–1168.
+http://dx.doi.org/10.1111/j.1559-1816.1995.tb02611.x
+Morgeson, F. P., & Humphrey, S. E. (2006). The Work Design Questionnaire (WDQ): Developing and validating a comprehensive measure for
+assessing job design and the nature of work. Journal of Applied Psychology, 91, 1321–1339. http://dx.doi.org/10.1037/0021-9010.91.6.1321
+Muraven, M., & Baumeister, R. F. (2000). Self-regulation and depletion of
+limited resources: Does self-control resemble a muscle? Psychological
+Bulletin, 126, 247–259. http://dx.doi.org/10.1037/0033-2909.126.2.247
+Muthén, L. K., & Muthén, B. O. (2012). Mplus user’s guide (7th ed.). Los
+Angeles, CA: Author.
+Newton, C. (2020). Tech giants are getting creative to manage the
+COVID-19 crisis. Retrieved from https://www.theverge.com/interface/
+2020/3/17/21181691/google-verily-trump-website-trials-amazon-hiringcovid-19-response
+Pearce, J. L., & Gregersen, H. B. (1991). Task interdependence and
+extrarole behavior: A test of the mediating effects of felt responsibility.
+Journal of Applied Psychology, 76, 838 – 844. http://dx.doi.org/10.1037/
+0021-9010.76.6.838
+Pindek, S., & Spector, P. E. (2016). Organizational constraints: A metaanalysis of a major stressor. Work & Stress, 30, 7–25. http://dx.doi.org/
+10.1080/02678373.2015.1137376
+
+This document is copyrighted by the American Psychological Association or one of its allied publishers.
+This article is intended solely for the personal use of the individual user and is not to be disseminated broadly.
+
+DAILY COVID-19 TASK SETBACKS AND WORK WITHDRAWAL
+Preacher, K. J., Curran, P. J., & Bauer, D. J. (2006). Computational tools
+for probing interactions in multiple linear regression, multilevel modeling, and latent curve analysis. Journal of Educational and Behavioral
+Statistics, 31, 437– 448. http://dx.doi.org/10.3102/10769986031004437
+Richardson, H. A., Yang, J., Vandenberg, R. J., DeJoy, D. M., & Wilson,
+M. G. (2008). Perceived organizational support’s role in stressor-strain
+relationships. Journal of Managerial Psychology, 23, 789 – 810. http://
+dx.doi.org/10.1108/02683940810896349
+Rights, J. D., & Sterba, S. K. (2019a). New recommendations on the use of
+R-squared differences in multilevel model comparisons. Multivariate
+Behavioral Research. Advance online publication. http://dx.doi.org/10
+.1080/00273171.2019.1660605
+Rights, J. D., & Sterba, S. K. (2019b). Quantifying explained variance in
+multilevel models: An integrative framework for defining R-squared
+measures. Psychological Methods, 24, 309 –338. http://dx.doi.org/10
+.1037/met0000184
+Rooney, K. (2020). Square to allow employees to work from home permanently, following Twitter’s lead. Retrieved from https://www.cnbc
+.com/2020/05/18/square-lets-employees-work-from-home-permanently
+.html
+Saylors, R., & Trafimow, D. (2020). Why the increasing use of complex
+causal models is a problem: On the danger sophisticated theoretical
+narratives pose to truth. Organizational Research Methods. Advance
+online publication. http://dx.doi.org/10.1177/1094428119893452
+Schmeichel, B. J., Vohs, K. D., & Baumeister, R. F. (2003). Intellectual
+performance and ego depletion: Role of the self in logical reasoning and
+other information processing. Journal of Personality and Social Psychology, 85, 33– 46. http://dx.doi.org/10.1037/0022-3514.85.1.33
+Shepperd, J. A. (1993). Productivity loss in performance groups: A motivation analysis. Psychological Bulletin, 113, 67– 81. http://dx.doi.org/10
+.1037/0033-2909.113.1.67
+Shockley, K. M., & Allen, T. D. (2010). Investigating the missing link in
+flexible work arrangement utilization: An individual difference perspective. Journal of Vocational Behavior, 76, 131–142. http://dx.doi.org/10
+.1016/j.jvb.2009.07.002
+Snijders, T. A., & Bosker, R. J. (2012). Multilevel analysis: An introduction to basic and advanced multilevel modeling. Thousand Oaks, CA:
+Sage.
+Söderström, M., Jeding, K., Ekstedt, M., Perski, A., & Åkerstedt, T. (2012).
+Insufficient sleep predicts clinical burnout. Journal of Occupational Health
+Psychology, 17, 175–183. http://dx.doi.org/10.1037/a0027518
+Spector, P. E., Fox, S., Penney, L. M., Bruursema, K., Goh, A., & Kessler,
+S. (2006). The dimensionality of counterproductivity: Are all counterproductive behaviors created equal? Journal of Vocational Behavior, 68,
+446 – 460. http://dx.doi.org/10.1016/j.jvb.2005.10.005
+Spector, P. E., & Jex, S. M. (1998). Development of four self-report
+measures of job stressors and strain: Interpersonal conflict at work scale,
+organizational constraints scale, quantitative workload inventory, and
+physical symptoms inventory. Journal of Occupational Health Psychology, 3, 356 –367. http://dx.doi.org/10.1037/1076-8998.3.4.356
+Stone, A. A., Schneider, S., & Harter, J. K. (2012). Day-of-week mood
+patterns in the United States: On the existence of ‘Blue Monday’, ‘Thank
+God it’s Friday’ and weekend effects. Journal of Positive Psychology, 7,
+306 –314. http://dx.doi.org/10.1080/17439760.2012.691980
+Strauss-Kahn, M.-O. (2020). Can we compare the COVID-19 and 2008
+crises? Retrieved from https://www.atlanticcouncil.org/blogs/newatlanticist/can-we-compare-the-covid-19-and-2008-crises/
+Tan, T. (2020). Anxiety and worry amid Covid-19 uncertainty. The Straits
+Times. Retrieved from https://www.straitstimes.com/singapore/anxietyand-worry-amid-covid-19-uncertainty
+
+1421
+
+Tay, T. F. (2020). Coronavirus: Last digit of IC to determine entry to four
+markets; essential workforce to be cut to 15 per cent. The Straits Times.
+Retrieved from https://www.straitstimes.com/singapore/coronaviruslast-digit-of-identity-card-number-to-determine-entry-to-four-markets
+Teuchmann, K., Totterdell, P., & Parker, S. K. (1999). Rushed, unhappy,
+and drained: An experience sampling study of relations between time
+pressure, perceived control, mood, and emotional exhaustion in a group
+of accountants. Journal of Occupational Health Psychology, 4, 37–54.
+http://dx.doi.org/10.1037/1076-8998.4.1.37
+Tong, J., Chong, S., & Johnson, R. E. (2019). The indirect relations of
+workplace incivility with emotional exhaustion and supportive behaviors
+via self-blame: The moderating roles of observed incivility and trait
+emotional control. Journal of Organizational Behavior, 40, 931–946.
+http://dx.doi.org/10.1002/job.2399
+Tooze, A. (2020). Is the coronavirus crash worse than the 2008 financial
+crisis? Retrieved from https://foreignpolicy.com/2020/03/18/
+coronavirus-economic-crash-2008-financial-crisis-worse/
+Trougakos, J. P., Beal, D. J., Cheng, B. H., Hideg, I., & Zweig, D. (2015).
+Too drained to help: A resource depletion perspective on daily interpersonal citizenship behaviors. Journal of Applied Psychology, 100, 227–
+236. http://dx.doi.org/10.1037/a0038082
+Trougakos, J. P., & Hideg, I. (2009). Momentary work recovery: The role
+of within-day work breaks. In P. Perrewé, J. Halbesleben, & C. Rose
+(Eds.), Research in occupational stress and wellbeing (Vol. 7, pp.
+37– 84). Bingley, UK: Emerald Group Publishing Limited. http://dx.doi
+.org/10.1108/S1479-3555(2009)0000007005
+U.S. Bureau of Labor Statistics. (2019). Availability of flexible work
+schedule and student loan repayment benefits in the United States.
+Retrieved from https://www.bls.gov/ncs/ebs/factsheet/flexible-workschedule-and-student-loan-repayment.htm
+U.S. Centers for Disease Control and Prevention. (2020). COVID-19:
+Business and workplaces (Plan, prepare, and respond). Retrieved from
+https://www.cdc.gov/coronavirus/2019-ncov/community/organizations/
+businesses-employers.html
+Uy, M. A., Lin, K. J., & Ilies, R. (2017). Is it better to give or receive? The
+role of help in buffering the depleting effects of surface acting. Academy
+of Management Journal, 60, 1442–1461. http://dx.doi.org/10.5465/amj
+.2015.0611
+Wang, M., Liao, H., Zhan, Y., & Shi, J. (2011). Daily customer mistreatment and employee sabotage against customers: Examining emotion and
+resource perspectives. Academy of Management Journal, 54, 312–334.
+http://dx.doi.org/10.5465/amj.2011.60263093
+Williams, L. J., & Anderson, S. E. (1991). Job satisfaction and organizational commitment as predictors of organizational citizenship and in-role
+behaviors. Journal of Management, 17, 601– 617. http://dx.doi.org/10
+.1177/014920639101700305
+World Health Organization. (2020). Coronavirus disease (COVID-19)
+pandemic. Retrieved from https://www.who.int/emergencies/diseases/
+novel-coronavirus-2019
+Zohar, D. (1999). When things go wrong: The effect of daily work hassles
+on effort, exertion and negative mood. Journal of Occupational and
+Organizational Psychology, 72, 265–283. http://dx.doi.org/10.1348/
+096317999166671
+Zohar, D., Tzischinski, O., & Epstein, R. (2003). Effects of energy availability on immediate and delayed emotional reactions to work events.
+Journal of Applied Psychology, 88, 1082–1093. http://dx.doi.org/10
+.1037/0021-9010.88.6.1082
+
+(Appendix follows)
+
+CHONG, HUANG, AND CHANG
+
+1422
+
+Appendix
+Items of Adapted Scales
+Perceived Organizational Telework Task
+Support Items
+
+1.
+
+Today, something related to the COVID-19 situation
+disrupted me from my planned work goals.
+
+Adapted from Trougakos, Beal, Cheng, Hideg, and Zweig
+(2015) and Williams and Anderson (1991).
+
+2.
+
+Today, I had to divert time or effort from my typical,
+original work duties to handle issues or reasons related
+to the COVID-19 situation.
+
+3.
+
+Today, I encountered an unforeseen or new difficulty in
+carrying out my scheduled work plans due to issues or
+reasons related to the COVID-19 situation.
+
+This document is copyrighted by the American Psychological Association or one of its allied publishers.
+This article is intended solely for the personal use of the individual user and is not to be disseminated broadly.
+
+1.
+
+2.
+
+3.
+
+During this COVID-19 work-from-home period, my
+company goes out of its way to provide me with task
+support (e.g., IT support, decision-making authority,
+etc.).
+My company takes a personal interest in whether I have
+all the work tools and resources that I need to work well
+at home during this COVID-19 period.
+
+(1 ⫽ not at all; 5 ⫽ a great deal)
+
+My company makes it easy for me to retrieve task
+resources (e.g., information, materials, IT resources)
+while I work from home during this COVID-19 period.
+
+Adapted from Spector et al. (2006).
+
+(1 ⫽ strongly disagree; 5 ⫽ strongly agree)
+
+Daily Work Withdrawal Behavior Items
+
+1.
+
+I joined online/call meetings late without permission
+today.
+
+2.
+
+I skipped online/call meetings without legitimate reason
+today.
+
+3.
+
+I took a longer break from work than allowed today.
+
+4.
+
+I worked less hours than allowed today.
+
+Daily C19 Task Setbacks Items
+Adapted from Zohar (1999).
+Instructions: The “COVID-19 situation” in the statements
+should be viewed broadly. It can refer to COVID-19 itself or issues
+linked to or caused by COVID-19, such as the lockdown regulations, social distancing, COVID-19’s impact on business operations, the preparation for business reopening after the lockdown, or
+any issues that have arisen from the COVID-19 situation and did
+not exist before the pandemic.
+
+(1 ⫽ not at all; 5 ⫽ a great deal)
+Received July 14, 2020
+Revision received September 2, 2020
+Accepted September 4, 2020 䡲
+
+

@@ -1,0 +1,2525 @@
+Journal of Applied Psychology
+© 2020 American Psychological Association
+ISSN: 0021-9010
+
+2020, Vol. 105, No. 11, 1218 –1233
+http://dx.doi.org/10.1037/apl0000620
+
+This document is copyrighted by the American Psychological Association or one of its allied publishers.
+This article is intended solely for the personal use of the individual user and is not to be disseminated broadly.
+
+The Mind, the Heart, and the Leader in Times of Crisis: How and When
+COVID-19-Triggered Mortality Salience Relates to State Anxiety, Job
+Engagement, and Prosocial Behavior
+Jia Hu
+
+Wei He
+
+The Ohio State University
+
+Nanjing University
+
+Kong Zhou
+Huazhong University of Science and Technology
+Coronavirus disease 2019 (COVID-19) is a disruptive event devastating to the workplace and the global
+community. Drawing on terror management theory, we develop and test a model that explains how
+COVID-19-triggered mortality salience influences employees’ state anxiety and their responses at and
+outside work. We conducted an experience sampling method study using employees from an information
+technology firm in China when COVID-19 was surging there and two experiments using employees from
+a variety of industries in the United States when it became a new epicenter of the global outbreak. Results
+from 3 studies largely supported our theoretical hypotheses. Specifically, our research showed that
+mortality salience concerning COVID-19 was positively related to employees’ state anxiety (general
+anxiety in Study 1 and Study 2 and death-specific anxiety in Study 3). Our studies also found that servant
+leadership is particularly crucial in guiding employees with state anxiety associated with COVID-19
+mortality salience to be engaged in their jobs and to contribute more to the broader community. Our
+findings offer timely, valuable implications for theory and practice.
+Keywords: mortality salience, state anxiety, servant leadership, job engagement, prosocial behavior
+Supplemental materials: http://dx.doi.org/10.1037/apl0000620.supp
+
+Coronavirus disease 2019 (COVID-19), a contagious respiratory
+illness, is an ongoing, global health crisis, and the greatest challenge we have faced since World War II (United Nations, 2020).
+With the numbers of infections and deaths on the rise, this crisis
+has begun to take its toll on the economy, companies, and their
+employees. This global crisis endangers our lives and livelihoods,
+generating tremendous uncertainty and unpredictability. Millions
+of nonessential workers must work from home and experience
+
+increased isolation, loneliness, and anxiety, which can affect individual behaviors at and outside work.
+The profound impact of this crisis triggers several essential yet
+unanswered questions in organizational management research.
+First, as a global virus that has affected millions and killed hundreds of thousands, COVID-19 is terrifying. Terror management
+research has informed us that experiential reminders of mortality
+can invoke feelings of anxiety, harming well-being (Burke, Martens, & Faucher, 2010; Greenberg, Pyszczynski, & Solomon,
+1986). We then ask, as a mortality cue, how is COVID-19 affecting employees’ feelings and behaviors? Second, the COVID-19
+crisis has been emotionally stressful for individuals, with significant shifts in lives and livelihoods, and the next phases offer
+profound uncertainty. Scholars suggested that death exposure triggers feelings of anxiety, activates self-protective, withdrawal behaviors, and decreases job engagement (Grant & Wade-Benzoni,
+2009; Sliter, Sinclair, Yuan, & Mohr, 2014). However, other
+researchers argued that it encourages people to put life in perspective, overcome obstacles, and provide more help for others (Salzman, 2001; Yuan et al., 2019). So, the next question becomes,
+under what conditions does anxiety activated by COVID-19 mortality salience affect job engagement and prosocial behavior?
+Third, terror management research indicates that feeling valued
+can buffer the negative influences of anxiety associated with
+mortality salience (Greenberg et al., 1986). Employees do not face
+
+This article was published Online First October 8, 2020.
+X Jia Hu, Department of Management and Human Resources, Fisher
+College of Business, The Ohio State University; Wei He, Department of
+Human Resource Management, School of Business, Nanjing University;
+Kong Zhou, Department of Business Administration, School of Management, Huazhong University of Science and Technology.
+Wei He’s work on this article was supported in part by research grants
+from the National Natural Science Foundation of China (71921003;
+71772073). Kong Zhou’s work on this article was supported in part by a
+research grant from the National Natural Science Foundation of China
+(71832004). We thank Zhen Zhang for his suggestions in the data analysis
+and Kaifeng Jiang for his comments on earlier versions of the paper.
+Correspondence concerning this article should be addressed to Wei He,
+Department of Human Resource Management, School of Business, Nanjing University, 22 Hankou Road, Nanjing, China 210093. E-mail:
+whe@nju.edu.cn
+1218
+
+COVID-19 MORTALITY SALIENCE AND EMPLOYEE RESPONSES
+
+1219
+
+Servant
+Leadership
+
+Job
+Engagement
+State
+Anxiety
+
+COVID-19-Triggered
+Mortality Salience
+
+This document is copyrighted by the American Psychological Association or one of its allied publishers.
+This article is intended solely for the personal use of the individual user and is not to be disseminated broadly.
+
+Prosocial
+Behavior
+
+Figure 1. The theoretical model.
+
+challenges alone during the crisis. At the workplace, leaders play
+vital roles in reducing the potential costs of anxiety related to
+deaths in a crisis (Bligh, Kohles, & Meindl, 2004). COVID-19 has
+reeled the economy and sounded the alarm for a tough leadership
+test: What can leaders do to help employees navigate the anxiety
+and keep them engaged?
+In this research, we seek to provide insight into these issues by
+drawing on terror management theory (TMT) to develop a model (see
+Figure 1) to understand the influences of the current pandemic on
+employee job engagement and prosocial behavior. We test the overall
+relationships in three studies with different designs (a daily diary
+study and two experiments) and samples from two countries (China
+
+and the United States) when COVID-19 cases were surging there. The
+combination of the daily diary study and experiments from two
+countries supports both the external and internal validity of our
+hypotheses. We aim to make three contributions. First, our research
+uses COVID-19, a catastrophic event, as an empirical referent to
+directly test the core tenet of TMT (Greenberg et al., 1986) and
+applies the theory to the workplace, an area with relatively limited
+attention in this field (Grant & Wade-Benzoni, 2009; Jonas, Kauffeld,
+Sullivan, & Fritsche, 2011). Second, we identify anxiety as a critical
+psychological mechanism that explains the negative impact of mortality cues on job engagement (Sliter et al., 2014) and how mortality
+salience can simultaneously affect both workplace (i.e., job engage-
+
+Table 1
+Means, Standard Deviations, and Correlations Among Variables in Study 1
+Variable
+Within-person level
+1. Daily COVID-19 deaths
+2. Mortality salience
+3. State anxiety
+4. Job engagement
+5. Prosocial behavior
+6. New statistical method
+7. Affected family member
+8. Work mode
+9. Job engagement (P)
+10. Prosocial behavior (P)
+Between-person level
+11. Age
+12. Gender
+13. Education
+14. City 1
+15. City 2
+16. Perceived servant leadership
+
+ICC1
+
+M
+
+SDw
+
+SDB
+
+1
+
+84.1%
+61.8%
+69.7%
+74.1%
+75.6%
+—
+32.6%
+49.8%
+74.6%
+74.6%
+
+3.11
+2.78
+2.87
+4.64
+3.96
+.70
+.04
+.20
+4.63
+3.95
+
+18.11
+1.30
+1.42
+1.04
+1.44
+.46
+.20
+.40
+1.03
+1.42
+
+17.10
+1.06
+1.22
+.91
+1.27
+.05
+.13
+.30
+.92
+1.26
+
+—
+⫺.01 (.05)
+.00 (.06ⴱ)
+.00 (⫺.01)
+⫺.02 (⫺.08ⴱⴱ)
+.07ⴱ (.03)
+.07ⴱⴱ (.15ⴱⴱ)
+.00 (⫺.08ⴱⴱ)
+.02 (⫺.01)
+.03 (⫺.06ⴱ)
+
+—
+—
+—
+—
+—
+—
+
+28.15
+.54
+.86
+.03
+.91
+4.64
+
+—
+—
+—
+—
+—
+—
+
+4.97
+.50
+.35
+.18
+.29
+.81
+
+.08 (.09ⴱⴱ)
+⫺.13 (⫺.11ⴱⴱ)
+.08 (.07ⴱ)
+.99ⴱⴱ (.92ⴱⴱ)
+⫺.59ⴱⴱ (⫺.55ⴱⴱ)
+.06 (.06ⴱ)
+
+2
+
+3
+
+4
+
+.07
+(.90)
+.21ⴱⴱ (.59ⴱⴱ)
+.00 (⫺.02)
+⫺.05 (.21ⴱⴱ)
+⫺.01 (.00)
+.02 (.14ⴱⴱ)
+⫺.01 (⫺.07ⴱ)
+.03 (⫺.03)
+⫺.07 (.20ⴱⴱ)
+
+.07
+.76ⴱⴱ
+(.90)
+⫺.21ⴱⴱ (⫺.24ⴱⴱ)
+.01 (.06ⴱ)
+⫺.13ⴱⴱ (⫺.07ⴱⴱ)
+.04 (.16ⴱⴱ)
+⫺.06ⴱ (⫺.10ⴱⴱ)
+.00 (⫺.19ⴱⴱ)
+.02 (.05)
+
+⫺.01
+⫺.02
+⫺.24ⴱⴱ
+(.94)
+.23ⴱⴱ (.44ⴱⴱ)
+.01 (.00)
+.03 (.01)
+.07ⴱⴱ (.00)
+.17ⴱⴱ (.81ⴱⴱ)
+.05ⴱ (.42ⴱⴱ)
+
+.02 (.01)
+⫺.15 (⫺.14ⴱⴱ)
+⫺.10 (⫺.09ⴱⴱ)
+.06 (.05)
+⫺.26ⴱⴱ (⫺.21ⴱⴱ)
+⫺.07 (⫺.06ⴱ)
+
+.01 (.00)
+.02 (.00)
+⫺.00 (.00)
+.06 (.06ⴱ)
+⫺.30 (⫺.25ⴱⴱ)
+⫺.12 (⫺.10ⴱⴱ)
+
+.21ⴱⴱ (.18ⴱⴱ)
+⫺.23ⴱⴱ (⫺.21ⴱⴱ)
+.11 (.08ⴱⴱ)
+⫺.00 (.00)
+.00 (.00)
+.50ⴱⴱ (.45ⴱⴱ)
+
+5
+⫺.09
+.31ⴱⴱ
+.08
+.50ⴱⴱ
+(.94)
+.13ⴱⴱ (.06ⴱ)
+.02 (.03)
+.10ⴱⴱ (.07ⴱⴱ)
+.08ⴱⴱ (.41ⴱⴱ)
+.12ⴱⴱ (.81ⴱⴱ)
+.13 (.11ⴱⴱ)
+⫺.13 (⫺.13ⴱⴱ)
+⫺.06 (⫺.07ⴱⴱ)
+⫺.08 (⫺.08ⴱⴱ)
+.03 (.04)
+.19ⴱ (.18ⴱⴱ)
+
+Note. N ⫽ 152, n ⫽ 1,484. Within-person correlations are below the diagonal, and between-person correlations are above the diagonal. Within-person
+level variables were person-mean centered to provide estimates of within-person correlations, and they were aggregated to provide the correlations between
+within-person level variables and between-person level variables. The raw correlations are in parenthesis below the diagonal. For the correlations between
+all items, please refer to online supplemental materials. ICC1 ⫽ intraclass correlation coefficient. ICC1 is calculated as: (between-person variance)/
+(between-person variance ⫹ within-person variance). Means and SDs were calculated using the raw data. SDW ⫽ standardized deviation of within-person
+variables; SDB ⫽ standardized deviation of between-person variables. Cronbach’s alpha coefficients were reported along the diagonal in bold. Mortality
+salience ⫽ perceived Coronavirus disease 2019 (COVID-19)-triggered mortality salience. Job engagement (P) ⫽ previous day job engagement. Prosocial
+behavior (P) ⫽ previous day prosocial behavior. New statistical method (0 ⫽ old method, 1 ⫽ new method). Affected family member (0 ⫽ No, 1 ⫽ Yes).
+Work mode (0 ⫽ work from home, 1 ⫽ work in the office). Gender (0 ⫽ male, 1 ⫽ female). Education level (0 ⫽ below college education, 1 ⫽ college
+education or above). City 1 (0 ⫽ other cities, 1 ⫽ cities in Hubei province excluding Wuhan); City 2 (0 ⫽ other cities, 1 ⫽ cities outside Hubei).
+ⴱ
+p ⬍ .05. ⴱⴱ p ⬍ .01 (two-tailed).
+(table 1 continues on the next page)
+
+HU, HE, AND ZHOU
+
+1220
+
+ment) and community (i.e., prosocial behavior) responses. Third, we
+extend terror management research by stressing the need for servant
+leadership in times of crisis, in which social distancing physically
+separates employees. Servant leadership, defined as leader behaviors
+that prioritize the needs of employees and other stakeholders in the
+broader community (Greenleaf, 1970), is particularly valuable to keep
+anxious employees engaged at work and promote their prosocial
+behaviors (Grant, 2020).
+
+This document is copyrighted by the American Psychological Association or one of its allied publishers.
+This article is intended solely for the personal use of the individual user and is not to be disseminated broadly.
+
+Theory and Hypothesis Development
+TMT provides an appropriate theoretical framework to understand
+potentially life-threatening events (Pyszczynski, 2004). A core tenet
+of TMT describes that mortality salience creates debilitating anxiety
+(i.e., the “terror” in the TMT negatively affects overall psychological
+well-being; Greenberg et al., 1986) because reminders of the inevitable death are at odds with humans’ instinct to survive. TMT further
+posits that anxiety activates individuals’ motivation to cope with this
+terror, and one’s sense of personal value is a vital coping resource
+(Greenberg & Arndt, 2012). As the COVID-19 death toll continues to
+rise by day, this looming health crisis sends people frequent reminders
+of mortality. The COVID-19 crisis provides an extreme emotional
+context within which to study the influence of mortality salience on
+employees’ responses.
+
+COVID-19-Triggered Mortality Salience and
+State Anxiety
+Anxiety lies at the heart of TMT (Juhl & Routledge, 2016).
+Mounting evidence has supported the anxiety-provoking effect of
+
+mortality salience (Burke et al., 2010). Research shows that when
+people are primed with life’s fragility, they experience not just
+death-specific anxiety but also general state anxiety (Belmi &
+Pfeffer, 2016; Greenberg et al., 1995; Juhl, 2019; Juhl & Routledge, 2016). State anxiety is “a state of distress and/or physiological arousal in reaction to stimuli, including novel situations and
+the potential for undesirable outcomes” (Brooks & Schweitzer,
+2011, p. 44). COVID-19 is a deadly disease that raises mortality
+salience. At the same time, as the situation evolves, COVID-19triggered mortality salience may vary from day to day and person
+to person. When individuals are reminded of mortality in this
+deadly crisis, they face paralyzing terror, and experience increased
+nervousness, uncertainty, and apprehension about both their lives
+and their livelihoods at the moment and in the future, all of which
+lead to increased overall state anxiety (Belmi & Pfeffer, 2016;
+Brooks & Schweitzer, 2011). Thus, we propose the following:
+Hypothesis 1: COVID-19-triggered mortality salience is positively related to state anxiety.
+
+Responses to COVID-19 Mortality Salience and
+Servant Leadership as a Moderator
+TMT notes that mortality salience-triggered anxiety increases
+individuals’ motivation to respond in the hopes to quell this terror
+(Greenberg et al., 1986). Although TMT does not directly address
+employees’ behaviors at and outside work, we build on and
+broaden the theory to discuss the influences of anxiety associated
+with mortality salience on both the workplace (i.e., job engagement) and community (i.e., prosocial behavior) responses.
+
+Table 1 (continued)
+6
+
+7
+
+.13
+.02
+⫺.02
+⫺.05
+.03
+—
+ⴱⴱ
+⫺.08 (⫺.07ⴱ)
+.29ⴱⴱ (.20ⴱⴱ)
+.02 (.01)
+.13ⴱⴱ (.06ⴱ)
+
+.21ⴱⴱ
+.27ⴱⴱ
+.27ⴱⴱ
+.00
+.04
+⫺.10
+—
+⫺.02 (⫺.05)
+.00 (.00)
+.00 (.03)
+
+8
+⫺.13
+⫺.11
+⫺.13
+⫺.07
+.05
+.07
+⫺.09
+—
+.01 (⫺.02)
+.09ⴱⴱ (.07ⴱⴱ)
+
+9
+⫺.01
+⫺.01
+⫺.23ⴱⴱ
+1.00ⴱⴱ
+.50ⴱⴱ
+⫺.04
+.00
+⫺.09
+—
+.22ⴱⴱ (.44ⴱⴱ)
+
+10
+
+11
+
+12
+
+13
+
+14
+
+⫺.08
+.30ⴱⴱ
+.08
+.51ⴱⴱ
+1.00ⴱⴱ
+.04
+.04
+.04
+.51ⴱⴱ
+—
+
+.08
+.02
+.01
+.21ⴱⴱ
+.13
+⫺.10
+.03
+.01
+.21ⴱⴱ
+.13
+
+⫺.13
+⫺.15
+.02
+⫺.23ⴱⴱ
+⫺.13
+.00
+.01
+⫺.07
+⫺.22ⴱⴱ
+⫺.15
+
+.08
+⫺.10
+.00
+.11
+⫺.06
+.21ⴱⴱ
+⫺.07
+.06
+.13
+⫺.06
+
+1.00ⴱⴱ
+.06
+.06
+.00
+⫺.08
+.12
+.20ⴱ
+⫺.12
+.00
+⫺.07
+
+15
+
+16
+
+⫺.59ⴱⴱ
+.06
+⫺.26ⴱⴱ ⫺.07
+⫺.30ⴱⴱ ⫺.12
+.00
+.50ⴱⴱ
+.03
+.19ⴱ
+.10
+.03
+⫺.34ⴱⴱ ⫺.04
+.21ⴱⴱ
+.06
+.01
+.50ⴱⴱ
+.03
+.20ⴱ
+
+.13 (.11ⴱⴱ)
+—
+.03
+⫺.23ⴱⴱ
+⫺.10 (⫺.01)
+.03 (.02)
+.01 (.02)
+.21ⴱⴱ (.18ⴱⴱ)
+.08
+⫺.12
+.14
+.01 (.00)
+.01 (.00)
+⫺.07 (⫺.05) .22ⴱⴱ (⫺.21ⴱⴱ) ⫺.15 (⫺.14ⴱⴱ)
+.03 (.02)
+—
+.11
+⫺.13
+.12
+⫺.26ⴱⴱ
+ⴱⴱ
+ⴱ
+ⴱⴱ
+ⴱ
+ⴱⴱ
+ⴱⴱ
+ⴱⴱ
+ⴱ
+⫺.07 (⫺.04)
+.06 (.06 )
+.13 (.09 ) ⫺.06 (⫺.07 ) ⫺.23 (⫺.24 )
+.11 (.11 )
+—
+.08
+.19
+.21 (.01)
+.10
+.12 (.01)
+.20ⴱ (.14ⴱⴱ) ⫺.12 (⫺.09ⴱⴱ) .00 (.00)
+⫺.07 (⫺.07ⴱ)
+.08 (.09ⴱⴱ)
+⫺.13 (⫺.12ⴱⴱ) .08 (.07ⴱⴱ)
+—
+⫺.58ⴱⴱ
+.06
+ⴱⴱ
+ⴱⴱ
+ⴱⴱ
+ⴱⴱ
+ⴱⴱ
+ⴱⴱ
+ⴱ
+ⴱⴱ
+ⴱⴱ
+ⴱⴱ
+.10 (.00)
+⫺.34 (⫺.22 ) .21 (.15 )
+.01 (.01)
+.03 (.03)
+⫺.12 (⫺.12 )
+.12 (.13 ) .19 (.18 ) ⫺.58 (⫺.58 )
+—
+.05
+ⴱ
+ⴱⴱ
+ⴱⴱ
+ⴱ
+ⴱⴱ
+ⴱⴱ
+ⴱⴱ
+ⴱⴱ
+ⴱⴱ
+ⴱ
+.03 (.00)
+⫺.04 (⫺.03)
+.06 (.06 )
+.50 (.44 )
+.20 (.18 )
+.15 (.15 ) ⫺.27 (⫺.26 ) .10 (.09 )
+.06 (.06 )
+.05 (.05) (.81)
+
+Slope2 (var␮1j)
+
+Slope1 (var␮1j)
+
+Between-person level residual variances (var␮oj, var␮4j)
+
+Within-person level residual variances (var␴oj, var␴1j)
+
+Previous-day prosocial behavior
+
+Previous-day job engagement
+
+State Anxiety ⫻ Perceived Servant Leadership
+
+Perceived servant leadership
+
+State anxiety
+
+Perceived COVID-19-triggered mortality salience
+
+Daily COVID-19 deaths
+
+Work mode
+
+Affected family member
+
+New statistical method
+
+City 2
+
+City 1
+
+Education
+
+Gender
+
+Age
+
+Independent variables
+
+Table 2
+Summary of Results of MSEM in Study 1
+
+.37ⴱⴱⴱ (.04)
+[.309, .445]
+1.42ⴱⴱⴱ (.19)
+[1.113, 1.845]
+.43ⴱⴱⴱ (.10)
+[.261, .647]
+.31ⴱⴱⴱ (.08)
+[.190, .495]
+
+.15ⴱⴱⴱ (.02)
+[.113, .185]
+.46ⴱⴱⴱ (.07)
+[.334, .623]
+
+.06ⴱ (.03)
+[.009, .115]
+.21ⴱⴱⴱ (.02)
+[.165, .253]
+1.46ⴱⴱⴱ (.19)
+[1.111, 1.884]
+
+.03 (.02)
+[⫺.015, .069]
+⫺.22 (.21)
+[⫺.638, .196]
+⫺.22 (.32)
+[⫺.842, .399]
+⫺.32 (.77)
+[⫺1.822, 1.196]
+.15 (.47)
+[⫺.760, 1.078]
+.16ⴱⴱⴱ (.05)
+[.071, .248]
+.28ⴱⴱ (.12)
+[.056, .513]
+.15ⴱ (.07)
+[.013, .282]
+⫺.07 (.04)
+[⫺.143, .018]
+⫺.11ⴱⴱ (.04)
+[⫺.183, ⫺.028]
+.13ⴱ (.06)
+[.001, .252]
+.25ⴱ (.13)
+[.003, .517]
+
+.03ⴱ (.01)
+[.005, .054]
+⫺.25ⴱ (.12)
+[⫺.487, ⫺.001]
+.40ⴱ (.18)
+[.040, .761]
+⫺.76ⴱ (.44)
+[⫺1.636, .089]
+⫺.40 (.27)
+[⫺.942, .134]
+⫺.02 (.04)
+[⫺.103, .054]
+.14 (.10)
+[⫺.059, .348]
+.13ⴱ (.06)
+[.015, .253]
+.02 (.03)
+[⫺.040, .085]
+.02 (.03)
+[⫺.049, .085]
+⫺.30ⴱⴱⴱ (.07)
+[⫺.441, ⫺.153]
+.42ⴱⴱⴱ (.09)
+[.264, .610]
+
+⫺.00 (.02)
+[⫺.045, .037]
+.05 (.21)
+[⫺.358, .455]
+.24 (.31)
+[⫺.362, .851]
+⫺1.66ⴱ (.77)
+[⫺3.164, ⫺.133]
+⫺1.77ⴱⴱⴱ (.45)
+[⫺2.650, ⫺.891]
+⫺.15ⴱⴱ (.05)
+[⫺.253, ⫺.051]
+.04 (.14)
+[⫺.232, .316]
+⫺.07 (.08)
+[⫺.227, .079]
+.06 (.05)
+[⫺.036, .155]
+.29ⴱⴱⴱ (.05)
+[.192, .387]
+
+.06ⴱ (.04)
+[⫺.007, .130]
+
+Prosocial
+behavior
+B (PSD)
+[95% CI]
+
+Job
+engagement
+B (PSD)
+[95% CI]
+
+Model 1
+State
+anxiety
+B (PSD)
+[95% CI]
+
+.38ⴱⴱⴱ (.03)
+[.315, .446]
+1.42ⴱⴱⴱ (.19)
+[1.115, 1.843]
+.34ⴱⴱⴱ (.08)
+[.196, .515]
+.27ⴱⴱⴱ (.07)
+[.159, .443]
+
+⫺.00 (.02)
+[⫺.045, .037]
+.05 (.21)
+[⫺.347, .454]
+.25 (.31)
+[⫺.360, .852]
+⫺1.66ⴱ (.77)
+[⫺3.147, ⫺.157]
+⫺1.78ⴱⴱⴱ (.45)
+[⫺2.644, ⫺.898]
+⫺.15ⴱⴱ (.05)
+[⫺.254, ⫺.053]
+.04 (.14)
+[⫺.233, .318]
+⫺.07 (.08)
+[⫺.227, .081]
+.06 (.05)
+[⫺.042, .153]
+.29ⴱⴱⴱ (.05)
+[.195, .391]
+
+State
+anxiety
+B (PSD)
+[95% CI]
+
+Dependent variables
+
+This document is copyrighted by the American Psychological Association or one of its allied publishers.
+This article is intended solely for the personal use of the individual user and is not to be disseminated broadly.
+
+.15ⴱⴱⴱ (.02)
+[.116, .184]
+.45ⴱⴱⴱ (.07)
+[.330, .608]
+
+.03ⴱ (.01)
+[.005, .054]
+⫺.25ⴱ (.12)
+[⫺.494, ⫺.009]
+.40ⴱ (.18)
+[.034, .753]
+⫺.77ⴱ (.44)
+[⫺1.639, .093]
+⫺.40 (.27)
+[⫺.936, .128]
+⫺.02 (.04)
+[⫺.100, .056]
+.14 (.11)
+[⫺.059, .353]
+.14ⴱ (.06)
+[.019, .254]
+.02 (.03)
+[⫺.044, .086]
+.02 (.03)
+[⫺.050, .085]
+⫺.28ⴱⴱⴱ (.07)
+[⫺.428, ⫺.144]
+.42ⴱⴱⴱ (.09)
+[.265, .614]
+.29ⴱⴱⴱ (.09)
+[.121, .475]
+.06ⴱ (.04)
+[⫺.008, .131]
+
+Job
+engagement
+B (PSD)
+[95% CI]
+
+Model 2
+
+(table continues)
+
+.06ⴱ (.03)
+[.010, .115]
+.21ⴱⴱⴱ (.02)
+[.167, .250]
+1.45ⴱⴱⴱ (.20)
+[1.082, 1.860]
+
+.03 (.02)
+[⫺.015, .069]
+⫺.22 (.21)
+[⫺.633, .188]
+⫺.21 (.31)
+[⫺.825, .401]
+⫺.40 (.76)
+[⫺1.874, 1.070]
+.16 (.46)
+[⫺.744, 1.070]
+.16ⴱⴱⴱ (.05)
+[.072, .247]
+.29ⴱⴱ (.12)
+[.058, .515]
+.14ⴱ (.07)
+[.012, .277]
+⫺.06 (.04)
+[⫺.141, .024]
+⫺.11ⴱⴱ (.04)
+[⫺.183, ⫺.029]
+.10 (.07)
+[⫺.034, .226]
+.25ⴱ (.14)
+[⫺.008, .520]
+.19ⴱ (.08)
+[.030, .347]
+
+Prosocial
+behavior
+B (PSD)
+[95% CI]
+COVID-19 MORTALITY SALIENCE AND EMPLOYEE RESPONSES
+
+1221
+
+.08
+.12
+.11
+52965.01
+
+State
+anxiety
+B (PSD)
+[95% CI]
+.37
+.34
+.35
+
+Job
+engagement
+B (PSD)
+[95% CI]
+
+Model 1
+
+.28
+.08
+.13
+
+Prosocial
+behavior
+B (PSD)
+[95% CI]
+.08
+.12
+.11
+52942.53
+
+State
+anxiety
+B (PSD)
+[95% CI]
+
+Dependent variables
+
+.37
+.34
+.35
+
+Job
+engagement
+B (PSD)
+[95% CI]
+
+Model 2
+
+.27
+.08
+.13
+
+Prosocial
+behavior
+B (PSD)
+[95% CI]
+
+Note. N ⫽ 152, n ⫽ 1,484. COVID-19 ⫽ coronavirus disease 2019; B ⫽ unstandardized path coefficients. In addition to the path estimate, we have also reported the standard deviation of the posterior
+distribution (PSD) in the parenthesis next to the path estimate and credibility interval (CI) next to PSD (Bolstad & Curran, 2007; Lynch, 2007). Gender (0 ⫽ male, 1 ⫽ female). Education level (0 ⫽
+below college education, 1 ⫽ college education or above). City 1 (other cities, 1 ⫽ cities in Hubei province excluding Wuhan); City 2 (0 ⫽ other cities, 1 ⫽ cities outside Hubei). New statistical method
+(0 ⫽ old method, 1 ⫽ new method). Affected family member (0 ⫽ No, 1 ⫽ Yes). Work mode (0 ⫽ work from home, 1 ⫽ work in the office). Slope1 ⫽ the path coefficient between state anxiety and
+2
+job engagement; Slope2 ⫽ the path coefficient between state anxiety and prosocial behavior. Pseudo Rtotal
+⫽ Within-person level R2 ⫻ (1 ⫺ ICC1) ⫹ Between-person level R2 ⫻ ICC1. ICC1 ⫽
+intraclass correlation coefficient. ICC1 is calculated as: (between-person variance)/(between-person variance ⫹ within-person variance). As Aguinis, Gottfredson, and Culpepper (2013) noted, in
+interpreting effect size of cross-level interaction effects using multilevel modeling, R2 “can be counterintuitive, such as pseudo R2 values becoming smaller when predictors are added to the model”
+(p. 1518). Similarly, Snijders and Bosker (2012) noted that the computation of R2 in multilevel modeling “now and then leads to unpleasant surprises.” (p. 109). Lang, Bliese, and Runge (2020) noted
+that a solution to the R2 problem in multilevel mixed-effect models is to calculate likelihood-R2 statistic, which is based on the sample size and likelihood ratio. This likelihood ratio is unfortunately
+unavailable in the Bayesian MSEM output. Thus, following Aguinis et al. (2013) and Lang et al. (2020), although we reported R2 values in the cross-level interactions, we would like to point that the
+meaning of these values needs to be interpreted cautiously. We reported deviance information criterion (DIC), a Bayesian estimation of Akaike information criterion (AIC) in maximum likelihood
+estimation, to assess model fit. Models with smaller DIC are preferable than models with larger DIC (Muthén, 2010). The decrease in DIC from Model 1 to Model 2 indicates that the addition of the
+cross-level interaction terms of within-person state anxiety and between-person servant leadership improved the model fit. By default, SEM function fixes the latent variable intercepts to zero. Mplus
+output typically provided the p values as one-tailed in Bayesian analyses. For all codes and outputs of Mplus, see online supplemental materials.
+ⴱ
+p ⬍ .05. ⴱⴱ p ⬍ .01. ⴱⴱⴱ p ⬍ .001 (one-tailed).
+
+Within-person level R2
+Between-person level R2
+2
+Pseudo Rtotal
+DIC
+
+Independent variables
+
+Table 2 (continued)
+
+This document is copyrighted by the American Psychological Association or one of its allied publishers.
+This article is intended solely for the personal use of the individual user and is not to be disseminated broadly.
+
+1222
+HU, HE, AND ZHOU
+
+COVID-19 MORTALITY SALIENCE AND EMPLOYEE RESPONSES
+Higher Perceived
+Servant Leadership
+
+Job Engagement
+
+6
+
+Lower Perceived
+Servant Leadership
+
+5
+4
+3
+2
+1
+Lower (–1 SD)
+
+Higher (+1 SD)
+
+This document is copyrighted by the American Psychological Association or one of its allied publishers.
+This article is intended solely for the personal use of the individual user and is not to be disseminated broadly.
+
+State Anxiety
+
+Figure 2. The interaction effect of perceived servant leadership and state
+anxiety on job engagement in Study 1.
+
+The implication for job engagement. According to terror
+management research, people have different ways of responding
+to thoughts of death and their associated anxiety (Lykins,
+Segerstrom, Averill, Evans, & Kemeny, 2007). In general, anxiety
+activated by COVID-19-triggered mortality salience may lead to
+rumination over this crisis (Forgas, 1998) and self-protective,
+avoidant, defensive behaviors (Fredrickson, 2001; Kouchaki &
+Desai, 2015) such that people can function without being overwhelmed by the anxiety (Grant & Wade-Benzoni, 2009). In the
+workplace, a way of self-protection and withdrawal at work is to
+reduce devotion physically, emotionally, and cognitively to work
+roles (i.e., job engagement; Kahn, 1990). When employees experience intense anxiety, they tend to have impaired information
+processing (Gino, Brooks, & Schweitzer, 2012), succumb to work
+slowdowns and distractions (Eysenck & Byrne, 1992), and possess
+a weaker motivation to engage at work. However, TMT also posits
+that the detrimental consequences of anxiety associated with mortality cues can be mitigated when people have strong psychological resources, such as feeling the purpose and meaning of life
+(Greenberg et al., 1986). Greenberg and Arndt (2012) stated,
+“Encouraging people to consider our shared humanity is a promising avenue to reducing destructive effects” (p. 411).
+In the COVID-19 crisis, leaders who are attentive to employees’
+emotional needs and unite them behind a common purpose appear
+crucial in shaping employees’ responses (Mainiero & Gibson,
+2003). As a leadership approach grounded in other-orientation,
+servant leadership exemplifies behaviors prioritizing fulfillment of
+others’ needs, attention to employees’ emotional suffering, empowerment, and serving the community (Greenleaf, 1970; Liden,
+Wayne, Zhao, & Henderson, 2008). We propose that compared
+with other more top-down approaches such as transformational
+leadership, servant leaders appear more effective in reducing the
+negative influences of state anxiety during COVID-19 on job
+engagement because they lead from the bottom and place a primary emphasis on promoting the growth of employees (van
+Dierendonck, 2011). First, instead of ignoring anxiety associated
+with the crisis, servant leaders likely acknowledge their uncertainties and worries (Isabella, 1990; Judge, Thoresen, Pucik, & Welbourne, 1999), empathize with employees’ anxiety, and provide
+affirmation of their confidence in their employees. When leaders
+care about employee well-being, anxious employees may feel that
+
+they are valuable contributors at work and are more willing to
+invest adequately in their work roles (Rich, Lepine, & Crawford,
+2010). Second, because of their attention to employees’ needs,
+servant leaders show more understanding of anxious employees’
+situations and provide additional resources and autonomy for them
+to navigate the situation. This increased control, in turn, reduces
+the negative influences of employees’ state anxiety on their job
+engagement (Kahn, 1990). Indeed, Cheng and McCarthy (2018)
+suggested that transient feelings of anxiety can have reduced
+cognitive interference and increased reflective self-regulation to
+engage in work roles if employees have additional emotional
+resources and enriched skills. Integrating the above statements that
+COVID-19-triggered mortality salience increases state anxiety and
+that servant leadership reduces the costs of state anxiety on job
+engagement, we propose:
+Hypothesis 2: The indirect relationship between COVID-19triggered mortality salience and job engagement through state
+anxiety is less negative when servant leadership is higher than
+when servant leadership is lower.
+The implication for prosocial behavior. In terms of community behaviors, terror management research suggests that anxiety
+related to mortality salience urges people to repair self-worth by
+giving more donations to charities (Greenberg, Solomon, & Arndt,
+2008; Jonas, Schimel, Greenberg, & Pyszczynski, 2002; Zaleskiewicz, Gasiorowska, & Kesebir, 2015) or by helping others (Belmi
+& Pfeffer, 2016; Cozzolino, 2006; Lykins et al., 2007; Vail et al.,
+2012). But evidence also shows that anxiety does not lead to
+prosocial behaviors if people do not see common humanity between themselves and those needing help (Hirschberger, Ein-Dor,
+& Almakias, 2008; Jonas et al., 2002). We thus propose that
+servant leaders amplify the positive effect of state anxiety resulting
+from COVID-19-triggered mortality salience on prosocial behavior. Specifically, unlike other employee-oriented leadership behaviors such as consideration, servant leaders focus broadly on the
+community and create a culture inspiring employees to serve
+people outside work (Liden, Wayne, Liao, & Meuser, 2014). When
+employees feel a deepened sense of humanity and community,
+their anxiety is more likely to direct their attention to crisiscentered problems, connecting with victims and prompting action
+to alleviate others’ suffering (Williams & Shepherd, 2016).
+
+Prosocial Behavior
+
+7
+
+1223
+
+7
+
+Higher Perceived
+Servant Leadership
+
+6
+
+Lower Perceived
+Servant Leadership
+
+5
+4
+3
+2
+1
+Lower (–1 SD)
+
+Higher (+1 SD)
+
+State Anxiety
+
+Figure 3. The interaction effect of perceived servant leadership and state
+anxiety on prosocial behavior in Study 1.
+
+HU, HE, AND ZHOU
+
+1224
+
+Table 3
+Means, Standard Deviations, and Correlations Among Variables in Study 2
+Variable
+
+This document is copyrighted by the American Psychological Association or one of its allied publishers.
+This article is intended solely for the personal use of the individual user and is not to be disseminated broadly.
+
+1.
+2.
+3.
+4.
+5.
+6.
+
+COVID-19-triggered mortality salience
+Servant leadership
+State anxiety
+Job engagement
+Prosocial behavior
+Servant Leadership ⫻ State Anxiety
+
+M
+
+SD
+
+1
+
+2
+
+3
+
+4
+
+5
+
+6
+
+.51
+.51
+2.12
+2.87
+.34
+⫺.02
+
+.50
+.50
+.98
+1.13
+.60
+.49
+
+—
+⫺.02
+.26ⴱⴱ
+⫺.05
+.13ⴱ
+.06
+
+—
+⫺.05
+.39ⴱⴱ
+.19ⴱⴱ
+.00
+
+(.85)
+.15ⴱ
+.19ⴱⴱ
+⫺.01
+
+(.96)
+.33ⴱⴱ
+.10
+
+—
+.12ⴱ
+
+—
+
+Note. N ⫽ 282. Coronavirus disease 2019 (COVID-19)-triggered mortality salience (0 ⫽ lower, 1 ⫽ higher) and servant leadership (0 ⫽ lower, 1 ⫽
+higher) were dummy variables. Servant Leadership ⫻ State Anxiety was the product of servant leadership (grand-mean centered) and state anxiety
+(grand-mean centered). Cronbach’s alpha coefficients were reported along the diagonal in bold.
+ⴱ
+p ⬍ .05. ⴱⴱ p ⬍ .01 (two-tailed).
+
+Hypothesis 3: The indirect relationship between COVID-19triggered mortality salience and prosocial behavior through
+state anxiety is more positive when servant leadership is
+higher than when servant leadership is lower.
+
+Study 1
+Method
+Sample and procedure. We collected data from an information technology company in Eastern China after Wei He learned
+from an executive contact of this company that employees would
+return to work during this crisis.1 To reflect the daily evolving
+COVID-19 situation, we collected data over three weeks with an
+online entry survey followed by daily surveys for 10 consecutive
+workdays. After explaining the research procedure and incentives,
+we invited all 270 employees of the company to participate in our
+study. In total, 163 employees completed the entry survey, including measures of demographics and servant leadership. The daily
+surveys were sent to these 163 participants twice a day. The noon
+survey was sent at 12 a.m. and included the measure of perceived
+COVID-19-triggered mortality salience, and the evening survey
+was sent at 6 p.m. and included measures of state anxiety, job
+engagement, and prosocial behavior. Participants’ surveys were
+matched using their web IDs. We paid each participant 150 RMB
+(22 USD) for full participation. From the 152 employees who
+completed the diary surveys, we received 1,484 matched day-level
+data points (out of a total possible of 1,630 from 163 invited
+participants) for a valid response rate of 91%. In the final sample,
+53.9% were women, 85.5% received college or above education,
+the average age was 28.1 (SD ⫽ 5.0), and the average company
+tenure was 2.4 years (SD ⫽ 1.9). Participants came from various
+departments of the company, such as research and development,
+marketing, and human resources.
+Measures. Because the original measures were all in English,
+we followed a translation-back-translation procedure (Brislin,
+1986) by two bilingual management researchers. The disagreement
+was resolved through further discussion. The translated surveys
+were also sent to several managers in the company, and small
+modifications were made based on their feedback. Participated
+employees rated the measures with a 7-point Likert scale ranging
+from 1 (strong disagree) to 7 (strongly agree) unless otherwise
+noted. We measured COVID-19-triggered mortality salience with
+both objective (daily confirmed COVID-19 deaths) and subjective
+
+indicators. Daily confirmed COVID-19 deaths were obtained from
+daily morning reports by each city’s health department. Employees
+rated perceived COVID-19-triggered mortality salience with two
+items adapted from Grant, Franklin, and Langford (2002) (e.g.,
+“Today, I frequently examined my feelings about COVID-19
+related deaths”). Employees rated state anxiety with three items
+from Watson, Clark, and Tellegen (1988; e.g., “nervous”, 1 ⫽ not
+at all to 7 ⫽ very much); job engagement with a nine-item scale
+from Schaufeli, Bakker, and Salanova (2006) (e.g., “Today, I felt
+strong and vigorous at my job”); prosocial behavior with three
+items from Rodell (2013) (e.g., “Today, I gave my time to help a
+volunteer group”); and perceived servant leadership with a 7-item
+scale from Liden et al. (2015; e.g., “My supervisor makes my
+career development a priority”). We controlled for employee age,
+gender (0 ⫽ male, 1 ⫽ female), and education because of their
+potential influences on individuals’ responses to mortality salience
+(Burke et al., 2010). Also, we included whether a family member
+was affected till the day (0 ⫽ no, 1 ⫽ yes) and work mode (0 ⫽
+work from home, 1 ⫽ work in the office) at the daily level. At the
+person level, we controlled for the city of residence by creating
+two city dummies with the city of Wuhan being the comparison
+group, and statistical methods to count for confirmed cases2 because of their impact on the self-relevance of and exposure to
+COVID-19-triggered mortality salience (Grant & Wade-Benzoni,
+2009). Following recommendations for analyzing diary data, we
+controlled for previous-day job engagement and prosocial behavior (Ohly, Sonnentag, Niessen, & Zapf, 2010).
+
+Results
+Table 1 presents basic statistics and correlations among the
+variables. We first conducted confirmatory factor analyses using
+Mplus 8.3 (Muthén & Muthén, 1998-2017) to validate the discriminant validity of the scale measures. The five-factor measurement
+model provided a satisfactory fit to the data (␹2 ⫽ 923.33, df ⫽ 355,
+1
+In conducting Study 1, we complied with all guidelines for the ethical
+treatment of human subjects at Nanjing University where Wei He worked.
+Wei He, who was not affiliated with the participating company, collected
+the data.
+2
+National Health Commission of China had changed the statistical
+method for identifying new COVID-19 cases since February 13, so we
+created a dummy variable (statistical method; 0 ⫽ old method, 1 ⫽ new
+method). Items for all measures can be found in the online supplementary
+materials.
+
+COVID-19 MORTALITY SALIENCE AND EMPLOYEE RESPONSES
+
+1225
+
+Table 4
+Results for Path Analyses in Study 2
+Dependent variable
+Model 1
+
+Independent variable
+Intercept
+
+This document is copyrighted by the American Psychological Association or one of its allied publishers.
+This article is intended solely for the personal use of the individual user and is not to be disseminated broadly.
+
+COVID-19-triggered mortality salience
+
+State
+anxiety
+B (PSD)
+[95% CI]
+
+Job
+engagement
+B (PSD)
+[95% CI]
+
+Prosocial
+behavior
+B (PSD)
+[95% CI]
+
+State
+anxiety
+B (PSD)
+[95% CI]
+
+Job
+engagement
+B (PSD)
+[95% CI]
+
+Prosocial
+behavior
+B (PSD)
+[95% CI]
+
+.00 (.06)
+[⫺.112, .113]
+.51ⴱⴱⴱ (.11)
+[.288, .732]
+
+2.87ⴱⴱⴱ (.06)
+[2.735, 2.994]
+⫺.20 (.13)
+[⫺.452, .053]
+.22ⴱⴱ (.07)
+[.089, .350]
+.89ⴱⴱⴱ (.13)
+[.642, 1.131]
+
+.34ⴱⴱⴱ (.04)
+[.276, .412]
+.11 (.07)
+[⫺.034, .251]
+.11ⴱⴱ (.04)
+[.036, .181]
+.24ⴱⴱ (.07)
+[.103, .375]
+
+.00 (.06)
+[⫺.110, .109]
+.51ⴱⴱⴱ (.11)
+[.289, .736]
+
+.09
+
+.07
+
+2.88ⴱⴱⴱ (.06)
+[2.758, 3.001]
+⫺.22ⴱ (.13)
+[⫺.466, .038]
+.22ⴱⴱⴱ (.07)
+[.093, .349]
+.89ⴱⴱⴱ (.12)
+[.646, 1.128]
+.25ⴱ (.13)
+[⫺.003, .500]
+.20
+2,065.92
+
+.35ⴱⴱⴱ (.03)
+[.278, .413]
+.10 (.07)
+[⫺.041, .240]
+.11ⴱⴱ (.04)
+[.037, .182]
+.24ⴱⴱⴱ (.07)
+[.103, .376]
+.14ⴱ (.07)
+[.000, .276]
+.11
+
+State anxiety
+Servant leadership
+State Anxiety ⫻ Servant Leadership
+R2
+DIC
+
+Model 2
+
+.07
+
+.19
+2,067.80
+
+Note. N ⫽ 282. COVID-19 ⫽ Coronavirus disease 2019; B ⫽ unstandardized path coefficients; PSD ⫽ standard deviation of the posterior distribution;
+CI ⫽ credibility interval; DIC ⫽ deviance information criterion. The intercept of state anxiety was zero because it was grand-mean centered. Mplus output
+typically provided the p values as one-tailed in Bayesian analyses. For all codes and outputs of Mplus, see online supplemental materials.
+ⴱ
+p ⬍ .05. ⴱⴱ p ⬍ .01. ⴱⴱⴱ p ⬍ .001 (one-tailed).
+
+root mean square error of approximation ⫽ .03, comparative fit
+index ⫽ .92, Tucker-Lewis index ⫽ .90, standardized root mean
+residual (SRMR)within ⫽ .04, SRMRbetweem ⫽ .06; see Appendix
+A). We then conducted a multilevel structural equation model
+(MSEM) with a Bayesian estimation method (Bolstad & Curran,
+2007). The Bayesian method shows advantages over conventional
+testing because it allows more direct interpretations of findings
+based on the observed data, appropriately estimates more complex
+models, and generates credibility intervals (CI) to accurately
+assess the non-normally distributed conditional indirect effects
+(Kruschke, Aguinis, & Joo, 2012; Muthén, 2010; Simon, Hurst,
+Kelley, & Judge, 2015; Zyphur & Oswald, 2015).3 We standardized the official counts of daily death cases for better interpretation. We person-mean centered the subjective indicator of COVID19-triggered mortality salience, and grand-mean centered daily
+confirmed COVID-19 deaths, which have significant between-city
+variances, and the between-person moderator of servant leadership
+(Preacher, Zyphur, & Zhang, 2010). We also person-mean centered all other predictors at the within-person level and grandmean centered other predictors at the between-person level. We
+modeled the effects of dependent variables on the mediator with
+random slopes and other effects with fixed slopes (see Appendix
+B).
+As shown in Model 1 of Table 2, state anxiety was not related
+to daily confirmed COVID-19 deaths (B ⫽ .06, p ⫽ .12) but
+positively related to perceived COVID-19-triggered mortality salience (B ⫽ .29, p ⬍ .001), partially supporting Hypothesis 1.
+Moreover, in Model 2, the cross-level interaction of state anxiety
+and perceived servant leadership was positively related to job
+engagement (B ⫽ .29, p ⬍ .001). Figure 2 showed that the
+relationship between state anxiety and job engagement was less
+negative when perceived servant leadership was higher (B ⫽ ⫺.05,
+p ⫽ .30) than when it was lower (B ⫽ ⫺.52, p ⬍ .001). Results
+further indicated that the indirect relationship of perceived
+
+COVID-19-triggered mortality salience with job engagement via
+state anxiety was less negative (difference ⫽ .13, 95% CI [.052,
+.239]) when perceived servant leadership was higher (B ⫽ ⫺.01,
+95% CI [⫺.070, .043]) than when it was lower (B ⫽ ⫺.15, 95% CI
+[⫺.236, ⫺.080]), supporting Hypothesis 2. Furthermore, the interaction term was also positively related to prosocial behavior (B ⫽
+.19, p ⫽ .01).4 Figure 3 showed that the relationship between state
+anxiety and prosocial behavior was more positive (B ⫽ .25, p ⫽
+.01) when perceived servant leadership was higher than when it
+was lower (B ⫽ ⫺.05, p ⫽ .28). The indirect relationship between
+perceived COVID-19-triggered mortality salience and prosocial
+behavior via state anxiety was more positive (difference ⫽ .09,
+95% CI [.013, .176]) when perceived servant leadership was
+higher (B ⫽ .07, 95% CI [.015, .138]) than when it was lower
+(B ⫽ ⫺.01, 95% CI [⫺.069, .034]). Thus, Hypothesis 3 was
+supported. In sum, our hypotheses were supported when COVID19-triggered mortality salience was subjectively but not objectively measured. This finding is not surprising because we were
+unsure if participants had seen the death reports each morning
+before completing daily surveys. Because this was a diary study in
+China, the causality of the relationships and generalizability to a
+different culture remain unclear. To address these limitations, we
+designed an online experiment in the United States to replicate the
+findings.
+3
+The Bayesian MSEM analysis produces largely similar results as the
+conventional path-analysis via Mplus and the Monte-Carlo bootstrapping
+approach with the open-source software R (http://www.quantpsy.org)
+(Selig & Preacher, 2008). The results of other two methods are available
+via online supplementary material. In addition, we also tested the model
+with Monte-Carlo based MSEM in Mplus, which unfortunately does not
+work due to a convergence problem.
+4
+This interaction effect became nonsignificant (B ⫽ .09, p ⫽ .14) when
+all control variables were removed from the regression model. All other
+findings remained unaffected with or without adding controls.
+
+HU, HE, AND ZHOU
+
+1226
+Study 2
+
+Higher Servant
+Leadership
+
+5
+
+Lower Servant
+Leadership
+
+4
+
+3
+
+2
+
+1
+Lower (–1 SD)
+
+Higher (+1 SD)
+
+State Anxiety
+
+Figure 4. The interaction effect of servant leadership and state anxiety on
+job engagement in Study 2.
+
+Prosocial Behavior
+
+Sample, procedure, and measures. We sought to recruit 400
+(100 per condition) participants from Amazon’s Mechanical Turk
+(MTurk) with inclusion requests that participants must be full-time
+employees and possess qualifications that indicate high-quality
+prior work at MTurk.5 We paid each participant $2.50 for participation in the experiment. We randomly assigned participants into
+four conditions, in a fully crossed, 2 (higher vs. lower COVID19-triggered mortality salience) ⫻ 2 (higher vs. lower servant
+leadership) between-individuals design. First, participants were
+presented with a collection of current COVID-19 news, in which
+COVID-19-triggered mortality salience was manipulated and were
+then asked to rate their state anxiety. Next, they were instructed to
+work on a task with a manager whose servant leadership was
+manipulated (Wu, Liden, Liao, & Wayne, 2020; see Appendix C).
+After that, they reported their job engagement and contributions to
+communities facing hunger. Among the 345 participants who
+completed the experiment, 35 failed to pass the attention checks,
+and 28 spent an extremely short time (less than 4 min—the fastest
+possible time for a participant to provide responses; e.g., Yuan et
+al., 2019). The final sample consisted of 282 participants, leading
+to a valid response rate of 81.7%. The participants held occupational positions such as project manager, business analyst, and
+engineer across a variety of industries such as finance, technology,
+health care, and retail. All participants were above 18 years old,
+75.2% were between 25 and 44 years of age, 41.5% of them were
+female, and the average job tenure was 6.59 years (SD ⫽ 5.43).
+We measured state anxiety and job engagement using the same
+items in Study 1 (1 ⫽ very slightly to 5 ⫽ extremely). Prosocial
+behavior was measured by the amount of donation from their
+payment of the study to Feeding America to support communities
+facing hunger.
+Manipulations check. The manipulations of COVID-19triggered mortality salience (Mhigh ⫽ 3.30, Mlow ⫽ 2.87, F(1,
+280) ⫽ 8.73, p ⫽ .003) and servant leadership (Mhigh ⫽ 4.36,
+Mlow ⫽ 1.68, F(1, 280) ⫽ 1110.91, p ⬍ .001) were effective in
+Study 2. Both perceived COVID-19-triggered morality salience
+
+Job Engagement
+
+This document is copyrighted by the American Psychological Association or one of its allied publishers.
+This article is intended solely for the personal use of the individual user and is not to be disseminated broadly.
+
+Method
+
+2.5
+
+Higher Servant
+Leadership
+
+2
+
+Lower Servant
+Leadership
+
+1.5
+
+1
+
+0.5
+
+0
+Lower (–1 SD)
+
+Higher (+1 SD)
+
+State Anxiety
+
+Figure 5. The interaction effect of servant leadership and state anxiety on
+prosocial behavior in Study 2.
+
+and servant leadership were measured with the same scales as we
+did in Study 1 (1 ⫽ strong disagree to 5 ⫽ strongly agree).
+
+Results
+Table 3 shows the basic statistics and correlations among focal
+variables. We conducted path analyses using Mplus 8.3 with a
+Bayesian method.6 As shown in Model 1 of Table 4, COVID-19triggered mortality salience was positively related to state anxiety
+(B ⫽ .51, p ⬍ .001), supporting Hypothesis 1. The interaction term
+(State Anxiety ⫻ Servant Leadership; Model 2) was positively
+related to job engagement (B ⫽ .25, p ⫽ .03) and prosocial
+behavior (B ⫽ .14, p ⫽ .03). However, inconsistent with our
+expectation, the direction of the relationship between state anxiety
+and job engagement flipped to be positive when servant leadership
+was higher (B ⫽ .35, p ⬍ .001) but not significant (B ⫽ .10, p ⫽
+.14) when it was lower (see Figure 4), rejecting Hypothesis 2.
+Figure 5 showed that the relationship between state anxiety and
+prosocial behavior was positive (B ⫽ .18, p ⬍ .001) when servant
+leadership was higher but not significant (B ⫽ .04, p ⫽ .21) when
+it was lower. The indirect relationship between COVID-19triggered mortality salience and prosocial behavior via state anxiety was more positive (difference ⫽ .07, 95% CI [.000, .157])
+when servant leadership was higher (B ⫽ .09, 95% CI [.033, .165])
+than when it was lower (B ⫽ .02, 95% CI [⫺.031, .077]), sup5
+The data collection was approved by IRB (#2020B0110) at the Ohio
+State University, with which Jia Hu was affiliated.
+6
+We conducted Bayesian path-analysis instead of Bayesian SEM analysis in the two experiments (Study 2 and Study 3) for three reasons. First,
+three of the five study variables in the model (i.e., COVID-19-triggered
+mortality salience manipulation condition, servant leadership manipulation
+condition, prosocial behavior) were each measured using a single item.
+Second, the subject-to-parameter ratio in path-analysis was 17.63 (282:16)
+in Study 2 and 13.13 (210:16) in Study 3, which were larger than that in
+SEM (5.88 or 282:48 in Study 2 and 3.82 or 210:55 in Study 3) and closer
+to the recommended ratio of 20 and an acceptable ratio of 10 suggested by
+Jackson (2007) and Kline (2016). Third, the XWITHIN function to estimate interaction effects in Bayesian SEM does not allow producing deviance information criteria (DIC) value for model fit comparison (Cain &
+Zhang, 2019). The Bayesian SEM analysis produces largely similar path
+estimates as the Bayesian path-analysis via Mplus in the two studies. The
+results are available via online supplementary material.
+
+COVID-19 MORTALITY SALIENCE AND EMPLOYEE RESPONSES
+
+1227
+
+Table 5
+Means, Standard Deviations, and Correlations Among Variables in Study 3
+Variable
+
+This document is copyrighted by the American Psychological Association or one of its allied publishers.
+This article is intended solely for the personal use of the individual user and is not to be disseminated broadly.
+
+1.
+2.
+3.
+4.
+5.
+6.
+
+COVID-19-triggered mortality salience
+Servant leadership
+State death anxiety
+Job engagement
+Prosocial behavior
+Servant Leadership ⫻ State Death Anxiety
+
+M
+
+SD
+
+1
+
+2
+
+3
+
+4
+
+5
+
+6
+
+.52
+.49
+2.91
+3.12
+.45
+.12
+
+.50
+.50
+1.19
+1.06
+.82
+.58
+
+—
+.11
+.44ⴱⴱ
+⫺.08
+.08
+⫺.12
+
+—
+.20ⴱⴱ
+.22ⴱⴱ
+.28ⴱⴱ
+.01
+
+(.95)
+.22ⴱⴱ
+.14ⴱ
+⫺.08
+
+(.94)
+.29ⴱⴱ
+.01
+
+—
+.18ⴱ
+
+—
+
+Note. N ⫽ 210. Coronavirus disease 2019 (COVID-19)-triggered mortality salience (0 ⫽ lower, 1 ⫽ higher) and servant leadership (0 ⫽ lower, 1 ⫽
+higher) were dummy variables. Servant Leadership ⫻ State Death Anxiety was the product of servant leadership (grand-mean centered) and state death
+anxiety (grand-mean centered). Cronbach’s alpha coefficients were reported along the diagonal in bold.
+ⴱ
+p ⬍ .01. ⴱⴱ p ⬍ .01 (two-tailed).
+
+porting Hypothesis 3. In sum, Study 2 largely replicated our test of
+the hypotheses and supported causal inferences. Yet it remains
+unclear whether death-specific anxiety, a more proximal outcome
+of thoughts of death, may serve the same role as general state
+anxiety does in the relationship of COVID-19-triggered mortality
+salience and employee responses. Thus, we conducted a new
+experiment by replacing general anxiety with death anxiety.
+
+was significantly positive (B ⫽ .19, p ⫽ .005) when servant
+leadership was higher but not significant (B ⫽ ⫺.07, p ⫽ .15)
+when it was lower. The indirect relationship between COVID-19triggered mortality salience and prosocial behavior via state death
+anxiety was more positive (difference ⫽ .27, 95% CI [.075, .493])
+when servant leadership was higher (B ⫽ .19, 95% CI [.048, .365])
+than when it was lower (B ⫽ ⫺.07, 95% CI [⫺.220, .065]). These
+results supported Hypothesis 3.
+
+Study 3
+Method
+Sample, procedure, and measures. We sought to recruit 280
+(70 per condition) participants from MTurk7 following the same
+procedure in Study 2. Among the 272 participants who completed
+the experiment, we obtained 210 valid responses following the
+same data scrutinization procedure as in Study 2, leading to a valid
+response rate of 77.2%. Of the 210 participants, 34.3% were
+female, 74.3% were between 25 and 44 years old, and the average
+job tenure was 6.32 years (SD ⫽ 4.80). Participants held occupational positions such as engineer, sales manager, and business
+analyst across a variety of industries such as finance, technology,
+retail, and health care. We used the same manipulations and
+measures as in Study 2. To measure state death anxiety, we used
+a five-item scale from Belmi and Pfeffer (2016) (e.g., “I feel
+worried about my death”; 1 ⫽ very slightly to 5 ⫽ extremely).
+Manipulations check. The manipulations of COVID-19triggered mortality salience (Mhigh ⫽ 3.66, Mlow ⫽ 3.11, F(1,
+208) ⫽ 15.87, p ⬍ .001) and servant leadership (Mhigh ⫽ 4.20,
+Mlow ⫽ 2.87, F(1, 208) ⫽ 98.45, p ⬍ .001) were effective in
+Study 3.
+
+Results
+Table 5 shows the basic statistics and correlations among focal
+variables. We conducted path analyses using Mplus 8.3 with a
+Bayesian method. As shown in Model 1 of Table 6, COVID-19triggered mortality salience was positively related to state death
+anxiety (B ⫽ 1.04, p ⬍ .001), supporting Hypothesis 1. The
+interaction term (State Death Anxiety ⫻ Servant Leadership;
+Model 2) was not related to job engagement (B ⫽ .00, p ⫽ .49),
+rejecting Hypothesis 2. This interaction term was positively related
+to prosocial behavior (B ⫽ .26, p ⫽ .004). As shown in Figure 6,
+the relationship between state death anxiety and prosocial behavior
+
+General Discussion
+We conducted three studies with different research designs and
+samples from both Eastern and Western cultures to test our model.
+Our findings showed that COVID-19-triggered mortality salience
+increases state anxiety (general anxiety in Study 1 and Study 2 and
+death-specific anxiety in Study 3). The results apply TMT to the
+unique context of COVID-19 and to understand employees’ emotional and behavioral responses in the face of salient mortality
+cues. We show that when dealing with an unprecedented crisis like
+COVID-19, mortality salience not only triggers anxiety about own
+deaths (in Study 3) but also generates tremendous overall anxiety
+(in Study 1 and Study 2). It is worth noting that in Study 1, we
+found that the subjective thoughts of death, but not the objective
+daily COVID-19 death cases, influenced employees’ anxiety.
+These findings concur with terror management research findings
+that only when individuals are aware of the inevitability of death,
+do they generate unpleasant anxiety (Greenberg & Arndt, 2012).
+We also contribute to the terror management research by highlighting the importance of servant leadership in translating state
+anxiety resulting from mortality salience to job engagement and
+prosocial behavior. TMT holds that when people espouse compassion and have increased feelings of self-worth, they are better able
+to manage terror and mitigate harmful outcomes of anxiety
+(Greenberg & Arndt, 2012). We found that servant leaders who
+keep employees’ well-being paramount and model compassion can
+help anxious employees stay engaged at work and help the broader
+community. In Studies 1 and 2, we found that servant leadership
+moderates the negative effect of COVID-19-triggered mortality
+salience on job engagement via state anxiety. Interestingly, findings in Study 2 revealed that the relationship between state anxiety
+7
+The data collection was approved by IRB (study number: 2020B0110)
+at the Ohio State University, with which Jia Hu was affiliated.
+
+HU, HE, AND ZHOU
+
+1228
+Table 6
+Results for Path Analyses in Study 3
+
+Dependent variable
+Model 1
+State death
+anxiety
+B (PSD)
+[95% CI]
+
+Job
+engagement
+B (PSD)
+[95% CI]
+
+Prosocial
+behavior
+B (PSD)
+[95% CI]
+
+State death
+anxiety
+B (PSD)
+[95% CI]
+
+Job
+engagement
+B (PSD)
+[95% CI]
+
+Prosocial
+behavior
+B (PSD)
+[95% CI]
+
+.00 (.08)
+[⫺.147, .148]
+1.04ⴱⴱⴱ (.15)
+[.746, 1.333]
+
+3.12ⴱⴱⴱ (.07)
+[2.979, 3.254]
+⫺.47ⴱⴱ (.16)
+[⫺.773, ⫺.166]
+.25ⴱⴱⴱ (.07)
+[.119, .381]
+.39ⴱⴱ (.14)
+[.111, .672]
+
+.45ⴱⴱⴱ (.06)
+[.340, .554]
+.03 (.12)
+[⫺.211, .270]
+.05 (.05)
+[⫺.048, .156]
+.43ⴱⴱⴱ (.11)
+[.204, .646]
+
+.00 (.07)
+[⫺.144, .142]
+1.04ⴱⴱⴱ (.15)
+[.752, 1.333]
+
+.11
+
+.09
+
+3.12ⴱⴱⴱ (.06)
+[2.975, 3.257]
+⫺.47ⴱⴱ (.16)
+[⫺.775, ⫺.164]
+.25ⴱⴱⴱ (.07)
+[.118, .381]
+.38ⴱⴱ (.14)
+[.105, .669]
+.00 (.12)
+[⫺.234, .247]
+.11
+
+.42ⴱⴱⴱ (.06)
+[.310, .526]
+.06 (.12)
+[⫺.174, .303]
+.06 (.05)
+[⫺.042, .160]
+.42ⴱⴱⴱ (.11)
+[.200, .630]
+.26ⴱⴱ (.09)
+[.075, .443]
+.12
+
+Independent variable
+Intercept
+
+State death anxiety
+Servant leadership
+State Death Anxiety ⫻ Servant Leadership
+R2
+DIC
+
+.19
+1,719.44
+
+.19
+1,714.60
+
+Note. N ⫽ 210. COVID-19 ⫽ Coronavirus disease 2019; B ⫽ unstandardized path coefficients; PSD ⫽ standard deviation of the posterior distribution;
+CI ⫽ credibility interval; DIC ⫽ deviance information criterion. Mplus output typically provided the p values as one-tailed in Bayesian analyses. The
+intercept of state anxiety was zero because it was grand-mean centered. For all codes and outputs of Mplus, see online supplemental materials.
+ⴱⴱ
+p ⬍ .01. ⴱⴱⴱ p ⬍ .001 (one-tailed).
+
+and job engagement became positive when servant leadership was
+higher. Study 3 also showed a positive main effect of death anxiety
+on job engagement. A possible reason for these findings might be
+that in the experimental context, participants completed the vignette tasks in a short time, not long enough for anxiety to cause
+cognitive disruptions that jeopardize job engagement. Prior research also showed that terror management defensive actions (e.g.,
+reduced efforts) do not occur immediately after mortality is primed
+but become salient after a delay (Pyszczynski, Greenberg, &
+Solomon, 1999).
+Our findings also provide timely, practical implications. First,
+organizations have an imperative to act to help employees better
+adjust to the outbreak and mitigate the negative influence on their
+mental and emotional experiences. Second, organizations and
+leaders should form a more balanced understanding of the importance of employees’ state anxiety in shaping their efforts at and
+
+Prosocial Behavior
+
+This document is copyrighted by the American Psychological Association or one of its allied publishers.
+This article is intended solely for the personal use of the individual user and is not to be disseminated broadly.
+
+COVID-19-triggered mortality salience
+
+Model 2
+
+2.5
+
+Higher Servant
+Leadership
+
+2
+
+Lower Servant
+Leadership
+
+1.5
+
+1
+
+0.5
+
+0
+Lower (–1 SD)
+
+Higher (+1 SD)
+
+State Death Anxiety
+
+Figure 6. The interaction effect of servant leadership and state death
+anxiety on prosocial behavior in Study 3.
+
+outside work. Specifically, our findings suggest that servant leaders can help employees find meaning during a crisis and encourage
+them to engage at work and to volunteer more in the community.
+We encourage organizations to train leaders to demonstrate servant
+behaviors. For example, leaders can help employees take up the
+challenge by spending more time connecting with their employees
+even when they are physically distant and providing more autonomy for them to better transit to remote work.
+Our research is subject to several limitations, which point to
+future directions. COVID-19 is having a far-reaching impact on
+our lives and livelihoods. We are unable to test employees’ adjustment in the postcrisis world, but it would be a significant
+extension to the crisis management research to evaluate how
+employees build resilience during and after the crisis (e.g., Williams & Shepherd, 2016). Second, we focus on job engagement to
+measure employees’ investment in their work roles, but other
+outcomes such as absenteeism (Sliter et al., 2014) also warrant
+attention. Third, our findings deviate from Grant and WadeBenzoni’s (2009) perspective that death anxiety resulting from
+mortality cues leads to work withdrawal while death reflection
+leads to increased prosocial behavior. A possible explanation of
+the differences might be that compared to other death-exposed
+incidents, COVID-19 is a global tragedy that affects us all, and the
+associated anxiety may motivate people to search for connection
+and to pursue a higher path of humanity. Nevertheless, we are
+unable to compare whether death anxiety and reflection would
+differently influence workplace and community behaviors and
+hope this limitation will be addressed in future studies.
+
+References
+Aguinis, H., Gottfredson, R. K., & Culpepper, S. A. (2013). Best-practice
+recommendations for estimating cross-level interaction effects using
+multilevel modeling. Journal of Management, 39, 1490 –1528. http://dx
+.doi.org/10.1177/0149206313478188
+
+This document is copyrighted by the American Psychological Association or one of its allied publishers.
+This article is intended solely for the personal use of the individual user and is not to be disseminated broadly.
+
+COVID-19 MORTALITY SALIENCE AND EMPLOYEE RESPONSES
+Belmi, P., & Pfeffer, J. (2016). Power and death: Mortality salience
+increases power seeking while feeling powerful reduces death anxiety.
+Journal of Applied Psychology, 101, 702–720. http://dx.doi.org/10.1037/
+apl0000076
+Bligh, M. C., Kohles, J. C., & Meindl, J. R. (2004). Charisma under crisis:
+Presidential leadership, rhetoric, and media responses before and after
+the September 11th terrorist attacks. The Leadership Quarterly, 15,
+211–239. http://dx.doi.org/10.1016/j.leaqua.2004.02.005
+Bolstad, W. M., & Curran, J. M. (2007). Introduction to Bayesian statistics.
+Hoboken, NJ: Wiley. http://dx.doi.org/10.1002/9780470181188
+Brislin, R. W. (1986). The wording and translation of research instruments.
+In W. J. Lonner & J. W. Berry (Eds.), Field methods in cross-cultural
+research (pp. 137–164). Beverley Hills, CA: Sage.
+Brooks, A. W., & Schweitzer, M. E. (2011). Can nervous nelly negotiate?
+How anxiety causes negotiators to make low first offers, exit early, and
+earn less profit. Organizational Behavior and Human Decision Processes, 115, 43–54. http://dx.doi.org/10.1016/j.obhdp.2011.01.008
+Burke, B. L., Martens, A., & Faucher, E. H. (2010). Two decades of terror
+management theory: A meta-analysis of mortality salience research.
+Personality and Social Psychology Review, 14, 155–195. http://dx.doi
+.org/10.1177/1088868309352321
+Cain, M. K., & Zhang, Z. (2019). Fit for a Bayesian: An evaluation of PPP
+and DIC for structural equation modeling. Structural Equation Modeling, 26, 39 –50. http://dx.doi.org/10.1080/10705511.2018.1490648
+Cheng, B. H., & McCarthy, J. M. (2018). Understanding the dark and
+bright sides of anxiety: A theory of workplace anxiety. Journal of
+Applied Psychology, 103, 537–560. http://dx.doi.org/10.1037/
+apl0000266
+Cozzolino, P. J. (2006). Death contemplation, growth, and defense: Converging evidence of dual-existential systems? Psychological Inquiry, 17,
+278 –287. http://dx.doi.org/10.1080/10478400701366944
+Eysenck, M. W., & Byrne, A. (1992). Anxiety and susceptibility to
+distraction. Personality and Individual Differences, 13, 793–798. http://
+dx.doi.org/10.1016/0191-8869(92)90052-Q
+Forgas, J. P. (1998). On being happy and mistaken: Mood effects on the
+fundamental attribution error. Journal of Personality and Social Psychology, 75, 318 –331. http://dx.doi.org/10.1037/0022-3514.75.2.318
+Fredrickson, B. L. (2001). The role of positive emotions in positive
+psychology. The broaden-and-build theory of positive emotions. American Psychologist, 56, 218 –226. http://dx.doi.org/10.1037/0003-066X
+.56.3.218
+Gino, F., Brooks, A. W., & Schweitzer, M. E. (2012). Anxiety, advice, and
+the ability to discern: Feeling anxious motivates individuals to seek and
+use advice. Journal of Personality and Social Psychology, 102, 497–
+512. http://dx.doi.org/10.1037/a0026413
+Grant, A. M., Franklin, J., & Langford, P. (2002). The self-reflection and
+insight scale: A new measure of private self-consciousness. Social
+Behavior and Personality: An International Journal, 30, 821– 835.
+http://dx.doi.org/10.2224/sbp.2002.30.8.821
+Grant, A. M., & Wade-Benzoni, K. A. (2009). The hot and cool of death
+awareness at work: Mortality cues, aging, and self-protective and prosocial motivations. The Academy of Management Review, 34, 600 – 622.
+http://dx.doi.org/10.5465/amr.34.4.zok600
+Grant, A. M. [@AdamMGrant]. (2020, March 19). Bad leaders believe
+people work for them. Good leaders believe people work with them.
+Great leaders believe they work for [Tweet]. Twitter. Retrieved from
+https://twitter.com/adammgrant/status/1240654620252418050?lang⫽en
+Greenberg, J., & Arndt, J. (2012). Terror management theory. In P. A. V.
+Lange, A. W. Kruglanski, & E. T. Higgins (Eds.), Handbook of theories
+of social psychology (Vol. 1, pp. 398 – 415). London, UK: Sage. http://
+dx.doi.org/10.4135/9781446249215.n20
+Greenberg, J., Pyszczynski, T., & Solomon, S. (1986). The causes and
+consequences of a need for self-esteem: A terror management theory. In
+
+1229
+
+R. F. Baumeister (Ed.), Public self and private self (pp. 189 –212). New
+York, NY: Springer. http://dx.doi.org/10.1007/978-1-4613-9564-5_10
+Greenberg, J., Simon, L., Harmon-Jones, E., Solomon, S., Pyszczynski, T.,
+& Lyon, D. (1995). Testing alternative explanations for mortality salience effects: Terror management, value accessibility, or worrisome
+thoughts? European Journal of Social Psychology, 25, 417– 433. http://
+dx.doi.org/10.1002/ejsp.2420250406
+Greenberg, J., Solomon, S., & Arndt, J. (2008). A basic but uniquely
+human motivation. In J. Shah & W. Gardner (Eds.), Handbook of
+motivation science (pp. 114 –134). New York, NY: Guilford Press.
+Greenleaf, R. K. (1970). The servant as leader (an essay). Atlanta, GA:
+Robert K. Greeleaf Center.
+Hirschberger, G., Ein-Dor, T., & Almakias, S. (2008). The self-protective
+altruist: Terror management and the ambivalent nature of prosocial
+behavior. Personality and Social Psychology Bulletin, 34, 666 – 678.
+http://dx.doi.org/10.1177/0146167207313933
+Isabella, L. A. (1990). Evolving interpretations as a change unfolds: How
+managers construe key organizational events. Academy of Management
+Journal, 33, 7– 41. http://dx.doi.org/10.2307/256350
+Jackson, D. L. (2007). The effect of the number of observations per
+parameter in misspecified confirmatory factor analytic models. Structural Equation Modeling, 14, 48 –76. http://dx.doi.org/10.1080/
+10705510709336736
+Jonas, E., Kauffeld, S., Sullivan, D., & Fritsche, I. (2011). Dedicate your
+life to the company! A terror management perspective on organizations.
+Journal of Applied Social Psychology, 41, 2858 –2882. http://dx.doi.org/
+10.1111/j.1559-1816.2011.00854.x
+Jonas, E., Schimel, J., Greenberg, J., & Pyszczynski, T. (2002). The
+scrooge effect: Evidence that mortality salience increases prosocial
+attitudes and behavior. Personality and Social Psychology Bulletin, 28,
+1342–1353. http://dx.doi.org/10.1177/014616702236834
+Judge, T. A., Thoresen, C. J., Pucik, V., & Welbourne, T. M. (1999).
+Managerial coping with organizational change: A dispositional perspective. Journal of Applied Psychology, 84, 107–122. http://dx.doi.org/10
+.1037/0021-9010.84.1.107
+Juhl, J. (2019). Terror management theory: A theory of psychological
+well-being. In C. Routledge & M. Vess (Eds.), Handbook of terror
+management theory (pp. 303–324). London, UK: Academic Press. http://
+dx.doi.org/10.1016/B978-0-12-811844-3.00013-5
+Juhl, J., & Routledge, C. (2016). Putting the terror in terror management
+theory: Evidence that the awareness of death does cause anxiety and
+undermine psychological well-being. Current Directions in Psychological Science, 25, 99 –103. http://dx.doi.org/10.1177/0963721415625218
+Kahn, W. A. (1990). Psychological conditions of personal engagement and
+disengagement at work. Academy of Management Journal, 33, 692–724.
+http://dx.doi.org/10.5465/256287
+Kline, R. B. (2016). Principles and practice of structural equation modeling (4th ed.). New York, NY: Guilford Press.
+Kouchaki, M., & Desai, S. D. (2015). Anxious, threatened, and also
+unethical: How anxiety makes individuals feel threatened and commit
+unethical acts. Journal of Applied Psychology, 100, 360 –375. http://dx
+.doi.org/10.1037/a0037796
+Kruschke, J. K., Aguinis, H., & Joo, H. (2012). The time has come:
+Bayesian methods for data analysis in the organizational sciences. Organizational Research Methods, 15, 722–752. http://dx.doi.org/10.1177/
+1094428112457829
+Lang, J. W. B., Bliese, P. D., & Runge, J. M. (2020). Detecting consensus
+emergence in organizational multilevel data: Power simulations. Organizational Research Methods. Advance online publication. http://dx.doi
+.org/10.1177/1094428119873950
+Liden, R. C., Wayne, S. J., Liao, C., & Meuser, J. D. (2014). Servant
+leadership and serving culture: Influence on individual and unit performance. Academy of Management Journal, 57, 1434 –1452. http://dx.doi
+.org/10.5465/amj.2013.0034
+
+This document is copyrighted by the American Psychological Association or one of its allied publishers.
+This article is intended solely for the personal use of the individual user and is not to be disseminated broadly.
+
+1230
+
+HU, HE, AND ZHOU
+
+Liden, R. C., Wayne, S. J., Meuser, J. D., Hu, J., Wu, J., & Liao, C. (2015).
+Servant leadership: Validation of a short form of the SL-28. The Leadership Quarterly, 26, 254 –269. http://dx.doi.org/10.1016/j.leaqua.2014
+.12.002
+Liden, R. C., Wayne, S. J., Zhao, H., & Henderson, D. J. (2008). Servant
+leadership: Development of a multidimensional measure and multi-level
+assessment. The Leadership Quarterly, 19, 161–177. http://dx.doi.org/
+10.1016/j.leaqua.2008.01.006
+Lykins, E. L. B., Segerstrom, S. C., Averill, A. J., Evans, D. R., & Kemeny,
+M. E. (2007). Goal shifts following reminders of mortality: Reconciling
+posttraumatic growth and terror management theory. Personality and
+Social Psychology Bulletin, 33, 1088 –1099. http://dx.doi.org/10.1177/
+0146167207303015
+Lynch, S. M. (2007). Introduction to applied Bayesian statistics and
+estimation for social scientists. New York, NY: Springer Science &
+Business Media. http://dx.doi.org/10.1007/978-0-387-71265-9
+Mainiero, L. A., & Gibson, D. E. (2003). Managing employee trauma:
+Dealing with the emotional fallout from 9 –11. The Academy of Management Perspectives, 17, 130 –143. http://dx.doi.org/10.5465/ame.2003
+.10954782
+Muthén, B. (2010). Bayesian analysis in Mplus: A brief introduction
+(Technical Report). Los Angeles, CA: Author.
+Muthén, L. K., & Muthén, B. O. (1998 –2017). Mplus user’s guide (8th
+ed.). Los Angeles, CA: Author.
+Ohly, S., Sonnentag, S., Niessen, C., & Zapf, D. (2010). Diary studies in
+organizational research: An introduction and some practical recommendations. Journal of Personnel Psychology, 9, 79 –93. http://dx.doi.org/
+10.1027/1866-5888/a000009
+Preacher, K. J., Zyphur, M. J., & Zhang, Z. (2010). A general multilevel
+SEM framework for assessing multilevel mediation. Psychological
+Methods, 15, 209 –233. http://dx.doi.org/10.1037/a0020141
+Pyszczynski, T. (2004). What are we so afraid of? A terror management
+theory perspective on the politics of fear. Social Research, 71, 827– 848.
+Retrieved from https://www.muse.jhu.edu/article/527362
+Pyszczynski, T., Greenberg, J., & Solomon, S. (1999). A dual-process
+model of defense against conscious and unconscious death-related
+thoughts: An extension of terror management theory. Psychological
+Review, 106, 835– 845. http://dx.doi.org/10.1037/0033-295X.106.4.835
+Rich, B. L., Lepine, J. A., & Crawford, E. R. (2010). Job engagement:
+Antecedents and effects on job performance. Academy of Management
+Journal, 53, 617– 635. http://dx.doi.org/10.5465/amj.2010.51468988
+Rodell, J. B. (2013). Finding meaning through volunteering: Why do
+employees volunteer and what does it mean for their jobs? Academy of
+Management Journal, 56, 1274 –1294. http://dx.doi.org/10.5465/amj
+.2012.0611
+Salzman, M. B. (2001). Cultural trauma and recovery: Perspectives from
+terror management theory. Trauma, Violence, & Abuse, 2, 172–191.
+http://dx.doi.org/10.1177/1524838001002002005
+Schaufeli, W. B., Bakker, A. B., & Salanova, M. (2006). The measurement
+of work engagement with a short questionnaire: A cross-national study.
+
+Educational and Psychological Measurement, 66, 701–716. http://dx.doi
+.org/10.1177/0013164405282471
+Selig, J. P., & Preacher, K. J. (2008). Monte Carlo method for assessing
+mediation: An interactive tool for creating confidence intervals for
+indirect effects [Computer software]. Retrieved from http://quantpsy.org
+Simon, L. S., Hurst, C., Kelley, K., & Judge, T. A. (2015). Understanding
+cycles of abuse: A multimotive approach. Journal of Applied Psychology, 100, 1798 –1810. http://dx.doi.org/10.1037/apl0000031
+Sliter, M. T., Sinclair, R. R., Yuan, Z., & Mohr, C. D. (2014). Don’t fear
+the reaper: Trait death anxiety, mortality salience, and occupational
+health. Journal of Applied Psychology, 99, 759 –769. http://dx.doi.org/
+10.1037/a0035729
+Snijders, T. A., & Bosker, R. J. (2012). Multilevel analysis: An introduction to basic and advanced multilevel modeling (2nd ed.). London, UK:
+Sage.
+United Nations. (2020). The UN Office for Disarmament Affairs remains
+active and committed: How the covid-19 pandemic is affecting the work
+of disarmament. Retrieved from https://www.un.org/disarmament/howthe-covid-19-pandemic-is-affecting-the-work-of-disarmament/
+Vail, K. E., III, Juhl, J., Arndt, J., Vess, M., Routledge, C., & Rutjens, B. T.
+(2012). When death is good for life: Considering the positive trajectories
+of terror management. Personality and Social Psychology Review, 16,
+303–329. http://dx.doi.org/10.1177/1088868312440046
+van Dierendonck, D. (2011). Servant leadership: A review and synthesis.
+Journal of Management, 37, 1228 –1261. http://dx.doi.org/10.1177/
+0149206310380462
+Watson, D., Clark, L. A., & Tellegen, A. (1988). Development and validation of brief measures of positive and negative affect: The PANAS
+scales. Journal of Personality and Social Psychology, 54, 1063–1070.
+http://dx.doi.org/10.1037/0022-3514.54.6.1063
+Williams, T. A., & Shepherd, D. A. (2016). Building resilience or providing sustenance: Different paths of emergent ventures in the aftermath of
+the Haiti earthquake. Academy of Management Journal, 59, 2069 –2102.
+http://dx.doi.org/10.5465/amj.2015.0682
+Wu, J., Liden, R. C., Liao, C., & Wayne, S. J. (2020). Does manager
+servant leadership lead to follower serving behaviors? It depends on
+follower self-interest. Journal of Applied Psychology. Advance online
+publication. http://dx.doi.org/10.1037/apl0000500
+Yuan, Z., Baranik, L. E., Sinclair, R. R., Sliter, M. T., Rand, K. L., &
+Salyers, M. P. (2019). Memento mori: The development and validation
+of the death reflection scale. Journal of Organizational Behavior, 40,
+417– 433. http://dx.doi.org/10.1002/job.2339
+Zaleskiewicz, T., Gasiorowska, A., & Kesebir, P. (2015). The Scrooge
+effect revisited: Mortality salience increases the satisfaction derived
+from prosocial behavior. Journal of Experimental Social Psychology, 59,
+67–76. http://dx.doi.org/10.1016/j.jesp.2015.03.005
+Zyphur, M. J., & Oswald, F. L. (2015). Bayesian estimation and inference:
+A user’s guide. Journal of Management, 41, 390 – 420. http://dx.doi.org/
+10.1177/0149206313501200
+
+COVID-19 MORTALITY SALIENCE AND EMPLOYEE RESPONSES
+
+1231
+
+Appendix A
+Multilevel Confirmatory Factor Analyses in Study 1
+Conventional approach
+Model
+
+This document is copyrighted by the American Psychological Association or one of its allied publishers.
+This article is intended solely for the personal use of the individual user and is not to be disseminated broadly.
+
+Model
+Model
+Model
+Model
+
+1
+2
+3
+4
+
+Bayesian-based approach
+
+␹2
+
+df
+
+⌬␹2(⌬df)
+
+RMSEA
+
+CFI
+
+TLI
+
+SRMRwithin
+
+SRMRbetween
+
+PPC
+
+DIC
+
+pD
+
+923.33
+1,491.60
+2,204.63
+2,743.99
+
+355
+362
+362
+367
+
+—
+481.06ⴱⴱⴱ (7)
+582.42ⴱⴱⴱ (7)
+1,004.90ⴱⴱⴱ (12)
+
+.03
+.05
+.06
+.07
+
+.92
+.83
+.73
+.65
+
+.90
+.81
+.69
+.61
+
+.04
+.06
+.08
+.09
+
+.06
+.08
+.11
+.12
+
+[537.05, 718.11]
+[1,099.94, 1,314.48]
+[1,885.04, 2,132.55]
+[2,448.59, 2,704.19]
+
+62,501.79
+63,132.53
+63,759.83
+64,382.30
+
+1,839.04
+1,899.14
+2,003.06
+2,052.74
+
+Note. Model ⫽ the hypothesized five-factor model included perceived Coronavirus disease 2019 (COVID-19)-triggered mortality salience (PMS), state
+anxiety (SA), job engagement (JE), prosocial behavior (PB), and perceived servant leadership. Model 2 ⫽ the four-factor model (PMS and SA were
+combined). Model 3 ⫽ the four-factor model (JE and PB were combined). Model 4 ⫽ the three-factor model (PMS and SA were combined, JE and PB
+were combined). The Satorra-Bentler scaled chi-square difference tests (https://www.statmodel.com/chidiff.shtml) were applied in the comparisons between
+models. PPC ⫽ posterior predictive checks using chi-square; DIC ⫽ deviance information criterion; pD ⫽ estimated number of parameters; RMSEA ⫽
+root mean square error of approximation; CFI ⫽ comparative fit index; TLI ⫽ Tucker-Lewis index; SRMR ⫽ standardized root mean residual. For all codes
+and outputs of Mplus, see online supplemental materials.
+ⴱⴱⴱ
+p ⬍ .001 (two-tailed).
+
+Appendix B
+Model Formulas and the Variance Components in Study 1
+␤4j ⫽ ␥40 ⫹ ␮4j
+
+Within-person level equations:
+␥ij ⫽ ␤oj ⫹ ␤1jmi ⫹ ␤2jxi ⫹ ␤3jc1i ⫹ εoj
+
+␤5j ⫽ ␥50
+
+mij ⫽ ␤4j ⫹ ␤5jxi ⫹ ␤6jc1i ⫹ ε1j
+
+␤6j ⫽ ␥60
+
+Between-person level equations:
+␤oj ⫽ ␥00 ⫹ ␥01m j ⫹ ␥02w j ⫹ ␥03m jw j ⫹ ␥04c2 j ⫹ ␮oj
+␤1j ⫽ ␥10 ⫹ ␥11w j ⫹ ␮1j
+␤2j ⫽ ␥20
+␤3j ⫽ ␥30
+
+Note. i denotes the day and j denotes the person. y ⫽ dependent variable
+(job engagement/prosocial behavior); m ⫽ state anxiety; m.j ⫽ the groupmean of state anxiety; x ⫽ daily confirmed COVID-19 death cases/
+perceived COVID-19 triggered mortality salience; w ⫽ perceived servant
+leadership; c1 ⫽ within-person level controls (new statistical method,
+affected family member, work mode, previous-day job engagement/prosocial behavior); c2 ⫽ between-person level controls (age, gender, education,
+city1, city2).
+
+(Appendices continue)
+
+HU, HE, AND ZHOU
+
+1232
+
+Appendix C
+Manipulation Materials in Study 2 and Study 3
+Islands, and the U.S. Virgin Islands. As of April 13, 2020,
+around the world, among the currently infected patients of
+COVID-19, 96% (1,262, 011) are in mid condition, and
+among the closed cases, 79% (422,556) have been recovered or discharged. Due to a lack of widespread testing,
+many people who have recovered from coronavirus are not
+included and the recovered cases may be more than reported.
+• The respiratory disease at this point pales in comparison to
+the seasonal flu. Patients with COVID-19 show flu-like
+symptoms of fever, tiredness, and dry cough. Most people
+recover from the disease without needing special treatment. Some people who are infected never got physically
+sick themselves. A team of infectious disease experts
+calculated the fatality rate of coronavirus outbreak is about
+1.4%, drastically lower than earlier estimates.
+• COVID-19 is more likely to affect the aged and those with
+underlying conditions. But seeing reports the 102-year-old
+woman from Italy and the 104-year-old veteran in Oregon
+who both recovered from the illness has been inspiring.
+• Without protective measures, one person on average infects 2.5 others. The good news is that transmission can
+be prevented. Good personal hygiene and social distancing can be very effective. Due to high levels of selfquarantine, countries and regions have reported significantly fewer infections. There is no treatment for COVID19, but medical care can treat most of the symptoms.
+Scientists have figured out how COVID-19 breaks into
+human cells, which will help significantly in developing
+treatments. Vaccination trials in several countries including the US are already underway. Researchers of the
+Erasmus Medical Center have found an antibody against
+COVID-19.9
+
+This document is copyrighted by the American Psychological Association or one of its allied publishers.
+This article is intended solely for the personal use of the individual user and is not to be disseminated broadly.
+
+Manipulation Materials of Mortality Salience
+Higher mortality salience condition. Please read a summary
+of news about the novel coronavirus from major news outlets:
+• Coronavirus disease 2019 (COVID-19) is a respiratory
+illness that can spread from person to person. The number
+of COVID-19 cases in the United States keeps jumping
+each day by over 20,000. By Monday, April 13, the
+COVID-19 outbreak in the United States had grown to at
+least 559, 712 cases and 22,070 deaths in all 50 states, the
+District of Columbia, Puerto Rico, the Northern Mariana
+Islands, and the U.S. Virgin Islands. Around the world,
+there are at least 1,849,381 cases and 114,053 deaths.8 But
+due to a lack of widespread testing, the outbreak is likely
+to be even bigger.
+• The respiratory disease is deadly and akin to severe pneumonia. Patients with COVID-19 show symptoms of fever,
+coughing, difficulty breathing, and pneumonia—anything
+short of requiring oxygen. Severe cases require supplemental oxygen, sometimes via a breathing tube and a
+ventilator. Critical cases involve “respiratory failure or
+multi-organ failure,” severe illness and death. If people get
+infected, they may change from no symptoms to difficulty
+breathing or shortness of breath, persistent pain or chest
+pressure, an onset of confusion or the inability to stay
+awake, and bluish lips or face in just two days. On
+average, COVID-19 fatalities are happening “eight
+days” after patients show first symptoms.
+• No one—young and old, healthy and infirm—has immunity. Seeing reports the 30-year-old baseball coach in New
+Jersey and the 25-year-old pharmacy tech in California
+who both died from the illness and were not believed to
+have had any underlying conditions has been unsettling.
+• COVID-19 can spread about one to three days before
+symptoms start. An intensive-care expert broke down just
+how contagious the coronavirus is, showing how one
+person could end up infecting 59,000 in a snowball
+effect. Cases are spreading exponentially. Hospitals and
+medical staff have quickly become overwhelmed. Know
+that if you do go to the hospital, there is currently no
+treatment for COVID-19.
+Lower mortality salience condition. Please read a summary
+of news about the novel coronavirus from major news outlets:
+• Coronavirus disease 2019 (COVID-19) is a respiratory
+illness that can spread from person to person. By Monday,
+April 13, the recovered cases of COVID-19 in the United
+States had grown to at least 32, 832 in all 50 states, the
+District of Columbia, Puerto Rico, the Northern Mariana
+
+8
+
+In Study 3, the information was updated with data current as of May
+21, 2020. In the higher mortality salience condition, “By Thursday, May
+21, the COVID-19 outbreak in the United States had grown to at least 1.61
+million cases and 95, 213 deaths in all 50 states, the District of Columbia
+and Puerto Rico. Around the world, there are at least 5.11 million cases and
+333,000 deaths.” In the lower mortality salience condition, “By Thursday,
+May 21, the recovered cases of COVID-19 in the United States had grown
+to at least 309,000 in all 50 states, the District of Columbia and Puerto
+Rico. As of May 21, 2020, around the world, among the currently infected
+patients of Covid-19, 98% (2,745,318) are in mid condition, and among the
+closed cases, 86% (2,115,542) have been recovered or discharged.”
+9
+In Study 3, this sentence was changed to “Remdesivir is one of the
+most promising therapies against Covid-19 as it was shown to attack the
+virus once it is spreading inside the body” based on information current as
+of May 21, 2020.
+
+(Appendices continue)
+
+COVID-19 MORTALITY SALIENCE AND EMPLOYEE RESPONSES
+
+This document is copyrighted by the American Psychological Association or one of its allied publishers.
+This article is intended solely for the personal use of the individual user and is not to be disseminated broadly.
+
+Manipulation Materials of Servant Leadership in
+Study 2 and Study 3 Adapted From Wu et al., 2020
+Higher servant leadership condition. Imagine you have
+been working in a consulting company that helps solve problems
+for small-to-medium-sized businesses. The team consists of the
+team leader—Alex and three team members—you, Chris, and
+Casey. Since you started in your position, you have experienced
+the following in your work environment. The father of your
+coworker, Casey, broke his arm and needed some extra help during
+a few weeks of recovery. Your supervisor Alex allowed Casey to
+work some flexible hours during that time. Since your team started
+virtually during this pandemic, Alex has regularly checked in with
+each of you to make sure that you are prepared both technically
+and mentally to transit to virtual work.
+Six months ago, a new project became available which you
+knew would be a good career-related experience for you, but
+you were on another project which better fit your current skills.
+You asked Alex to be moved to the new project even though it
+meant that you would be working more slowly until you learned
+the new set of skills. You were happy, but not surprised when you
+were allowed to move to the new project as that is commonly the
+way such requests are handled on your team. Not long after you
+started working on the new project, your team encountered an
+unexpected challenge that threatened to delay the completion date.
+Alex was quick to recognize that there was a problem with the
+project even though your team had not yet fully understood the fact
+that the project had encountered a major problem. Despite the
+high-profile nature of the project, Alex showed confidence in the
+team by empowering the team to find and implement your team’s
+solution for the problem. Again, you were not surprised as this is
+what your team has grown to expect from Alex. Twice during the
+past few months, Alex has had the opportunity to meet short term
+goals by making ethically questionable decisions. In both cases
+Alex clearly refused to bend any ethical rules, setting a good
+example for your team. In addition to your regular job, Alex
+encourages each team member to spend time volunteering for
+causes that give back to the community, even if those volunteer
+opportunities are small or unrelated to official corporate programs.
+Now your team just got a new client: Blake, owner of a consumer retail company that sells kitchen-wares, a small company
+with 25 employees. In the past few months, Blake has witnessed a
+noticeable drop in the revenue and wants to seek help for increasing profits. Alex wants each of you to first come up with some
+ideas to help Blake. Please think about any potential ways to help
+Blake to increase the retail company’s revenue. Please write down
+3 to 5 possible suggestions in the box below.
+
+1233
+
+Lower servant leadership condition. Imagine you have been
+working in a consulting company that helps solve problems for
+small-to-medium-sized businesses. The team consists of the team
+leader—Alex and three team members—you, Chris, and Casey.
+Since you started in your position, you have experienced the
+following in your work environment. You have noticed that your
+supervisor Alex is usually fair, but that decisions are made to
+maximize how upper management views the productivity of the
+team and, by extension, Alex. Sometimes this makes team members look less productive to upper management, but Alex does not
+believe that personal or professional concern for team members
+should get in the way of meeting group performance benchmarks.
+Since your team started virtually during this pandemic, Alex has
+never checked in with each of you to see if you are prepared both
+technically and mentally to transit to virtual work.
+Six months ago, a new project became available that you knew
+would be a good career related experience for you, but you were
+already on another project which better fit your current skills. You
+asked Alex to be moved to the new project, but Alex kept you on
+the old project because it would hurt the company if you worked
+more slowly as you tried to learn the skills needed for the new
+project. More recently, your team started to encounter a number of
+work-related problems that threatened to seriously delay a delivery
+deadline. Initially, Alex failed to recognize that something was
+going wrong at work. Then, after you explained the problems and
+suggested some solutions, Alex refused to let you handle the
+situation in your own way, telling you what to do instead. As part
+of the solution, Alex lied to the client about what your team was
+delivering to them. Although this tactic did result in successfully
+meeting the deadline, you believe that it did not adhere to the
+ethics training that you regularly receive. In addition to your
+regular job, you would like to spend time volunteering for causes
+that give back to the community. However, Alex was not supportive and told you that those volunteer opportunities were small or
+unrelated to official corporate programs.
+Now your team just got a new client: Blake, owner of a consumer retail company that sells kitchen-wares, a small company
+with 25 employees. In the past few months, Blake has witnessed a
+noticeable drop in the revenue and wants to seek help for increasing profits. Alex wants each of you to first come up with some
+ideas to help Blake. Please think about any potential ways to help
+Blake to increase the retail company’s revenue. Please write down
+3 to 5 possible suggestions in the box below.
+Received April 28, 2020
+Revision received August 24, 2020
+Accepted August 25, 2020 䡲
+
+

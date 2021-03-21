@@ -1,0 +1,1198 @@
+Journal of Applied Psychology
+© 2020 American Psychological Association
+ISSN: 0021-9010
+
+2021, Vol. 106, No. 1, 62–70
+https://doi.org/10.1037/apl0000860
+
+Plug Back Into Work, Safely: Job Reattachment, Leader Safety
+Commitment, and Job Engagement in the COVID-19 Pandemic
+Zhenyu Yuan1, Zhuxin Ye2, and Meng Zhong1
+1
+
+This document is copyrighted by the American Psychological Association or one of its allied publishers.
+This article is intended solely for the personal use of the individual user and is not to be disseminated broadly.
+
+2
+
+Department of Managerial Studies, College of Business Administration, University of Illinois at Chicago
+Department of Innovation, Entrepreneurship and Intellectual Property Rights, School of Management, Huazhong University of
+Science and Technology
+With many employees returning to work after lockdowns and quarantines in the current COVID-19
+pandemic, research that seeks to identify effective ways to help them regain focus at work is warranted.
+However, the small body of applied psychology literature on large-scale disruptive events has paid
+insufficient attention to this important topic. Further, different from acute events (e.g., disasters), the
+ongoing pandemic poses an additional challenge for organizations as they seek to effectively protect
+employees’ job engagement from health and safety threats in the workplace. To address these gaps, we
+drew from job reattachment research and investigated it as an important antecedent of job engagement
+for employees returning to work. Moreover, we incorporated leader safety commitment as a moderator
+that can strengthen the effectiveness of job reattachment in enhancing job engagement. We further linked
+engagement to work withdrawal, use of personal protective equipment (e.g., wearing a mask), and task
+performance to underscore the downstream implications of job reattachment. To test our research model,
+we collected multiwave, multisource data from the original epicenter of the COVID-19 pandemic—
+Wuhan, China—where many employees were returning to work. The results provide strong support for
+our model. In addition to extending research on large-scale disruptive events, the current study has
+important implications for organizations and employees in the COVID-19 pandemic.
+Keywords: COVID-19, job reattachment, engagement, leader safety commitment, safety
+
+environment (North et al., 2010). Therefore, research aimed at
+identifying effective activities that can prepare employees for
+return to work and “reboot” their job engagement is warranted.
+Second, different from acute large-scale disasters, the current
+pandemic will likely last for some time, and the chances of
+community transmission in the workplace are nonnegligible. This
+suggests that the effect of engagement-enhancing activities may be
+limited unless organizations can find effective ways to mitigate
+workplace health and safety threats.
+Importantly, these two practical challenges point to some critical
+gaps in the applied psychology literature that warrant scholarly
+attention. First, the small body of applied psychology research that
+has examined large-scale disruptive and traumatic events has primarily focused on understanding employees’ strain reactions
+(Bacharach & Bamberger, 2007; Bacharach et al., 2008; Byron &
+Peterson, 2002; Hochwarter et al., 2008; Ryan et al., 2003; Toker
+et al., 2015; Vinokur et al., 2011). Although these studies contributed important insights into how these disruptive events affect
+employees, they fall short of revealing what employees can do to
+regain focus at work after they return. In that regard, researchers
+investigating daily nonwork-to-work transitions have introduced
+the critical notion of job reattachment, defined as “the process of
+mentally reconnecting to one’s work after a nonwork period”
+(Sonnentag & Kühnel, 2016, p. 380). Examples of job reattachment include mental preparations for and anticipatory deliberation
+of upcoming work tasks. Notably, job reattachment shows great
+promise as a means to help employees readjust to work after
+lockdowns and quarantines as it has been consistently related to
+
+As some countries and regions have substantially “flattened the
+curve” and slowed down the spread of COVID-19, lockdowns and
+quarantine orders are being lifted and business operations are
+slowly resuming. Whether employees were completely out of work
+or teleworking to some capacity during the lockdowns, returning to
+work in the “new normal”—that is, against the backdrop of the
+ongoing COVID-19 pandemic— creates at least two challenges.
+First, after an extended period of disruption, turmoil, and distress,
+which many individuals experienced during the pandemic, employees may have difficulty staying focused and engaged after
+they return to work, which can influence their work behaviors on
+the job (e.g., task performance). For example, accounts abound of
+workers who have had trouble readjusting to a postdisaster work
+
+This article was published Online First November 23, 2020.
+Zhenyu Yuan X https://orcid.org/0000-0002-7971-887X
+Zhuxin Ye X https://orcid.org/0000-0002-2927-4190
+Meng Zhong X https://orcid.org/0000-0001-8679-6430
+We thank Bethany Cockburn, Yukun Liu, and Yumeng Yue for their
+insightful feedback on an earlier version of this article. We give special
+thanks to Chenxi Qiao for her assistance with survey administration and
+data collection. This research was supported by the National Natural
+Science Foundation of China (Grant 71902065).
+Correspondence concerning this article should be addressed to Zhuxin
+Ye, Department of Innovation, Entrepreneurship and Intellectual Property
+Rights, School of Management, Huazhong University of Science and
+Technology, 1037 Luoyu Road, Wuhan, Hubei 430074, China. Email:
+zoe_yezhuxin@hust.edu.cn
+62
+
+This document is copyrighted by the American Psychological Association or one of its allied publishers.
+This article is intended solely for the personal use of the individual user and is not to be disseminated broadly.
+
+JOB REATTACHMENT IN THE COVID-19 PANDEMIC
+
+greater levels of job engagement (Sonnentag et al., 2020; Sonnentag & Kühnel, 2016). In this study, we drew from this emergent
+line of research and extended it to the context of employees
+returning to work in the current pandemic. In so doing, we sought
+to fill the research gap regarding what employees can do to
+facilitate their successful return to work by identifying job reattachment as an important driver of job engagement.
+Second, due to its prolonged and ongoing nature, the COVID-19
+pandemic has exposed another gap in the extant applied psychology research on large-scale disruptive events. Research is needed
+to identify the critical contingencies that can protect the effectiveness of engagement-enhancing activities from persistent health and
+safety risks and threats in the workplace. Toward that end, safety
+climate research has consistently supported the central role of
+leaders as a key driver of workplace safety (Beus et al., 2019;
+Zohar, 1980, 2014). Specifically, leader safety commitment reinforces the importance of maintaining and promoting workplace
+safety to employees through the leader’s own actions (Zohar,
+2002).1 In turn, this factor may help mitigate employees’ safety
+concerns and unlock the engagement-enhancing potential of job
+reattachment. Thus, we incorporate leader safety commitment as a
+critical workplace contingency against the backdrop of ongoing
+health and safety risks and threats.
+Taken together, the current research aimed to investigate job
+reattachment as an antecedent of job engagement and thereby shed
+light on how employees can regain focus at work as they return
+from lockdowns and quarantines. To highlight the downstream,
+bottom-line implications of job reattachment in the context of
+returning to work, we linked job engagement to three important
+work behaviors in the COVID-19 pandemic: work withdrawal, use
+of personal protective equipment (PPE) at work, and task performance. Moreover, we incorporated leader safety commitment as a
+critical moderator that can mitigate ongoing safety and health
+concerns in the workplace and protect the engagement-enhancing
+effect of job reattachment. To formulate the study hypotheses
+regarding the antecedent, the moderator, and consequences of job
+engagement, we drew from Kahn’s (1990) seminal work on job
+engagement as the overarching theoretical framework. Figure 1
+summarizes our research model.
+
+Job Reattachment and Job Engagement
+Job engagement refers to employees’ harnessing of their physical, cognitive, and emotional energies toward executing their
+work roles (Kahn, 1990). Given the importance of energies and
+resources in enabling job engagement, Kahn’s seminal work emphasizes availability as a critical psychological condition conducive to engagement. To date, a large number of studies have
+investigated antecedents of job engagement (Bakker et al., 2014;
+Crawford et al., 2010; Rich et al., 2010), with the vast majority
+focusing on either external job characteristics or psychological
+traits that can increase employees’ repertoire of resources (Sonnentag et al., 2020). However, in the case of returning to the
+workplace, it becomes especially important to understand which
+actions employees can take as a means of reigniting their postreturn job engagement.
+In their work, Sonnentag and Kühnel (2016) drew upon role
+transitions in the daily context (Ashforth et al., 2000) and investigated job reattachment as an antecedent of engagement. Central
+
+63
+
+to the idea of job reattachment is the notion that as employees
+physically transition back to the workplace, they need to mentally
+reconnect with their upcoming work. Throughout such anticipatory
+efforts, job reattachment “mobilizes one’s energy, directs one’s
+attention back toward work and allocates resources” (Sonnentag &
+Kühnel, 2016, p. 381), which ultimately enhances the availability
+of psychological resources and promotes job engagement. In research supporting its important role, job reattachment before the
+start of the workday was associated with higher levels of job
+engagement during the day across two daily studies (Sonnentag et
+al., 2020; Sonnentag & Kühnel, 2016). As employees returning to
+work in trying times may have difficulty readjusting to the work
+environment (North et al., 2010), mental reconnection with one’s
+work becomes even more important. Extending the emergent line
+of job reattachment research to the context of employees returning
+to work after lockdowns and quarantines, we expected job reattachment to be positively related to job engagement.
+Hypothesis 1: Job reattachment is positively related to job
+engagement.
+
+Moderating Role of Leader Safety Commitment
+In addition to availability, Kahn’s (1990) model posits that
+employees need to feel psychologically safe before they can invest
+their full selves into work. In other words, when employees feel
+psychologically threatened, resource availability will have a very
+limited effect in elevating job engagement. Notably, Kahn’s seminal work was based on interviews with summer camp counselors
+and employees at an architecture firm (e.g., architects and designers), for whom psychological safety—rather than physical safety—
+was a primary concern. Although psychological safety is undeniably important, in workplaces where employees’ physical health
+and safety are threatened—as in the current COVID-19 pandemic—it is reasonable to expect physical health and safety to be a
+salient factor that can thwart the effects of resource availability in
+fostering job engagement. As such, work factors that can mitigate
+these health and safety threats and create perceptions of a workplace that is supportive of health and safety will prove valuable in
+helping employees mobilize their resources toward the execution
+of their work roles.2
+Toward that end, a large volume of safety research has consistently shown that leaders play a pivotal role in reinforcing the
+importance of safe work practices, maintaining workplace safety,
+and creating perceptions that workplaces are supportive of employees’ safety through their own commitment to safety (Barling
+et al., 2002; Hofmann & Stetzer, 1996; Zohar, 2002). Among the
+various work factors that are conducive to supportive safety climate perceptions, it has been noted that “the core meaning of
+safety climate concerns [the] perceived management commitment
+to employee protection” (Zohar, 2014, p. 328). Given that many
+openly stated safety and health policies and practices may not be
+fully enforced in the workplace (Halbesleben, 2010b), perceived
+1
+In the current study, we define leader safety commitment as an individual employee’s perceptions of the leader’s commitment to workplace
+safety (i.e., at the individual level; Beus et al., 2019).
+2
+Given our focus on physical health and safety, we use the generic term
+“safety” to refer to employees’ physical—not psychological—safety
+throughout the article.
+
+YUAN, YE, AND ZHONG
+
+64
+
+This document is copyrighted by the American Psychological Association or one of its allied publishers.
+This article is intended solely for the personal use of the individual user and is not to be disseminated broadly.
+
+Figure 1
+Research Model
+
+leader safety commitment, which captures the enacted managerial
+safety practices, is most effective in reassuring employees of the
+importance of health and safety issues in the workplace (Zohar,
+1980, 2014). In a similar vein, Kahn’s (1990) model of job
+engagement emphasizes the critical role of leaders in setting the
+“tone” for safety, although it primarily focuses on psychological
+safety.
+In our model, we incorporated leader safety commitment as a
+moderator in the relationship between job reattachment and job
+engagement. To the extent that leader safety commitment can help
+mitigate health and safety threats in the workplace (Nahrgang et
+al., 2011; Ye et al., 2020), we posited that it will reassure employees of the importance of their health and safety in the workplace
+and therefore unlock the engagement-enhancing potential of job
+reattachment. When their leader is strongly committed to maintaining workplace safety, employees who are mentally prepared
+for work by job reattachment will be able to channel their energy
+into their work roles upon returning to work. However, when
+employees perceive their leader as not committed to promoting
+safety, their cognitive preparations to reconnect with work may
+prove futile as they will not feel physically safe to invest their
+resources into their work tasks.
+Hypothesis 2: Leader safety commitment moderates the positive relationship between job reattachment and job engagement such that this relationship is stronger when leader safety
+commitment is higher versus lower.
+
+Outcomes of Job Engagement
+As employees bring their full selves to their work roles, job
+engagement can further influence a wide range of employee work
+behaviors (Kahn, 1990; Rich et al., 2010). Meta-analytic evidence
+has consistently linked engagement to a host of positive work
+behaviors (Christian et al., 2011; Halbesleben, 2010a; Nahrgang et
+al., 2011). In the current study, we extended the positive consequences of job engagement to the context of returning to work and
+highlighted its important implications in the current pandemic. As
+employees exert their cognitive, emotional, and physical energies
+at work, we expected that highly engaged employees will demonstrate greater levels of task performance. Moreover, given that
+large-scale disruptive and traumatic events may give rise to undesirable work behaviors (Byron & Peterson, 2002), we linked
+engagement to lower levels of work withdrawal to highlight its
+importance in the COVID-19 pandemic. Further, as safety performance is predicated on the mobilization of motivational resources
+toward compliance with safety protocols (Griffin & Neal, 2000),
+
+highly engaged employees are more likely to comply with safety
+procedures (Nahrgang et al., 2011; Yuan et al., 2015). We thus
+linked job engagement to using PPE (e.g., wearing a face mask) at
+work—a critical component of safety performance that is broadly
+relevant for virtually every job in the current COVID-19 pandemic
+(Burke et al., 2002).
+Incorporating Hypothesis 1, which focused on the effect of job
+reattachment on job engagement, we expected that job reattachment would be indirectly related to work withdrawal, use of PPE,
+and task performance through job engagement. Moreover, taking
+into account the moderating role of leader safety commitment in
+the relationship between job reattachment and job engagement, we
+hypothesized that these indirect effects would be stronger with
+higher levels of leader safety commitment.3
+Hypothesis 3: Job reattachment is indirectly related to lower
+levels of withdrawal (3a), higher levels of PPE use (3b), and
+higher levels of task performance (3c) via job engagement.
+Hypothesis 4: The indirect effects of job reattachment on work
+withdrawal (4a), use of PPE (4b), and task performance (4c)
+via job engagement are stronger when leader safety commitment is higher versus lower.
+
+Method
+Participants and Procedure
+We recruited study participants from Wuhan, China—at the
+time, the epicenter of the COVID-19 pandemic.4 On April 8, 2020,
+the city ended its 76-day lockdown, after which normal business
+operations slowly resumed (Culver & Westcott, 2020). Employees
+who had stopped working during the lockdown and then returned
+to their jobs were invited to participate in the current study by
+completing three surveys, which were temporally spaced 2 weeks
+3
+In line with Kahn’s (1990) work, which posits that availability and
+safety are necessary conditions for engagement, we theorized leader safety
+commitment as a moderator in the relationship between job reattachment
+and job engagement (i.e., a first-stage moderator). In response to a reviewer’s suggestion, we tested an alternative model that incorporated the
+moderating role of leader safety commitment in the direct relationships
+between job reattachment and the three outcomes but found only limited
+support for this model. Complete results are available upon request.
+4
+This study was approved by the Huazhong University of Science and
+Technology Institutional Review Board (study title: “Workplace Effectiveness in the COVID-19 Pandemic”; Protocol 20200430). The data presented
+in this article were part of a broader data collection effort.
+
+This document is copyrighted by the American Psychological Association or one of its allied publishers.
+This article is intended solely for the personal use of the individual user and is not to be disseminated broadly.
+
+JOB REATTACHMENT IN THE COVID-19 PANDEMIC
+
+apart. Several recruitment methods were used to achieve the desired sample size.5 Specifically, we circulated the study information among Master of Business Administration alumni of a large
+university in central China; we also contacted companies located
+in the university’s science park, asking them to invite their employees to participate in this study. In addition, we reached out to
+our professional contacts and handed out study flyers in communities to solicit additional participants. Participants received 10
+Chinese Yuan (approximately $1.45) for completing each survey.
+The Time 1 survey was administered around the beginning of May,
+approximately 3 weeks after the lockdown was lifted; it measured
+job reattachment, along with covariates and demographics. The
+Time 2 survey assessed leader safety commitment. At Time 3,
+participants reported job engagement, work withdrawal, and use of
+PPE at work. We also invited supervisors to provide task performance ratings at Time 3.
+Among the 485 participants who consented to participate, we
+obtained complete data from 395 supervisor-employee dyads (retention rate ⫽ 81.4%). Although most of these dyads (n ⫽ 331)
+were independent, 64 were not (i.e., 64 employees nested within
+21 supervisors). Following a reviewer’s suggestion, we randomly
+selected one employee from those working with the same supervisor. The final study sample thus consisted of 352 independent
+supervisor-employee dyads. Employees in the final sample held
+various types of jobs (e.g., office administration, sales, accounting,
+technician) from a wide range of industries (e.g., information
+technology, manufacturing, real estate). The majority of the participants were female (60.5%) and married (64.5%). Their average
+age was 33.28 years (SD ⫽ 7.30). On average, they worked 43.87
+hr per week (SD ⫽ 10.11) and had been employed for 10.22 years
+(SD ⫽ 7.72).
+
+Measures
+All study measures were administered in Chinese. The first
+author translated the items into Chinese, after which the third
+author back-translated the items into English, following Brislin’s
+(1970) procedure. The three authors reviewed the original and
+back-translated items. At the identification of meaningful discrepancies across the two versions, the translated items were revised to
+ensure conceptual equivalence. A 5-point scale was used (1 ⫽
+strongly disagree to 5 ⫽ strongly agree), unless otherwise noted.
+
+Job Reattachment (Time 1)
+We used the five-item scale developed by Sonnentag and Kühnel (2016) to assess job reattachment (␣ ⫽ .77). As this scale was
+originally developed to capture daily reattachment (i.e., before the
+start of the workday), we revised the time referent to reflect
+activities undertaken in preparation for the postlockdown return to
+work. Employees were asked to recall what they did before returning to work and to indicate their agreement with each item
+(e.g., “I prepared mentally for my work”; “I thought about what I
+would encounter at my work”).
+
+Leader Safety Commitment (Time 2)
+We used the six-item scale from Beus et al. (2019) to measure
+leader safety commitment (␣ ⫽ .87). Participants were asked to
+think about workplace safety issues in relation to COVID-19 (e.g.,
+mask wearing, temperature monitoring) and to indicate their agree-
+
+65
+
+ment with each statement based on their leader’s behaviors in the
+past 2 weeks (e.g., “My supervisor took a proactive stance when it
+comes to safety”).
+
+Job Engagement (Time 3)
+In alignment with Kahn’s (1990) conceptualization, we used the
+nine-item scale developed by Crawford et al. (2013) to measure
+job engagement (␣ ⫽ .90). Participants were instructed to think
+about how they felt at work during the past 2 weeks and to indicate
+their agreement with each item (e.g., “I devoted a lot of my energy
+at work”).
+
+Work Withdrawal (Time 3)
+We used the eight-item scale by Lehman and Simpson (1992) to
+assess work withdrawal (␣ ⫽ .83). Given that supervisors may be
+unable to observe undesirable behaviors (Berry et al., 2012), we
+asked participants to self-report their work withdrawal in the past
+2 weeks (e.g., “I left my workstation for unnecessary reasons”; “I
+put less effort into job than I should have”).
+
+Use of PPE (Time 3)
+We used a four-item scale (originally from Burke et al., 2002;
+shortened by Ford & Tetrick, 2011) to measure PPE use at work as
+a form of safety-compliance behavior (␣ ⫽ .74). Similar to work
+withdrawal, we asked participants to self-report their use of PPE at
+work during the past 2 weeks (e.g., “I used the appropriate PPE
+[e.g., masks] as indicated by the site health and safety plan”).
+
+Task Performance (Time 3)
+Supervisors were asked to rate their employees’ task performance (␣ ⫽ .76) during the past 2 weeks with the four-item scale
+developed by Van Dyne and LePine (1998). A sample item is
+“[This subordinate] met performance expectations.”
+
+Covariates
+We included four covariates in the Time 1 survey that could
+potentially act as third variables. As employees working more
+hours might mentally prepare for and stay engaged at work to a
+greater extent, we incorporated weekly work hours, reported by
+participants, as a covariate. We also noted that the engagementenhancing effect of job reattachment might be a byproduct of some
+employees feeling less vulnerable to the risk of COVID-19 and
+thus more mentally prepared for returning to work. Therefore, we
+assessed perceptions associated with COVID-19 by using two
+single-item measures from research on the 2003 severe acute
+respiratory syndrome (SARS) outbreak (Leung et al., 2003). Specifically, participants reported their likelihood of (a) contracting
+COVID-19 during the current outbreak and (b) surviving
+COVID-19 if infected. Responses were made on a 5-point scale
+(1 ⫽ extremely unlikely to 5 ⫽ extremely likely). Following a
+reviewer’s suggestion, we also incorporated age as a covariate as
+5
+A priori analysis based on .90 power and a correlation of .20 (Sonnentag & Kühnel, 2016) indicated the minimum sample size was 211 (Faul
+et al., 2007). However, to guard against (a) participant attrition in timelagged surveys, (b) incomplete survey responses involving both employee
+and supervisor reports, and (c) insufficient power to detect moderation
+(Aguinis et al., 2005), we sought to recruit a larger sample.
+
+YUAN, YE, AND ZHONG
+
+66
+
+older employees may be more vulnerable to health complications
+resulting from COVID-19.
+
+This document is copyrighted by the American Psychological Association or one of its allied publishers.
+This article is intended solely for the personal use of the individual user and is not to be disseminated broadly.
+
+Results
+Descriptive statistics and correlations among all study variables
+are reported in Table 1. Prior to hypothesis testing, we conducted
+a set of confirmatory factor analyses to examine the factor structure of the study variables. We first fit to the data a six-factor
+model in which items loaded onto their respective latent variables,
+which provided a reasonably good fit: ␹2(579) ⫽ 950.09, comparative fit index (CFI) ⫽ .92, standardized root-mean-square residual
+(SRMR) ⫽ .055, and root mean square error of approximation
+(RMSEA) ⫽ .043. Further, following a reviewer’s suggestion, we
+tested an alternative model where items for reattachment and
+engagement loaded onto the same latent factor. This five-factor
+model provided a significantly worse fit than the six-factor model:
+␹2(584) ⫽ 1320.83, CFI ⫽ .84, SRMR ⫽ .078, RMSEA ⫽ .060;
+⌬␹2(5) ⫽ 370.74, p ⬍ .01.
+Next, we ran a set of hierarchical regression analyses to test our
+hypotheses. Prior to hypothesis testing, we grand-mean centered
+job reattachment and leader safety commitment to reduce nonessential multicollinearity and facilitate the interpretation of the
+moderating effects (Cohen et al., 2003; Dalal & Zickar, 2012). To
+examine the conditional indirect effects, we used PROCESS
+(Hayes, 2013) and constructed 95% bias-corrected confidence
+intervals (Preacher & Hayes, 2008) using 5,000 bootstrap samples.
+Table 2 reports the results from the hierarchical regression
+analyses. In all analyses, covariates were entered along with main
+study variables, though we note the inclusion of covariates did not
+result in any meaningful differences that would alter the hypothesis testing results. As shown in Model 1a, job reattachment was
+positively related to job engagement (b ⫽ .37, t ⫽ 6.03, p ⬍ .01),
+thereby supporting Hypothesis 1. Hypothesis 2 was tested in
+Model 1c. The interaction between job reattachment and leader
+safety commitment was significant (b ⫽ .17, t ⫽ 2.65, p ⬍ .01).
+Simple slope tests indicated that when leader safety commitment
+was lower (⫺1 SD), the effect of job reattachment was weaker
+
+(b ⫽ .18, t ⫽ 2.67, p ⬍ .01), whereas it became stronger (b ⫽ .41,
+t ⫽ 4.62, p ⬍ .01) with higher levels of leader safety commitment
+(⫹1 SD). The interaction is plotted in Figure 2. Therefore, Hypothesis 2 received empirical support.
+After controlling for job reattachment, job engagement was
+related to work withdrawal (Model 2a: b ⫽ ⫺.25, t ⫽ 4.91, p ⬍
+.01), PPE use (Model 2b: b ⫽ .15, t ⫽ 3.54, p ⬍ .01), and task
+performance (Model 2c: b ⫽ .14, t ⫽ 3.54, p ⬍ .01) in the
+expected directions. Moreover, the 95% confidence intervals of the
+indirect effects of job reattachment on these work outcomes via job
+engagement did not include zero (work withdrawal: estimate ⫽ ⫺.092, 95% CI [⫺.154, ⫺.048]; PPE use: estimate ⫽
+.058, [.023, .111]; task performance: estimate ⫽ .051, [.023,
+.093]). Therefore, Hypothesis 3 was supported.
+To test Hypothesis 4, we calculated the conditional indirect
+effects at ⫾1 SD of leader safety commitment. With higher levels
+of leader safety commitment, the indirect effects of job reattachment on work withdrawal (estimate ⫽ ⫺.102, 95% CI
+[⫺.200, ⫺.043]), PPE use (estimate ⫽ .064, [.022, .136]), and task
+performance (estimate ⫽ .056, [.022, .115]) were stronger. When
+leader safety commitment was lower, these indirect effects became
+weaker (work withdrawal: estimate ⫽ ⫺.045, [⫺.104, .001]; PPE
+use: estimate ⫽ .028, [.001, .071]; task performance: estimate ⫽
+.025, [.001, .066]). Therefore, Hypothesis 4 received support.
+
+Discussion
+We undertook this study to better understand what employees
+can do to facilitate their return to work and how leaders can protect
+the engagement-enhancing effects of such activities in the
+COVID-19 pandemic. Results from a sample of employees residing in the then-epicenter of the pandemic provided strong support
+for our research model. Specifically, job reattachment in preparation for returning to work was related to greater levels of job
+engagement, which was associated with lower levels of work
+withdrawal and higher levels of PPE use and task performance.
+Moreover, the relationship between job reattachment and job engagement was stronger with higher levels of leader safety com-
+
+Table 1
+Descriptive Statistics and Correlations Among Study Variables
+Variable
+1.
+2.
+3.
+4.
+5.
+6.
+7.
+8.
+9.
+10.
+11.
+12.
+13.
+
+M
+
+SD
+
+1
+
+Job reattachment (JR; T1)
+3.95
+.58 (.77)
+Leader safety commitment (LSC; T2)
+3.93
+.67
+.38ⴱⴱ
+Interaction term (JR ⫻ LSC)
+.15
+.56 ⫺.35ⴱⴱ
+Job engagement (T3)
+3.46
+.69
+.29ⴱⴱ
+Work withdrawal (T3)
+2.34
+.65 ⫺.26ⴱⴱ
+PPE use (T3)
+4.18
+.56
+.28ⴱⴱ
+Task performance (T3)
+4.20
+.49
+.21ⴱⴱ
+Age (T1)
+33.28 7.30
+.13ⴱ
+Sex (T1)
+.61
+.49 ⫺.01
+Tenure in years (T1)
+10.22 7.72
+.10
+Work hours per week (T1)
+43.87 10.11
+.10
+Chance of contracting COVID-19 (T1) 2.56
+.86 ⫺.05
+Chance of surviving COVID-19 (T1)
+3.89 1.12
+.06
+
+2
+
+3
+
+4
+
+(.87)
+⫺.25ⴱⴱ
+.33ⴱⴱ
+⫺.26ⴱⴱ
+.34ⴱⴱ
+.22ⴱⴱ
+.00
+⫺.06
+⫺.01
+.04
+⫺.02
+.06
+
+.01
+⫺.06
+⫺.06
+⫺.01
+⫺.04
+⫺.02
+⫺.02
+⫺.10
+⫺.11ⴱ
+⫺.09
+
+(.90)
+⫺.32ⴱⴱ
+.24ⴱⴱ
+.22ⴱⴱ
+.08
+⫺.03
+.09
+⫺.07
+⫺.06
+⫺.15ⴱⴱ
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+(.83)
+⫺.34ⴱⴱ (.74)
+⫺.20ⴱⴱ
+.29ⴱⴱ (.76)
+⫺.10
+.05
+⫺.05
+⫺.14ⴱⴱ ⫺.01
+.04
+.08
+⫺.13ⴱ
+.02
+⫺.04
+.85ⴱⴱ
+.09
+.00
+⫺.05
+.01 ⫺.09
+⫺.19ⴱⴱ ⫺.09
+.09
+.02
+.01
+.04
+⫺.08
+.03 .08
+.05
+.10
+.05 ⫺.12ⴱ ⫺.06
+⫺.13ⴱ .04 .06
+
+Note. n ⫽ 352. T1 ⫽ data collected at Time 1; T2 ⫽ data collected at Time 2; T3 ⫽ data collected at Time 3; PPE ⫽ personal protective equipment.
+Interaction term was created after job reattachment and leader safety commitment were grand-mean centered. Sex: 0 ⫽ male, 1 ⫽ female. Cronbach’s ␣
+values are reported on the diagonal in parentheses where applicable.
+ⴱ
+p ⬍ .05. ⴱⴱ p ⬍ .01.
+
+JOB REATTACHMENT IN THE COVID-19 PANDEMIC
+
+67
+
+Table 2
+Hierarchical Regression Results
+Outcome: Job engagement
+Model 1a
+
+This document is copyrighted by the American Psychological Association or one of its allied publishers.
+This article is intended solely for the personal use of the individual user and is not to be disseminated broadly.
+
+Variable
+Intercept
+Age
+Work hours per week
+Perceived chance of contracting COVID-19
+Perceived chance of surviving COVID-19
+Job reattachment (JR)
+Leader safety commitment (LSC)
+JR ⫻ LSC
+Job engagement
+R2
+⌬R2
+
+b
+
+SE
+ⴱⴱ
+
+4.17
+.00
+⫺.01
+⫺.03
+⫺.10ⴱⴱ
+.37ⴱⴱ
+
+.28
+.00
+.00
+.04
+.03
+.06
+
+Model 1b
+t
+
+b
+
+14.74
+.23
+1.86
+.64
+3.26
+6.03
+
+SE
+ⴱⴱ
+
+4.15
+.00
+⫺.01
+⫺.03
+⫺.11ⴱⴱ
+.25ⴱⴱ
+.27ⴱⴱ
+
+.13ⴱⴱ
+
+.27
+.00
+.00
+.04
+.03
+.06
+.05
+
+Model 1c
+t
+15.16
+.48
+1.90
+.66
+3.55
+3.84
+4.99
+
+b
+
+SE
+ⴱⴱ
+
+4.05
+.00
+⫺.01
+⫺.01
+⫺.10ⴱⴱ
+.30ⴱⴱ
+.29ⴱⴱ
+.17ⴱⴱ
+
+.19ⴱⴱ
+.06ⴱⴱ
+
+.27
+.00
+.00
+.04
+.03
+.07
+.05
+.07
+
+t
+14.76
+.49
+1.76
+.31
+3.41
+4.46
+5.34
+2.65
+
+.20ⴱⴱ
+.02ⴱⴱ
+
+Outcomes
+Work withdrawal
+Model 2a
+Variable
+Intercept
+Age
+Work hours per week
+Perceived chance of contracting COVID-19
+Perceived chance of surviving COVID-19
+Job reattachment
+Job engagement
+R2
+
+b
+
+SE
+ⴱⴱ
+
+3.28
+⫺.01
+.00
+.05
+.00
+⫺.19ⴱⴱ
+⫺.25ⴱⴱ
+
+.34
+.00
+.00
+.04
+.03
+.06
+.05
+.14ⴱⴱ
+
+PPE use
+Model 2b
+t
+
+b
+
+9.70
+1.16
+.35
+1.28
+.11
+3.21
+4.91
+
+SE
+ⴱⴱ
+
+3.48
+.00
+.00
+.03
+.06ⴱ
+.22ⴱⴱ
+.15ⴱⴱ
+
+.29
+.00
+.00
+.03
+.03
+.05
+.04
+.13ⴱⴱ
+
+Task performance
+Model 2c
+t
+11.85
+.17
+1.15
+.76
+2.23
+4.20
+3.54
+
+b
+ⴱⴱ
+
+3.76
+⫺.01
+.00
+.02
+.03
+.13ⴱⴱ
+.14ⴱⴱ
+
+SE
+
+t
+
+.26
+.00
+.00
+.03
+.02
+.05
+.04
+.08ⴱⴱ
+
+14.47
+1.52
+.01
+.60
+1.11
+2.85
+3.54
+
+Note. n ⫽ 352. Job reattachment and leader safety commitment were centered before creating the interaction term. Unstandardized coefficients are
+reported. SE ⫽ standard error; PPE ⫽ personal protective equipment.
+ⴱ
+p ⬍ .05. ⴱⴱ p ⬍ .01.
+
+mitment. Our findings have important implications for applied
+psychology research and practices in the COVID-19 pandemic.
+
+Theoretical and Practical Implications
+First, this research contributes to the small body of literature on
+the implications of large-scale disruptive and traumatic events for
+workplaces by identifying job reattachment as an important driver
+of job engagement. Extending research focused on daily nonworkto-work transitions (Sonnentag & Kühnel, 2016), our findings
+suggest job reattachment warrants attention from researchers and
+practitioners as a fruitful way to “reboot” employee engagement
+amid transitions back to work in trying times such as the
+COVID-19 pandemic. Although the extant job reattachment research is focused on the daily nonwork-to-work context, our findings indicate that it may be a promising strategy to recalibrate
+engagement during various types of work transitions (e.g., return
+to work after injuries, Hepburn et al., 2010; bridge employment,
+Wang et al., 2008).
+Consistent with the theoretical underpinnings of the job reattachment concept (Sonnentag & Kühnel, 2016), our findings underscore the practical importance of employees rebuilding their
+cognitive connections to their work. In other words, when employees physically return to work, they also need to be mentally
+prepared to dive into their upcoming work. Given the disruptions
+and turmoil that many employees may have experienced during
+
+lockdowns and quarantines, these efforts to rebuild mental connections with work can go a long way in helping them regain focus
+at work. Due to the nascent nature of job reattachment research,
+systematic guidance regarding reattachment practices and interventions is currently lacking. Nevertheless, in line with the existing literature (Sonnentag et al., 2020; Sonnentag & Kühnel, 2016),
+employees are encouraged to set aside some time to mentally
+reflect on their work tasks, review their past work progress and the
+disruptions that occurred during the lockdown, get organized by
+creating a to-do list for work tasks, and set priorities for their
+upcoming work goals.
+Second, this research highlights the crucial role that leaders play
+in helping employees regain focus at work. The current COVID-19
+pandemic differs markedly from previous acute large-scale disruptive events due to its prolonged and ongoing nature. Further, it has
+expanded the importance of health and safety beyond traditionally
+safety-critical industries, extending these concerns to virtually
+every workplace. As leaders are the primary organizational agents
+to enact and enforce workplace health and safety policies and
+practices, their commitment to safety plays a critical role in reassuring employees of the importance of their health and safety in
+the workplace (Zohar, 1980, 2014). In support of this notion, our
+study found that leader safety commitment strengthened the effectiveness of job reattachment in promoting job engagement. It was
+also positively related to job engagement and other important work
+
+68
+
+YUAN, YE, AND ZHONG
+
+This document is copyrighted by the American Psychological Association or one of its allied publishers.
+This article is intended solely for the personal use of the individual user and is not to be disseminated broadly.
+
+Figure 2
+Job Reattachment Interacting With Leader Safety Commitment
+to Predict Job Engagement
+
+foster their job engagement. This quest has taken on new urgency
+in the pandemic as many employees returning to work from
+lockdowns and quarantines may have trouble staying focused at
+work. Moreover, to the extent that job engagement is associated
+with important work behaviors such as task performance and PPE
+use, failure to support employees during such trying times may
+create undesirable long-term consequences that may hurt workplace effectiveness and safety. Nevertheless, the positive impact of
+job engagement on work outcomes should not be used as an excuse
+for organizations to create prescriptive pressure—that is, to insist
+employees must be fully engaged at work. The COVID-19 pandemic has created numerous challenges for organizations and their
+members (Sinclair et al., 2020). Without effective support from
+their employers, demanding that workers be fully engaged with
+their jobs will merely add to their distress.
+
+Study Limitations and Future Directions
+
+outcomes. These findings suggest that leader safety commitment in
+the current COVID-19 pandemic warrants attention from both
+researchers and organizational practitioners.
+On this front, our findings underscore the critical role of leader
+safety commitment and offer a sobering reminder for organizations
+that regardless of their stated health and safety goals, what truly
+matters is perceived leader safety commitment in day-to-day managerial practices. Safety climate scholars have long noted that
+enacted managerial practices may deviate from the stated organizational emphasis on employee health and safety such that leaders
+may fail to “walk the talk” even in safety-critical organizations
+(Zohar, 2014). Similarly, the COVID-19 pandemic has exposed
+many potentially problematic organizational practices that may put
+employees in harm’s way. For their part, managers are strongly
+encouraged to lead by example and actively maintain and promote
+workplace health and safety themselves. Given the rapidly changing situation resulting from the highly contagious coronavirus,
+managers need to take a proactive approach when setting and
+enforcing health and safety standards in the workplace.
+Third, our research extends Kahn’s (1990) engagement model
+by identifying physical health and safety as a necessary condition
+conducive to engagement. Specifically, our findings indicate that
+physical safety can be a salient concern that, if left unaddressed,
+will thwart the harnessing of the employee’s full self into work
+tasks. Additionally, in linking job engagement to lower levels of
+work withdrawal and higher levels of PPE use and task performance, this research both extends the positive effects of job
+engagement to the context of returning to work and underscores
+the importance of fostering employee engagement in trying times
+such as the current COVID-19 pandemic as these work behaviors—in aggregate— can protect employees’ health and safety and
+contribute to workplace effectiveness.
+For organizations, the mediating role of job engagement highlights the need to identify effective ways to support employees and
+
+Despite its strengths, the current study has several limitations
+worth noting. First, most of the study variables were assessed with
+self-reports, thus raising concerns about common method variance
+(Podsakoff et al., 2012). However, we introduced temporal lags
+and used supervisor ratings to assess task performance, both of
+which could mitigate the potential influence of common method
+variance. Second, although we ruled out some potential third
+variables, the internal validity of our findings was limited. To
+establish causality among study variables, experiments with manipulations and random assignments are warranted, although we
+note experimental procedures may create additional disruptions for
+employees returning to work. Alternatively, a cross-lagged survey
+design could allow for stronger causal inferences.
+Third, our findings may have limited generalizability across
+jobs, industries, and countries and regions. The role of leader
+safety commitment may be even more salient in certain jobs (e.g.,
+physicians) and industries (e.g., health care). Moreover, notwithstanding the critical role of leader safety commitment, other contextual factors may influence the effectiveness of job reattachment.
+For example, PPE shortages may create additional health and
+safety concerns for employees. Further, as China has effectively
+prevented a second wave of COVID-19 so far (Rapoza, 2020), the
+general risk of contracting COVID-19 remains low in that country.
+By comparison, the effectiveness of job reattachment in enhancing
+job engagement may be weaker in countries and regions where
+employees perceive greater levels of risks associated with COVID19. It is also important to consider employees’ underlying health
+conditions (e.g., immunodeficiency) when extrapolating our findings across populations. In addition, the positive link between
+engagement and PPE use we discovered in this study may have
+limited generalizability. Although there exists strong public consensus regarding the importance of using PPE (e.g., face masks) in
+the geographic area where we collected data, this may not be the
+case in other countries and regions. Last, we emphasize that our
+focus on return to work in this research is not intended to downplay the importance of alternative work arrangements, which
+should still be considered superior from the standpoint of health
+and safety. Organizations are advised to consult their local public
+health department for the most up-to-date guidance regarding
+workplace health and safety.
+
+This document is copyrighted by the American Psychological Association or one of its allied publishers.
+This article is intended solely for the personal use of the individual user and is not to be disseminated broadly.
+
+JOB REATTACHMENT IN THE COVID-19 PANDEMIC
+
+In terms of future research, we encourage researchers to build on
+the current study and further enrich the theoretical breadth of job
+reattachment. The extant research on job reattachment conceptualizes it as a single-dimension construct (Sonnentag & Kühnel,
+2016). Given that highly engaged employees harness their full
+selves cognitively, emotionally, and physically at work (Kahn,
+1990), research that expands its conceptualization by considering
+its cognitive, emotional, and physical dimensions holds great
+promise to further elevate its engagement-enhancing potential. For
+example, researchers can consider incorporating activities that
+employees use to prepare themselves cognitively (e.g., mental
+preview of work tasks), emotionally (e.g., anticipatory emotion
+regulation), and physically (e.g., light to moderate physical activities before work). Moreover, given the salient role of leader safety
+commitment in the current study, we encourage scholars to draw
+from the safety literature and incorporate safety climate and its key
+dimensions into research on large-scale disruptive and traumatic
+events that may threaten employees’ health and safety.
+
+References
+Aguinis, H., Beaty, J. C., Boik, R. J., & Pierce, C. A. (2005). Effect size
+and power in assessing moderating effects of categorical variables using
+multiple regression: A 30-year review. Journal of Applied Psychology,
+90, 94 –107. https://doi.org/10.1037/0021-9010.90.1.94
+Ashforth, B. E., Kreiner, G. E., & Fugate, M. (2000). All in a day’s work:
+Boundaries and micro role transitions. Academy of Management Review,
+25, 472– 491. https://doi.org/10.5465/amr.2000.3363315
+Bacharach, S. B., & Bamberger, P. A. (2007). 9/11 and New York City
+firefighters’ post hoc unit support and control climates: A context theory
+of the consequences of involvement in traumatic work-related events.
+Academy of Management Journal, 50, 849 – 868. https://doi.org/10
+.5465/amj.2007.26279180
+Bacharach, S. B., Bamberger, P. A., & Doveh, E. (2008). Firefighters,
+critical incidents, and drinking to cope: The adequacy of unit-level
+performance resources as a source of vulnerability and protection. Journal of Applied Psychology, 93, 155–169. https://doi.org/10.1037/00219010.93.1.155
+Bakker, A. B., Demerouti, E., & Sanz-Vergel, A. I. (2014). Burnout and
+work engagement: The JD-R approach. Annual Review of Organizational Psychology and Organizational Behavior, 1, 389 – 411. https://doi
+.org/10.1146/annurev-orgpsych-031413-091235
+Barling, J., Loughlin, C., & Kelloway, E. K. (2002). Development and test
+of a model linking safety-specific transformational leadership and occupational safety. Journal of Applied Psychology, 87, 488 – 496. https://
+doi.org/10.1037/0021-9010.87.3.488
+Berry, C. M., Carpenter, N. C., & Barratt, C. L. (2012). Do other-reports
+of counterproductive work behavior provide an incremental contribution
+over self-reports? A meta-analytic comparison. Journal of Applied Psychology, 97, 613– 636. https://doi.org/10.1037/a0026739
+Beus, J. M., Payne, S. C., Arthur, W., Jr., & Muñoz, G. J. (2019). The
+development and validation of a cross-industry safety climate measure:
+Resolving conceptual and operational issues. Journal of Management,
+45, 1987–2013. https://doi.org/10.1177/0149206317745596
+Brislin, R. W. (1970). Back-translation for cross-cultural research. Journal
+of Cross-Cultural Psychology, 1, 185–216. https://doi.org/10.1177/
+135910457000100301
+Burke, M. J., Sarpy, S. A., Tesluk, P. E., & Smith-Crowe, K. (2002).
+General safety performance: A test of a grounded theoretical model.
+Personnel Psychology, 55, 429 – 457. https://doi.org/10.1111/j.17446570.2002.tb00116.x
+Byron, K., & Peterson, S. (2002). The impact of a large-scale traumatic
+event on individual and organizational outcomes: Exploring employee
+
+69
+
+and company reactions to September 11, 2001. Journal of Organizational Behavior, 23, 895–910. https://doi.org/10.1002/job.176
+Christian, M. S., Garza, A. S., & Slaughter, J. E. (2011). Work engagement: A quantitative review and test of its relations with task and
+contextual performance. Personnel Psychology, 64, 89 –136. https://doi
+.org/10.1111/j.1744-6570.2010.01203.x
+Cohen, J., Cohen, P., West, S., & Aiken, L. (2003). Applied multiple
+regression/correlation analysis for the behavioral sciences (3rd ed.).
+Erlbaum.
+Crawford, E. R., LePine, J. A., & Buckman, B. R. (2013). Job engagement
+scale short form items [Unpublished manuscript]. Department of Management and Entrepreneurship, University of Iowa.
+Crawford, E. R., LePine, J. A., & Rich, B. L. (2010). Linking job demands
+and resources to employee engagement and burnout: A theoretical
+extension and meta-analytic test. Journal of Applied Psychology, 95,
+834 – 848. https://doi.org/10.1037/a0019364
+Culver, D., & Westcott, B. (2020, April 23). Wuhan is on a slow path back
+to normality after 76-day coronavirus lockdown. CNN. Retrieved from
+https://www.cnn.com/2020/04/23/asia/wuhan-coronavirus-afterlockdown-intl-hnk/index.html
+Dalal, D. K., & Zickar, M. J. (2012). Some common myths about centering
+predictor variables in moderated multiple regression and polynomial
+regression. Organizational Research Methods, 15, 339 –362. https://doi
+.org/10.1177/1094428111430540
+Faul, F., Erdfelder, E., Lang, A., & Buchner, A. (2007). GⴱPower 3: A
+flexible statistical power analysis program for the social, behavioral, and
+biomedical sciences. Behavior Research Methods, 39, 175–191. https://
+doi.org/10.3758/BF03193146
+Ford, M. T., & Tetrick, L. E. (2011). Relations among occupational
+hazards, attitudes, and safety performance. Journal of Occupational
+Health Psychology, 16, 48 – 66. https://doi.org/10.1037/a0021296
+Griffin, M. A., & Neal, A. (2000). Perceptions of safety at work: A
+framework for linking safety climate to safety performance, knowledge,
+and motivation. Journal of Occupational Health Psychology, 5, 347–
+358. https://doi.org/10.1037/1076-8998.5.3.347
+Halbesleben, J. R. (2010a). A meta-analysis of work engagement: Relationships with burnout, demands, resources and consequences. In A. B.
+Bakker & M. P. Leiter (Eds.), Work engagement: Recent developments
+in theory and research (pp. 102–117). Psychology Press.
+Halbesleben, J. R. (2010b). The role of exhaustion and workarounds in
+predicting occupational injuries: A cross-lagged panel study of health
+care professionals. Journal of Occupational Health Psychology, 15,
+1–16. https://doi.org/10.1037/a0017634
+Hayes, A. F. (2013). Introduction to mediation, moderation, and conditional process analysis. Guilford Press.
+Hepburn, C. G., Kelloway, E. K., & Franche, R. L. (2010). Early employer
+response to workplace injury: What injured workers perceive as fair and
+why these perceptions matter. Journal of Occupational Health Psychology, 15, 409 – 420. https://doi.org/10.1037/a0021001
+Hochwarter, W. A., Laird, M. D., & Brouer, R. L. (2008). Board up the
+windows: The interactive effects of hurricane-induced job stress and
+perceived resources on work outcomes. Journal of Management, 34,
+263–289. https://doi.org/10.1177/0149206307309264
+Hofmann, D. A., & Stetzer, A. (1996). A cross-level investigation of
+factors influencing unsafe behaviors and accidents. Personnel Psychology, 49, 307–339. https://doi.org/10.1111/j.1744-6570.1996.tb01802.x
+Kahn, W. A. (1990). Psychological conditions of personal engagement and
+disengagement at work. Academy of Management Journal, 33, 692–724.
+https://doi.org/10.5465/256287
+Lehman, W. E., & Simpson, D. D. (1992). Employee substance use and
+on-the-job behaviors. Journal of Applied Psychology, 77, 309 –321.
+https://doi.org/10.1037/0021-9010.77.3.309
+Leung, G. M., Lam, T. H., Ho, L. M., Ho, S. Y., Chan, B. H. Y., Wong,
+I. O. L., & Hedley, A. J. (2003). The impact of community psychological
+
+This document is copyrighted by the American Psychological Association or one of its allied publishers.
+This article is intended solely for the personal use of the individual user and is not to be disseminated broadly.
+
+70
+
+YUAN, YE, AND ZHONG
+
+responses on outbreak control for severe acute respiratory syndrome in
+Hong Kong. Journal of Epidemiology and Community Health, 57, 857–
+863. https://doi.org/10.1136/jech.57.11.857
+Nahrgang, J. D., Morgeson, F. P., & Hofmann, D. A. (2011). Safety at
+work: A meta-analytic investigation of the link between job demands,
+job resources, burnout, engagement, and safety outcomes. Journal of
+Applied Psychology, 96, 71–94. https://doi.org/10.1037/a0021484
+North, C. S., Pfefferbaum, B., Hong, B. A., Gordon, M. R., Kim, Y. S.,
+Lind, L., & Pollio, D. E. (2010). The business of healing: Focus group
+discussions of readjustment to the post-9/11 work environment among
+employees of affected agencies. Journal of Occupational and Environmental Medicine, 52, 713–718. https://doi.org/10.1097/JOM
+.0b013e3181e48b01
+Podsakoff, P. M., MacKenzie, S. B., & Podsakoff, N. P. (2012). Sources of
+method bias in social science research and recommendations on how to
+control it. Annual Review of Psychology, 63, 539 –569. https://doi.org/
+10.1146/annurev-psych-120710-100452
+Preacher, K. J., & Hayes, A. F. (2008). Asymptotic and resampling
+strategies for assessing and comparing indirect effects in multiple mediator models. Behavior Research Methods, 40, 879 – 891. https://doi
+.org/10.3758/BRM.40.3.879
+Rapoza, K. (2020, June 3). In China, second wave coronavirus narrative
+fails to hold. Forbes. Retrieved from https://www.forbes.com/sites/
+kenrapoza/2020/06/03/in-china-second-wave-coronavirus-narrative-fails-tohold/#67b00797306a
+Rich, B. L., LePine, J. A., & Crawford, E. R. (2010). Job engagement:
+Antecedents and effects on job performance. Academy of Management
+Journal, 53, 617– 635. https://doi.org/10.5465/amj.2010.51468988
+Ryan, A. M., West, B. J., & Carr, J. Z. (2003). Effects of the terrorist
+attacks of 9/11/01 on employee attitudes. Journal of Applied Psychology, 88, 647– 659. https://doi.org/10.1037/0021-9010.88.4.647
+Sinclair, R. R., Allen, T., Barber, L., Bergman, M., Britt, T., Butler, A.,
+Ford, M., Hammer, L., Kath, L., Probst, T., & Yuan, Z. (2020). Occupational health science in the time of COVID-19: Now more than ever.
+Occupational Health Science, 4, 1–22. https://doi.org/10.1007/s41542020-00064-3
+Sonnentag, S., Eck, K., Fritz, C., & Kühnel, J. (2020). Morning reattachment to work and work engagement during the day: A look at day-level
+mediators. Journal of Management, 46, 1408 –1435. https://doi.org/10
+.1177/0149206319829823
+
+Sonnentag, S., & Kühnel, J. (2016). Coming back to work in the morning:
+Psychological detachment and reattachment as predictors of work engagement. Journal of Occupational Health Psychology, 21, 379 –390.
+https://doi.org/10.1037/ocp0000020
+Toker, S., Laurence, G. A., & Fried, Y. (2015). Fear of terror and increased
+job burnout over time: Examining the mediating role of insomnia and the
+moderating role of work support. Journal of Organizational Behavior,
+36, 272–291. https://doi.org/10.1002/job.1980
+Van Dyne, L., & LePine, J. A. (1998). Helping and voice extra-role
+behaviors: Evidence of construct and predictive validity. Academy of
+Management Journal, 41, 108 –119. https://doi.org/10.5465/256902
+Vinokur, A. D., Pierce, P. F., Lewandowski-Romps, L., Hobfoll, S. E., &
+Galea, S. (2011). Effects of war exposure on Air Force personnel’s
+mental health, job burnout and other organizational related outcomes.
+Journal of Occupational Health Psychology, 16, 3–17. https://doi.org/
+10.1037/a0021617
+Wang, M., Zhan, Y., Liu, S., & Shultz, K. S. (2008). Antecedents of bridge
+employment: A longitudinal investigation. Journal of Applied Psychology, 93, 818 – 830. https://doi.org/10.1037/0021-9010.93.4.818
+Ye, X., Ren, S., Li, X., & Wang, Z. (2020). The mediating role of
+psychological capital between perceived management commitment and
+safety behavior. Journal of Safety Research, 72, 29 – 40. https://doi.org/
+10.1016/j.jsr.2019.12.004
+Yuan, Z., Li, Y., & Tetrick, L. E. (2015). Job hindrances, job resources,
+and safety performance: The mediating role of job engagement. Applied
+Ergonomics, 51, 163–171. https://doi.org/10.1016/j.apergo.2015.04.021
+Zohar, D. (1980). Safety climate in industrial organizations: Theoretical
+and applied implications. Journal of Applied Psychology, 65, 96 –102.
+https://doi.org/10.1037/0021-9010.65.1.96
+Zohar, D. (2002). Modifying supervisory practices to improve subunit
+safety: A leadership-based intervention model. Journal of Applied Psychology, 87, 156 –163. https://doi.org/10.1037/0021-9010.87.1.156
+Zohar, D. (2014). Safety climate: Conceptualization, measurement, and
+improvement. In B. Schneider & K. M. Barbera (Eds.), The Oxford
+handbook of organizational climate and culture (pp. 317–334). Oxford
+University Press.
+
+Received July 8, 2020
+Revision received October 7, 2020
+Accepted October 13, 2020 䡲
+
+
